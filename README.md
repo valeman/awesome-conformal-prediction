@@ -68,7 +68,7 @@ A curated list of Awesome Conformal Prediction tutorials, videos, books, papers 
 30. [Conformal Inference of Counterfactuals and Individual Treatment effects(Stanford)](https://www.youtube.com/watch?v=8tM4BhONHms) by Lihua Lei (2021)
 31. [Approximation to object conditional validity with inductive conformal predictors](https://www.youtube.com/watch?v=pUf7z2vxdi8) by Anthony Bellotti (2021)
 32. [Ulf Johansson: Venn Predictors](https://www.youtube.com/watch?v=xxZOLo8wxe0&t=40s) by Ulf Johansson (2021)
-33. [Transformer-based conformal predictors for paraphrase detection](https://www.youtube.com/watch?v=HYP1ypxywWo) by Patricio Giavannotti and Prof. Alexander Gammerman (2021)
+33. [Transformer-based conformal predictors for paraphrase detection](https://www.youtube.com/watch?v=HYP1ypxywWo) by Patrizio Giavannotti and Prof. Alexander Gammerman (2021)
 34. [Conformal Inference of Counterfactuals and Individual Treatment Effects](https://www.youtube.com/watch?v=jkFs6pLZXBQ) by Lihua Lei (2020)
 35. [Model-Free Predictive Inference](https://www.youtube.com/watch?v=8GkhRuWcd0w) by Larry Wasserman (2020)
 36. [Shapley-value based inductive conformal prediction](https://www.youtube.com/watch?v=6XUc3HFa_5Q&t=1094s) by William Lopez Jaramillo (2021)
@@ -83,7 +83,9 @@ A curated list of Awesome Conformal Prediction tutorials, videos, books, papers 
 45. [Evaluation of updating strategies for conformal predictive systems in the presence of extreme events](https://www.youtube.com/watch?v=Xgs0JqDw8lA) by Hugo Werner, Lars Carlsson, Ernst Ahlberg and and Henrik Boström (2021)
 46. [Exact and Robust Conformal Inference Methods for Predictive Machine Learning With Dependent Data](https://www.youtube.com/watch?v=Wcm9Uw0YL8A) by Victor Chernozhukov (2019)
 47. [Ulf Johansson: Venn Predictors](https://www.youtube.com/watch?v=xxZOLo8wxe0&t=98s) by Ulf Johansson (2020)
-48. 
+48. [Class-wise confidence for debt prediction in real estate management](https://www.youtube.com/watch?v=ZVhA8LGXWpc) by Soundouss Messoudi (2021)
+49. [How Nonconformity Functions and Difficulty of Datasets Impact the Efficiency of Conformal Classifiers](https://www.youtube.com/watch?v=lLtZkVwxMNw) by Marharyta Aleksandrova (2021)
+50. Class-wise confidence for debt prediction in real estate management
 
 
 
@@ -110,6 +112,11 @@ A curated list of Awesome Conformal Prediction tutorials, videos, books, papers 
 
 [5] Anastasios Nikolas Angelopoulos, Stephen Bates, Michael Jordan and Jitendra Malik. "Uncertainty Sets for Image Classifiers using Conformal Prediction." International Conference on Learning Representations 2021.
 
+[4]  Conformal prediction with neural networks
+Harris Papadopoulos, Volodya Vovk, Alex Gammerman
+Paper 19th IEEE International Conference on Tools with Artificial Intelligence. Vol. 2. IEEE, 2007.
+[5]  Criteria of efficiency for conformal prediction
+
 
 
 
@@ -130,6 +137,7 @@ Conformal Prediction Under Covariate Shift
 7. [Predicting with Confidence - Henrik Boström](https://www.youtube.com/watch?v=eXU-64dwHmA) by Henrik Boström (2016)
 5. [Venn Predictors Tutorial](https://www.youtube.com/watch?v=KsQpkjl7u1w) by Ulf Johansson, Cecilia Sönströd, Tuve Löfström, and Henrik Boström (2021)
 6. [Ulf Johansson: Venn Predictors](https://www.youtube.com/watch?v=xxZOLo8wxe0&t=98s) by Ulf Johansson (2020)
+7. [A Tutorial on Conformal Prediction](https://jmlr.org/papers/v9/shafer08a.html) by Glenn Shafer and Vladimir Vovk (2008)
 
 
 ### Websites
@@ -156,7 +164,7 @@ Conformal Prediction Under Covariate Shift
 
 1. [RandomForest](https://github.com/henrikbostrom/RandomForest) by Henrik Boström (2017)
 
-## Software Scala and Spark
+### Software Scala and Spark
 [Scala-CP](https://github.com/mcapuccini/scala-cp) by Marco Capuccini (2020)
 
 
