@@ -49,4 +49,14 @@ A curated list of Awesome Conformal Prediction tutorials, videos, books, papers 
 11. [Calibrating Multi-Class Models](https://www.youtube.com/watch?v=uCnFgTjUYto) by Ulf Johansson, Tuve Löfström, and Henrik Boström (2021)
 12. [Conformal testing in a binary model situation](https://www.youtube.com/watch?v=RTcT4YXRdMg) by Founding Father of Conformal Prediction Prof. Vladimir (Volodya) Vovk (2021)
 
+### Papers
+
+### Tutorials
+1. [A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification](https://people.eecs.berkeley.edu/~angelopoulos/publications/downloads/gentle_intro_conformal_dfuq.pdf) by Anastasios N. Angelopoulos and Stephen Bates (2021)
+
+
+### Websites
+1. [Main website with research from Founding Father of Conformal Prediction Prof. Vladimir (Volodya) Vovk](http://alrw.net)
+2. [A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification](https://people.eecs.berkeley.edu/~angelopoulos/blog/posts/gentle-intro/) by Anastasios N. Angelopoulos
+
 
