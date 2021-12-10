@@ -37,11 +37,15 @@ A curated list of Awesome Conformal Prediction tutorials, videos, books, papers 
 ### Video Tutorials, Videos and Lectures  
 
 1. [A Tutorial on Conformal Prediction](https://www.youtube.com/watch?v=nql000Lu_iE&t=1786s) by Anastasios Nikolas Angelopoulos and Stephen Bates (2021)
-2. [Henrik Linusson: Conformal Prediction](https://www.youtube.com/watch?v=lQxH-zXrOwI&t=1522s) by Henrik Linusson (2020)
-3. [Predicting with Confidence - Henrik Boström](https://www.youtube.com/watch?v=eXU-64dwHmA) by Henrik Boström (2016)
-4. [Conformal Prediciton in 2020](https://www.youtube.com/watch?v=61tpigfLHso&t=1507s)  by Emmanuel Candes (2020)
-5. [Assumption-free prediction intervals for black-box regression algorithms](https://www.youtube.com/watch?v=GMnCO7_HIOY&t=3943s) by Aaditya Ramdas (2020)
-6. [Maria Navarro: Quantifying uncertainty in Machine Learning predictions | PyData London 2019](https://www.youtube.com/watch?v=r6bhm_A-YcQ&t=12s) by Maria Navarro (2019)
-7. [Conformal Prediction: Enhanced Method for Understanding the Prediction Quality](https://www.youtube.com/watch?v=_ZVuEWEfwuw&t=948s) by Artem Ryasik and Greg Landrum 
+2. [Conformal Prediciton Tutorial](https://www.youtube.com/watch?v=0MsGri8nmJQ) by Henrik Linusson (2021)
+3. [Henrik Linusson: Conformal Prediction](https://www.youtube.com/watch?v=lQxH-zXrOwI&t=1522s) by Henrik Linusson (2020)
+4. [Predicting with Confidence - Henrik Boström](https://www.youtube.com/watch?v=eXU-64dwHmA) by Henrik Boström (2016)
+5. [Conformal Prediciton in 2020](https://www.youtube.com/watch?v=61tpigfLHso&t=1507s)  by Emmanuel Candes (2020)
+6. [Assumption-free prediction intervals for black-box regression algorithms](https://www.youtube.com/watch?v=GMnCO7_HIOY&t=3943s) by Aaditya Ramdas (2020)
+7. [Maria Navarro: Quantifying uncertainty in Machine Learning predictions | PyData London 2019](https://www.youtube.com/watch?v=r6bhm_A-YcQ&t=12s) by Maria Navarro (2019)
+8. [Conformal Prediction: Enhanced Method for Understanding the Prediction Quality](https://www.youtube.com/watch?v=_ZVuEWEfwuw&t=948s) by Artem Ryasik and Greg Landrum
+9. [Venn Predictors Tutorial](https://www.youtube.com/watch?v=KsQpkjl7u1w) by Ulf Johansson, Cecilia Sönströd, Tuve Löfström, and Henrik Boström (2021)
+10. [Mondrian conformal predictive distributions](https://www.youtube.com/watch?v=dHNZxw8WQrs) by Henrik Boström, Ulf Johansson, and Tuve Löfström (2021)
+11. [Calibrating Multi-Class Models](https://www.youtube.com/watch?v=uCnFgTjUYto) by Ulf Johansson, Tuve Löfström, and Henrik Boström (2021)
 
 
