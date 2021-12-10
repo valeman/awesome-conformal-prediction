@@ -1,5 +1,5 @@
 # awesome-conformal-prediction
-A curated list of awesome Conformal Prediction tutorials, books, papers and open-source libraries.
+A curated list of Awesome Conformal Prediction tutorials, videos, books, papers and open-source libraries.
 
 # Awesome Conformal Prediction 
 
@@ -37,8 +37,10 @@ A curated list of awesome Conformal Prediction tutorials, books, papers and open
 ### Video Tutorials, Videos and Lectures  
 
 1.[A Tutorial on Conformal Prediction](https://www.youtube.com/watch?v=nql000Lu_iE&t=1786s) by Anastasios Nikolas Angelopoulos and Stephen Bates (2021)
-2.[Henrik Linusson: Conformal Prediction](https://www.youtube.com/watch?v=lQxH-zXrOwI&t=1522s) by Henrik Linusson (2022)
-
-
+2.[Henrik Linusson: Conformal Prediction](https://www.youtube.com/watch?v=lQxH-zXrOwI&t=1522s) by Henrik Linusson (2020)
+3.[Predicting with Confidence - Henrik Boström](https://www.youtube.com/watch?v=eXU-64dwHmA) by Henrik Boström (2016)
+4.[Conformal Prediciton in 2020](https://www.youtube.com/watch?v=61tpigfLHso&t=1507s)  by Emmanuel Candes (2020)
+5.[Assumption-free prediction intervals for black-box regression algorithms](https://www.youtube.com/watch?v=GMnCO7_HIOY&t=3943s) by Aaditya Ramdas (2020)
+6.[Conformal Prediction: Enhanced Method for Understanding the Prediction Quality](https://www.youtube.com/watch?v=_ZVuEWEfwuw&t=948s) by Artem Ryasik and Greg Landrum 
 
 
