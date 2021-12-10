@@ -100,7 +100,15 @@ A curated list of Awesome Conformal Prediction tutorials, videos, books, papers 
 9. 
 
 
+[1] Rina Foygel Barber, Emmanuel J. Candès, Aaditya Ramdas, and Ryan J. Tibshirani. "Predictive inference with the jackknife+." Ann. Statist., 49(1):486–507, February 2021.
 
+[2] Byol Kim, Chen Xu, and Rina Foygel Barber. "Predictive Inference Is Free with the Jackknife+-after-Bootstrap." 34th Conference on Neural Information Processing Systems (NeurIPS 2020).
+
+[3] Mauricio Sadinle, Jing Lei, and Larry Wasserman. "Least Ambiguous Set-Valued Classifiers With Bounded Error Levels." Journal of the American Statistical Association, 114:525, 223-234, 2019.
+
+[4] Yaniv Romano, Matteo Sesia and Emmanuel J. Candès. "Classification with Valid and Adaptive Coverage." NeurIPS 202 (spotlight).
+
+[5] Anastasios Nikolas Angelopoulos, Stephen Bates, Michael Jordan and Jitendra Malik. "Uncertainty Sets for Image Classifiers using Conformal Prediction." International Conference on Learning Representations 2021.
 
 
 
@@ -131,14 +139,22 @@ Conformal Prediction Under Covariate Shift
 ### Software Python
 
 1. [Nonconformist](https://github.com/donlnz/nonconformist) by Henrik Linusson (2015)
-2. [Conformal Classification](https://github.com/aangelopoulos/conformal_classification) by Anastasios N. Angelopoulos (2021)
-3. [Orange3 Conformal Prediction](https://github.com/biolab/orange3-conformal) by 
+2. [MAPIE - Model Agnostic Prediction Interval Estimator](https://github.com/scikit-learn-contrib/MAPIE) (2021)
+3. ['Crêpes' - Conformal regressors and predictive systems](https://github.com/henrikbostrom/crepes) by Henrik Boström (2021)
+4. [Conformalized Quantile Regression](https://github.com/yromano/cqr) by Yaniv Romano (2019)
+5. [Conformal Classification](https://github.com/aangelopoulos/conformal_classification) by Anastasios N. Angelopoulos (2021)
+7. [Orange3 Conformal Prediction](https://github.com/biolab/orange3-conformal)
+8. [EnbPI](https://github.com/hamrel-cxu/EnbPI) by Chen Xu (2021)
+9. [Copula Conformal Multi Target Regression](https://github.com/M-Soundouss/CopulaConformalMTR) by Soundouss Messoudi (2021)
 
 ### Software R
-1. 
-2. [Conformal Inference R Project](https://github.com/ryantibs/conformal) maintained by Ryan Tibshirani (based on work by Rina Barber, Emmanuel Candes, Max G'Sell, Jing Lei, Aaditya Ramdas, Alessandro Rinaldo, Ryan Tibshirani, Larry Wasserman) (2016)
-3. [Prediction Bands](https://github.com/rizbicki/predictionBands) by Rafael Izbicki and Benjamin LeRoy (2019)
-4. [Conformal Classification(https://github.com/aangelopoulos/conformal_classification) by Anastasios N. Angelopoulos (2021)
+1. [Conformal Inference R Project](https://github.com/ryantibs/conformal) maintained by Ryan Tibshirani (2016)
+2. [Prediction Bands](https://github.com/rizbicki/predictionBands) by Rafael Izbicki and Benjamin LeRoy (2019)
+3. [Conformal Classification(https://github.com/aangelopoulos/conformal_classification) by Anastasios N. Angelopoulos (2021)
+
+### Software Julia
+
+1. [RandomForest](https://github.com/henrikbostrom/RandomForest) by Henrik Boström (2017)
 
 ## Software Scala and Spark
 [Scala-CP](https://github.com/mcapuccini/scala-cp) by Marco Capuccini (2020)
