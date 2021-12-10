@@ -130,8 +130,9 @@ Conformal Prediction Under Covariate Shift
 
 ### Software Python
 
-https://github.com/donlnz/nonconformist
+1. [Nonconformist](https://github.com/donlnz/nonconformist) by Henrik Linusson (2015)
 2. [Conformal Classification](https://github.com/aangelopoulos/conformal_classification) by Anastasios N. Angelopoulos (2021)
+3. [Orange3 Conformal Prediction](https://github.com/biolab/orange3-conformal) by 
 
 ### Software R
 1. 
