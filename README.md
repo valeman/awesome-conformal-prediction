@@ -47,5 +47,6 @@ A curated list of Awesome Conformal Prediction tutorials, videos, books, papers 
 9. [Venn Predictors Tutorial](https://www.youtube.com/watch?v=KsQpkjl7u1w) by Ulf Johansson, Cecilia Sönströd, Tuve Löfström, and Henrik Boström (2021)
 10. [Mondrian conformal predictive distributions](https://www.youtube.com/watch?v=dHNZxw8WQrs) by Henrik Boström, Ulf Johansson, and Tuve Löfström (2021)
 11. [Calibrating Multi-Class Models](https://www.youtube.com/watch?v=uCnFgTjUYto) by Ulf Johansson, Tuve Löfström, and Henrik Boström (2021)
+12. [Conformal testing in a binary model situation](https://www.youtube.com/watch?v=RTcT4YXRdMg) by Founding Father of Conformal Prediction Prof. Vladimir (Volodya) Vovk (2021)
 
 
