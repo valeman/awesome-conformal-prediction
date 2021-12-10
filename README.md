@@ -19,7 +19,9 @@ A curated list of Awesome Conformal Prediction tutorials, videos, books, papers 
 
 * **[Conferences](#Conferences)**
 
-* **[Software](#software)**  
+* **[Software in Python](#software_R)**  
+
+* **[Software in R](#software_R)**  
 
 * **[Miscellaneous](#miscellaneous)**  
 
@@ -52,6 +54,8 @@ A curated list of Awesome Conformal Prediction tutorials, videos, books, papers 
 
 ### Papers
 
+
+
 ### Tutorials
 1. [A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification](https://people.eecs.berkeley.edu/~angelopoulos/publications/downloads/gentle_intro_conformal_dfuq.pdf) by Anastasios N. Angelopoulos and Stephen Bates (2021)
 2. [A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification](https://arxiv.org/abs/2107.07511) by Anastasios N. Angelopoulos and Stephen Bates (2021)
@@ -61,7 +65,9 @@ A curated list of Awesome Conformal Prediction tutorials, videos, books, papers 
 1. [Main website with research from Founding Father of Conformal Prediction Prof. Vladimir (Volodya) Vovk](http://alrw.net)
 2. [A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification](https://people.eecs.berkeley.edu/~angelopoulos/blog/posts/gentle-intro/) by Anastasios N. Angelopoulos
 
-### Software
+### Software R
 1. 
+2. [Conformal Inference R Project](https://github.com/ryantibs/conformal) maintained by Ryan Tibshirani (based on work by Rina Barber, Emmanuel Candes, Max G'Sell, Jing Lei, Aaditya Ramdas, Alessandro Rinaldo, Ryan Tibshirani, Larry Wasserman) (2016)
+3. 
 
 
