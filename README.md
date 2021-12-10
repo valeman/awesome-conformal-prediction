@@ -21,7 +21,9 @@ A curated list of Awesome Conformal Prediction tutorials, videos, books, papers 
 
 * **[Software in Python](#software_Python)**  
 
-* **[Software in R](#software_R)**  
+* **[Software in R](#software_R)**
+
+* **[Software in Scala and Spark](#software_R)**
 
 * **[Miscellaneous](#miscellaneous)**  
 
@@ -129,11 +131,15 @@ Conformal Prediction Under Covariate Shift
 ### Software Python
 
 https://github.com/donlnz/nonconformist
+2. [Conformal Classification](https://github.com/aangelopoulos/conformal_classification) by Anastasios N. Angelopoulos (2021)
 
 ### Software R
 1. 
 2. [Conformal Inference R Project](https://github.com/ryantibs/conformal) maintained by Ryan Tibshirani (based on work by Rina Barber, Emmanuel Candes, Max G'Sell, Jing Lei, Aaditya Ramdas, Alessandro Rinaldo, Ryan Tibshirani, Larry Wasserman) (2016)
 3. [Prediction Bands](https://github.com/rizbicki/predictionBands) by Rafael Izbicki and Benjamin LeRoy (2019)
-4. 
+4. [Conformal Classification(https://github.com/aangelopoulos/conformal_classification) by Anastasios N. Angelopoulos (2021)
+
+## Software Scala and Spark
+[Scala-CP](https://github.com/mcapuccini/scala-cp) by Marco Capuccini (2020)
 
 
