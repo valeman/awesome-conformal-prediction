@@ -30,3 +30,8 @@ A curated list of awesome Conformal Prediction tutorials, books, papers and open
 * **[Miscellaneous](#miscellaneous)**  
 
 * **[Contributing](#contributing)** 
+
+### Books
+
+1. [Algorithmic Learning in a Random World] (https://link.springer.com/book/10.1007/b106715) by Vladimir Vovk, Alex Gammerman, and Glenn Shafer
+
