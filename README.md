@@ -33,5 +33,7 @@ A curated list of awesome Conformal Prediction tutorials, books, papers and open
 
 ### Books
 
-1. [Algorithmic Learning in a Random World](https://link.springer.com/book/10.1007/b106715) by Vladimir Vovk, Alex Gammerman, and Glenn Shafer
+1. [Algorithmic Learning in a Random World](https://link.springer.com/book/10.1007/b106715) by Vladimir Vovk, Alex Gammerman, and Glenn Shafer (2005)
+2. [Conformal Prediciton for Reliable Machine Learning](https://www.elsevier.com/books/conformal-prediction-for-reliable-machine-learning/balasubramanian/978-0-12-398537-8) by Vineeth Balasubramanian, Shen-Shyang Ho, Vladimir Vovk (2014)
+3. 
 
