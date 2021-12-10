@@ -54,11 +54,27 @@ A curated list of Awesome Conformal Prediction tutorials, videos, books, papers 
 
 ### Papers
 
+1. [Introducing Conformal Prediction in Predictive Modeling. A Transparent and Flexible Alternative to Applicability Domain Determination](https://pubs.acs.org/doi/10.1021/ci5001168) by Ulf Norinder, Lars Carlsson, Scott Boyer, and Martin Eklund (2014)
+2. [Regression Conformal Prediction with Nearest Neighbours](https://arxiv.org/pdf/1401.3880.pdf) by Harris Papadopoulos, Vladimir Vovk and Alex Gammerman
+3. [Conformal Prediction Under Covariate Shift](https://arxiv.org/abs/1904.06019) by Ryan Tibshirani, Rina Foygel Barber, Emmanuel Candes, Aaditya Ramdas
+
+
+
+
+
+
+
+Conformal Prediction Under Covariate Shift
+
+[Conformalized Survival Analysis](https://arxiv.org/pdf/2103.09763.pdf) by Emmanuel Candès, Lihua Lei and Zhimei Ren (2021)
+[Testing for Outliers with Conformal p-values](https://arxiv.org/abs/2104.08279) by Testing for Outliers with Conformal p-values (2021)
+
 
 
 ### Tutorials
 1. [A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification](https://people.eecs.berkeley.edu/~angelopoulos/publications/downloads/gentle_intro_conformal_dfuq.pdf) by Anastasios N. Angelopoulos and Stephen Bates (2021)
 2. [A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification](https://arxiv.org/abs/2107.07511) by Anastasios N. Angelopoulos and Stephen Bates (2021)
+3. [A Tutorial on Conformal Prediction](https://www.youtube.com/watch?v=nql000Lu_iE&t=1786s) by Anastasios Angelopoulos and Stephen Bates (2021)
 
 
 ### Websites
