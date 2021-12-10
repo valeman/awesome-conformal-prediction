@@ -17,13 +17,9 @@ A curated list of Awesome Conformal Prediction tutorials, videos, books, papers 
 
 * **[Websites](#websites)**  
 
-* **[Datasets](#datasets)**
-
 * **[Conferences](#Conferences)**
 
-* **[Frameworks](#frameworks)**  
-
-* **[Tools](#tools)**  
+* **[Software](#software)**  
 
 * **[Miscellaneous](#miscellaneous)**  
 
@@ -36,7 +32,7 @@ A curated list of Awesome Conformal Prediction tutorials, videos, books, papers 
 
 ### Video Tutorials, Videos and Lectures  
 
-1. [A Tutorial on Conformal Prediction](https://www.youtube.com/watch?v=nql000Lu_iE&t=1786s) by Anastasios Nikolas Angelopoulos and Stephen Bates (2021)
+1. [A Tutorial on Conformal Prediction](https://www.youtube.com/watch?v=nql000Lu_iE&t=1786s) by Anastasios Angelopoulos and Stephen Bates (2021)
 2. [Conformal Prediciton Tutorial](https://www.youtube.com/watch?v=0MsGri8nmJQ) by Henrik Linusson (2021)
 3. [Henrik Linusson: Conformal Prediction](https://www.youtube.com/watch?v=lQxH-zXrOwI&t=1522s) by Henrik Linusson (2020)
 4. [Predicting with Confidence - Henrik Boström](https://www.youtube.com/watch?v=eXU-64dwHmA) by Henrik Boström (2016)
@@ -48,15 +44,24 @@ A curated list of Awesome Conformal Prediction tutorials, videos, books, papers 
 10. [Mondrian conformal predictive distributions](https://www.youtube.com/watch?v=dHNZxw8WQrs) by Henrik Boström, Ulf Johansson, and Tuve Löfström (2021)
 11. [Calibrating Multi-Class Models](https://www.youtube.com/watch?v=uCnFgTjUYto) by Ulf Johansson, Tuve Löfström, and Henrik Boström (2021)
 12. [Conformal testing in a binary model situation](https://www.youtube.com/watch?v=RTcT4YXRdMg) by Founding Father of Conformal Prediction Prof. Vladimir (Volodya) Vovk (2021)
+13. [Conformal prediction in Orange](https://www.youtube.com/watch?v=qI1jOEour1g&t=14s) by Tomaž Hočevar and Blaž Zupan (2021)
+14. [Distribution-Free, Risk-Controlling Prediction Sets](https://www.youtube.com/watch?v=ITJAR3fcNuI) by Anastasios Angelopoulos (2021)
+15. [Conformal Prediction and Distribution-Free Calibration](https://synapse.math.univ-toulouse.fr/s/KDcWmmU9j9zk0rm) by Aaditya Ramdas (2021)
+
+
 
 ### Papers
 
 ### Tutorials
 1. [A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification](https://people.eecs.berkeley.edu/~angelopoulos/publications/downloads/gentle_intro_conformal_dfuq.pdf) by Anastasios N. Angelopoulos and Stephen Bates (2021)
+2. [A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification](https://arxiv.org/abs/2107.07511) by Anastasios N. Angelopoulos and Stephen Bates (2021)
 
 
 ### Websites
 1. [Main website with research from Founding Father of Conformal Prediction Prof. Vladimir (Volodya) Vovk](http://alrw.net)
 2. [A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification](https://people.eecs.berkeley.edu/~angelopoulos/blog/posts/gentle-intro/) by Anastasios N. Angelopoulos
+
+### Software
+1. 
 
 
