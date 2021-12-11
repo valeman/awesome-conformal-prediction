@@ -40,7 +40,7 @@ A curated list of Awesome Conformal Prediction tutorials, videos, books, papers 
 2. [Large-Scale Probabilistic Prediction With and Without Validity Guarantees](https://www.youtube.com/watch?v=ksrUJdb2tA8) by Founding Father of Conformal Prediction Prof. Vladimir (Volodya) Vovk (2015)
 3. [Conformal testing in a binary model situation](https://www.youtube.com/watch?v=RTcT4YXRdMg) by Founding Father of Conformal Prediction Prof. Vladimir (Volodya) Vovk (2021)
 4. [Protected probabilistic classification](https://www.youtube.com/watch?v=MpP-3suUoLY) by Founding Father of Conformal Prediction Prof. Vladimir (Volodya) Vovk (2021)
-5. [Retrain or not retrain: conformal test martingales for change-point detection](https://www.youtube.com/watch?v=4Ra5KnDEfkw&t=1s) by by Founding Father Prof. Vladimir (Volodya) Vovk (2021)
+5. [Retrain or not retrain: conformal test martingales for change-point detection](https://www.youtube.com/watch?v=4Ra5KnDEfkw&t=1s) by Founding Father Prof. Vladimir (Volodya) Vovk (2021)
 6. [A Tutorial on Conformal Prediction](https://www.youtube.com/watch?v=nql000Lu_iE&t=1786s) by Anastasios Angelopoulos and Stephen Bates (2021)
 7. [Steps Toward Trustworthy Machine Learning](https://www.youtube.com/watch?v=2iNRSgS7-L4) by Tom Dietterich (2021)
 8. [A Tutorial on Conformal Predictive Distributions](https://www.youtube.com/watch?v=FUi5jklGvvo&t=3s) by Paolo Toccaceli (2020)
