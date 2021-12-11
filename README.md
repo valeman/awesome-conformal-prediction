@@ -29,6 +29,8 @@ A curated list of Awesome Conformal Prediction tutorials, videos, books, papers 
 
 * **[Contributing](#contributing)** 
 
+<a href="https://www.buymeacoffee.com/valeman" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 ### Books
 
 1. [Algorithmic Learning in a Random World](https://link.springer.com/book/10.1007/b106715) by Founding Fathers of Conformal Prediction Vladimir Vovk and Alex Gammerman, also Glenn Shafer (2005)
