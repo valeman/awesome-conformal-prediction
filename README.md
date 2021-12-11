@@ -1,10 +1,7 @@
-# awesome-conformal-prediction
+# Awesome Conformal Prediction
 A curated list of Awesome Conformal Prediction tutorials, videos, books, papers and open-source libraries in Python and R.
 
-![modrian](mondrian.jpg)
-
-
-# Awesome Conformal Prediction 
+![modrian](mondrian.jpg) 
 
 ## Table of Contents
 
