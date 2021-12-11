@@ -31,15 +31,15 @@ A curated list of Awesome Conformal Prediction tutorials, videos, books, papers 
 
 ### Books
 
-1. [Algorithmic Learning in a Random World](https://link.springer.com/book/10.1007/b106715) by Vladimir Vovk, Alex Gammerman, and Glenn Shafer (2005)
+1. [Algorithmic Learning in a Random World](https://link.springer.com/book/10.1007/b106715) by Founding Fathers of Conformal Prediction Vladimir Vovk and Alex Gammerman, also Glenn Shafer (2005)
 2. [Conformal Prediciton for Reliable Machine Learning](https://www.elsevier.com/books/conformal-prediction-for-reliable-machine-learning/balasubramanian/978-0-12-398537-8) by Vineeth Balasubramanian, Shen-Shyang Ho, Vladimir Vovk (2014)
 
 ### Video Tutorials, Videos and Lectures  
 
-1. [Treatment of Uncertainty in the Foundations of Probability](https://www.youtube.com/watch?v=B7E-QJ9fm4w&t=2297s) by Prof. Vladimir (Volodya) Vovk (2017)
-2. [Large-Scale Probabilistic Prediction With and Without Validity Guarantees](https://www.youtube.com/watch?v=ksrUJdb2tA8) by Prof. Vladimir (Volodya) Vovk (2015)
-3. [Conformal testing in a binary model situation](https://www.youtube.com/watch?v=RTcT4YXRdMg) by Prof. Vladimir (Volodya) Vovk (2021)
-4. [Protected probabilistic classification](https://www.youtube.com/watch?v=MpP-3suUoLY) by Prof. Vladimir (Volodya) Vovk (2021)
+1. [Treatment of Uncertainty in the Foundations of Probability](https://www.youtube.com/watch?v=B7E-QJ9fm4w&t=2297s) by Founding Father of Conformal Prediction Prof. Vladimir (Volodya) Vovk (2017)
+2. [Large-Scale Probabilistic Prediction With and Without Validity Guarantees](https://www.youtube.com/watch?v=ksrUJdb2tA8) by Founding Father of Conformal Prediction Prof. Vladimir (Volodya) Vovk (2015)
+3. [Conformal testing in a binary model situation](https://www.youtube.com/watch?v=RTcT4YXRdMg) by Founding Father of Conformal Prediction Prof. Vladimir (Volodya) Vovk (2021)
+4. [Protected probabilistic classification](https://www.youtube.com/watch?v=MpP-3suUoLY) by Founding Father of Conformal Prediction Prof. Vladimir (Volodya) Vovk (2021)
 5. [Retrain or not retrain: conformal test martingales for change-point detection](https://www.youtube.com/watch?v=4Ra5KnDEfkw&t=1s) by Prof. Vladimir (Volodya) Vovk (2021)
 6. [A Tutorial on Conformal Prediction](https://www.youtube.com/watch?v=nql000Lu_iE&t=1786s) by Anastasios Angelopoulos and Stephen Bates (2021)
 7. [Steps Toward Trustworthy Machine Learning](https://www.youtube.com/watch?v=2iNRSgS7-L4) by Tom Dietterich (2021)
