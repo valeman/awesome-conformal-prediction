@@ -119,6 +119,10 @@ Ivan Petej, and Alex Gammerman (2016)
 13. [An electronic nose-based assistive diagnostic prototype for lung cancer detection with conformal prediction](https://pure.royalholloway.ac.uk/portal/files/37171406/Measurement_Manuscript_unmarked_R4.pdf) by Xianghao Zhana,c, Zhan Wanga, Meng Yangb, Zhiyuan Luod, You Wanga, Guang Li (2020)
 14. [Predicting the Rate of Skin Penetration Using an Aggregated Conformal Prediction Framework](https://pubmed.ncbi.nlm.nih.gov/28335598/) by Martin Lindh, A. Karlén, Ulf Norinder (2021)
 15. [Uncertainty Sets for Image Classifiers using Conformal Prediction](https://arxiv.org/pdf/2009.14193.pdf) by Anastasios N. Angelopoulos , Stephen Bates, Jitendra Malik, & Michael I. Jordan (2021)
+16. [The application of conformal prediction to the drug discovery process](https://link.springer.com/article/10.1007%2Fs10472-013-9378-2) by Martin Eklund, Ulf Norinder, Scott Boyer & Lars Carlsson (2014)
+17. [Distributional conformal prediction](https://arxiv.org/pdf/1909.07889.pdf) by Victor Chernozhukov, Kaspar Wüthrich, Yinchu Zhu (2021)
+18. [Anomaly Detection of Trajectories with Kernel Density Estimation by Conformal Prediction](https://link.springer.com/content/pdf/10.1007%2F978-3-662-44722-2_29.pdf) by James Smith, Ilia Nouretdinov, Rachel Craddock, Charles Offer, and Alexander Gammerman (2009)
+19. [Conformal prediction interval estimation and applications to day-ahead and intraday power markets](https://arxiv.org/pdf/1905.07886.pdf) by Christopher Katha, Florian Ziel (2020)
 
 
 
