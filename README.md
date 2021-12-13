@@ -33,7 +33,7 @@ A curated list of Awesome Conformal Prediction tutorials, videos, books, papers 
 
 ### Books
 
-1. [Algorithmic Learning in a Random World](https://link.springer.com/book/10.1007/b106715) by Founding Fathers of Conformal Prediction Vladimir Vovk and Alex Gammerman, also Glenn Shafer (2005)
+1. [Algorithmic Learning in a Random World](https://link.springer.com/book/10.1007/b106715) by Founding Fathers of Conformal Prediction Vladimir Vovk and Alex Gammerman, also Glenn Shafer (2005). Second edition in progress. 
 2. [Conformal Prediciton for Reliable Machine Learning](https://www.elsevier.com/books/conformal-prediction-for-reliable-machine-learning/balasubramanian/978-0-12-398537-8) by Vineeth Balasubramanian, Shen-Shyang Ho, Vladimir Vovk (2014)
 
 ### Tutorials
@@ -104,25 +104,30 @@ A curated list of Awesome Conformal Prediction tutorials, videos, books, papers 
 ### Papers
 
 1. [Introducing Conformal Prediction in Predictive Modeling. A Transparent and Flexible Alternative to Applicability Domain Determination](https://pubs.acs.org/doi/10.1021/ci5001168) by Ulf Norinder, Lars Carlsson, Scott Boyer, and Martin Eklund (2014)
-2. [Regression Conformal Prediction with Nearest Neighbours](https://arxiv.org/pdf/1401.3880.pdf) by Harris Papadopoulos, Vladimir Vovk and Alex Gammerman
-3. [Conformal Prediction Under Covariate Shift](https://arxiv.org/abs/1904.06019) by Ryan Tibshirani, Rina Foygel Barber, Emmanuel Candes, Aaditya Ramdas
-4. [Nested conformal prediction and quantile out-of-bag ensemble methods](https://arxiv.org/pdf/1910.10562.pdf) by Chirag Gupta, Arun Kuchibhotla and Aaditya  Ramdas (2021)
-5. [Cross-conformal predictive distributions](http://proceedings.mlr.press/v91/vovk18a.html) by Vladimir Vovk, Ilia Nouretdinov, Valery Manokhin and Alexander Gammerman (2018)
-6. [Criteria of Efficiency for Conformal Prediction](https://arxiv.org/pdf/1603.04416.pdf) by Vladimir Vovk, Ilia Nouretdinov, Valentina Fedorova,
-Ivan Petej, and Alex Gammerman (2016)
-7. [Conformal Prediction for Simulation Models](https://benjaminleroy.github.io/documents/icml2021/conformal_prediction_for_simulation_models.pdf) by Benjamin LeRoy and Chad Schafer (2021)
-8. [Distribution-free, risk-controlling prediction sets](https://arxiv.org/pdf/2101.02703) Stephen Bates, Anastasios Angelopoulos, Lihua Lei, Jitendra Malik and  Michael I Jordan (2021)
-9. [Conditional calibration for false discovery rate control under dependence](https://arxiv.org/abs/2007.10438) by William Fithian and Lihua Lei (2021)
+2. [Uncertainty Sets for Image Classifiers using Conformal Prediction](https://arxiv.org/pdf/2009.14193.pdf) by Anastasios N. Angelopoulos, Stephen Bates, Jitendra Malik, & Michael I. Jordan (Berkeley, 2021)
+3. [Conformal Prediction Under Covariate Shift](https://arxiv.org/abs/1904.06019) by Ryan Tibshirani, Rina Foygel Barber, Emmanuel Candes, Aaditya Ramdas (Carnegie Mellon, Stanford, Chicago, 2019)
+4. Regression Conformal Prediction with Nearest Neighbours](https://arxiv.org/pdf/1401.3880.pdf) by Harris Papadopoulos, Vladimir Vovk and Alex Gammerman (Royal Holloway, UK, 2014)
+5. [Nested conformal prediction and quantile out-of-bag ensemble methods](https://arxiv.org/pdf/1910.10562.pdf) by Chirag Gupta, Arun Kuchibhotla and Aaditya  Ramdas (Carnegie Mellon, 2021)
+6. [Cross-conformal predictive distributions](http://proceedings.mlr.press/v91/vovk18a.html) by Vladimir Vovk, Ilia Nouretdinov, Valery Manokhin and Alexander Gammerman (Royal Holloway, UK, 2018)
+7. [Criteria of Efficiency for Conformal Prediction](https://arxiv.org/pdf/1603.04416.pdf) by Vladimir Vovk, Ilia Nouretdinov, Valentina Fedorova,
+Ivan Petej, and Alex Gammerman ((Royal Holloway, UK, 2016)
+7. [Conformal Prediction for Simulation Models](https://benjaminleroy.github.io/documents/icml2021/conformal_prediction_for_simulation_models.pdf) by Benjamin LeRoy and Chad Schafer (Carnegie Mellon, 2021)
+8. [Distribution-free, risk-controlling prediction sets](https://arxiv.org/pdf/2101.02703) Stephen Bates, Anastasios Angelopoulos, Lihua Lei, Jitendra Malik and  Michael I Jordan (Berkeley, 2021)
+9. [Conditional calibration for false discovery rate control under dependence](https://arxiv.org/abs/2007.10438) by William Fithian and Lihua Lei (Stanford, 2021)
 10. [Conformal Prediction: a Unified Review of Theory and New Challenges](https://arxiv.org/pdf/2005.07972.pdf) by Gianluca Zeni, Matteo Fontana and S. Vantini (2020)
 11. [Regression conformal prediction with random forests](https://link.springer.com/content/pdf/10.1007%2Fs10994-014-5453-0.pdf) by Ulf Johansson, Henrik Boström,  Tuve Löfström and Henrik Linusson (2014)
-12. [A conformal prediction approach to explore functional data](https://arxiv.org/pdf/1302.6452.pdf) by Jing Lei, Alessandro Rinaldo, Larry Wasserman (2013)
+12. [A conformal prediction approach to explore functional data](https://arxiv.org/pdf/1302.6452.pdf) by Jing Lei, Alessandro Rinaldo, Larry Wasserman (Carnegie Mellon, 2013)
 13. [An electronic nose-based assistive diagnostic prototype for lung cancer detection with conformal prediction](https://pure.royalholloway.ac.uk/portal/files/37171406/Measurement_Manuscript_unmarked_R4.pdf) by Xianghao Zhana,c, Zhan Wanga, Meng Yangb, Zhiyuan Luod, You Wanga, Guang Li (2020)
-14. [Predicting the Rate of Skin Penetration Using an Aggregated Conformal Prediction Framework](https://pubmed.ncbi.nlm.nih.gov/28335598/) by Martin Lindh, A. Karlén, Ulf Norinder (2021)
-15. [Uncertainty Sets for Image Classifiers using Conformal Prediction](https://arxiv.org/pdf/2009.14193.pdf) by Anastasios N. Angelopoulos , Stephen Bates, Jitendra Malik, & Michael I. Jordan (2021)
-16. [The application of conformal prediction to the drug discovery process](https://link.springer.com/article/10.1007%2Fs10472-013-9378-2) by Martin Eklund, Ulf Norinder, Scott Boyer & Lars Carlsson (2014)
-17. [Distributional conformal prediction](https://arxiv.org/pdf/1909.07889.pdf) by Victor Chernozhukov, Kaspar Wüthrich, Yinchu Zhu (2021)
-18. [Anomaly Detection of Trajectories with Kernel Density Estimation by Conformal Prediction](https://link.springer.com/content/pdf/10.1007%2F978-3-662-44722-2_29.pdf) by James Smith, Ilia Nouretdinov, Rachel Craddock, Charles Offer, and Alexander Gammerman (2009)
-19. [Conformal prediction interval estimation and applications to day-ahead and intraday power markets](https://arxiv.org/pdf/1905.07886.pdf) by Christopher Katha, Florian Ziel (2020)
+14. [Predicting the Rate of Skin Penetration Using an Aggregated Conformal Prediction Framework](https://pubmed.ncbi.nlm.nih.gov/28335598/) by Martin Lindh, A. Karlén, Ulf Norinder (2017)
+15. [The application of conformal prediction to the drug discovery process](https://link.springer.com/article/10.1007%2Fs10472-013-9378-2) by Martin Eklund, Ulf Norinder, Scott Boyer & Lars Carlsson (2014)
+16. [Distributional conformal prediction](https://arxiv.org/pdf/1909.07889.pdf) by Victor Chernozhukov, Kaspar Wüthrich, Yinchu Zhu (2021)
+17. [Anomaly Detection of Trajectories with Kernel Density Estimation by Conformal Prediction](https://link.springer.com/content/pdf/10.1007%2F978-3-662-44722-2_29.pdf) by James Smith, Ilia Nouretdinov, Rachel Craddock, Charles Offer, and Alexander Gammerman (2009)
+18. [Conformal prediction interval estimation and applications to day-ahead and intraday power markets](https://arxiv.org/pdf/1905.07886.pdf) by Christopher Kath, Florian Ziel (2019)
+19. [The application of conformal prediction to the drug discovery process](https://link.springer.com/article/10.1007%2Fs10472-013-9378-2) by Martin Eklund, Ulf Norinder, Scott Boyer & Lars Carlsson (2013)
+20. [Anomaly Detection of Trajectories with Kernel Density Estimation by Conformal Prediction](https://link.springer.com/chapter/10.1007%2F978-3-662-44722-2_29) by James Smith, Ilia Nouretdinov, Rachel Craddock, Charles Offer, Alexander Gammerman (Royal Holloway, UK, 2014)
+21. [Conformal Prediction: a Unified Review of Theory and New Challenges](https://arxiv.org/pdf/2005.07972.pdf) by Gianluca Zeni, Matteo Fontana1 and Simone Vantini (Politecnico di Milano, Italy, 2021)
+22. [Exchangeability, Conformal Prediction, and Rank Tests](https://arxiv.org/pdf/2005.06095.pdf) by Arun Kuchibhotla (Carnegie Mellon, 2021)
+23.  
 
 
 
@@ -134,7 +139,6 @@ Ivan Petej, and Alex Gammerman (2016)
 
 [4] Yaniv Romano, Matteo Sesia and Emmanuel J. Candès. "Classification with Valid and Adaptive Coverage." NeurIPS 202 (spotlight).
 
-[5] Anastasios Nikolas Angelopoulos, Stephen Bates, Michael Jordan and Jitendra Malik. "Uncertainty Sets for Image Classifiers using Conformal Prediction." International Conference on Learning Representations 2021.
 
 [4]  Conformal prediction with neural networks
 Harris Papadopoulos, Volodya Vovk, Alex Gammerman
