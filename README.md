@@ -127,7 +127,16 @@ Ivan Petej, and Alex Gammerman ((Royal Holloway, UK, 2016)
 20. [Anomaly Detection of Trajectories with Kernel Density Estimation by Conformal Prediction](https://link.springer.com/chapter/10.1007%2F978-3-662-44722-2_29) by James Smith, Ilia Nouretdinov, Rachel Craddock, Charles Offer, Alexander Gammerman (Royal Holloway, UK, 2014)
 21. [Conformal Prediction: a Unified Review of Theory and New Challenges](https://arxiv.org/pdf/2005.07972.pdf) by Gianluca Zeni, Matteo Fontana1 and Simone Vantini (Politecnico di Milano, Italy, 2021)
 22. [Exchangeability, Conformal Prediction, and Rank Tests](https://arxiv.org/pdf/2005.06095.pdf) by Arun Kuchibhotla (Carnegie Mellon, 2021)
-23.  
+23. [Conformal prediction with localization](https://arxiv.org/pdf/1908.08558.pdf) by Leying Guan (Yale, 2020)
+24. [Predicting skin sensitizers with confidence - Using conformal prediction to determine applicability domain of GARD](https://pubmed.ncbi.nlm.nih.gov/29374571/) by Andy Forreryd, Ulf Norinder, Tim Lindberg, Malin Lindstedt (2018)
+25. [Binary classification of imbalanced datasets using conformal prediction](https://pubmed.ncbi.nlm.nih.gov/28135672/) by 
+Ulf Norinder, Scott Boyer (2017)
+26. [Discretized conformal prediction for efficient distribution-free inference](https://arxiv.org/pdf/1709.06233.pdf) by Wenyu Chen, Kelli-Jean Chun, and Rina Foygel Barber (2017)
+27. [Validity, consonant plausibility measures, and conformal prediction](https://www.sciencedirect.com/science/article/abs/pii/S0888613X21001195?via%3Dihub) by Leonardo Cella. and Ryan Martin (2021)
+28. [Conformal Prediction Classification of a Large Data Set of Environmental Chemicals from ToxCast and Tox21 Estrogen Receptor Assays](https://pubmed.ncbi.nlm.nih.gov/27152554/) by Ulf Norinder, Scott Boyer (2016)
+29. [Conformal prediction to define applicability domain – A case study on predicting ER and AR binding] (https://www.tandfonline.com/doi/full/10.1080/1062936X.2016.1172665) by U. Norinder, A. Rybacka, P.Andersson (2016)
+30. [Conformal prediction of biological activity of chemical compounds](https://link.springer.com/article/10.1007%2Fs10472-017-9556-8) by Paolo Toccaceli, Ilia Nouretdinov, Alex Gammerman (Royal Holloway, UK, 2017)
+31. [Introducing conformal prediction in predictive modeling for regulatory purposes. A transparent and flexible alternative to applicability domain determination]( 
 
 
 
