@@ -156,8 +156,16 @@ Ulf Norinder, Scott Boyer (2017)
 48. [Concepts and Applications of Conformal Prediction in Computational Drug Discovery](https://arxiv.org/pdf/1908.03569.pdf) by Isidro Cortés-Ciriano and Andreas Bender (2019)
 49. [Predicting Ames Mutagenicity Using Conformal Prediction in the Ames/QSAR International Challenge Project](Predicting Ames Mutagenicity Using Conformal Prediction in the Ames/QSAR International Challenge Project) by Ulf Norinder,  Ernst Ahlberg,  Lars Carlsson (2018)
 50. [Nested Conformal Prediction and the Generalized Jackknife](https://arxiv.org/pdf/1910.10562v1.pdf) by Arun Kuchibhotla and Aaditya Ramdas (Carnegie Mellon, 2019)
-
-
+51. [Predictive inference with the jackknife+](https://arxiv.org/abs/1905.02928) by Rina Foygel Barber, Emmanuel Candès, Aaditya Ramdas, and Ryan Tibshirani (2020)
+52. [Nonparametric predictive distributions based on conformal prediction](https://link.springer.com/article/10.1007%2Fs10994-018-5755-8) by Vladimir Vovk, Jieli Shen, Valery Manokhin and Min-ge Xie (Royal Holloway, UK, Rutgers, USA, 2018)
+53. [A Distribution-Free Test of Covariate Shift Using Conformal Prediction](https://arxiv.org/pdf/2010.07147.pdf) by Xiaoyu Hu and Jing Lei (Peking Univerity, China and Carnegie Mellon, USA, 2020)
+54. [Exchangeability, Conformal Prediction, and Rank Tests](https://arxiv.org/pdf/2005.06095.pdf) by Arun Kuchibhotla (Carnegie Mellon, 2021)
+55. [Conformal prediction with localization](https://arxiv.org/pdf/1908.08558.pdf) by Leying Guan (2020)
+56. [Multitask Modeling with Confidence Using Matrix Factorization and Conformal Prediction](https://pubmed.ncbi.nlm.nih.gov/30908915/) by Ulf Norinder, Fredrik Svensson 
+57. [Conformal prediction of HDAC inhibitors](https://www.tandfonline.com/doi/abs/10.1080/1062936X.2019.1591503?journalCode=gsar20) by U. Norinder, J.J.Navaka, E. Lopez-Lopez, D. Mucs & J.L. Medina-Franco (2019)
+58. [Computing Full Conformal Prediction Set with Approximate Homotopy](https://arxiv.org/pdf/1909.09365.pdf) by Eugene Ndiaye, Ichiro Takeuchi (2019)
+59. [Conformal Prediction Based on Raman Spectra for the Classification of Chinese Liquors](https://journals.sagepub.com/doi/10.1177/0003702819831017) by
+Jiao Gu, Huaibo Liu, Chaoqun Ma, Lei Li, Chun Zhu, Christ Glorieux, Guoqing Chen (2019)
 
 [1] Rina Foygel Barber, Emmanuel J. Candès, Aaditya Ramdas, and Ryan J. Tibshirani. "Predictive inference with the jackknife+." Ann. Statist., 49(1):486–507, February 2021.
 
