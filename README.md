@@ -1,4 +1,4 @@
-# Awesome Conformal Prediction
+# Awesome Conformal Predictionl
 A curated list of Awesome Conformal Prediction tutorials, videos, books, papers and open-source libraries in Python and R.
 
 ![modrian](mondrian.jpg) 
@@ -171,43 +171,41 @@ Jiao Gu, Huaibo Liu, Chaoqun Ma, Lei Li, Chun Zhu, Christ Glorieux, Guoqing Chen
 62. [Efficient iterative virtual screening with Apache Spark and conformal prediction](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-018-0265-z) by Laeeq Ahmed, Valentin Georgiev, Marco Capuccini, Salman Toor, Wesley Schaal, Erwin Laure and Ola Spjuth (2018)
 63. [Predicting Off-Target Binding Profiles With Confidence Using Conformal Prediction](https://pubmed.ncbi.nlm.nih.gov/30459617/) by Samuel Lampa, Jonathan Alvarsson, Staffan Arvidsson Mc Shane, Arvid Berg, Ernst Ahlberg, Ola Spjuth (2018)
 64. [Maximizing gain in high-throughput screening using conformal prediction](https://jcheminf.biomedcentral.com/track/pdf/10.1186/s13321-018-0260-4.pdf) by Fredrik Svensson, Avid M. Afzal1, Ulf Norinder and Andreas Bender (2018)
-65. 
-
-
-[1] Rina Foygel Barber, Emmanuel J. Candès, Aaditya Ramdas, and Ryan J. Tibshirani. "Predictive inference with the jackknife+." Ann. Statist., 49(1):486–507, February 2021.
-
-[2] Byol Kim, Chen Xu, and Rina Foygel Barber. "Predictive Inference Is Free with the Jackknife+-after-Bootstrap." 34th Conference on Neural Information Processing Systems (NeurIPS 2020).
-
-[3] Mauricio Sadinle, Jing Lei, and Larry Wasserman. "Least Ambiguous Set-Valued Classifiers With Bounded Error Levels." Journal of the American Statistical Association, 114:525, 223-234, 2019.
-
-[4] Yaniv Romano, Matteo Sesia and Emmanuel J. Candès. "Classification with Valid and Adaptive Coverage." NeurIPS 202 (spotlight).
-
-
-[4]  Conformal prediction with neural networks
-Harris Papadopoulos, Volodya Vovk, Alex Gammerman
-Paper 19th IEEE International Conference on Tools with Artificial Intelligence. Vol. 2. IEEE, 2007.
-[5]  Criteria of efficiency for conformal prediction
-
-
-
-
-Conformal Prediction Under Covariate Shift
-
-[Conformalized Survival Analysis](https://arxiv.org/pdf/2103.09763.pdf) by Emmanuel Candès, Lihua Lei and Zhimei Ren (2021)
-[Testing for Outliers with Conformal p-values](https://arxiv.org/abs/2104.08279) by Testing for Outliers with Conformal p-values (2021)
-
-
-
-
+65. [Conformalized Survival Analysis](https://arxiv.org/pdf/2103.09763.pdf) by Emmanuel Candès, Lihua Lei and Zhimei Ren (2021)
+66. [Random Forest Prediction Intervals](https://haozhestat.github.io/files/manuscript_RFIntervals_FinalVersion.pdf) by Haozhe Zhang†, Joshua Zimmerman†, Dan Nettleton† and Daniel J. Nordman†, Iowa State University, USA
+67. 
 
 ### Researchers
-1. [Founding Father of Conformal Prediction Prof. Vladimir (Volodya) Vovk](vovk.net)
-2. [Chirag Gupta] (https://aigen.github.io)
+1. [Founding Father of Conformal Prediction Prof. Vladimir (Volodya) Vovk](vovk.net), Royal Holloway, United Kingdom 
+2. [Founding Father of Conformal Prediction Prof. Alexander Gammerman](https://cml.rhul.ac.uk/people/alex/), Royal Holloway, United Kingdom 
+3. [Glenn Shafer] (http://www.glennshafer.com), Rutgers University, USA
+4. [Emmanuel Candès](https://candes.su.domains), Stanford, USA
+5. [Ryan Tibshiriani](https://www.stat.cmu.edu/~ryantibs/], Carnegie Mellon, USA
+6. [Yaniv Romano](https://sites.google.com/view/yaniv-romano/), Technion—Israel Institute of Technology
+7. [Michael I. Jordan](https://people.eecs.berkeley.edu/~jordan/), Berkeley, USA
+8. [Jitendra Malik](https://people.eecs.berkeley.edu/~malik/), Berkeley, USA 
+9. [Anastasios Angelopoulos](https://people.eecs.berkeley.edu/~angelopoulos/), Berkeley, USA
+10. [Lihua Lei](https://lihualei71.github.io), Stanford, USA
+11. [Henrik Boström](https://www.kth.se/profile/henbos), KTH, Sweden
+12. [Ulf Johansson](https://scholar.google.com/citations?user=OZjCgIsAAAAJ&hl=en), Jönköping University, Sweden
+13. [Henrik Linusson](https://scholar.google.se/citations?user=Xl8W39cAAAAJ&hl=en), University of Borås, Sweden
+14. [Harris Papadopoulos](http://staff.fit.ac.cy/com.ph/), Frederick University, Cyprus
+15. [Vladimir V'yugin](http://iitp.ru/ru/users/125.htm), Institute for Information Transmission Problems (IITP), Russia
+16. [Evgeny Burnaev](https://faculty.skoltech.ru/people/evgenyburnaev), Skoltech, Russia
+17. [Aaditya Ramdas](http://stat.cmu.edu/~aramdas/), Carnegie Mellon, USA
+18. [Benjamin LeRoy](https://benjaminleroy.github.io), Carnegie Mellon, USA
+19. [Victor Chernozhukov](https://www.mit.edu/~vchern/), MIT, USA
+20. [Ulf Norinder](https://scholar.google.com/citations?user=i5hUEFwAAAAJ&hl=en), Stockholm University, Sweden
+21. [Ola Spjuth](https://pharmb.io), Uppsala University, Sweden
+22. [Ilia Nouretdinov](https://cml.rhul.ac.uk/people/nouretdinov/index.htm), Royal Holloway, United Kingdom
+23. 
 
 
 ### Websites
 1. [Main website with research from Founding Father of Conformal Prediction Prof. Vladimir (Volodya) Vovk](http://alrw.net)
-2. [A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification](https://people.eecs.berkeley.edu/~angelopoulos/blog/posts/gentle-intro/) by Anastasios N. Angelopoulos
+2. [Conformal Prediction - Prediction with guaranteed performance](https://cml.rhul.ac.uk/cp.html) Royal Holloway, United Kingdom
+3. [A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification](https://people.eecs.berkeley.edu/~angelopoulos/blog/posts/gentle-intro/) by Anastasios N. Angelopoulos
+
 
 ### Software Python
 
@@ -218,12 +216,16 @@ Conformal Prediction Under Covariate Shift
 5. [Conformal Classification](https://github.com/aangelopoulos/conformal_classification) by Anastasios N. Angelopoulos (2021)
 7. [Orange3 Conformal Prediction](https://github.com/biolab/orange3-conformal)
 8. [EnbPI](https://github.com/hamrel-cxu/EnbPI) by Chen Xu (2021)
-9. [Copula Conformal Multi Target Regression](https://github.com/M-Soundouss/CopulaConformalMTR) by Soundouss Messoudi (2021)
+9. [Conformal: an R package to calculate prediction errors in the conformal prediction framework](https://github.com/isidroc/conformal/) by Isidro Cortes, 2019 
+10. [Copula Conformal Multi Target Regression](https://github.com/M-Soundouss/CopulaConformalMTR) by Soundouss Messoudi (2021)
 
 ### Software R
 1. [Conformal Inference R Project](https://github.com/ryantibs/conformal) maintained by Ryan Tibshirani (2016)
 2. [Prediction Bands](https://github.com/rizbicki/predictionBands) by Rafael Izbicki and Benjamin LeRoy (2019)
-3. [Conformal Classification(https://github.com/aangelopoulos/conformal_classification) by Anastasios N. Angelopoulos (2021)
+3. [Conformal: an R package to calculate prediction errors in the conformal prediction framework](https://github.com/isidroc/conformal/) by Isidro Cortes, 2019
+4. [Online Time Series Anomaly Detectors](https://github.com/valeman/otsad) by Alaine Iturria, 2021
+5. [piRF - Prediction Intervals for Random Forests](https://github.com/chancejohnstone/piRF) by Chancellor Johnstone and Haozhe Zhang (2019)
+6
 
 ### Software Julia
 
