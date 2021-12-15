@@ -206,6 +206,15 @@ Jiao Gu, Huaibo Liu, Chaoqun Ma, Lei Li, Chun Zhu, Christ Glorieux, Guoqing Chen
 2. [Conformal Prediction - Prediction with guaranteed performance](https://cml.rhul.ac.uk/cp.html) Royal Holloway, United Kingdom
 3. [A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification](https://people.eecs.berkeley.edu/~angelopoulos/blog/posts/gentle-intro/) by Anastasios N. Angelopoulos
 
+### Conferences
+1. https://icml.cc/Conferences/2021/ScheduleMultitrack?event=8373
+2. https://cml.rhul.ac.uk/copa2021/
+3. https://cml.rhul.ac.uk/copa2020/
+4. https://cml.rhul.ac.uk/copa2019/
+5. https://cml.rhul.ac.uk/copa2018/
+6. https://cml.rhul.ac.uk/copa2017/
+
+
 
 ### Software Python
 
