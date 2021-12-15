@@ -114,7 +114,7 @@ Ivan Petej, and Alex Gammerman ((Royal Holloway, UK, 2016)
 7. [Conformal Prediction for Simulation Models](https://benjaminleroy.github.io/documents/icml2021/conformal_prediction_for_simulation_models.pdf) by Benjamin LeRoy and Chad Schafer (Carnegie Mellon, 2021)
 8. [Distribution-free, risk-controlling prediction sets](https://arxiv.org/pdf/2101.02703) Stephen Bates, Anastasios Angelopoulos, Lihua Lei, Jitendra Malik and  Michael I Jordan (Berkeley, 2021)
 9. [Conditional calibration for false discovery rate control under dependence](https://arxiv.org/abs/2007.10438) by William Fithian and Lihua Lei (Stanford, 2021)
-10. [Conformal Prediction: a Unified Review of Theory and New Challenges](https://arxiv.org/pdf/2005.07972.pdf) by Gianluca Zeni, Matteo Fontana and S. Vantini (2020)
+10. [Conformal Prediction: a Unified Review of Theory and New Challenges](https://www.e-publications.org/ims/submission/BEJ/user/submissionFile/46245?confirm=193b4e5b) by Gianluca Zeni, Matteo Fontana and S. Vantini (2021)
 11. [Regression conformal prediction with random forests](https://link.springer.com/content/pdf/10.1007%2Fs10994-014-5453-0.pdf) by Ulf Johansson, Henrik Boström,  Tuve Löfström and Henrik Linusson (2014)
 12. [A conformal prediction approach to explore functional data](https://arxiv.org/pdf/1302.6452.pdf) by Jing Lei, Alessandro Rinaldo, Larry Wasserman (Carnegie Mellon, 2013)
 13. [An electronic nose-based assistive diagnostic prototype for lung cancer detection with conformal prediction](https://pure.royalholloway.ac.uk/portal/files/37171406/Measurement_Manuscript_unmarked_R4.pdf) by Xianghao Zhana,c, Zhan Wanga, Meng Yangb, Zhiyuan Luod, You Wanga, Guang Li (2020)
@@ -178,9 +178,9 @@ Jiao Gu, Huaibo Liu, Chaoqun Ma, Lei Li, Chun Zhu, Christ Glorieux, Guoqing Chen
 ### Researchers
 1. [Founding Father of Conformal Prediction Prof. Vladimir (Volodya) Vovk](vovk.net), Royal Holloway, United Kingdom 
 2. [Founding Father of Conformal Prediction Prof. Alexander Gammerman](https://cml.rhul.ac.uk/people/alex/), Royal Holloway, United Kingdom 
-3. [Glenn Shafer] (http://www.glennshafer.com), Rutgers University, USA
+3. [Glenn Shafer](http://www.glennshafer.com), Rutgers University, USA
 4. [Emmanuel Candès](https://candes.su.domains), Stanford, USA
-5. [Ryan Tibshiriani](https://www.stat.cmu.edu/~ryantibs/], Carnegie Mellon, USA
+5. [Ryan Tibshiriani](https://www.stat.cmu.edu/~ryantibs/), Carnegie Mellon, USA
 6. [Yaniv Romano](https://sites.google.com/view/yaniv-romano/), Technion—Israel Institute of Technology
 7. [Michael I. Jordan](https://people.eecs.berkeley.edu/~jordan/), Berkeley, USA
 8. [Jitendra Malik](https://people.eecs.berkeley.edu/~malik/), Berkeley, USA 
