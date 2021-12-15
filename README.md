@@ -23,6 +23,10 @@ A curated list of Awesome Conformal Prediction tutorials, videos, books, papers 
 
 * **[Software in R](#software_R)**
 
+* **[Software in Julia](#software_Julia)** 
+
+* **[Software in C++](#software_C++)** 
+
 * **[Software in Scala and Spark](#software_R)**
 
 * **[Miscellaneous](#miscellaneous)**  
@@ -235,11 +239,17 @@ Jiao Gu, Huaibo Liu, Chaoqun Ma, Lei Li, Chun Zhu, Christ Glorieux, Guoqing Chen
 3. [Conformal: an R package to calculate prediction errors in the conformal prediction framework](https://github.com/isidroc/conformal/) by Isidro Cortes, 2019
 4. [Online Time Series Anomaly Detectors](https://github.com/valeman/otsad) by Alaine Iturria, 2021
 5. [piRF - Prediction Intervals for Random Forests](https://github.com/chancejohnstone/piRF) by Chancellor Johnstone and Haozhe Zhang (2019)
-6
+
+### Software C++
+1.[LibCP -- A Library for Conformal Prediction](https://github.com/fated/libcp)
+2.[An Implementation of Venn-ABERS predictor](https://github.com/fated/venn-abers-predictor)
+3. [LibVM -- A Library for Venn Machine](https://github.com/fated/libvm)
 
 ### Software Julia
 
 1. [RandomForest](https://github.com/henrikbostrom/RandomForest) by Henrik Boström (2017)
+
+### Software C++
 
 ### Software Scala and Spark
 [Scala-CP](https://github.com/mcapuccini/scala-cp) by Marco Capuccini (2020)
