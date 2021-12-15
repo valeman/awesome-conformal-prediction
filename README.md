@@ -166,6 +166,13 @@ Ulf Norinder, Scott Boyer (2017)
 58. [Computing Full Conformal Prediction Set with Approximate Homotopy](https://arxiv.org/pdf/1909.09365.pdf) by Eugene Ndiaye, Ichiro Takeuchi (2019)
 59. [Conformal Prediction Based on Raman Spectra for the Classification of Chinese Liquors](https://journals.sagepub.com/doi/10.1177/0003702819831017) by
 Jiao Gu, Huaibo Liu, Chaoqun Ma, Lei Li, Chun Zhu, Christ Glorieux, Guoqing Chen (2019)
+60. [Efficient and minimal length parametric conformal prediction regions](https://export.arxiv.org/pdf/1905.03657) by Daniel Eck and Forrest Crawford (2019)
+61. [Conformal Prediction for Students' Grades in a Course Recommender System](http://proceedings.mlr.press/v105/morsomme19a/morsomme19a.pdf) by Raphael Morsomme and Evgueni Smirnov (2019)
+62. [Efficient iterative virtual screening with Apache Spark and conformal prediction](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-018-0265-z) by Laeeq Ahmed, Valentin Georgiev, Marco Capuccini, Salman Toor, Wesley Schaal, Erwin Laure and Ola Spjuth (2018)
+63. [Predicting Off-Target Binding Profiles With Confidence Using Conformal Prediction](https://pubmed.ncbi.nlm.nih.gov/30459617/) by Samuel Lampa, Jonathan Alvarsson, Staffan Arvidsson Mc Shane, Arvid Berg, Ernst Ahlberg, Ola Spjuth (2018)
+64. [Maximizing gain in high-throughput screening using conformal prediction](https://jcheminf.biomedcentral.com/track/pdf/10.1186/s13321-018-0260-4.pdf) by Fredrik Svensson, Avid M. Afzal1, Ulf Norinder and Andreas Bender (2018)
+65. 
+
 
 [1] Rina Foygel Barber, Emmanuel J. Candès, Aaditya Ramdas, and Ryan J. Tibshirani. "Predictive inference with the jackknife+." Ann. Statist., 49(1):486–507, February 2021.
 
