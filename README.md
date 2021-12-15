@@ -241,15 +241,13 @@ Jiao Gu, Huaibo Liu, Chaoqun Ma, Lei Li, Chun Zhu, Christ Glorieux, Guoqing Chen
 5. [piRF - Prediction Intervals for Random Forests](https://github.com/chancejohnstone/piRF) by Chancellor Johnstone and Haozhe Zhang (2019)
 
 ### Software C++
-1.[LibCP -- A Library for Conformal Prediction](https://github.com/fated/libcp)
-2.[An Implementation of Venn-ABERS predictor](https://github.com/fated/venn-abers-predictor)
+1. [LibCP -- A Library for Conformal Prediction](https://github.com/fated/libcp)
+2. [An Implementation of Venn-ABERS predictor](https://github.com/fated/venn-abers-predictor)
 3. [LibVM -- A Library for Venn Machine](https://github.com/fated/libvm)
 
 ### Software Julia
 
 1. [RandomForest](https://github.com/henrikbostrom/RandomForest) by Henrik Boström (2017)
-
-### Software C++
 
 ### Software Scala and Spark
 [Scala-CP](https://github.com/mcapuccini/scala-cp) by Marco Capuccini (2020)
