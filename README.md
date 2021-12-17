@@ -37,7 +37,7 @@ A curated list of Awesome Conformal Prediction tutorials, videos, books, papers 
 
 ### Books
 
-1. [Algorithmic Learning in a Random World](https://link.springer.com/book/10.1007/b106715) by Founding Fathers of Conformal Prediction Vladimir Vovk and Alex Gammerman, also Glenn Shafer (2005). Second edition in progress. 
+1. [Algorithmic Learning in a Random World](https://link.springer.com/book/10.1007/b106715) by Vladimir Vovk and Alex Gammerman, also Glenn Shafer (2005). Second edition in progress. 
 2. [Conformal Prediciton for Reliable Machine Learning](https://www.elsevier.com/books/conformal-prediction-for-reliable-machine-learning/balasubramanian/978-0-12-398537-8) by Vineeth Balasubramanian, Shen-Shyang Ho, Vladimir Vovk (2014)
 
 ### Tutorials
@@ -55,11 +55,11 @@ A curated list of Awesome Conformal Prediction tutorials, videos, books, papers 
 
 ### Video Tutorials, Videos and Lectures  
 
-1. [Treatment of Uncertainty in the Foundations of Probability](https://www.youtube.com/watch?v=B7E-QJ9fm4w&t=2297s) by Founding Father of Conformal Prediction Prof. Vladimir (Volodya) Vovk (Royal Holloway, UK, 2017)
-2. [Large-Scale Probabilistic Prediction With and Without Validity Guarantees](https://www.youtube.com/watch?v=ksrUJdb2tA8) by Founding Father of Conformal Prediction Prof. Vladimir (Volodya) Vovk (Royal Holloway, UK, 2015)
-3. [Conformal testing in a binary model situation](https://www.youtube.com/watch?v=RTcT4YXRdMg) by Founding Father of Conformal Prediction Prof. Vladimir (Volodya) Vovk (Royal Holloway, UK, 2021)
-4. [Protected probabilistic classification](https://www.youtube.com/watch?v=MpP-3suUoLY) by Founding Father of Conformal Prediction Prof. Vladimir (Volodya) Vovk (Royal Holloway, UK, 2021)
-5. [Retrain or not retrain: conformal test martingales for change-point detection](https://www.youtube.com/watch?v=4Ra5KnDEfkw&t=1s) by Founding Father of Conformal Prediction Prof. Vladimir (Volodya) Vovk (Royal Holloway, UK, 2021)
+1. [Treatment of Uncertainty in the Foundations of Probability](https://www.youtube.com/watch?v=B7E-QJ9fm4w&t=2297s) by Prof. Vladimir (Volodya) Vovk (Royal Holloway, UK, 2017)
+2. [Large-Scale Probabilistic Prediction With and Without Validity Guarantees](https://www.youtube.com/watch?v=ksrUJdb2tA8) by  Prof. Vladimir (Volodya) Vovk (Royal Holloway, UK, 2015)
+3. [Conformal testing in a binary model situation](https://www.youtube.com/watch?v=RTcT4YXRdMg) by Prof. Vladimir (Volodya) Vovk (Royal Holloway, UK, 2021)
+4. [Protected probabilistic classification](https://www.youtube.com/watch?v=MpP-3suUoLY) by Prof. Vladimir (Volodya) Vovk (Royal Holloway, UK, 2021)
+5. [Retrain or not retrain: conformal test martingales for change-point detection](https://www.youtube.com/watch?v=4Ra5KnDEfkw&t=1s) by Prof. Vladimir (Volodya) Vovk (Royal Holloway, UK, 2021)
 6. [A Tutorial on Conformal Prediction](https://www.youtube.com/watch?v=nql000Lu_iE&t=1786s) by Anastasios Angelopoulos and Stephen Bates (Berkeley, 2021)
 7. [Steps Toward Trustworthy Machine Learning](https://www.youtube.com/watch?v=2iNRSgS7-L4) by Tom Dietterich (2021)
 8. [A Tutorial on Conformal Predictive Distributions](https://www.youtube.com/watch?v=FUi5jklGvvo&t=3s) by Paolo Toccaceli (Royal Holloway, UK, 2020)
@@ -76,11 +76,11 @@ A curated list of Awesome Conformal Prediction tutorials, videos, books, papers 
 19. [Venn Predictors Tutorial](https://www.youtube.com/watch?v=KsQpkjl7u1w) by Ulf Johansson, Cecilia Sönströd, Tuwe Löfström, and Henrik Boström (2021)
 20. [Mondrian conformal predictive distributions](https://www.youtube.com/watch?v=dHNZxw8WQrs) by Henrik Boström, Ulf Johansson, and Tuwe Löfström (2021)
 21. [Calibrating Multi-Class Models](https://www.youtube.com/watch?v=uCnFgTjUYto) by Ulf Johansson, Tuwe Löfström, and Henrik Boström (2021)
-22. [Conformal testing in a binary model situation](https://www.youtube.com/watch?v=RTcT4YXRdMg) by Founding Father of Conformal Prediction Prof. Vladimir (Volodya) Vovk (Royal Holloway, UK, 2021)
+22. [Conformal testing in a binary model situation](https://www.youtube.com/watch?v=RTcT4YXRdMg) by Prof. Vladimir (Volodya) Vovk (Royal Holloway, UK, 2021)
 23. [Conformal prediction in Orange](https://www.youtube.com/watch?v=qI1jOEour1g&t=14s) by Tomaž Hočevar and Blaž Zupan (2021)
 24. [Distribution-Free, Risk-Controlling Prediction Sets](https://www.youtube.com/watch?v=ITJAR3fcNuI) by Anastasios Angelopoulos (Stanford, 2021)
 25. [Conformal Prediction and Distribution-Free Calibration](https://synapse.math.univ-toulouse.fr/s/KDcWmmU9j9zk0rm) by Aaditya Ramdas (Carnegie Mellon, 2021)
-26. [Reliable Diagnostics by Conformal Predictors](https://www.youtube.com/watch?v=zW3R-vbLw58) by Founding Father of Conformal Prediction Prof. Alexander Gammerman (Royal Holloway, UK, 2015)
+26. [Reliable Diagnostics by Conformal Predictors](https://www.youtube.com/watch?v=zW3R-vbLw58) by Prof. Alexander Gammerman (Royal Holloway, UK, 2015)
 27. [Distribution-Free, Risk-Controlling Prediction Sets](https://www.youtube.com/watch?v=ITJAR3fcNuI) by Anastasios Angelopoulos (Stanford, 2021)
 28. [Conformal Inference of Counterfactuals and Time-to-event Outcomes](https://www.youtube.com/watch?v=nfD3mrSefbI) by Lihua Lei (Stanford, 2021)
 29. [Algo Hour – Conformal Inference of Counterfactuals and Individual Treatment Effect](https://www.youtube.com/watch?v=COW2QNBmEMw) by Lihua Lei (Stanford, 2021)
@@ -181,8 +181,8 @@ Jiao Gu, Huaibo Liu, Chaoqun Ma, Lei Li, Chun Zhu, Christ Glorieux, Guoqing Chen
 67. 
 
 ### Researchers
-1. [Founding Father of Conformal Prediction Prof. Vladimir (Volodya) Vovk](vovk.net), Royal Holloway, United Kingdom 
-2. [Founding Father of Conformal Prediction Prof. Alexander Gammerman](https://cml.rhul.ac.uk/people/alex/), Royal Holloway, United Kingdom 
+1. [Prof. Vladimir (Volodya) Vovk](vovk.net), Royal Holloway, United Kingdom 
+2. [Prof. Alexander Gammerman](https://cml.rhul.ac.uk/people/alex/), Royal Holloway, United Kingdom 
 3. [Glenn Shafer](http://www.glennshafer.com), Rutgers University, USA
 4. [Emmanuel Candès](https://candes.su.domains), Stanford, USA
 5. [Ryan Tibshiriani](https://www.stat.cmu.edu/~ryantibs/), Carnegie Mellon, USA
@@ -207,7 +207,7 @@ Jiao Gu, Huaibo Liu, Chaoqun Ma, Lei Li, Chun Zhu, Christ Glorieux, Guoqing Chen
 
 
 ### Websites
-1. [Main website with research from Founding Father of Conformal Prediction Prof. Vladimir (Volodya) Vovk](http://alrw.net)
+1. [Main website with research from Prof. Vladimir (Volodya) Vovk](http://alrw.net)
 2. [Conformal Prediction - Prediction with guaranteed performance](https://cml.rhul.ac.uk/cp.html) Royal Holloway, United Kingdom
 3. [A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification](https://people.eecs.berkeley.edu/~angelopoulos/blog/posts/gentle-intro/) by Anastasios N. Angelopoulos
 
