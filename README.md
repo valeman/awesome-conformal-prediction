@@ -181,8 +181,8 @@ Jiao Gu, Huaibo Liu, Chaoqun Ma, Lei Li, Chun Zhu, Christ Glorieux, Guoqing Chen
 67. 
 
 ### Researchers
-1. [Prof. Vladimir (Volodya) Vovk](vovk.net), Royal Holloway, United Kingdom 
-2. [Prof. Alexander Gammerman](https://cml.rhul.ac.uk/people/alex/), Royal Holloway, United Kingdom 
+1. [Vladimir Vovk](vovk.net), Royal Holloway, United Kingdom 
+2. [Alexander Gammerman](https://cml.rhul.ac.uk/people/alex/), Royal Holloway, United Kingdom 
 3. [Glenn Shafer](http://www.glennshafer.com), Rutgers University, USA
 4. [Emmanuel Candès](https://candes.su.domains), Stanford, USA
 5. [Ryan Tibshiriani](https://www.stat.cmu.edu/~ryantibs/), Carnegie Mellon, USA
