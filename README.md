@@ -1,5 +1,23 @@
 # Awesome Conformal Predictionl
+
 A curated list of Awesome Conformal Prediction tutorials, videos, books, papers and open-source libraries in Python and R.
+
+One of the most influential and celebrated machine learning researchers Professor Michael I. Jordan: 🔥🔥 🔥🔥 🔥
+
+'𝗖𝗼𝗻𝗳𝗼𝗿𝗺𝗮𝗹 𝗣𝗿𝗲𝗱𝗶𝗰𝘁𝗶𝗼𝗻 𝗶𝗱𝗲𝗮𝘀 𝗮𝗿𝗲 𝗧𝗛𝗘 𝗮𝗻𝘀𝘄𝗲𝗿 𝘁𝗼 𝗨𝗤 (𝘂𝗻𝗰𝗲𝗿𝘁𝗮𝗶𝗻𝘁𝘆 𝗾𝘂𝗮𝗻𝘁𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻, 𝗜 𝘁𝗵𝗶𝗻𝗸 𝗶𝘁'𝘀 𝘁𝗵𝗲 𝗯𝗲𝘀𝘁 𝗜 𝗵𝗮𝘃𝗲 𝘀𝗲𝗲𝗻 𝗶𝘁𝘀 𝘀𝗶𝗺𝗽𝗹𝗲, 𝗴𝗲𝗻𝗲𝗿𝗮𝗹𝗶𝘀𝗮𝗯𝗹𝗲 𝗲𝘁𝗰.' (ICML 2021 UQ workshop).
+
+
+
+https://slideslive.com/icml-2021/workshop-on-distributionfree-uncertainty-quantification [Video: 
+
+
+When both the top machine learning and the top statistic professors from the best research labs in the world say this about conformal prediction it is quite an endorsement. 
+
+📢📢Industry take notice. The revolution in Uncertainty 📢📢 A big one  🔥🔥 🔥🔥 🔥🔥
+
+🌟 🌟 🌟 🌟 🌟 ⭐️ ⭐️⭐️⭐️⭐️ 🚀 🚀🚀🚀 🚀 🔥🔥🔥🔥🔥
+
+
 
 ![modrian](mondrian.jpg) 
 
