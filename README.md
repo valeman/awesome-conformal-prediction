@@ -7,6 +7,8 @@ A curated list of Awesome Conformal Prediction tutorials, videos, books, papers 
 
 * **[Books](#books)**
 
+* **[PhD Theses](#theses)**
+
 * **[Video Tutorials, Videos and Lectures](#videos)**  
 
 * **[Papers](#papers)**  
