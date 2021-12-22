@@ -1,19 +1,24 @@
 # Awesome Conformal Predictionl
 
 A curated list of Awesome Conformal Prediction tutorials, videos, books, papers and open-source libraries in Python and R.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Why Conformal Prediction?
 
-One of the most influential and celebrated machine learning researchers Professor Michael I. Jordan: 🔥🔥 🔥🔥 🔥
+One of the most influential and celebrated machine learning researchers - Professor Michael I. Jordan: 🔥🔥 🔥🔥 🔥
 
 '𝗖𝗼𝗻𝗳𝗼𝗿𝗺𝗮𝗹 𝗣𝗿𝗲𝗱𝗶𝗰𝘁𝗶𝗼𝗻 𝗶𝗱𝗲𝗮𝘀 𝗮𝗿𝗲 𝗧𝗛𝗘 𝗮𝗻𝘀𝘄𝗲𝗿 𝘁𝗼 𝗨𝗤 (𝘂𝗻𝗰𝗲𝗿𝘁𝗮𝗶𝗻𝘁𝘆 𝗾𝘂𝗮𝗻𝘁𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻, 𝗜 𝘁𝗵𝗶𝗻𝗸 𝗶𝘁'𝘀 𝘁𝗵𝗲 𝗯𝗲𝘀𝘁 𝗜 𝗵𝗮𝘃𝗲 𝘀𝗲𝗲𝗻 𝗶𝘁𝘀 𝘀𝗶𝗺𝗽𝗹𝗲, 𝗴𝗲𝗻𝗲𝗿𝗮𝗹𝗶𝘀𝗮𝗯𝗹𝗲 𝗲𝘁𝗰.' (ICML 2021 UQ workshop).
 
+One the most influential statistics Professors - Larry Wasserman (Carnegie Mellon): 🚀 🚀🚀🚀 🚀 
 
+'I think it is a combination of things. 𝗦𝗼 𝘁𝗵𝗲 𝗯𝗲𝗮𝘂𝘁𝘆 𝗼𝗳 𝘁𝗵𝗲 𝗰𝗼𝗻𝗳𝗼𝗿𝗺𝗮𝗹 𝘁𝗵𝗶𝗻𝗴 𝗶𝘀 𝗵𝗼𝘄 𝘀𝗶𝗺𝗽𝗹𝗲 𝗶𝘁 𝗶𝘀 𝘁𝗼 𝗱𝗼 𝗶𝘁 𝗮𝗻𝗱 𝗵𝗼𝘄 𝗴𝗲𝗻𝗲𝗿𝗮𝗹 𝗶𝘁 𝗶𝘀. So I think you know ideas that catch on, general ideas that are pretty general and 𝐞𝐚𝐬𝐲 𝐭𝐨 𝐢𝐦𝐩𝐥𝐞𝐦𝐞𝐧𝐭 𝐭𝐡𝐚𝐭 𝐲𝐨𝐮 𝐜𝐚𝐧 𝐩𝐢𝐜𝐭𝐮𝐫𝐞 𝐲𝐨𝐮𝐫𝐬𝐞𝐥𝐟 𝐮𝐬𝐢𝐧𝐠 𝐢𝐧 𝐫𝐞𝐚𝐥 𝐚𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬 𝐚𝐫𝐞 𝐭𝐡𝐞 𝐫𝐞𝐚𝐬𝐨𝐧 𝐭𝐡𝐚𝐭 𝐩𝐞𝐨𝐩𝐥𝐞 𝐮𝐬𝐢𝐧𝐠 𝐜𝐨𝐧𝐟𝐨𝐫𝐦𝐚𝐥 𝐩𝐫𝐞𝐝𝐢𝐜𝐭𝐢𝐨𝐧.'
 
 https://slideslive.com/icml-2021/workshop-on-distributionfree-uncertainty-quantification
 
 
-When both the top machine learning and the top statistic professors from the best research labs in the world say this about conformal prediction it is quite an endorsement. 
+When both the top machine learning and the top statistic professors from the best research labs in the world say this about conformal prediction it is quite an endorsement.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-📢📢Industry take notice. The revolution in Uncertainty 📢📢 A big one  🔥🔥 🔥🔥 🔥🔥
+📢📢Industry take notice. The revolution in Uncertainty Quantification / Probabilistic Prediction / Forecasting is already here 📢📢 A big one  🔥🔥 🔥🔥 🔥🔥
 
 🌟 🌟 🌟 🌟 🌟 ⭐️ ⭐️⭐️⭐️⭐️ 🚀 🚀🚀🚀 🚀 🔥🔥🔥🔥🔥
 
