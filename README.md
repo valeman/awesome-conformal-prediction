@@ -286,4 +286,4 @@ Jiao Gu, Huaibo Liu, Chaoqun Ma, Lei Li, Chun Zhu, Christ Glorieux, Guoqing Chen
 ### Software Scala and Spark
 [Scala-CP](https://github.com/mcapuccini/scala-cp) by Marco Capuccini (2020)
 
-
+    
