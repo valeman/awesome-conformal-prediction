@@ -71,7 +71,7 @@ When both the top machine learning and the top statistic professors from the bes
 3. [Conformal Prediction and Testing under On-line Compression Models](https://pure.royalholloway.ac.uk/portal/files/20318074/2014fedorovavphd.pdf) by Valentina Fedorova (Royal Holloway, UK, 2014)
 4. [Adaptive Online Learning](https://pure.royalholloway.ac.uk/portal/files/17462972/adamskiy_thesis.pdf) by Dmitry Adamskiy (Royal Holloway, UK, 2013)
 5. [On discovery and exploitation of temporal structure in data sets](https://pure.royalholloway.ac.uk/portal/files/24367944/Thesis.pdf) by Scarfe, Tim (Royal Holloway, UK, 2015)
-6. [Black-box Security Measuring Black-box Information Leakage via Machine Learning(https://pure.royalholloway.ac.uk/portal/files/33806285/thesis_final_after_amendments.pdf) by Giovanni Cherubin (Royal Holloway, UK, 2019)
+6. [Black-box Security Measuring Black-box Information Leakage via Machine Learning](https://pure.royalholloway.ac.uk/portal/files/33806285/thesis_final_after_amendments.pdf) by Giovanni Cherubin (Royal Holloway, UK, 2019)
 7. [Small and Large Scale Probabilistic Classifiers with Guarantees of Validity](https://pure.royalholloway.ac.uk/portal/files/30400650/2018PetejIPhd.pdf) by Ivan Petej (Royal Holloway, UK, 2019)
 8. [Towards a Question Answering View of Natural Language Processing](https://pure.royalholloway.ac.uk/portal/files/35163753/Towards_a_Question_Answering_View_of_Natural_Language_Processing_3.pdf) by Zukov Gregoric, Andrej (Royal Holloway, UK, 2019)
 9. [Confidence and Venn Machines and Their Applications to Proteomics](https://pure.royalholloway.ac.uk/portal/files/1402925/PhD_Thesis_Final_Dmitry_Devetyarov.pdf) by Devetyarov, Dmitry (Royal Holloway, UK, 2019)
