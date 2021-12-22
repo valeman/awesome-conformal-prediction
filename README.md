@@ -48,8 +48,11 @@ A curated list of Awesome Conformal Prediction tutorials, videos, books, papers 
 3. [Conformal Prediction and Testing under On-line Compression Models](https://pure.royalholloway.ac.uk/portal/files/20318074/2014fedorovavphd.pdf) by Valentina Fedorova (Royal Holloway, UK, 2014)
 4. [Adaptive Online Learning](https://pure.royalholloway.ac.uk/portal/files/17462972/adamskiy_thesis.pdf) by Dmitry Adamskiy (Royal Holloway, UK, 2013)
 5. [On discovery and exploitation of temporal structure in data sets](https://pure.royalholloway.ac.uk/portal/files/24367944/Thesis.pdf) by Scarfe, Tim (Royal Holloway, UK, 2015)
-6. [Black-box Security Measuring Black-box Information Leakage via Machine Learning (https://pure.royalholloway.ac.uk/portal/files/33806285/thesis_final_after_amendments.pdf) by Giovanni Cherubin (Royal Holloway, UK, 2019)
-
+6. [Black-box Security Measuring Black-box Information Leakage via Machine Learning] (https://pure.royalholloway.ac.uk/portal/files/33806285/thesis_final_after_amendments.pdf) by Giovanni Cherubin (Royal Holloway, UK, 2019)
+7. [Small and Large Scale Probabilistic Classifiers with Guarantees of Validity](https://pure.royalholloway.ac.uk/portal/files/30400650/2018PetejIPhd.pdf) by Ivan Petej (Royal Holloway, UK, 2019)
+8. [Towards a Question Answering View of Natural Language Processing](https://pure.royalholloway.ac.uk/portal/files/35163753/Towards_a_Question_Answering_View_of_Natural_Language_Processing_3.pdf) by Zukov Gregoric, Andrej (Royal Holloway, UK, 2019)
+9. [Confidence and Venn Machines and Their Applications to Proteomics](https://pure.royalholloway.ac.uk/portal/files/1402925/PhD_Thesis_Final_Dmitry_Devetyarov.pdf) by Devetyarov, Dmitry (Royal Holloway, UK, 2019)
+10. 
 
 ### Tutorials
 1. [A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification](https://people.eecs.berkeley.edu/~angelopoulos/publications/downloads/gentle_intro_conformal_dfuq.pdf) by Anastasios N. Angelopoulos and Stephen Bates (2021)
@@ -116,6 +119,9 @@ A curated list of Awesome Conformal Prediction tutorials, videos, books, papers 
 48. [Class-wise confidence for debt prediction in real estate management](https://www.youtube.com/watch?v=ZVhA8LGXWpc) by Soundouss Messoudi (2021)
 49. [How Nonconformity Functions and Difficulty of Datasets Impact the Efficiency of Conformal Classifiers](https://www.youtube.com/watch?v=lLtZkVwxMNw) by Marharyta Aleksandrova (2021)
 50. [Nested conformal prediction and quantile out-of-bag ensemble methods](https://www.youtube.com/watch?v=NlUlelNWVMQ) by Chirag Gupta (Carnegie Mellon, 2020)
+51. [Comparing the Bayes and typicalness frameworks](https://link.springer.com/content/pdf/10.1007%2F3-540-44795-4_31.pdf) by Thomas Melluish, Craig Saunders, Ilia Nouretdinov, and Volodya Vovk (Royal Holloway, UK, 2001)
+
+Comparing the Bayes and typicalness frameworks
 
 ### Papers
 
