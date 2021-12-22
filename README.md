@@ -1,6 +1,6 @@
-# Awesome Conformal Predictionl
+# Awesome Conformal Prediction
 
-A curated list of Awesome Conformal Prediction tutorials, videos, books, papers and open-source libraries in Python and R.
+A professionally curated list of Awesome Conformal Prediction tutorials, videos, books, papers and open-source libraries in Python and R.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Why Conformal Prediction?
 
