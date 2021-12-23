@@ -18,7 +18,7 @@ https://slideslive.com/icml-2021/workshop-on-distributionfree-uncertainty-quanti
 When both the top machine learning and the top statistic professors from the best research labs in the world say this about conformal prediction it is quite an endorsement.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-📢📢Industry take notice. The revolution in Uncertainty Quantification / Probabilistic Prediction / Forecasting is already here 📢📢 A big one  🔥🔥 🔥🔥 🔥🔥
+📢📢Industry take notice. The revolution in Uncertainty Quantification / Probabilistic Prediction / Forecasting is already here 📢📢  A big one  🔥🔥 🔥🔥 🔥🔥
 
 🌟 🌟 🌟 🌟 🌟 ⭐️ ⭐️⭐️⭐️⭐️ 🚀 🚀🚀🚀 🚀 🔥🔥🔥🔥🔥
 
