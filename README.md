@@ -219,6 +219,7 @@ Jiao Gu, Huaibo Liu, Chaoqun Ma, Lei Li, Chun Zhu, Christ Glorieux, Guoqing Chen
 66. [Random Forest Prediction Intervals](https://haozhestat.github.io/files/manuscript_RFIntervals_FinalVersion.pdf) by Haozhe Zhang†, Joshua Zimmerman†, Dan Nettleton† and Daniel J. Nordman† (Iowa State University, USA, 2019)
 67. [Conformal Training: Learning Optimal Conformal Classifiers | DeepMind](https://arxiv.org/pdf/2110.09192.pdf) by David Stutz (DeepMind), Krishnamurthy Dvijotham, Ali Taylan Cemgil and Arnaud Doucet (2021)
 68. [Comparing the Bayes and typicalness frameworks](https://link.springer.com/content/pdf/10.1007%2F3-540-44795-4_31.pdf) by Thomas Melluish, Craig Saunders, Ilia Nouretdinov, and Volodya Vovk (Royal Holloway, UK, 2001).
+69. [Large-scale probabilistic predictors with and without guarantees of validity](https://papers.nips.cc/paper/2015/file/a9a1d5317a33ae8cef33961c34144f84-Paper.pdf) by Vladimir Vovk, Ivan Petej, and Valentina Fedorova (Royal Holloway, Yandex, NeurIPS)
 
 ### Researchers
 1. [Vladimir Vovk](vovk.net), Royal Holloway, United Kingdom 
@@ -264,10 +265,11 @@ Jiao Gu, Huaibo Liu, Chaoqun Ma, Lei Li, Chun Zhu, Christ Glorieux, Guoqing Chen
 ### Software Python
 
 1. [Nonconformist](https://github.com/donlnz/nonconformist) by Henrik Linusson (2015)
-2. [MAPIE - Model Agnostic Prediction Interval Estimator](https://github.com/scikit-learn-contrib/MAPIE) (2021)
-3. ['Crêpes' - Conformal regressors and predictive systems](https://github.com/henrikbostrom/crepes) by Henrik Boström (2021)
-4. [Conformalized Quantile Regression](https://github.com/yromano/cqr) by Yaniv Romano (2019)
-5. [Conformal Classification](https://github.com/aangelopoulos/conformal_classification) by Anastasios N. Angelopoulos (2021)
+2. [Venn-ABERS Predictor](https://github.com/ptocca/VennABERS) by Paolo Toccaceli (2019), based on NeurIPS 2015 paper 'Large-scale probabilistic predictors with and without guarantees of validity' (#69 on papers list)
+3. [MAPIE - Model Agnostic Prediction Interval Estimator](https://github.com/scikit-learn-contrib/MAPIE) (2021)
+4. ['Crêpes' - Conformal regressors and predictive systems](https://github.com/henrikbostrom/crepes) by Henrik Boström (2021)
+5. [Conformalized Quantile Regression](https://github.com/yromano/cqr) by Yaniv Romano (2019)
+6. [Conformal Classification](https://github.com/aangelopoulos/conformal_classification) by Anastasios N. Angelopoulos (2021)
 7. [Orange3 Conformal Prediction](https://github.com/biolab/orange3-conformal)
 8. [EnbPI](https://github.com/hamrel-cxu/EnbPI) by Chen Xu (2021)
 9. [Conformal: an R package to calculate prediction errors in the conformal prediction framework](https://github.com/isidroc/conformal/) by Isidro Cortes, 2019 
