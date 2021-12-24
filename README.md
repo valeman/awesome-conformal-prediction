@@ -144,6 +144,7 @@ When both the top machine learning and the top statistic professors from the bes
 50. [Nested conformal prediction and quantile out-of-bag ensemble methods](https://www.youtube.com/watch?v=NlUlelNWVMQ) by Chirag Gupta (Carnegie Mellon, 2020)
 52. [Panel with Michael I. Jordan, Vladimir Vovk, and Larry Wasserman, moderated by Aaditya Ramdas](https://slideslive.com/38964850/panel-with-michael-i-jordan-vladimir-vovk-and-larry-wasserman-moderated-by-aaditya-ramdas?ref=account-folder-87373-folders) by Vladimir Vovk, Larry Wasserman, Michael I. Jordan, Aaditya Ramdas, ICML 2021
 53. [Black-box uncertainty - Anastasios Angelopoulos](https://www.youtube.com/watch?v=jW-mbsVgcIc) by Anastasios Angelopoulos (Berkeley, USA, 2021)
+54. [P.C. Mahalanobis Memorial Lectures 2020-21](https://www.isibang.ac.in/~statmath/pcm2020/) by Vladimir Vovk (Royal Holloway, UK, 2021)
 
 ### Papers
 
