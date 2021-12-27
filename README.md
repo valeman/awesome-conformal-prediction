@@ -89,7 +89,8 @@ https://www.youtube.com/watch?v=nql000Lu_iE&t=1769s
 10. [Conformal Anomaly Detection - detecting abnormanl trajectories in surveillance applications](https://www.diva-portal.org/smash/get/diva2:690997/FULLTEXT02.pdf) by Rikard Laxhammar (University of Skoeve, Sweden, 2014)
 
 ### Tutorials
-1. [A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification](https://people.eecs.berkeley.edu/~angelopoulos/publications/downloads/gentle_intro_conformal_dfuq.pdf) by Anastasios N. Angelopoulos and Stephen Bates (2021)
+
+1. [A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification] (https://people.eecs.berkeley.edu/~angelopoulos/publications/downloads/gentle_intro_conformal_dfuq.pdf) by Anastasios N. Angelopoulos and Stephen Bates (2021) 🔥🔥🔥🔥🔥
 2. [A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification](https://arxiv.org/abs/2107.07511) by Anastasios N. Angelopoulos and Stephen Bates (2021)
 3. [A Tutorial on Conformal Prediction](https://www.youtube.com/watch?v=nql000Lu_iE&t=1786s) by Anastasios Angelopoulos and Stephen Bates (2021)
 4. [A Tutorial on Conformal Predictive Distributions](https://www.youtube.com/watch?v=FUi5jklGvvo&t=3s) by Paolo Toccaceli (2020)
