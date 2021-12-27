@@ -1,6 +1,8 @@
 # Awesome Conformal Prediction [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 A professionally curated list of Awesome Conformal Prediction tutorials, videos, books, papers and open-source libraries in Python and R.
+
+Please star the repo and spread the word 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Why Conformal Prediction?
 
@@ -20,8 +22,17 @@ When both the top machine learning and the top statistic professors from the bes
 
 📢📢Industry take notice. The revolution in Uncertainty Quantification / Probabilistic Prediction / Forecasting is already here 📢📢  A big one  🔥🔥 🔥🔥 🔥🔥
 
-🌟 🌟 🌟 🌟 🌟 ⭐️ ⭐️⭐️⭐️⭐️ 🚀 🚀🚀🚀 🚀 🔥🔥🔥🔥🔥
+🌟 🌟 🌟 🌟 🌟 
 
+Featured resource "A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification
+Anastasios N. Angelopoulos and Stephen Bates (Berkekey, December 26, 2021)." 🔥🔥🔥🔥🔥
+
+This is newest version of the super-popular tutorial on Conformal Prediction now significantly expanded (2x), including advanced techniques such as covariate shift conformal, as well as a super fun history and lit review in S7.
+
+https://people.eecs.berkeley.edu/~angelopoulos/publications/downloads/gentle_intro_conformal_dfuq.pdf
+https://www.youtube.com/watch?v=nql000Lu_iE&t=1769s
+
+⭐⭐️⭐️⭐️⭐️
 
 
 ![modrian](mondrian.jpg) 
