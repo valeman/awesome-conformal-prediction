@@ -281,7 +281,7 @@ Jiao Gu, Huaibo Liu, Chaoqun Ma, Lei Li, Chun Zhu, Christ Glorieux, Guoqing Chen
 
 1. [Nonconformist](https://github.com/donlnz/nonconformist) by Henrik Linusson (2015)
 2. [Venn-ABERS Predictor](https://github.com/ptocca/VennABERS) by Paolo Toccaceli (2019), based on NeurIPS 2015 paper 'Large-scale probabilistic predictors with and without guarantees of validity' (#69 on papers list)
-3. [MAPIE - Model Agnostic Prediction Interval Estimator](https://github.com/scikit-learn-contrib/MAPIE) (2021)
+3. [MAPIE - Model Agnostic Prediction Interval Estimator](https://github.com/scikit-learn-contrib/MAPIE) (2021) 🔥🔥🔥🔥🔥
 4. ['Crêpes' - Conformal regressors and predictive systems](https://github.com/henrikbostrom/crepes) by Henrik Boström (2021)
 5. [Conformalized Quantile Regression](https://github.com/yromano/cqr) by Yaniv Romano (2019)
 6. [Conformal Classification](https://github.com/aangelopoulos/conformal_classification) by Anastasios N. Angelopoulos (2021)
