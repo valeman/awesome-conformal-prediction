@@ -47,7 +47,7 @@ https://www.youtube.com/watch?v=nql000Lu_iE&t=1769s
 
 * **[Video Tutorials, Videos and Lectures](#videos)**  
 
-* **[Patents] (#patents)**
+* **[Patents](#patents)**
 
 * **[Papers](#papers)**  
 
