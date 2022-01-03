@@ -47,7 +47,9 @@ https://www.youtube.com/watch?v=nql000Lu_iE&t=1769s
 
 * **[Video Tutorials, Videos and Lectures](#videos)**  
 
-* **[Papers](#papers)**  
+* **[Papers](#papers)**
+
+* **[Articles](#papers)**
 
 * **[Tutorials](#tutorials)**  
 
@@ -258,6 +260,11 @@ Jiao Gu, Huaibo Liu, Chaoqun Ma, Lei Li, Chun Zhu, Christ Glorieux, Guoqing Chen
 20. [Ulf Norinder](https://scholar.google.com/citations?user=i5hUEFwAAAAJ&hl=en), Stockholm University, Sweden
 21. [Ola Spjuth](https://pharmb.io), Uppsala University, Sweden
 22. [Ilia Nouretdinov](https://cml.rhul.ac.uk/people/nouretdinov/index.htm), Royal Holloway, United Kingdom
+
+### Articles
+1. [Measuring Models' Uncertainty: Conformal Prediction](https://blog.dataiku.com/measuring-models-uncertainty-conformal-prediction) by 
+Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
+2. [Conformal Prediction for Neural Regression Model](https://pkghosh.wordpress.com/2021/12/30/conformal-prediction-for-a-neural-regression-model/) by Pranab Ghosh (2021). 🔥🔥🔥🔥🔥
 
 
 ### Websites
