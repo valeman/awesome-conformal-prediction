@@ -164,9 +164,9 @@ https://www.youtube.com/watch?v=nql000Lu_iE&t=1769s
 
 ### Patents
 
-1. [Rahul Vishwakarma, Method and system for reliably forecasting storage disk failure. US 20210034450 A1, United States Patent and Trademark Office, 4 February 2021] (https://patentimages.storage.googleapis.com/f4/19/3d/2bca26b6be5fff/US20210034450A1.pdf)
-2. [Rahul Vishwakarma, Analyzing Time Series Data for Sets of Devices Using Machine Learning Techniques. US 20210241929 A1, United States Patent and Trademark Office, 5 August 2021] (https://patentimages.storage.googleapis.com/4f/78/2f/3a63fc5e07a083/US20210241929A1.pdf)
-3. [Rahul Vishwakarma, System and method for prioritizing and preventing backup failures. US 20210374568 A1, United States Patent and Trademark Office, 2 December 2021] (https://patentimages.storage.googleapis.com/8e/65/c3/69d60220a9e421/US20210374568A1.pdf) 
+1. [Rahul Vishwakarma, Method and system for reliably forecasting storage disk failure. US 2021/0034450 A1, United States Patent and Trademark Office, 4 February 2021](https://patentimages.storage.googleapis.com/f4/19/3d/2bca26b6be5fff/US20210034450A1.pdf)
+2. [Rahul Vishwakarma, Analyzing Time Series Data for Sets of Devices Using Machine Learning Techniques. US 2021/0241929 A1, United States Patent and Trademark Office, 5 August 2021](https://patentimages.storage.googleapis.com/4f/78/2f/3a63fc5e07a083/US20210241929A1.pdf)
+3. [Rahul Vishwakarma, System and method for prioritizing and preventing backup failures. US 2021/0374568 A1, United States Patent and Trademark Office, 2 December 2021](https://patentimages.storage.googleapis.com/8e/65/c3/69d60220a9e421/US20210374568A1.pdf) 
 
 
 ### Papers
