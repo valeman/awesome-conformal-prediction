@@ -46,10 +46,10 @@ https://www.youtube.com/watch?v=nql000Lu_iE&t=1769s
 * **[PhD Theses](#theses)**
 
 * **[Video Tutorials, Videos and Lectures](#videos)**  
+ 
+* **[Papers](#papers)**
 
-* **[Patents](#patents)**
-
-* **[Papers](#papers)**  
+* **[Articles](#papers)**
 
 * **[Tutorials](#tutorials)**  
 
@@ -58,6 +58,8 @@ https://www.youtube.com/watch?v=nql000Lu_iE&t=1769s
 * **[Websites](#websites)**  
 
 * **[Conferences](#Conferences)**
+
+* **[Patents](#patents)**
 
 * **[Software in Python](#software_Python)**  
 
@@ -94,7 +96,7 @@ https://www.youtube.com/watch?v=nql000Lu_iE&t=1769s
 
 ### Tutorials
 
-1. [A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification] (https://arxiv.org/pdf/2107.07511.pdf) by Anastasios N. Angelopoulos and Stephen Bates (2021) 🔥🔥🔥🔥🔥
+1. [A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification](https://arxiv.org/pdf/2107.07511.pdf) by Anastasios N. Angelopoulos and Stephen Bates (2021) 🔥🔥🔥🔥🔥
 2. [A Tutorial on Conformal Prediction](https://www.youtube.com/watch?v=nql000Lu_iE&t=1786s) by Anastasios Angelopoulos and Stephen Bates (2021) 🔥🔥🔥🔥🔥
 3. [A Tutorial on Conformal Predictive Distributions](https://www.youtube.com/watch?v=FUi5jklGvvo&t=3s) by Paolo Toccaceli (2020) 🔥🔥🔥🔥🔥
 4. [Conformal Prediciton Tutorial](https://www.youtube.com/watch?v=0MsGri8nmJQ) by Henrik Linusson (2021) 🔥🔥🔥🔥🔥
@@ -269,6 +271,14 @@ Jiao Gu, Huaibo Liu, Chaoqun Ma, Lei Li, Chun Zhu, Christ Glorieux, Guoqing Chen
 21. [Ola Spjuth](https://pharmb.io), Uppsala University, Sweden
 22. [Ilia Nouretdinov](https://cml.rhul.ac.uk/people/nouretdinov/index.htm), Royal Holloway, United Kingdom
 
+### Articles
+1. [Measuring Models' Uncertainty: Conformal Prediction](https://blog.dataiku.com/measuring-models-uncertainty-conformal-prediction) by 
+Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
+2. [Conformal Prediction for Neural Regression Model](https://pkghosh.wordpress.com/2021/12/30/conformal-prediction-for-a-neural-regression-model/) by Pranab Ghosh (2021). 🔥🔥🔥🔥🔥
+3. [How to Handle Uncertainty in Forecasts](https://towardsdatascience.com/how-to-handle-uncertainty-in-forecasts-86817f21bb54) by Michael Berk (2021)
+4. [How to Add Uncertainty Estimation to your Models with Conformal Prediction](https://towardsdatascience.com/how-to-add-uncertainty-estimation-to-your-models-with-conformal-prediction-a5acdb86ea05) by Zachary Warnes (2021)
+5. [nonconformist: An easy way to estimate prediction intervals](https://medium.com/spikelab/nonconformist-an-easy-way-to-estimate-prediction-intervals-b0ded1eb066f) by Maria Jesus Ugarte (2021)
+6. [Detecting Weird Data: Conformal Anomaly Detection](https://towardsdatascience.com/detecting-weird-data-conformal-anomaly-detection-20afb36c7bcd) by Matthew Burruss (2020)
 
 ### Websites
 1. [Main website with research from Prof. Vladimir (Volodya) Vovk](http://alrw.net) 🔥🔥🔥🔥🔥
