@@ -287,7 +287,11 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 5. https://cml.rhul.ac.uk/copa2018/ 🔥🔥🔥🔥🔥
 6. https://cml.rhul.ac.uk/copa2017/ 🔥🔥🔥🔥🔥
 
+### Patents
 
+1. [Rahul Vishwakarma, Method and system for reliably forecasting storage disk failure. US 2021/0034450 A1](https://patentimages.storage.googleapis.com/f4/19/3d/2bca26b6be5fff/US20210034450A1.pdf) United States Patent and Trademark Office, Feb 2021
+2. [Rahul Vishwakarma, Analyzing Time Series Data for Sets of Devices Using Machine Learning Techniques. US 2021/0241929 A1](https://patentimages.storage.googleapis.com/4f/78/2f/3a63fc5e07a083/US20210241929A1.pdf) United States Patent and Trademark Office, Aug 2021
+3. [Rahul Vishwakarma, System and method for prioritizing and preventing backup failures. US 2021/0374568 A1](https://patentimages.storage.googleapis.com/8e/65/c3/69d60220a9e421/US20210374568A1.pdf) United States Patent and Trademark Office, Dec 2021 
 
 ### Software Python
 
@@ -323,10 +327,5 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 ### Software Scala and Spark
 [Scala-CP](https://github.com/mcapuccini/scala-cp) by Marco Capuccini (2020) 🔥🔥🔥🔥🔥
 
-### Patents
-
-1. [Rahul Vishwakarma, Method and system for reliably forecasting storage disk failure. US 2021/0034450 A1](https://patentimages.storage.googleapis.com/f4/19/3d/2bca26b6be5fff/US20210034450A1.pdf) United States Patent and Trademark Office, Feb 2021
-2. [Rahul Vishwakarma, Analyzing Time Series Data for Sets of Devices Using Machine Learning Techniques. US 2021/0241929 A1](https://patentimages.storage.googleapis.com/4f/78/2f/3a63fc5e07a083/US20210241929A1.pdf) United States Patent and Trademark Office, Aug 2021
-3. [Rahul Vishwakarma, System and method for prioritizing and preventing backup failures. US 2021/0374568 A1](https://patentimages.storage.googleapis.com/8e/65/c3/69d60220a9e421/US20210374568A1.pdf) United States Patent and Trademark Office, Dec 2021 
 
     
