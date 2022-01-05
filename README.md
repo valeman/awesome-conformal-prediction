@@ -2,7 +2,7 @@
 
 A professionally curated list of Awesome Conformal Prediction tutorials, videos, books, papers and open-source libraries in Python and R.
 
-Please star the repo and spread the word 
+Please star 🌟 the repo and spread the word 
 
 Slack channel -> https://join.slack.com/t/awesomeconfor-vwn5421/shared_invite/zt-10trn4rdf-wH1w0yv9S6I5Ja~YCZT7mg
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
