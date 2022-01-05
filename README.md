@@ -94,7 +94,7 @@ https://www.youtube.com/watch?v=nql000Lu_iE&t=1769s
 
 ### Tutorials
 
-1. [A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification] (https://arxiv.org/pdf/2107.07511.pdf) by Anastasios N. Angelopoulos and Stephen Bates (2021) 🔥🔥🔥🔥🔥
+1. [A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification](https://arxiv.org/pdf/2107.07511.pdf) by Anastasios N. Angelopoulos and Stephen Bates (2021) 🔥🔥🔥🔥🔥
 2. [A Tutorial on Conformal Prediction](https://www.youtube.com/watch?v=nql000Lu_iE&t=1786s) by Anastasios Angelopoulos and Stephen Bates (2021) 🔥🔥🔥🔥🔥
 3. [A Tutorial on Conformal Predictive Distributions](https://www.youtube.com/watch?v=FUi5jklGvvo&t=3s) by Paolo Toccaceli (2020) 🔥🔥🔥🔥🔥
 4. [Conformal Prediciton Tutorial](https://www.youtube.com/watch?v=0MsGri8nmJQ) by Henrik Linusson (2021) 🔥🔥🔥🔥🔥
