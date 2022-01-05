@@ -28,7 +28,7 @@ When both the top machine learning and the top statistic professors from the bes
 
 Featured resources:
 
-["A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification](https://people.eecs.berkeley.edu/~angelopoulos/publications/downloads/gentle_intro_conformal_dfuq.pdf
+[A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification](https://people.eecs.berkeley.edu/~angelopoulos/publications/downloads/gentle_intro_conformal_dfuq.pdf
 https://www.youtube.com/watch?v=nql000Lu_iE&t=1769s) by Anastasios N. Angelopoulos and Stephen Bates (Berkekey, December 26, 2021)." 🔥🔥🔥🔥🔥
 
 This is newest version of the super-popular tutorial on Conformal Prediction now significantly expanded (2x), including advanced techniques such as covariate shift conformal, as well as a super fun history and literature review in Section 7.
