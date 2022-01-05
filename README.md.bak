@@ -2,19 +2,19 @@
 
 A professionally curated list of Awesome Conformal Prediction tutorials, videos, books, papers and open-source libraries in Python and R.
 
-Please star 🌟 the repo and spread the word 
+Please star the repo and spread the word 
 
 Slack channel -> https://join.slack.com/t/awesomeconfor-vwn5421/shared_invite/zt-10trn4rdf-wH1w0yv9S6I5Ja~YCZT7mg
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Why Conformal Prediction?
 
-One of the most influential and celebrated machine learning researchers - Professor Michael I. Jordan:
+One of the most influential and celebrated machine learning researchers - Professor Michael I. Jordan: 🔥🔥🔥🔥🔥
 
-'𝗖𝗼𝗻𝗳𝗼𝗿𝗺𝗮𝗹 𝗣𝗿𝗲𝗱𝗶𝗰𝘁𝗶𝗼𝗻 𝗶𝗱𝗲𝗮𝘀 𝗮𝗿𝗲 𝗧𝗛𝗘 𝗮𝗻𝘀𝘄𝗲𝗿 𝘁𝗼 𝗨𝗤 (𝘂𝗻𝗰𝗲𝗿𝘁𝗮𝗶𝗻𝘁𝘆 𝗾𝘂𝗮𝗻𝘁𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻), 𝗜 𝘁𝗵𝗶𝗻𝗸 𝗶𝘁'𝘀 𝘁𝗵𝗲 𝗯𝗲𝘀𝘁 𝗜 𝗵𝗮𝘃𝗲 𝘀𝗲𝗲𝗻 𝗶𝘁𝘀 𝘀𝗶𝗺𝗽𝗹𝗲, 𝗴𝗲𝗻𝗲𝗿𝗮𝗹𝗶𝘀𝗮𝗯𝗹𝗲 𝗲𝘁𝗰.' (ICML 2021 UQ workshop). 🔥🔥🔥🔥🔥
+'𝗖𝗼𝗻𝗳𝗼𝗿𝗺𝗮𝗹 𝗣𝗿𝗲𝗱𝗶𝗰𝘁𝗶𝗼𝗻 𝗶𝗱𝗲𝗮𝘀 𝗮𝗿𝗲 𝗧𝗛𝗘 𝗮𝗻𝘀𝘄𝗲𝗿 𝘁𝗼 𝗨𝗤 (𝘂𝗻𝗰𝗲𝗿𝘁𝗮𝗶𝗻𝘁𝘆 𝗾𝘂𝗮𝗻𝘁𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻), 𝗜 𝘁𝗵𝗶𝗻𝗸 𝗶𝘁'𝘀 𝘁𝗵𝗲 𝗯𝗲𝘀𝘁 𝗜 𝗵𝗮𝘃𝗲 𝘀𝗲𝗲𝗻 𝗶𝘁𝘀 𝘀𝗶𝗺𝗽𝗹𝗲, 𝗴𝗲𝗻𝗲𝗿𝗮𝗹𝗶𝘀𝗮𝗯𝗹𝗲 𝗲𝘁𝗰.' (ICML 2021 UQ workshop).
 
-One the most influential statistics Professors - Larry Wasserman (Carnegie Mellon): 
+One the most influential statistics Professors - Larry Wasserman (Carnegie Mellon): 🚀🚀🚀🚀🚀 
 
-'𝗦𝗼 𝘁𝗵𝗲 𝗯𝗲𝗮𝘂𝘁𝘆 𝗼𝗳 𝘁𝗵𝗲 𝗰𝗼𝗻𝗳𝗼𝗿𝗺𝗮𝗹 𝘁𝗵𝗶𝗻𝗴 𝗶𝘀 𝗵𝗼𝘄 𝘀𝗶𝗺𝗽𝗹𝗲 𝗶𝘁 𝗶𝘀 𝘁𝗼 𝗱𝗼 𝗶𝘁 𝗮𝗻𝗱 𝗵𝗼𝘄 𝗴𝗲𝗻𝗲𝗿𝗮𝗹 𝗶𝘁 𝗶𝘀. So I think you know ideas that catch on, general ideas that are pretty general and 𝐞𝐚𝐬𝐲 𝐭𝐨 𝐢𝐦𝐩𝐥𝐞𝐦𝐞𝐧𝐭 𝐭𝐡𝐚𝐭 𝐲𝐨𝐮 𝐜𝐚𝐧 𝐩𝐢𝐜𝐭𝐮𝐫𝐞 𝐲𝐨𝐮𝐫𝐬𝐞𝐥𝐟 𝐮𝐬𝐢𝐧𝐠 𝐢𝐧 𝐫𝐞𝐚𝐥 𝐚𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬 𝐚𝐫𝐞 𝐭𝐡𝐞 𝐫𝐞𝐚𝐬𝐨𝐧 𝐭𝐡𝐚𝐭 𝐩𝐞𝐨𝐩𝐥𝐞 𝐮𝐬𝐢𝐧𝐠 𝐜𝐨𝐧𝐟𝐨𝐫𝐦𝐚𝐥 𝐩𝐫𝐞𝐝𝐢𝐜𝐭𝐢𝐨𝐧.' 🚀🚀🚀🚀🚀 
+'I think it is a combination of things. 𝗦𝗼 𝘁𝗵𝗲 𝗯𝗲𝗮𝘂𝘁𝘆 𝗼𝗳 𝘁𝗵𝗲 𝗰𝗼𝗻𝗳𝗼𝗿𝗺𝗮𝗹 𝘁𝗵𝗶𝗻𝗴 𝗶𝘀 𝗵𝗼𝘄 𝘀𝗶𝗺𝗽𝗹𝗲 𝗶𝘁 𝗶𝘀 𝘁𝗼 𝗱𝗼 𝗶𝘁 𝗮𝗻𝗱 𝗵𝗼𝘄 𝗴𝗲𝗻𝗲𝗿𝗮𝗹 𝗶𝘁 𝗶𝘀. So I think you know ideas that catch on, general ideas that are pretty general and 𝐞𝐚𝐬𝐲 𝐭𝐨 𝐢𝐦𝐩𝐥𝐞𝐦𝐞𝐧𝐭 𝐭𝐡𝐚𝐭 𝐲𝐨𝐮 𝐜𝐚𝐧 𝐩𝐢𝐜𝐭𝐮𝐫𝐞 𝐲𝐨𝐮𝐫𝐬𝐞𝐥𝐟 𝐮𝐬𝐢𝐧𝐠 𝐢𝐧 𝐫𝐞𝐚𝐥 𝐚𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬 𝐚𝐫𝐞 𝐭𝐡𝐞 𝐫𝐞𝐚𝐬𝐨𝐧 𝐭𝐡𝐚𝐭 𝐩𝐞𝐨𝐩𝐥𝐞 𝐮𝐬𝐢𝐧𝐠 𝐜𝐨𝐧𝐟𝐨𝐫𝐦𝐚𝐥 𝐩𝐫𝐞𝐝𝐢𝐜𝐭𝐢𝐨𝐧.'
 
 https://slideslive.com/icml-2021/workshop-on-distributionfree-uncertainty-quantification
 
@@ -26,13 +26,13 @@ When both the top machine learning and the top statistic professors from the bes
 
 🌟 🌟 🌟 🌟 🌟 
 
-Featured resources:
+Featured resource "A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification
+Anastasios N. Angelopoulos and Stephen Bates (Berkekey, December 26, 2021)." 🔥🔥🔥🔥🔥
 
-[A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification](https://people.eecs.berkeley.edu/~angelopoulos/publications/downloads/gentle_intro_conformal_dfuq.pdf)
+This is newest version of the super-popular tutorial on Conformal Prediction now significantly expanded (2x), including advanced techniques such as covariate shift conformal, as well as a super fun history and lit review in S7.
 
-This is newest version of the super-popular tutorial on Conformal Prediction (over 3,500 stars on YouTube) now significantly expanded (2x), including advanced techniques such as covariate shift conformal, as well as a super fun history and literature review in Section 7.
-
-[A Tutorial on Conformal Prediction](https://www.youtube.com/watch?v=nql000Lu_iE&t=1786s) by Anastasios Angelopoulos and Stephen Bates (2021) 🔥🔥🔥🔥🔥
+https://people.eecs.berkeley.edu/~angelopoulos/publications/downloads/gentle_intro_conformal_dfuq.pdf
+https://www.youtube.com/watch?v=nql000Lu_iE&t=1769s
 
 ⭐⭐️⭐️⭐️⭐️
 
@@ -46,10 +46,10 @@ This is newest version of the super-popular tutorial on Conformal Prediction (ov
 * **[PhD Theses](#theses)**
 
 * **[Video Tutorials, Videos and Lectures](#videos)**  
- 
-* **[Papers](#papers)**
 
-* **[Articles](#papers)**
+* **[Patents](#patents)**
+
+* **[Papers](#papers)**  
 
 * **[Tutorials](#tutorials)**  
 
@@ -58,8 +58,6 @@ This is newest version of the super-popular tutorial on Conformal Prediction (ov
 * **[Websites](#websites)**  
 
 * **[Conferences](#Conferences)**
-
-* **[Patents](#patents)**
 
 * **[Software in Python](#software_Python)**  
 
@@ -96,7 +94,7 @@ This is newest version of the super-popular tutorial on Conformal Prediction (ov
 
 ### Tutorials
 
-1. [A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification](https://arxiv.org/pdf/2107.07511.pdf) by Anastasios N. Angelopoulos and Stephen Bates (2021) 🔥🔥🔥🔥🔥
+1. [A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification] (https://arxiv.org/pdf/2107.07511.pdf) by Anastasios N. Angelopoulos and Stephen Bates (2021) 🔥🔥🔥🔥🔥
 2. [A Tutorial on Conformal Prediction](https://www.youtube.com/watch?v=nql000Lu_iE&t=1786s) by Anastasios Angelopoulos and Stephen Bates (2021) 🔥🔥🔥🔥🔥
 3. [A Tutorial on Conformal Predictive Distributions](https://www.youtube.com/watch?v=FUi5jklGvvo&t=3s) by Paolo Toccaceli (2020) 🔥🔥🔥🔥🔥
 4. [Conformal Prediciton Tutorial](https://www.youtube.com/watch?v=0MsGri8nmJQ) by Henrik Linusson (2021) 🔥🔥🔥🔥🔥
@@ -166,9 +164,9 @@ This is newest version of the super-popular tutorial on Conformal Prediction (ov
 
 ### Patents
 
-1. [Rahul Vishwakarma, Method and system for reliably forecasting storage disk failure. US 2021/0034450 A1](https://patentimages.storage.googleapis.com/f4/19/3d/2bca26b6be5fff/US20210034450A1.pdf) United States Patent and Trademark Office, Feb 2021
-2. [Rahul Vishwakarma, Analyzing Time Series Data for Sets of Devices Using Machine Learning Techniques. US 2021/0241929 A1](https://patentimages.storage.googleapis.com/4f/78/2f/3a63fc5e07a083/US20210241929A1.pdf) United States Patent and Trademark Office, Aug 2021
-3. [Rahul Vishwakarma, System and method for prioritizing and preventing backup failures. US 2021/0374568 A1](https://patentimages.storage.googleapis.com/8e/65/c3/69d60220a9e421/US20210374568A1.pdf) United States Patent and Trademark Office, Dec 2021 
+1. [Rahul Vishwakarma, Method and system for reliably forecasting storage disk failure. US 2021/0034450 A1, United States Patent and Trademark Office, 4 February 2021](https://patentimages.storage.googleapis.com/f4/19/3d/2bca26b6be5fff/US20210034450A1.pdf)
+2. [Rahul Vishwakarma, Analyzing Time Series Data for Sets of Devices Using Machine Learning Techniques. US 2021/0241929 A1, United States Patent and Trademark Office, 5 August 2021](https://patentimages.storage.googleapis.com/4f/78/2f/3a63fc5e07a083/US20210241929A1.pdf)
+3. [Rahul Vishwakarma, System and method for prioritizing and preventing backup failures. US 2021/0374568 A1, United States Patent and Trademark Office, 2 December 2021](https://patentimages.storage.googleapis.com/8e/65/c3/69d60220a9e421/US20210374568A1.pdf) 
 
 
 ### Papers
@@ -271,14 +269,6 @@ Jiao Gu, Huaibo Liu, Chaoqun Ma, Lei Li, Chun Zhu, Christ Glorieux, Guoqing Chen
 21. [Ola Spjuth](https://pharmb.io), Uppsala University, Sweden
 22. [Ilia Nouretdinov](https://cml.rhul.ac.uk/people/nouretdinov/index.htm), Royal Holloway, United Kingdom
 
-### Articles
-1. [Measuring Models' Uncertainty: Conformal Prediction](https://blog.dataiku.com/measuring-models-uncertainty-conformal-prediction) by 
-Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
-2. [Conformal Prediction for Neural Regression Model](https://pkghosh.wordpress.com/2021/12/30/conformal-prediction-for-a-neural-regression-model/) by Pranab Ghosh (2021). 🔥🔥🔥🔥🔥
-3. [How to Handle Uncertainty in Forecasts](https://towardsdatascience.com/how-to-handle-uncertainty-in-forecasts-86817f21bb54) by Michael Berk (2021)
-4. [How to Add Uncertainty Estimation to your Models with Conformal Prediction](https://towardsdatascience.com/how-to-add-uncertainty-estimation-to-your-models-with-conformal-prediction-a5acdb86ea05) by Zachary Warnes (2021)
-5. [nonconformist: An easy way to estimate prediction intervals](https://medium.com/spikelab/nonconformist-an-easy-way-to-estimate-prediction-intervals-b0ded1eb066f) by Maria Jesus Ugarte (2021)
-6. [Detecting Weird Data: Conformal Anomaly Detection](https://towardsdatascience.com/detecting-weird-data-conformal-anomaly-detection-20afb36c7bcd) by Matthew Burruss (2020)
 
 ### Websites
 1. [Main website with research from Prof. Vladimir (Volodya) Vovk](http://alrw.net) 🔥🔥🔥🔥🔥
