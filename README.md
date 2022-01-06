@@ -240,7 +240,7 @@ Jiao Gu, Huaibo Liu, Chaoqun Ma, Lei Li, Chun Zhu, Christ Glorieux, Guoqing Chen
 68. [Comparing the Bayes and typicalness frameworks](https://link.springer.com/content/pdf/10.1007%2F3-540-44795-4_31.pdf) by Thomas Melluish, Craig Saunders, Ilia Nouretdinov, and Volodya Vovk (Royal Holloway, UK, 2001). 🔥🔥🔥🔥🔥
 69. [Large-scale probabilistic predictors with and without guarantees of validity](https://papers.nips.cc/paper/2015/file/a9a1d5317a33ae8cef33961c34144f84-Paper.pdf) by Vladimir Vovk, Ivan Petej, and Valentina Fedorova (Royal Holloway, Yandex, NeurIPS) 🔥🔥🔥🔥🔥
 70. [Inductive conformal prediction for silent speech recognition](https://iopscience.iop.org/article/10.1088/1741-2552/ab7ba0) by Ming Zhang, You Wang, Wei Zhang, Meng Yang, Zhiyuan Luo and Guang Li (2020)
-71. [Conformal Prediction using Conditional Histograms](https://papers.nips.cc/paper/2021/file/31b3b31a1c2f8a370206f111127c0dbd-Paper.pdf) by Matteo Sesia and Yaniv Romano (NeurIPS 2021 paper).
+71. [Conformal Prediction using Conditional Histograms](https://papers.nips.cc/paper/2021/file/31b3b31a1c2f8a370206f111127c0dbd-Paper.pdf) by Matteo Sesia and Yaniv Romano (NeurIPS 2021 paper). 🔥🔥🔥🔥🔥
 
 ### Researchers
 1. [Vladimir Vovk](vovk.net), Royal Holloway, United Kingdom 
@@ -308,6 +308,7 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 9. [Conformal: an R package to calculate prediction errors in the conformal prediction framework](https://github.com/isidroc/conformal/) by Isidro Cortes, 2019 
 10. [Copula Conformal Multi Target Regression](https://github.com/M-Soundouss/CopulaConformalMTR) by Soundouss Messoudi (2021)
 11. [Uncertainty Toolbox](https://github.com/uncertainty-toolbox/uncertainty-toolbox) by Youngseog Chung, Willie Neiswanger, Ian Char and Han Guo (2021)
+12. [Conformal Histogram Regression: efficient conformity scores for non-parametric regression problems](https://github.com/msesia/chr) by Mateo Sesia and Yaniv Romano (NeurIPS 2021). 🔥🔥🔥🔥🔥
 
 ### Software R
 1. [Conformal Inference R Project](https://github.com/ryantibs/conformal) maintained by Ryan Tibshirani (2016) 🔥🔥🔥🔥🔥
