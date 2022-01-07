@@ -93,6 +93,7 @@ This is newest version of the super-popular tutorial on Conformal Prediction (ov
 8. [Towards a Question Answering View of Natural Language Processing](https://pure.royalholloway.ac.uk/portal/files/35163753/Towards_a_Question_Answering_View_of_Natural_Language_Processing_3.pdf) by Zukov Gregoric, Andrej (Royal Holloway, UK, 2019)
 9. [Confidence and Venn Machines and Their Applications to Proteomics](https://pure.royalholloway.ac.uk/portal/files/1402925/PhD_Thesis_Final_Dmitry_Devetyarov.pdf) by Devetyarov, Dmitry (Royal Holloway, UK, 2019)
 10. [Conformal Anomaly Detection - detecting abnormanl trajectories in surveillance applications](https://www.diva-portal.org/smash/get/diva2:690997/FULLTEXT02.pdf) by Rikard Laxhammar (University of Skoeve, Sweden, 2014)
+11. [Inductive Confidence Machine for Pattern Recognition - is it the next step towards AI](https://github.com/eghamtech/AIOS/blob/master/notebooks/David_Surkov-RHUL-thesis-2004.pdf) by David Surkov (Royal Holloway, UK, 2004)
 
 ### Tutorials
 
