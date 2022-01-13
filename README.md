@@ -242,6 +242,7 @@ Jiao Gu, Huaibo Liu, Chaoqun Ma, Lei Li, Chun Zhu, Christ Glorieux, Guoqing Chen
 69. [Large-scale probabilistic predictors with and without guarantees of validity](https://papers.nips.cc/paper/2015/file/a9a1d5317a33ae8cef33961c34144f84-Paper.pdf) by Vladimir Vovk, Ivan Petej, and Valentina Fedorova (Royal Holloway, Yandex, NeurIPS) 🔥🔥🔥🔥🔥
 70. [Inductive conformal prediction for silent speech recognition](https://iopscience.iop.org/article/10.1088/1741-2552/ab7ba0) by Ming Zhang, You Wang, Wei Zhang, Meng Yang, Zhiyuan Luo and Guang Li (2020)
 71. [Conformal Prediction using Conditional Histograms](https://papers.nips.cc/paper/2021/file/31b3b31a1c2f8a370206f111127c0dbd-Paper.pdf) by Matteo Sesia and Yaniv Romano (NeurIPS 2021 paper). 🔥🔥🔥🔥🔥
+72. [Valid prediction intervals for regression problems](https://arxiv.org/abs/2107.00363) by Nicolas Dewolf, Bernard De Baets, Willem Waegeman (2021) 🔥🔥🔥🔥🔥
 
 ### Researchers
 1. [Vladimir Vovk](vovk.net), Royal Holloway, United Kingdom 
