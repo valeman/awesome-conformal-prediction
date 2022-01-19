@@ -244,6 +244,7 @@ Jiao Gu, Huaibo Liu, Chaoqun Ma, Lei Li, Chun Zhu, Christ Glorieux, Guoqing Chen
 71. [Conformal Prediction using Conditional Histograms](https://papers.nips.cc/paper/2021/file/31b3b31a1c2f8a370206f111127c0dbd-Paper.pdf) by Matteo Sesia and Yaniv Romano (NeurIPS 2021 paper). 🔥🔥🔥🔥🔥
 72. [Valid prediction intervals for regression problems](https://arxiv.org/abs/2107.00363) by Nicolas Dewolf, Bernard De Baets, Willem Waegeman (2021) 🔥🔥🔥🔥🔥
 73.[Application of conformal prediction interval estimations to market makers’ net positions](http://proceedings.mlr.press/v128/wisniewski20a.html) by Wojciech Wisniewski, David Lindsay, Sian Lindsay (Royal Holloway, UK, 2020)
+74. [Locally Valid and Discriminative Prediction Intervals for Deep Learning Models](https://papers.nips.cc/paper/2021/hash/46c7cb50b373877fb2f8d5c4517bb969-Abstract.html) by Zhen Lin, Shubhendu Trivedi, Jimeng Sun (NeurIPS, 2021) 🔥🔥🔥🔥🔥
 
 
 
