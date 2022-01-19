@@ -247,8 +247,6 @@ Jiao Gu, Huaibo Liu, Chaoqun Ma, Lei Li, Chun Zhu, Christ Glorieux, Guoqing Chen
 74. [Locally Valid and Discriminative Prediction Intervals for Deep Learning Models](https://papers.nips.cc/paper/2021/hash/46c7cb50b373877fb2f8d5c4517bb969-Abstract.html) by Zhen Lin, Shubhendu Trivedi, Jimeng Sun (NeurIPS, 2021) 🔥🔥🔥🔥🔥
 
 
-
-
 ### Researchers
 1. [Vladimir Vovk](vovk.net), Royal Holloway, United Kingdom 
 2. [Alexander Gammerman](https://cml.rhul.ac.uk/people/alex/), Royal Holloway, United Kingdom 
@@ -279,8 +277,9 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 2. [Conformal Prediction for Neural Regression Model](https://pkghosh.wordpress.com/2021/12/30/conformal-prediction-for-a-neural-regression-model/) by Pranab Ghosh (2021). 🔥🔥🔥🔥🔥
 3. [How to Handle Uncertainty in Forecasts](https://towardsdatascience.com/how-to-handle-uncertainty-in-forecasts-86817f21bb54) by Michael Berk (2021)
 4. [How to Add Uncertainty Estimation to your Models with Conformal Prediction](https://towardsdatascience.com/how-to-add-uncertainty-estimation-to-your-models-with-conformal-prediction-a5acdb86ea05) by Zachary Warnes (2021)
-5. [nonconformist: An easy way to estimate prediction intervals](https://medium.com/spikelab/nonconformist-an-easy-way-to-estimate-prediction-intervals-b0ded1eb066f) by Maria Jesus Ugarte (2021)
-6. [Detecting Weird Data: Conformal Anomaly Detection](https://towardsdatascience.com/detecting-weird-data-conformal-anomaly-detection-20afb36c7bcd) by Matthew Burruss (2020)
+5. [nonconformist: An easy way to estimate prediction intervals](https://medium.com/spikelab/nonconformist-an-easy-way-to-estimate-prediction-intervals-b0ded1eb066f) by Maria Jesus Ugarte (2021).
+6. [Detecting Weird Data: Conformal Anomaly Detection](https://towardsdatascience.com/detecting-weird-data-conformal-anomaly-detection-20afb36c7bcd) by Matthew Burruss (2020).
+7. [“MAPIE” Explained Exactly How You Wished Someone Explained to You](https://towardsdatascience.com/mapie-explained-exactly-how-you-wished-someone-explained-to-you-78fb8ce81ff3) by Samuele Mazzanti (2022). 🔥🔥🔥🔥🔥
 
 ### Websites
 1. [Main website with research from Prof. Vladimir (Volodya) Vovk](http://alrw.net) 🔥🔥🔥🔥🔥
@@ -306,7 +305,7 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 
 1. [Nonconformist](https://github.com/donlnz/nonconformist) by Henrik Linusson (2015) 🔥🔥🔥🔥🔥
 2. [Venn-ABERS Predictor](https://github.com/ptocca/VennABERS) by Paolo Toccaceli (2019), based on NeurIPS 2015 paper 'Large-scale probabilistic predictors with and without guarantees of validity' (#69 on papers list) 🔥🔥🔥🔥🔥
-3. [MAPIE - Model Agnostic Prediction Interval Estimator](https://github.com/scikit-learn-contrib/MAPIE) (2021) 🔥🔥🔥🔥🔥
+3. [MAPIE - Model Agnostic Prediction Interval Estimator](https://github.com/scikit-learn-contrib/MAPIE) (2021) 🔥🔥🔥🔥🔥 
 4. ['Crêpes' - Conformal regressors and predictive systems](https://github.com/henrikbostrom/crepes) by Henrik Boström (2021)
 5. [Conformalized Quantile Regression](https://github.com/yromano/cqr) by Yaniv Romano (2019) 🔥🔥🔥🔥🔥
 6. [Conformal Classification](https://github.com/aangelopoulos/conformal_classification) by Anastasios N. Angelopoulos (2021)
