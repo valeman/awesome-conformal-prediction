@@ -245,6 +245,7 @@ Jiao Gu, Huaibo Liu, Chaoqun Ma, Lei Li, Chun Zhu, Christ Glorieux, Guoqing Chen
 72. [Valid prediction intervals for regression problems](https://arxiv.org/abs/2107.00363) by Nicolas Dewolf, Bernard De Baets, Willem Waegeman (2021) 🔥🔥🔥🔥🔥
 73.[Application of conformal prediction interval estimations to market makers’ net positions](http://proceedings.mlr.press/v128/wisniewski20a.html) by Wojciech Wisniewski, David Lindsay, Sian Lindsay (Royal Holloway, UK, 2020)
 74. [Locally Valid and Discriminative Prediction Intervals for Deep Learning Models](https://papers.nips.cc/paper/2021/hash/46c7cb50b373877fb2f8d5c4517bb969-Abstract.html) by Zhen Lin, Shubhendu Trivedi, Jimeng Sun (NeurIPS, 2021) 🔥🔥🔥🔥🔥
+75. [Distribution-Free Federated Learning with Conformal Predictions](https://arxiv.org/pdf/2110.07661.pdf) by Charles Lu and Jayashree Kalpathy-Cramer (2022)
 
 
 ### Researchers
