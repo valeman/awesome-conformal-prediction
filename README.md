@@ -46,39 +46,39 @@ This is newest version of the super-popular tutorial on Conformal Prediction (ov
 
 ## [Table of Contents]()
 
-* [Books](#books)
+* [Books](#Books)
 
-* [PhD Theses](#theses)
+* [PhD Theses](#Theses)
 
-* [Video Tutorials, Videos and Lectures](#videos) 
+* [Videos](#Videos) 
  
-* [Papers](#papers)
+* [Papers](#Papers)
 
-* [Articles](#papers)
+* [Articles](#Article)
 
-* [Tutorials](#tutorials)
+* [Tutorials](#Tutorials)
 
-* [Researchers](#researchers)
+* [Researchers](#Researchers)
 
-* [Websites](#websites)
+* [Websites](#Websites)
 
 * [Conferences](#Conferences)
 
-* [Patents](#patents)
+* [Patents](#Patents)
 
-* [Software in Python](#software_Python)  
+* [Code Python](#Code-Python)  
 
-* [Software in R](#software_R)
+* [Code R](#Code-R)
 
-* [Software in Julia](#software_Julia) 
+* [Code Julia](#Code-Julia) 
 
-* [Software in C++](#software_C++)
+* [Code C++](#Code-C++)
 
-* [Software in Scala and Spark](#software_R)
+* [Code Scala and Spark](#Code-Scala_Spark)
 
-* [Miscellaneous](#miscellaneous)
+* [Miscellaneous](#Miscellaneous)
 
-* [Contributing](#contributing) 
+* [Contributing](#Contributing) 
 
 <a href="https://www.buymeacoffee.com/valeman" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
@@ -87,7 +87,7 @@ This is newest version of the super-popular tutorial on Conformal Prediction (ov
 1. [Algorithmic Learning in a Random World](https://link.springer.com/book/10.1007/b106715) by Vladimir Vovk and Alex Gammerman, also Glenn Shafer (2005). Second edition in progress.
 2. [Conformal Prediciton for Reliable Machine Learning](https://www.elsevier.com/books/conformal-prediction-for-reliable-machine-learning/balasubramanian/978-0-12-398537-8) by Vineeth Balasubramanian, Shen-Shyang Ho, Vladimir Vovk (2014)
 
-## PhD Theses
+## Theses
 1. [Conformal and Venn Predictors for large, imbalanced and sparse chemoinformatics data](https://pure.royalholloway.ac.uk/portal/files/41316291/2021toccacelipphd.pdf) by Paolo Toccaceli (Royal Holloway, UK, 2021)
 2. [Competitive online algorithms for probabilistic prediction](https://pure.royalholloway.ac.uk/portal/files/36216771/Thesis_Raisa.pdf) by Raisa Dzhamtyrova (Royal Holloway, UK, 2020)
 3. [Conformal Prediction and Testing under On-line Compression Models](https://pure.royalholloway.ac.uk/portal/files/20318074/2014fedorovavphd.pdf) by Valentina Fedorova (Royal Holloway, UK, 2014)
@@ -113,7 +113,7 @@ This is newest version of the super-popular tutorial on Conformal Prediction (ov
 9. [A Tutorial on Conformal Prediction](https://jmlr.org/papers/v9/shafer08a.html) by Glenn Shafer and Vladimir Vovk (2008) 🔥🔥🔥🔥🔥
 10. [Conformal Prediction: a Unified Review of Theory and New Challenges](https://www.e-publications.org/ims/submission/BEJ/user/submissionFile/46245?confirm=193b4e5b) by Gianluca Zeni, Matteo Fontana1 and Simone Vantini (Politecnico di Milano, Italy, 2021)
 
-## Video Tutorials, Videos and Lectures  
+## Videos 
 
 1. [Treatment of Uncertainty in the Foundations of Probability](https://www.youtube.com/watch?v=B7E-QJ9fm4w&t=2297s) by Vladimir Vovk (Royal Holloway, UK, 2017)
 2. [Large-Scale Probabilistic Prediction With and Without Validity Guarantees](https://www.youtube.com/watch?v=ksrUJdb2tA8) by Vladimir Vovk (Royal Holloway, UK, NeurIPS 2015) 🔥🔥🔥🔥🔥
@@ -307,7 +307,7 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 2. [Rahul Vishwakarma, Analyzing Time Series Data for Sets of Devices Using Machine Learning Techniques. US 2021/0241929 A1](https://patentimages.storage.googleapis.com/4f/78/2f/3a63fc5e07a083/US20210241929A1.pdf) United States Patent and Trademark Office, Aug 2021
 3. [Rahul Vishwakarma, System and method for prioritizing and preventing backup failures. US 2021/0374568 A1](https://patentimages.storage.googleapis.com/8e/65/c3/69d60220a9e421/US20210374568A1.pdf) United States Patent and Trademark Office, Dec 2021 
 
-## Software Python
+## Code-Python
 
 1. [Nonconformist](https://github.com/donlnz/nonconformist) by Henrik Linusson (2015) 🔥🔥🔥🔥🔥
 2. [Venn-ABERS Predictor](https://github.com/ptocca/VennABERS) by Paolo Toccaceli (2019), based on NeurIPS 2015 paper 'Large-scale probabilistic predictors with and without guarantees of validity' (#69 on papers list) 🔥🔥🔥🔥🔥
@@ -322,7 +322,7 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 11. [Uncertainty Toolbox](https://github.com/uncertainty-toolbox/uncertainty-toolbox) by Youngseog Chung, Willie Neiswanger, Ian Char and Han Guo (2021)
 12. [Conformal Histogram Regression: efficient conformity scores for non-parametric regression problems](https://github.com/msesia/chr) by Mateo Sesia and Yaniv Romano (NeurIPS 2021). 🔥🔥🔥🔥🔥
 
-## Software R
+## Code-R
 1. [Conformal Inference R Project](https://github.com/ryantibs/conformal) maintained by Ryan Tibshirani (2016) 🔥🔥🔥🔥🔥
 2. [Prediction Bands](https://github.com/rizbicki/predictionBands) by Rafael Izbicki and Benjamin LeRoy (2019)
 3. [Conformal: an R package to calculate prediction errors in the conformal prediction framework](https://github.com/isidroc/conformal/) by Isidro Cortes, 2019
@@ -330,16 +330,16 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 5. [piRF - Prediction Intervals for Random Forests](https://github.com/chancejohnstone/piRF) by Chancellor Johnstone and Haozhe Zhang (2019)
 6. [conformalClassification: Transductive and Inductive Conformal Predictions for Classification Problems](https://cran.r-project.org/web/packages/conformalClassification/) by Niharika Gauraha and Ola Spjuth (2019)
 
-## Software C++
+## Code-C++
 1. [LibCP -- A Library for Conformal Prediction](https://github.com/fated/libcp) 🔥🔥🔥🔥🔥
 2. [An Implementation of Venn-ABERS predictor](https://github.com/fated/venn-abers-predictor) 🔥🔥🔥🔥🔥
 3. [LibVM -- A Library for Venn Machine](https://github.com/fated/libvm)
 
-## Software Julia
+## Code-Julia
 
 1. [RandomForest](https://github.com/henrikbostrom/RandomForest) by Henrik Boström (2017) 🔥🔥🔥🔥🔥
 
-## Software Scala and Spark
+## Code-Scala-Spark
 [Scala-CP](https://github.com/mcapuccini/scala-cp) by Marco Capuccini (2020) 🔥🔥🔥🔥🔥
 
 
