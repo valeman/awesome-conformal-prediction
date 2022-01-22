@@ -72,9 +72,7 @@ This is newest version of the super-popular tutorial on Conformal Prediction (ov
 
 * [Code Julia](#Code-Julia) 
 
-* [Code C++](#Code-C++)
-
-* [Code Scala and Spark](#Code-Scala_Spark)
+* [Code Other Languages](#Code-Other)
 
 * [Miscellaneous](#Miscellaneous)
 
@@ -330,17 +328,15 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 5. [piRF - Prediction Intervals for Random Forests](https://github.com/chancejohnstone/piRF) by Chancellor Johnstone and Haozhe Zhang (2019)
 6. [conformalClassification: Transductive and Inductive Conformal Predictions for Classification Problems](https://cran.r-project.org/web/packages/conformalClassification/) by Niharika Gauraha and Ola Spjuth (2019)
 
-## Code-C++
-1. [LibCP -- A Library for Conformal Prediction](https://github.com/fated/libcp) 🔥🔥🔥🔥🔥
-2. [An Implementation of Venn-ABERS predictor](https://github.com/fated/venn-abers-predictor) 🔥🔥🔥🔥🔥
-3. [LibVM -- A Library for Venn Machine](https://github.com/fated/libvm)
-
 ## Code-Julia
 
 1. [RandomForest](https://github.com/henrikbostrom/RandomForest) by Henrik Boström (2017) 🔥🔥🔥🔥🔥
 
-## Code-Scala-Spark
-[Scala-CP](https://github.com/mcapuccini/scala-cp) by Marco Capuccini (2020) 🔥🔥🔥🔥🔥
+## Code-Other
+1. [LibCP -- A Library for Conformal Prediction](https://github.com/fated/libcp) 🔥🔥🔥🔥🔥
+2. [An Implementation of Venn-ABERS predictor](https://github.com/fated/venn-abers-predictor) 🔥🔥🔥🔥🔥
+3. [LibVM -- A Library for Venn Machine](https://github.com/fated/libvm)
+4. [Scala-CP](https://github.com/mcapuccini/scala-cp) by Marco Capuccini (2020) 🔥🔥🔥🔥🔥
 
 
     
