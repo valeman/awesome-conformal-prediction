@@ -48,13 +48,13 @@ This is newest version of the super-popular tutorial on Conformal Prediction (ov
 
 * [Books](#Books)
 
-* [PhD Theses](#Theses)
+* [PhD and MSc Theses](#Theses)
 
 * [Videos](#Videos) 
  
 * [Papers](#Papers)
 
-* [Articles](#Article)
+* [Articles](#Articles)
 
 * [Tutorials](#Tutorials)
 
