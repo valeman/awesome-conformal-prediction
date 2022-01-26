@@ -284,6 +284,7 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 5. [nonconformist: An easy way to estimate prediction intervals](https://medium.com/spikelab/nonconformist-an-easy-way-to-estimate-prediction-intervals-b0ded1eb066f) by Maria Jesus Ugarte (2021).
 6. [Detecting Weird Data: Conformal Anomaly Detection](https://towardsdatascience.com/detecting-weird-data-conformal-anomaly-detection-20afb36c7bcd) by Matthew Burruss (2020).
 7. [“MAPIE” Explained Exactly How You Wished Someone Explained to You](https://towardsdatascience.com/mapie-explained-exactly-how-you-wished-someone-explained-to-you-78fb8ce81ff3) by Samuele Mazzanti (2022). 🔥🔥🔥🔥🔥
+8. [With MAPIE, uncertainties are back in machine learning](https://towardsdatascience.com/with-mapie-uncertainties-are-back-in-machine-learning-882d5c17fdc3) by Vianney Taquet (2021) 🔥🔥🔥🔥🔥
 
 ## Websites
 1. [Main website with research from Prof. Vladimir (Volodya) Vovk](http://alrw.net) 🔥🔥🔥🔥🔥
