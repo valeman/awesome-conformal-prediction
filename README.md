@@ -58,6 +58,8 @@ This is newest version of the super-popular tutorial on Conformal Prediction (ov
 
 * [Tutorials](#Tutorials)
 
+* [Presentation_slides](#Presentation_slides)
+
 * [Researchers](#Researchers)
 
 * [Websites](#Websites)
@@ -110,6 +112,9 @@ This is newest version of the super-popular tutorial on Conformal Prediction (ov
 8. [Ulf Johansson: Venn Predictors](https://www.youtube.com/watch?v=xxZOLo8wxe0&t=98s) by Ulf Johansson (2020)
 9. [A Tutorial on Conformal Prediction](https://jmlr.org/papers/v9/shafer08a.html) by Glenn Shafer and Vladimir Vovk (2008) 🔥🔥🔥🔥🔥
 10. [Conformal Prediction: a Unified Review of Theory and New Challenges](https://www.e-publications.org/ims/submission/BEJ/user/submissionFile/46245?confirm=193b4e5b) by Gianluca Zeni, Matteo Fontana1 and Simone Vantini (Politecnico di Milano, Italy, 2021)
+11. [Conformal Prediction in Spark](https://docs.google.com/presentation/d/1eD1vUJVR3nejyJZsOMfxL-NxrLy7K2UUMSAEMHYLfek/edit#slide=id.g2276269343_0_129) by Marco Capuccini (Uppsala University, 2017)
+12. [Tutorial on Venn-ABERS prediction](https://cml.rhul.ac.uk/copa2017/presentations/VennTutorialCOPA2017.pdf) by Paolo Toccaceli (Royal Holloway, UK, 2017) 🔥🔥🔥🔥🔥
+13. [An Introduction to Conformal Prediction](https://cml.rhul.ac.uk/copa2017/presentations/CP_Tutorial_2017.pdf) by Henrik Linusson (2017) 🔥🔥🔥🔥🔥
 
 ## Videos 
 
@@ -250,6 +255,10 @@ Jiao Gu, Huaibo Liu, Chaoqun Ma, Lei Li, Chun Zhu, Christ Glorieux, Guoqing Chen
 74. [Locally Valid and Discriminative Prediction Intervals for Deep Learning Models](https://papers.nips.cc/paper/2021/hash/46c7cb50b373877fb2f8d5c4517bb969-Abstract.html) by Zhen Lin, Shubhendu Trivedi, Jimeng Sun (NeurIPS, 2021) 🔥🔥🔥🔥🔥
 75. [Distribution-Free Federated Learning with Conformal Predictions](https://arxiv.org/pdf/2110.07661.pdf) by Charles Lu and Jayashree Kalpathy-Cramer (2022)
 
+## Presentation_slides
+1. [Adaptive Conformal Anomaly Detection for Time-series](https://cml.rhul.ac.uk/copa2017/presentations/burnaev.pdf) by Evgeny Burnaev, Alexander Bernstein, Vlad Ishimtsev and Ivan Nazarov (Skoltech, Moscow, Russia, 2017)
+2.  
+
 
 ## Researchers
 1. [Vladimir Vovk](vovk.net), Royal Holloway, United Kingdom 
@@ -338,7 +347,7 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 1. [LibCP -- A Library for Conformal Prediction](https://github.com/fated/libcp) 🔥🔥🔥🔥🔥
 2. [An Implementation of Venn-ABERS predictor](https://github.com/fated/venn-abers-predictor) 🔥🔥🔥🔥🔥
 3. [LibVM -- A Library for Venn Machine](https://github.com/fated/libvm)
-4. [Scala-CP](https://github.com/mcapuccini/scala-cp) by Marco Capuccini (2020) 🔥🔥🔥🔥🔥
+4. [Scala-CP](https://github.com/mcapuccini/scala-cp) by Marco Capuccini (2017)' 🔥🔥🔥🔥🔥 (see tutorial section 'Conformal Prediction in Spark')
 
 
     
