@@ -254,6 +254,9 @@ Jiao Gu, Huaibo Liu, Chaoqun Ma, Lei Li, Chun Zhu, Christ Glorieux, Guoqing Chen
 73. [Application of conformal prediction interval estimations to market makers’ net positions](http://proceedings.mlr.press/v128/wisniewski20a.html) by Wojciech Wisniewski, David Lindsay, Sian Lindsay (Royal Holloway, UK, 2020)
 74. [Locally Valid and Discriminative Prediction Intervals for Deep Learning Models](https://papers.nips.cc/paper/2021/hash/46c7cb50b373877fb2f8d5c4517bb969-Abstract.html) by Zhen Lin, Shubhendu Trivedi, Jimeng Sun (NeurIPS, 2021) 🔥🔥🔥🔥🔥
 75. [Distribution-Free Federated Learning with Conformal Predictions](https://arxiv.org/pdf/2110.07661.pdf) by Charles Lu and Jayashree Kalpathy-Cramer (2022)
+76. [Coreset-based Conformal Prediction for Large-scale Learning](https://proceedings.mlr.press/v105/riquelme-granada19a.html) by Nery Riquelme-Granada, Khuong Nguyen, Zhiyuan Luo (Royal Holloway, UK, 2019)
+77. [Fast probabilistic prediction for kernel SVM via enclosing balls](https://proceedings.mlr.press/v128/riquelme-granada20a.html) by Nery Riquelme-Granada, Khuong Nguyen, Zhiyuan Luo (Royal Holloway, UK, 2020)
+78. [Conformalized density- and distance-based anomaly detection in time-series data](https://arxiv.org/abs/1608.04585) by Evgeny Burnaev, Vladislav Ishimtsev (2016) 
 
 ## Presentation_slides
 1. [Adaptive Conformal Anomaly Detection for Time-series](https://cml.rhul.ac.uk/copa2017/presentations/burnaev.pdf) by Evgeny Burnaev, Alexander Bernstein, Vlad Ishimtsev and Ivan Nazarov (Skoltech, Moscow, Russia, 2017)
