@@ -259,6 +259,8 @@ Jiao Gu, Huaibo Liu, Chaoqun Ma, Lei Li, Chun Zhu, Christ Glorieux, Guoqing Chen
 78. [Conformalized density- and distance-based anomaly detection in time-series data](https://arxiv.org/abs/1608.04585) by Evgeny Burnaev, Vladislav Ishimtsev (2016) 
 79. [Predictive Inference with Weak Supervision](https://arxiv.org/pdf/2201.08315.pdf) by Maxime Cauchois, Suyash Gupta, Alnur Ali and John Duchi (Stanford, 2022)
 80. [Conformal Prediction in Clinical Medical Sciences](https://link.springer.com/10.1007/s41666-021-00113-8) by Janette Vazquez and Julio C. Facelli University of Utah, 2022)
+81. [Provably Improving Expert Predictions with Conformal Prediction](https://arxiv.org/pdf/2201.12006.pdf) by Eleni Straitouri, Lequng Wang,  Nastaran Okati and Manuel Gomez Rodriguez (Max Planck Institute for Software Systems / Cornell University, 2021).
+
 
 ## Presentation_slides
 1. [Adaptive Conformal Anomaly Detection for Time-series](https://cml.rhul.ac.uk/copa2017/presentations/burnaev.pdf) by Evgeny Burnaev, Alexander Bernstein, Vlad Ishimtsev and Ivan Nazarov (Skoltech, Moscow, Russia, 2017)
