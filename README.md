@@ -257,6 +257,7 @@ Jiao Gu, Huaibo Liu, Chaoqun Ma, Lei Li, Chun Zhu, Christ Glorieux, Guoqing Chen
 76. [Coreset-based Conformal Prediction for Large-scale Learning](https://proceedings.mlr.press/v105/riquelme-granada19a.html) by Nery Riquelme-Granada, Khuong Nguyen, Zhiyuan Luo (Royal Holloway, UK, 2019)
 77. [Fast probabilistic prediction for kernel SVM via enclosing balls](https://proceedings.mlr.press/v128/riquelme-granada20a.html) by Nery Riquelme-Granada, Khuong Nguyen, Zhiyuan Luo (Royal Holloway, UK, 2020)
 78. [Conformalized density- and distance-based anomaly detection in time-series data](https://arxiv.org/abs/1608.04585) by Evgeny Burnaev, Vladislav Ishimtsev (2016) 
+79. [Predictive Inference with Weak Supervision](https://arxiv.org/pdf/2201.08315.pdf) by Maxime Cauchois, Suyash Gupta, Alnur Ali and John Duchi (Stanford, 2022)
 
 ## Presentation_slides
 1. [Adaptive Conformal Anomaly Detection for Time-series](https://cml.rhul.ac.uk/copa2017/presentations/burnaev.pdf) by Evgeny Burnaev, Alexander Bernstein, Vlad Ishimtsev and Ivan Nazarov (Skoltech, Moscow, Russia, 2017)
