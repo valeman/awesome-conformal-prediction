@@ -102,6 +102,7 @@ This is newest version of the super-popular tutorial on Conformal Prediction (ov
 10. [Conformal Anomaly Detection - detecting abnormanl trajectories in surveillance applications](https://www.diva-portal.org/smash/get/diva2:690997/FULLTEXT02.pdf) by Rikard Laxhammar (University of Skoeve, Sweden, 2014)
 11. [Inductive Confidence Machine for Pattern Recognition - is it the next step towards AI](https://github.com/eghamtech/AIOS/blob/master/notebooks/David_Surkov-RHUL-thesis-2004.pdf) by David Surkov (Royal Holloway, UK, 2004)
 12. [Distribution Free Prediction Intervals for Multiple Functional Regression)(http://d-scholarship.pitt.edu/39495/1/RMK%20Dissertation%20Final.pdf) by Ryan Kelly (University of Pittsburgh, 2020).
+13. [Probabilistic Load Forecasting with Deep Conformalized Quantile Regression](https://munin.uit.no/bitstream/handle/10037/21914/thesis.pdf?sequence=2) by Vilde Jensen (Artcic University of Norway, 2021)
 
 ## Tutorials
 
