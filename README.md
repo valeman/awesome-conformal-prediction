@@ -1,6 +1,6 @@
 # Awesome Conformal Prediction [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-A professionally curated list of Awesome Conformal Prediction tutorials, videos, books, papers and open-source libraries in Python and R.
+Most comprehensive professionally curated list of Awesome Conformal Prediction tutorials, videos, books, papers and open-source libraries in Python and R.
 
 Please star 🌟 the repo and spread the word 
 
