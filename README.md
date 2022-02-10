@@ -269,6 +269,7 @@ Jiao Gu, Huaibo Liu, Chaoqun Ma, Lei Li, Chun Zhu, Christ Glorieux, Guoqing Chen
 84. [Computationally efficient versions of conformal predictive distributions](https://arxiv.org/abs/1911.00941) by Vladimir Vovk, Ivan Petej, Ilia Nouretdinov, Valery Manokhin, Alex Gammerman (Royal Holloway, UK, 2019).
 85. [Cover your cough: detection of respiratory events with confidence using a smartwatch](https://proceedings.mlr.press/v91/nguyen18a.html) by Khuong An Nguyen, Zhiyuan Luo (Royal Holloway, 2019).
 86. [Predicting Amazon customer reviews with deep confidence using deep learning and conformal prediction](https://www.tandfonline.com/doi/full/10.1080/23270012.2022.2031324) by Ulf Norinder and Petra Norinder (2022)
+87. [Conformal Prediction for the Design Problem](https://arxiv.org/pdf/2202.03613.pdf) by Clara Fannjianga, Stephen Batesa, Anastasios Angelopoulosa, Jennifer Listgartena and Michael I. Jordan (Berkeley, 2022) 🔥🔥🔥🔥🔥
 
 
 ## Presentation_slides
