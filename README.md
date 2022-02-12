@@ -4,7 +4,7 @@ Most comprehensive professionally curated list of Awesome Conformal Prediction t
 
 Please star 🌟 the repo and spread the word 
 
-Slack channel -> https://join.slack.com/t/awesomeconfor-vwn5421/shared_invite/zt-10trn4rdf-wH1w0yv9S6I5Ja~YCZT7mg
+Slack for Awesome Conformal Prediction -> https://awesomeconfor-vwn5421.slack.com/join/shared_invite/zt-130clmoxs-jOwU1LpbQ_Ih7cGScoDpBg#/shared-invite/email
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Why Conformal Prediction?
 
