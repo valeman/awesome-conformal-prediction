@@ -272,6 +272,7 @@ Jiao Gu, Huaibo Liu, Chaoqun Ma, Lei Li, Chun Zhu, Christ Glorieux, Guoqing Chen
 87. [Conformal Prediction for the Design Problem](https://arxiv.org/pdf/2202.03613.pdf) by Clara Fannjianga, Stephen Batesa, Anastasios Angelopoulosa, Jennifer Listgartena and Michael I. Jordan (Berkeley, 2022) 🔥🔥🔥🔥🔥
 88. [Image-to-Image Regression with Distribution-Free Uncertainty Quantification and Applications in Imaging](https://arxiv.org/pdf/2202.05265.pdf) by Anastasios N. Angelopoulos, Amit Kohli, Stephen Bates, Michael I. Jordan, Jitendra Malik, Thayer Alshaabi, Srigokul Upadhyayula, Yaniv Romano (Berkeley and Technion, 2022) 🔥🔥🔥🔥🔥
 89. [Conformal predictive decision making](http://proceedings.mlr.press/v91/vovk18b/vovk18b.pdf) by Vladimir Vovk and Claus Bendtsen (2018).
+90. [The Lifecycle of a Statistical Model: Model Failure Detection, Identification, and Refitting](https://arxiv.org/pdf/2202.04166.pdf) by Alnur Ali1, Maxime Cauchois and John C. Duchi (Stanford, 2022)
 
 
 ## Presentation_slides
