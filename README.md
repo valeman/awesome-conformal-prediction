@@ -46,6 +46,8 @@ This is newest version of the super-popular tutorial on Conformal Prediction (ov
 
 ## [Table of Contents]()
 
+* [Events](#Events)
+
 * [Books](#Books)
 
 * [PhD and MSc Theses](#Theses)
@@ -81,6 +83,11 @@ This is newest version of the super-popular tutorial on Conformal Prediction (ov
 * [Contributing](#Contributing) 
 
 <a href="https://www.buymeacoffee.com/valeman" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
+## Events
+
+1. [Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification](https://community-z.com/events/introduction-to-conformal-prediction) by The Applied AI Community (Patrick Rotzetter - Amazon Switzerland, talk by Anastasios Angelopoulos - University of Berkeley).
+
 
 ## Books
 
