@@ -86,9 +86,6 @@ This is newest version of the super-popular tutorial on Conformal Prediction (ov
 
 ## Events
 
-1. [Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification](https://community-z.com/events/introduction-to-conformal-prediction) by The Applied AI Community (Patrick Rotzetter - Amazon Switzerland, talk by Anastasios Angelopoulos - University of Berkeley).
-
-
 ## Books
 
 1. [Algorithmic Learning in a Random World](https://link.springer.com/book/10.1007/b106715) by Vladimir Vovk and Alex Gammerman, also Glenn Shafer (2005). Second edition in progress. 🔥🔥🔥🔥🔥
