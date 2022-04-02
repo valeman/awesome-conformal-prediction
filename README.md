@@ -39,6 +39,8 @@ This is newest version of the super-popular tutorial on Conformal Prediction (ov
 
 [A Tutorial on Conformal Prediction](https://www.youtube.com/watch?v=nql000Lu_iE&t=1786s) by Anastasios Angelopoulos and Stephen Bates (2021) 🔥🔥🔥🔥🔥
 
+[A Tutorial on Conformal Prediction Part 2: Conditional Coverage and Diagnostics](https://www.youtube.com/watch?v=TRx4a2u-j7M) by Anastasios Angelopoulos and Stephen Bates (2022)
+
 ⭐⭐️⭐️⭐️⭐️
 
 
