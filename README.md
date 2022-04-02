@@ -337,7 +337,7 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 4. [Reliable Predictive Inference](https://sites.google.com/view/cqr) by Yaniv Romano 🔥🔥🔥🔥🔥
 
 ## Twitter
-1. [Title: What Can Conformal Inference* Offer to Statistics?](https://t.co/znZHcyyknV) by Lihua Lei, Stanford, 2022
+1. [Title: What Can *Conformal Inference* Offer to Statistics?](https://t.co/znZHcyyknV) by Lihua Lei, Stanford, 2022
 2.
 
 ## Conferences
