@@ -66,6 +66,8 @@ This is newest version of the super-popular tutorial on Conformal Prediction (ov
 
 * [Websites](#Websites)
 
+* [Twitter](#Twitter)
+
 * [Conferences](#Conferences)
 
 * [Code Python](#Code-Python)  
@@ -333,6 +335,10 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 2. [Conformal Prediction - Prediction with guaranteed performance](https://cml.rhul.ac.uk/cp.html) Royal Holloway, United Kingdom
 3. [A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification](https://people.eecs.berkeley.edu/~angelopoulos/blog/posts/gentle-intro/) by Anastasios N. Angelopoulos 🔥🔥🔥🔥🔥
 4. [Reliable Predictive Inference](https://sites.google.com/view/cqr) by Yaniv Romano 🔥🔥🔥🔥🔥
+
+## Twitter
+1. [Title: What Can Conformal Inference* Offer to Statistics?](https://t.co/znZHcyyknV) by Lihua Lei, Stanford, 2022
+2.
 
 ## Conferences
 1. https://icml.cc/Conferences/2021/ScheduleMultitrack?event=8373 🔥🔥🔥🔥🔥
