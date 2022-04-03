@@ -340,7 +340,8 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 
 ## Twitter
 1. [Title: What Can *Conformal Inference* Offer to Statistics?](https://t.co/znZHcyyknV) by Lihua Lei, Stanford, 2022
-2.
+2. [Conformalized survival analysis](https://twitter.com/lihua_lei_stat/status/1381418936739098630?s=20&t=PnfV8wnLV2bThXcKdFFbRg
+
 
 ## Conferences
 1. https://icml.cc/Conferences/2021/ScheduleMultitrack?event=8373 🔥🔥🔥🔥🔥
