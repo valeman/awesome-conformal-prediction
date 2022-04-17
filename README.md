@@ -126,6 +126,7 @@ This is newest version of the super-popular tutorial on Conformal Prediction (ov
 12. [Tutorial on Venn-ABERS prediction](https://cml.rhul.ac.uk/copa2017/presentations/VennTutorialCOPA2017.pdf) by Paolo Toccaceli (Royal Holloway, UK, 2017) 🔥🔥🔥🔥🔥
 13. [An Introduction to Conformal Prediction](https://cml.rhul.ac.uk/copa2017/presentations/CP_Tutorial_2017.pdf) by Henrik Linusson (2017) 🔥🔥🔥🔥🔥
 14. [Introduction to Conformal Prediction](https://www.iith.ac.in/~vineethnb/indoukworkshop2015/assets/files/IntroToCP.pdf) by Vineeth N Balasubramanian (Indian Ins)tute of Technology, Hyderabad, 2015) 
+15. [Conformal prediction A Tiny Tutorial on Predicting with Confidence](https://people.dsv.su.se/~henke/DSWS/johansson.pdf) by Henrik Linusson and Ulf Johansson (2014)
 
 ## Videos 
 
@@ -287,6 +288,7 @@ Jiao Gu, Huaibo Liu, Chaoqun Ma, Lei Li, Chun Zhu, Christ Glorieux, Guoqing Chen
 94. [Ensemble Conformalized Quantile Regression for
 Probabilistic Time Series Forecasting](https://arxiv.org/pdf/2202.08756v1.pdf) by Vilde Jensen, Filippo Maria Bianchi∗, Stian Norman Anfinsen (Arctic University of Norway, 2022)
 95. [Prediction of Metabolic Transformations using Cross Venn-ABERS Predictors](http://proceedings.mlr.press/v60/arvidsson17a/arvidsson17a.pdf) by Staffan Arvidsson, Ola Spjuth, Lars Carlsson and Paolo Toccaceli (University of Uppsala, Astra Zeneca, Royal Holloway, 2017)
+96. [Probabilistic Prediction in scikit-learn](https://www.diva-portal.org/smash/get/diva2:1603345/FULLTEXT01.pdf) by Sweidan, Dirar and Ulf Johansson.
 
 
 
