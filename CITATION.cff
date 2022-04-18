@@ -1,0 +1,15 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'Awesome Conformal Prediction '
+message: >-
+  "If you use Awesome Conformal Prediction, please
+  cite it as below."
+type: dataset
+authors:
+  - given-names: Valery
+    family-names: Manokhin
+    email: notch.shushes.07@icloud.com
+    orcid: 'https://orcid.org/0000-0003-4040-554X'
+    affiliation: Independent
