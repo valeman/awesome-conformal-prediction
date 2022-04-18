@@ -2,7 +2,7 @@
 
 The most comprehensive professionally curated list of Awesome Conformal Prediction tutorials, videos, books, papers and open-source libraries in Python and R.
 
-Please star 🌟 the repo and spread the word. If you use repository please kindly cite Awesome Conformal Prediciton using 'Cite this repository' button on the right. 
+Please star 🌟 the repo and spread the word. If you use repository please kindly cite Awesome Conformal Prediciton using 'Cite this repository' button on the right. [![DOI](https://zenodo.org/badge/436989758.svg)](https://zenodo.org/badge/latestdoi/436989758)
 
 Slack for Awesome Conformal Prediction -> https://join.slack.com/t/awesomeconformalpred/shared_invite/zt-14l4ukmpv-7SXXqsx93wS2~d7c7pJn8Q
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
