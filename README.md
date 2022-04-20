@@ -24,7 +24,7 @@ When both the top machine learning and the top statistic professors from the bes
 
 ![Conformal_prediction_growth](https://github.com/valeman/awesome-conformal-prediction/blob/main/Conformal%20prediction%20growth.png) 
 
-In 2022 conformal prediction research experienced exponential growth in academia and with the availabity of open-source libaries the industry is positioned to replicate this growth in the industry.
+In 2022 conformal prediction research experienced exponential growth in academia and with the availabity of open-source libaries the industry is positioned to replicate this growth in the industry. Awesome Conformal Prediction DOI is https://doi.org/10.5281/zenodo.6467205
 
 
 📢📢Industry take notice. The revolution in Uncertainty Quantification / Probabilistic Prediction / Forecasting is already here 📢📢  A big one  🔥🔥🔥🔥🔥
