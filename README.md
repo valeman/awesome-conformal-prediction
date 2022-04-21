@@ -88,6 +88,9 @@ This is newest version of the super-popular tutorial on Conformal Prediction (ov
 
 ## Events
 
+1. [Workshop on Distribution-Free Uncertainty Quantification at ICML 2022](https://sites.google.com/berkeley.edu/dfuq-22/home)
+2. [11th Symposium on Conformal and Probabilistic Prediction with Applications](http://copa-conference.com)
+
 ## Books
 
 1. [Algorithmic Learning in a Random World](https://link.springer.com/book/10.1007/b106715) by Vladimir Vovk and Alex Gammerman, also Glenn Shafer (2005). Second edition in progress. 🔥🔥🔥🔥🔥
