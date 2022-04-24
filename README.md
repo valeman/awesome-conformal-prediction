@@ -90,7 +90,7 @@ This is newest version of the super-popular tutorial on Conformal Prediction (ov
 
 
 ![Featured Event - Workshop on Distribution-Free Uncertainty Quantification
-at ICML 2021](ICML DFUQ 22 rocks!.jpeg)
+at ICML 2021](https://github.com/valeman/awesome-conformal-prediction/blob/main/ICML%20DFUQ%2022%20rocks!.jpeg)
 
 1. [Workshop on Distribution-Free Uncertainty Quantification at ICML 2022](https://sites.google.com/berkeley.edu/dfuq-22/home)
 2. [11th Symposium on Conformal and Probabilistic Prediction with Applications](http://copa-conference.com)
