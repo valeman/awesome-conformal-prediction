@@ -2,7 +2,13 @@
 
 The most comprehensive professionally curated list of Awesome Conformal Prediction tutorials, videos, books, papers and open-source libraries in Python and R.
 
-Please star 🌟 the repo and spread the word. If you use repository please cite Awesome Conformal Prediciton using 'Cite this repository' button on the right to help promote this amazing framework in academia and industry. 
+Please star 🌟 the repo and spread the word. If you use the repository in a scientific publication, we would appreciate citations of Awesome Conformal Prediction to help promote this amazing framework in academia and industry:
+
+Manokhin, Valery. (2022). Awesome Conformal Prediction (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.6467205
+
+Bibtex entry:
+
+@article{manokhin, valery_2022, title={Awesome Conformal Prediction}, DOI={10.5281/zenodo.6467205}, abstractNote={<p>v1.0.0 release of the Awesome Conformal Prediction</p>}, note={"If you use Awesome Conformal Prediction, please cite it as below."}, publisher={Zenodo}, author={Manokhin, Valery}, year={2022}, month={Apr} }
 
 Slack for Awesome Conformal Prediction -> https://join.slack.com/t/awesomeconformalpred/shared_invite/zt-14l4ukmpv-7SXXqsx93wS2~d7c7pJn8Q
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
