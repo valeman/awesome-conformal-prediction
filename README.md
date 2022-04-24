@@ -395,6 +395,7 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 15. [Conformal time-series forecasting"](https://github.com/kamilest/conformal-rnn) by Kamile ̇ Stankeviciute (Cambridge, NeurIPS 2021) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 16. [Valid Prediction Intervals](https://github.com/nmdwolf/ValidPredictionIntervals/tree/main/Code) by Nicolas Dewolf, Bernard DeBaets, Willem Waegeman (2022) 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 17. [Adaptive Conformal Predictions for Time Series](https://github.com/mzaffran/AdaptiveConformalPredictionsTimeSeries) by Margaux Zaffran,  Aymeric Dieuleveut,  Olivier Fe ́ron, Yannig Goude, and Julie Josse (2022) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+18. [Conformal learning from scratch](https://github.com/marharyta-aleksandrova/conformal-learning/blob/main/theory/conformal_learning_from_scratch.ipynb) by Marharyta Aleksandrova (2021)
 
 ## Code-R
 1. [Conformal Inference R Project](https://github.com/ryantibs/conformal) maintained by Ryan Tibshirani (2016) 🔥🔥🔥🔥🔥
