@@ -50,6 +50,9 @@ This is newest version of the super-popular tutorial on Conformal Prediction (ov
 
 * [Events](#Events)
 
+![Workshop on Distribution-Free Uncertainty Quantification
+at ICML 2021](ICML DFUQ 22 rocks!.jpeg)
+
 * [Books](#Books)
 
 * [PhD and MSc Theses](#Theses)
