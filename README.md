@@ -6,12 +6,21 @@ Please star 🌟 the repo and spread the word. If you use the repository in a sc
 
 Manokhin, Valery. (2022). Awesome Conformal Prediction (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.6467205
 
-Bibtex entry:
+Bibtex entry - Zenodo
+@article{
+ author = {Manokhin, Valery },
+ title={Awesome Conformal Prediction},
+ DOI={10.5281/zenodo.6467205},
+ note={"If you use Awesome Conformal Prediction, please cite it as below."},
+ publisher={Zenodo},
+ year={2022},
+ month={Apr}}
 
-@article{manokhin, valery_2022, title={Awesome Conformal Prediction}, DOI={10.5281/zenodo.6467205}, abstractNote={<p>v1.0.0 release of the Awesome Conformal Prediction</p>}, note={"If you use Awesome Conformal Prediction, please cite it as below."}, publisher={Zenodo}, author={Manokhin, Valery}, year={2022}, month={Apr} }
+Bibtex entry - Awesome Conformal Prediction (Github)
+@misc{title={Awesome-conformal-prediction: A professionally curated list of awesome conformal prediction videos, tutorials, books, papers, Phd theses, articles and open-source libraries.}, url={https://github.com/valeman/awesome-conformal-prediction}, journal={GitHub}, author={Manokhin, Valery}} 
 
 Slack for Awesome Conformal Prediction -> https://join.slack.com/t/awesomeconformalpred/shared_invite/zt-14l4ukmpv-7SXXqsx93wS2~d7c7pJn8Q
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 Why Conformal Prediction?
 
 One of the most influential and celebrated machine learning researchers - Professor Michael I. Jordan:
