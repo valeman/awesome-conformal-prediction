@@ -17,7 +17,7 @@ Bibtex entry - Zenodo
  month={Apr}}
 
 Bibtex entry - Awesome Conformal Prediction (Github)
-@misc{title={Awesome-conformal-prediction: A professionally curated list of awesome conformal prediction videos, tutorials, books, papers, Phd theses, articles and open-source libraries.}, url={https://github.com/valeman/awesome-conformal-prediction}, journal={GitHub}, author={Manokhin, Valery}} 
+@misc{title={Awesome Conformal Prediction: A professionally curated list of awesome conformal prediction videos, tutorials, books, papers, Phd theses, articles and open-source libraries.}, url={https://github.com/valeman/awesome-conformal-prediction}, journal={GitHub}, author={Manokhin, Valery}} 
 
 Slack for Awesome Conformal Prediction -> https://join.slack.com/t/awesomeconformalpred/shared_invite/zt-14l4ukmpv-7SXXqsx93wS2~d7c7pJn8Q
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
