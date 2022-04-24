@@ -50,9 +50,6 @@ This is newest version of the super-popular tutorial on Conformal Prediction (ov
 
 * [Events](#Events)
 
-![Workshop on Distribution-Free Uncertainty Quantification
-at ICML 2021](ICML DFUQ 22 rocks!.jpeg)
-
 * [Books](#Books)
 
 * [PhD and MSc Theses](#Theses)
@@ -90,6 +87,10 @@ at ICML 2021](ICML DFUQ 22 rocks!.jpeg)
 <a href="https://www.buymeacoffee.com/valeman" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 ## Events
+
+
+![Featured Event - Workshop on Distribution-Free Uncertainty Quantification
+at ICML 2021](ICML DFUQ 22 rocks!.jpeg)
 
 1. [Workshop on Distribution-Free Uncertainty Quantification at ICML 2022](https://sites.google.com/berkeley.edu/dfuq-22/home)
 2. [11th Symposium on Conformal and Probabilistic Prediction with Applications](http://copa-conference.com)
