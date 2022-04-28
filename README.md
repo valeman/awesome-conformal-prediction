@@ -297,7 +297,7 @@ Jiao Gu, Huaibo Liu, Chaoqun Ma, Lei Li, Chun Zhu, Christ Glorieux, Guoqing Chen
 80. [Conformal Prediction in Clinical Medical Sciences](https://link.springer.com/10.1007/s41666-021-00113-8) by Janette Vazquez and Julio C. Facelli University of Utah, 2022)
 81. [Provably Improving Expert Predictions with Conformal Prediction](https://arxiv.org/pdf/2201.12006.pdf) by Eleni Straitouri, Lequng Wang,  Nastaran Okati and Manuel Gomez Rodriguez (Max Planck Institute for Software Systems / Cornell University, 2021).
 82. [Conformal predictive distributions with kernels](https://arxiv.org/abs/1710.08894) by Vladimir Vovk, Ilia Nouretdinov, Valery Manokhin, Alex Gammerman (Royal Holloway, UK, 2017)
-83. [Multi-class probabilistic classification using inductive and cross Venn–Abers predictors](https://proceedings.mlr.press/v60/manokhin17a.html) by Valery Manokhin (Royal Holloway, UK, 2017).
+83. [Multi-class probabilistic classification using inductive and cross Venn–Abers predictors](https://proceedings.mlr.press/v60/manokhin17a.html) by Valery Manokhin (Royal Holloway, UK, 2017). 🔥🔥🔥🔥🔥
 84. [Computationally efficient versions of conformal predictive distributions](https://arxiv.org/abs/1911.00941) by Vladimir Vovk, Ivan Petej, Ilia Nouretdinov, Valery Manokhin, Alex Gammerman (Royal Holloway, UK, 2019).
 85. [Cover your cough: detection of respiratory events with confidence using a smartwatch](https://proceedings.mlr.press/v91/nguyen18a.html) by Khuong An Nguyen, Zhiyuan Luo (Royal Holloway, 2019).
 86. [Predicting Amazon customer reviews with deep confidence using deep learning and conformal prediction](https://www.tandfonline.com/doi/full/10.1080/23270012.2022.2031324) by Ulf Norinder and Petra Norinder (2022)
@@ -312,7 +312,7 @@ Jiao Gu, Huaibo Liu, Chaoqun Ma, Lei Li, Chun Zhu, Christ Glorieux, Guoqing Chen
 Probabilistic Time Series Forecasting](https://arxiv.org/pdf/2202.08756v1.pdf) by Vilde Jensen, Filippo Maria Bianchi∗, Stian Norman Anfinsen (Arctic University of Norway, 2022)
 95. [Prediction of Metabolic Transformations using Cross Venn-ABERS Predictors](http://proceedings.mlr.press/v60/arvidsson17a/arvidsson17a.pdf) by Staffan Arvidsson, Ola Spjuth, Lars Carlsson and Paolo Toccaceli (University of Uppsala, Astra Zeneca, Royal Holloway, 2017)
 96. [Probabilistic Prediction in scikit-learn](https://www.diva-portal.org/smash/get/diva2:1603345/FULLTEXT01.pdf) by Sweidan, Dirar and Ulf Johansson.
-
+97. [Ensemble Conformalized Quantile Regression for Probabilistic Time Series Forecasting](https://arxiv.org/pdf/2202.08756.pdf) by Vilde Jensen, Filippo Maria Bianchi, Stian Norman Anfinsen (2022). TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 
 
 ## Presentation_slides
@@ -397,6 +397,7 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 17. [Adaptive Conformal Predictions for Time Series](https://github.com/mzaffran/AdaptiveConformalPredictionsTimeSeries) by Margaux Zaffran,  Aymeric Dieuleveut,  Olivier Fe ́ron, Yannig Goude, and Julie Josse (2022) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 18. [Conformal learning from scratch](https://github.com/marharyta-aleksandrova/conformal-learning/blob/main/theory/conformal_learning_from_scratch.ipynb) by Marharyta Aleksandrova (2021)
 19. [Multi-class-probabilistic-classification using Venn-ABERS (Conformal) prediction](https://github.com/valeman/Multi-class-probabilistic-classification) by Valery Manokhin (Royal Holloway, 2022)
+20. [Ensemble Conformalized Quantile Regression for Probabilistic Time Series Forecasting](https://github.com/FilippoMB/Ensemble-Conformalized-Quantile-Regression) Vilde Jensen, Filippo Maria Bianchi and Stian Norman Anfinsen (2022) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 
 ## Code-R
 1. [Conformal Inference R Project](https://github.com/ryantibs/conformal) maintained by Ryan Tibshirani (2016) 🔥🔥🔥🔥🔥
