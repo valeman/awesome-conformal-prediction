@@ -309,9 +309,9 @@ Jiao Gu, Huaibo Liu, Chaoqun Ma, Lei Li, Chun Zhu, Christ Glorieux, Guoqing Chen
 92. [Conformal Prediction Sets with Limited False Positives](https://arxiv.org/pdf/2202.07650.pdf) by Adam Fisch, Tal Schuster, Tommi Jaakkola and Regina Barzilay (MIT / Google Research, 2022)
 93. [Adaptive Conformal Predictions for Time Series](https://arxiv.org/pdf/2202.07282.pdf) by Margaux Zaffran, Aymeric Dieuleveut, Olivier Fe ́ron, Yannig Goude,  and Julie Josse (EDF / INRIA / CMAP, France, 2022) 🔥🔥🔥🔥🔥
 94. [Ensemble Conformalized Quantile Regression for
-Probabilistic Time Series Forecasting](https://arxiv.org/pdf/2202.08756v1.pdf) by Vilde Jensen, Filippo Maria Bianchi∗, Stian Norman Anfinsen (Arctic University of Norway, 2022)
+Probabilistic Time Series Forecasting](https://arxiv.org/pdf/2202.08756v1.pdf) by Vilde Jensen, Filippo Maria Bianchi, Stian Norman Anfinsen (Arctic University of Norway, 2022) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 95. [Prediction of Metabolic Transformations using Cross Venn-ABERS Predictors](http://proceedings.mlr.press/v60/arvidsson17a/arvidsson17a.pdf) by Staffan Arvidsson, Ola Spjuth, Lars Carlsson and Paolo Toccaceli (University of Uppsala, Astra Zeneca, Royal Holloway, 2017)
-96. [Probabilistic Prediction in scikit-learn](https://www.diva-portal.org/smash/get/diva2:1603345/FULLTEXT01.pdf) by Sweidan, Dirar and Ulf Johansson.
+96. [Probabilistic Prediction in scikit-learn](https://www.diva-portal.org/smash/get/diva2:1603345/FULLTEXT01.pdf) by Sweidan, Dirar and Ulf Johansson. 🔥🔥🔥🔥🔥
 97. [Ensemble Conformalized Quantile Regression for Probabilistic Time Series Forecasting](https://arxiv.org/pdf/2202.08756.pdf) by Vilde Jensen, Filippo Maria Bianchi, Stian Norman Anfinsen (2022). TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 
 
