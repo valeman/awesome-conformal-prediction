@@ -314,6 +314,7 @@ Probabilistic Time Series Forecasting](https://arxiv.org/pdf/2202.08756v1.pdf) b
 96. [Probabilistic Prediction in scikit-learn](https://www.diva-portal.org/smash/get/diva2:1603345/FULLTEXT01.pdf) by Sweidan, Dirar and Ulf Johansson. 🔥🔥🔥🔥🔥
 97. [Ensemble Conformalized Quantile Regression for Probabilistic Time Series Forecasting](https://arxiv.org/pdf/2202.08756.pdf) by Vilde Jensen, Filippo Maria Bianchi, Stian Norman Anfinsen (2022). TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 98. [Conformalized Online Learning: Online Calibration Without a Holdout Set](https://arxiv.org/pdf/2205.09095.pdf) by Shai Feldman, Stephen Bates and Yaniv Romano (2022). TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+99. [Valid model-free spatial prediction](https://arxiv.org/pdf/2006.15640.pdf) by Huiying Mao, Ryan Martin and Brian J Reich (2020)
 
 
 ## Presentation_slides
@@ -410,6 +411,7 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 4. [Online Time Series Anomaly Detectors](https://github.com/valeman/otsad) by Alaine Iturria, 2021 🔥🔥🔥🔥🔥
 5. [piRF - Prediction Intervals for Random Forests](https://github.com/chancejohnstone/piRF) by Chancellor Johnstone and Haozhe Zhang (2019)
 6. [conformalClassification: Transductive and Inductive Conformal Predictions for Classification Problems](https://cran.r-project.org/web/packages/conformalClassification/) by Niharika Gauraha and Ola Spjuth (2019)
+7. [R Package for Spatial Conformal Prediction](https://github.com/mhuiying/scp)
 
 ## Code-Julia
 
