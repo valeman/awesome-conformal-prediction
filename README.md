@@ -316,6 +316,7 @@ Probabilistic Time Series Forecasting](https://arxiv.org/pdf/2202.08756v1.pdf) b
 97. [Ensemble Conformalized Quantile Regression for Probabilistic Time Series Forecasting](https://arxiv.org/pdf/2202.08756.pdf) by Vilde Jensen, Filippo Maria Bianchi, Stian Norman Anfinsen (2022). TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 98. [Conformalized Online Learning: Online Calibration Without a Holdout Set](https://arxiv.org/pdf/2205.09095.pdf) by Shai Feldman, Stephen Bates and Yaniv Romano (2022). TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 99. [Valid model-free spatial prediction](https://arxiv.org/pdf/2006.15640.pdf) by Huiying Mao, Ryan Martin and Brian J Reich (2020)
+100. [Conformal Prediction with Temporal Quantile Adjustments](https://arxiv.org/pdf/2205.09940.pdf) by Zhen Lin, Shubhendu Trivedi, Jimeng Sun (2022)  TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 
 
 ## Presentation_slides
