@@ -50,7 +50,7 @@ Featured resources:
 
 [A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification](https://people.eecs.berkeley.edu/~angelopoulos/publications/downloads/gentle_intro_conformal_dfuq.pdf)
 
-This is newest version of the super-popular tutorial on Conformal Prediction (over 3,500 stars on YouTube) now significantly expanded (2x), including advanced techniques such as covariate shift conformal, as well as a super fun history and literature review in Section 7.
+This is newest version of the super-popular tutorial on Conformal Prediction (over 7,000 stars on YouTube) now significantly expanded (2x), including advanced techniques such as covariate shift conformal, as well as a super fun history and literature review in Section 7.
 
 [A Tutorial on Conformal Prediction](https://www.youtube.com/watch?v=nql000Lu_iE&t=1786s) by Anastasios Angelopoulos and Stephen Bates (2021) 🔥🔥🔥🔥🔥
 
@@ -150,6 +150,7 @@ at ICML 2021](https://github.com/valeman/awesome-conformal-prediction/blob/main/
 14. [Introduction to Conformal Prediction](https://www.iith.ac.in/~vineethnb/indoukworkshop2015/assets/files/IntroToCP.pdf) by Vineeth N Balasubramanian (Indian Ins)tute of Technology, Hyderabad, 2015) 
 15. [Conformal prediction A Tiny Tutorial on Predicting with Confidence](https://people.dsv.su.se/~henke/DSWS/johansson.pdf) by Henrik Linusson and Ulf Johansson (2014)
 16.[Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification](https://www.youtube.com/watch?v=usaHyuu2TzY) by Anastasios Angelopoulos (Berkeley, 2022)
+17.[Beyond Conformal Prediction: Tutorial on Conformal Part 3](https://www.youtube.com/watch?v=PjYZ1Tk_0og0 by by Anastasios Angelopoulos and Stephen Bates (2022) 🔥🔥🔥🔥🔥
 
 ## Videos 
 
