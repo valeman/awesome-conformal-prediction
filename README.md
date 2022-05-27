@@ -209,6 +209,7 @@ at ICML 2021](https://github.com/valeman/awesome-conformal-prediction/blob/main/
 54. [P.C. Mahalanobis Memorial Lectures 2020-21](https://www.isibang.ac.in/~statmath/pcm2020/) by Vladimir Vovk (Royal Holloway, UK, 2021)
 55. [Rahul Vishwakarma: New Perspective on Machine Learning Predictions Under Uncertainty | SNIA Storage Developer Conference, Santa Clara 2019](https://www.youtube.com/watch?v=T-hG1JyAk4E) by Rahul Vishwakarma (2019)
 56. [Fast conformal classification using influence functions](https://www.youtube.com/watch?v=LRwm976poDE) by Umang Bhatt, Adrian Weller and Giovanni Cherubin (Cambridge / Alan Turinig Institute, 2021).
+57. [Adaptive Conformal Predictions for Time Series | ISDFS](https://www.youtube.com/watch?v=Yuxu9aUpVi0) by Margaux Zaffran (2022) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 
 ## Papers
 
