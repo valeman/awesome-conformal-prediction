@@ -21,6 +21,7 @@ Bibtex entry - Awesome Conformal Prediction (Github)
 
 Slack for Awesome Conformal Prediction -> https://join.slack.com/t/awesomeconformalpred/shared_invite/zt-193zf5qwx-uW7z9RWlB~_cUQq6iVIPyg
 
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 Why Conformal Prediction?
 
