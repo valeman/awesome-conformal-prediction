@@ -1,6 +1,6 @@
 # Awesome Conformal Prediction [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![DOI](https://zenodo.org/badge/436989758.svg)](https://zenodo.org/badge/latestdoi/436989758)
 
-The most comprehensive professionally curated list of Awesome Conformal Prediction tutorials, videos, books, papers and open-source libraries in Python and R.
+The most comprehensive professionally curated resource on Conformal Prediction including the best tutorials, videos, books, papers and open-source libraries in Python and R.
 
 Please star 🌟 the repo and spread the word. If you use the repository in a scientific publication, we would appreciate citations of Awesome Conformal Prediction to help promote this amazing framework in academia and industry:
 
