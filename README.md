@@ -2,6 +2,8 @@
 
 The most comprehensive professionally curated resource on Conformal Prediction including the best tutorials, videos, books, papers and open-source libraries in Python and R.
 
+As cited in the best book on Machine Learning (aka the machine learning 'bible') [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html) by the leading research scientist at Google (over 80K Google Scholar citations) and Bestselling Machine Learning Book Author Kevin Murphy.
+
 [![Star History Chart](https://api.star-history.com/svg?repos=valeman/awesome-conformal-prediction&type=Date)](https://star-history.com/#valeman/awesome-conformal-prediction&Date)
 
 Please star 🌟 the repo and spread the word. If you use the repository in a scientific publication, we would appreciate citations of Awesome Conformal Prediction to help promote this amazing framework in academia and industry:
