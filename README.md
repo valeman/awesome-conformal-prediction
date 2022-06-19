@@ -433,6 +433,7 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 5. [piRF - Prediction Intervals for Random Forests](https://github.com/chancejohnstone/piRF) by Chancellor Johnstone and Haozhe Zhang (2019)
 6. [conformalClassification: Transductive and Inductive Conformal Predictions for Classification Problems](https://cran.r-project.org/web/packages/conformalClassification/) by Niharika Gauraha and Ola Spjuth (2019)
 7. [R Package for Spatial Conformal Prediction](https://github.com/mhuiying/scp)
+8. [conformalInference.multi: Conformal Inference Tools for Regression with Multivariate Response](conformalInference.multi: Conformal Inference Tools for Regression with Multivariate Response](https://cran.r-project.org/web/packages/conformalInference.multi/index.html) by Jacopo Diquigiovanni, Matteo Fontana, Aldo Solari, Simone Vantini, Paolo Vergottini, Ryan Tibshirani (2021) 🔥🔥🔥🔥🔥
 
 ## Code-Julia
 
