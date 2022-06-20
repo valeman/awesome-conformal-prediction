@@ -340,14 +340,18 @@ Probabilistic Time Series Forecasting](https://arxiv.org/pdf/2202.08756v1.pdf) b
 100. [Calibration of Natural Language Understanding Models with Venn–ABERS Predictors](https://arxiv.org/pdf/2205.10586.pdf) by Patrizio Giovannotti (Royal Holloway, UK, 2022) NLP
 101. [Conformal prediction interval for dynamic time-series](https://proceedings.mlr.press/v139/xu21h.html) by Chen Xu, Yao Xie (Georgia Tech, 2021) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 102. [Conformal prediction set for time-series](https://arxiv.org/abs/2206.07851) by Chen Xu, Yao Xie (Georgia Tech, 2021) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+103. [Adaptive Conformal Predictions for Time Series](https://arxiv.org/abs/2202.07282) by Margaux Zaffran,  Aymeric Dieuleveut,  Olivier Fe ́ron, Yannig Goude, and Julie Josse (2022) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+104. [Conformal Time-Series Forecasting](https://proceedings.neurips.cc/paper/2021/file/312f1ba2a72318edaaa995a67835fad5-Paper.pdf) by Kamile  Stankeviciu te and Ahmed M. Alaa (2021)  TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 
 ## Papers_Time_Series
 
-1. [Ensemble Conformalized Quantile Regression for Probabilistic Time Series Forecasting](https://arxiv.org/pdf/2202.08756.pdf) by Vilde Jensen, Filippo Maria Bianchi, Stian Norman Anfinsen (2022). TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
-2. [Conformalized Online Learning: Online Calibration Without a Holdout Set](https://arxiv.org/pdf/2205.09095.pdf) by Shai Feldman, Stephen Bates and Yaniv Romano (2022). TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
-3. [Conformal Prediction with Temporal Quantile Adjustments](https://arxiv.org/pdf/2205.09940.pdf) by Zhen Lin, Shubhendu Trivedi, Jimeng Sun (2022)  TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
-4. [Conformal prediction interval for dynamic time-series](https://proceedings.mlr.press/v139/xu21h.html) by Chen Xu, Yao Xie (Georgia Tech, 2021) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
-5. [Conformal prediction set for time-series](https://arxiv.org/abs/2206.07851) by Chen Xu,Yao Xie (Georgia Tech, 2021) TIME SERIES 🚀🚀🚀🚀🚀🔥🔥🔥🔥🔥
+1. [Conformal prediction interval for dynamic time-series](https://proceedings.mlr.press/v139/xu21h.html) by Chen Xu, Yao Xie (Georgia Tech, 2021) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+2. [Conformal Time-Series Forecasting](https://proceedings.neurips.cc/paper/2021/file/312f1ba2a72318edaaa995a67835fad5-Paper.pdf) by Kamile  Stankeviciu te and Ahmed M. Alaa (2021)  TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+3. [Ensemble Conformalized Quantile Regression for Probabilistic Time Series Forecasting](https://arxiv.org/pdf/2202.08756.pdf) by Vilde Jensen, Filippo Maria Bianchi, Stian Norman Anfinsen (2022). TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+4. [Adaptive Conformal Predictions for Time Series](https://arxiv.org/abs/2202.07282) by Margaux Zaffran,  Aymeric Dieuleveut,  Olivier Fe ́ron, Yannig Goude, and Julie Josse (2022) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+5. [Conformalized Online Learning: Online Calibration Without a Holdout Set](https://arxiv.org/pdf/2205.09095.pdf) by Shai Feldman, Stephen Bates and Yaniv Romano (2022). TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+6. [Conformal Prediction with Temporal Quantile Adjustments](https://arxiv.org/pdf/2205.09940.pdf) by Zhen Lin, Shubhendu Trivedi, Jimeng Sun (2022)  TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+7. [Conformal prediction set for time-series](https://arxiv.org/abs/2206.07851) by Chen Xu,Yao Xie (Georgia Tech, 2021) TIME SERIES 🚀🚀🚀🚀🚀🔥🔥🔥🔥🔥
 
 
 ## Presentation_slides
@@ -432,13 +436,13 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 12. [Conformal Histogram Regression: efficient conformity scores for non-parametric regression problems](https://github.com/msesia/chr) by Mateo Sesia and Yaniv Romano (NeurIPS 2021). 🔥🔥🔥🔥🔥
 13. [Conformalized density- and distance-based anomaly detection in time-series data (KNN-CAD)](https://github.com/numenta/NAB/tree/master/nab/detectors/knncad) by Evgeny Burnaev, Vladislav Ishimtsev (2016). Top #3 winning solution in Numenta competition 🔥🔥🔥🔥🔥
 14. [TorchUQ is an extensive library for uncertainty quantification (UQ) based on pytorch](https://github.com/TorchUQ/torchuq) (2022)
-15. [Conformal time-series forecasting"](https://github.com/kamilest/conformal-rnn) by Kamile ̇ Stankeviciute (Cambridge, NeurIPS 2021) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+15. [Conformal time-series forecasting](https://github.com/kamilest/conformal-rnn) by Kamile ̇ Stankeviciute (Cambridge, NeurIPS 2021) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 16. [Valid Prediction Intervals](https://github.com/nmdwolf/ValidPredictionIntervals/tree/main/Code) by Nicolas Dewolf, Bernard DeBaets, Willem Waegeman (2022) 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 17. [Adaptive Conformal Predictions for Time Series](https://github.com/mzaffran/AdaptiveConformalPredictionsTimeSeries) by Margaux Zaffran,  Aymeric Dieuleveut,  Olivier Fe ́ron, Yannig Goude, and Julie Josse (2022) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 18. [Conformal learning from scratch](https://github.com/marharyta-aleksandrova/conformal-learning/blob/main/theory/conformal_learning_from_scratch.ipynb) by Marharyta Aleksandrova (2021)
 19. [Multi-class-probabilistic-classification using Venn-ABERS (Conformal) prediction](https://github.com/valeman/Multi-class-probabilistic-classification) by Valery Manokhin (Royal Holloway, 2022)
 20. [Ensemble Conformalized Quantile Regression for Probabilistic Time Series Forecasting](https://github.com/FilippoMB/Ensemble-Conformalized-Quantile-Regression) Vilde Jensen, Filippo Maria Bianchi and Stian Norman Anfinsen (2022) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
-21. [Conformalized Online Learning: Online Calibration Without a Holdout Set](https://github.com/Shai128/rci by Shai Feldman, Stephen Bates and Yaniv Romano (2022). TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+21. [Conformalized Online Learning: Online Calibration Without a Holdout Set](https://github.com/Shai128/rci) by Shai Feldman, Stephen Bates and Yaniv Romano (2022). TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 
 ## Code-R
 1. [Conformal Inference R Project](https://github.com/ryantibs/conformal) maintained by Ryan Tibshirani (2016) 🔥🔥🔥🔥🔥
