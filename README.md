@@ -25,6 +25,8 @@ Bibtex entry - Awesome Conformal Prediction (Github)
 
 [Slack for Awesome Conformal Prediction](https://join.slack.com/t/awesomeconformalpred/shared_invite/zt-1b07b5n1c-swtQDpoaBaWGxDl_Xjr4Tw)
 
+Please reach out to rahul_vishwakarma@icloud.com if you have issues with Slack link and need invite to the Slack.
+
 <a href="https://www.buymeacoffee.com/valeman" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 
