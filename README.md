@@ -23,7 +23,7 @@ Bibtex entry - Zenodo
 Bibtex entry - Awesome Conformal Prediction (Github)
 @misc{title={Awesome Conformal Prediction: A professionally curated list of awesome conformal prediction videos, tutorials, books, papers, Phd theses, articles and open-source libraries.}, url={https://github.com/valeman/awesome-conformal-prediction}, journal={GitHub}, author={Manokhin, Valery}} 
 
-[Slack for Awesome Conformal Prediction](https://join.slack.com/t/awesomeconformalpred/shared_invite/zt-1b07b5n1c-swtQDpoaBaWGxDl_Xjr4T)
+[Slack for Awesome Conformal Prediction](https://join.slack.com/t/awesomeconformalpred/shared_invite/zt-1b07b5n1c-swtQDpoaBaWGxDl_Xjr4Tw)
 
 <a href="https://www.buymeacoffee.com/valeman" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
