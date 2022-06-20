@@ -25,6 +25,8 @@ Bibtex entry - Awesome Conformal Prediction (Github)
 
 [Slack for Awesome Conformal Prediction](https://join.slack.com/t/awesomeconformalpred/shared_invite/zt-1b07b5n1c-swtQDpoaBaWGxDl_Xjr4T)
 
+<a href="https://www.buymeacoffee.com/valeman" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 Why Conformal Prediction?
@@ -112,7 +114,6 @@ This is newest version of the super-popular tutorial on Conformal Prediction (ov
 
 * [Contributing](#Contributing) 
 
-<a href="https://www.buymeacoffee.com/valeman" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 ## Events
 
