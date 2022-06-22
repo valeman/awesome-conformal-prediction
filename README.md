@@ -10,18 +10,16 @@ Please star 🌟 the repo and spread the word. If you use the repository in a sc
 
 Manokhin, Valery. (2022). Awesome Conformal Prediction (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.6467205
 
-Bibtex entry - Zenodo
-@article{
- author = {Manokhin, Valery },
- title={Awesome Conformal Prediction},
- DOI={10.5281/zenodo.6467205},
- note={"If you use Awesome Conformal Prediction, please cite it as below."},
- publisher={Zenodo},
- year={2022},
- month={Apr}}
+Bibtex entry
 
-Bibtex entry - Awesome Conformal Prediction (Github)
-@misc{title={Awesome Conformal Prediction: A professionally curated list of awesome conformal prediction videos, tutorials, books, papers, Phd theses, articles and open-source libraries.}, url={https://github.com/valeman/awesome-conformal-prediction}, journal={GitHub}, author={Manokhin, Valery}} 
+@misc{AwesomeConformalPrediction:2021,
+  doi = {10.5281/ZENODO.6467205},
+  url = {https://zenodo.org/record/6467205},
+  author = {Manokhin,  Valery},
+  title = {Awesome Conformal Prediction},
+  publisher = {Zenodo},
+  year = {2022}
+}
 
 [Slack for Awesome Conformal Prediction](https://join.slack.com/t/awesomeconformalpred/shared_invite/zt-1b07b5n1c-swtQDpoaBaWGxDl_Xjr4Tw)
 
