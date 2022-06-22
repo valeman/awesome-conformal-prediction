@@ -44,9 +44,7 @@ https://slideslive.com/icml-2021/workshop-on-distributionfree-uncertainty-quanti
 
 When both the top machine learning and the top statistic professors from the best research labs in the world say this about conformal prediction it is quite an endorsement.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
-What about the industry one might ask - well Conformal Prediction already for several years powers the main anomaly detection proposition in Microsoft Azure and Data Robot (#1 AutoML) uses Conformal Prediction to generate robust [prediction intervals for its models](https://docs.datarobot.com/en/docs/release/public-preview/mlops-preview/prediction-intervals-regression.html#the-trumpet-chart)
-
-
+What about the industry one might ask - well Conformal Prediction already for several years powers the main anomaly detection proposition in Microsoft Azure and Data Robot (AutoML) uses Conformal Prediction to generate robust [prediction intervals for its models](https://docs.datarobot.com/en/docs/release/public-preview/mlops-preview/prediction-intervals-regression.html#the-trumpet-chart)
 
 ![Conformal_prediction_growth](https://github.com/valeman/awesome-conformal-prediction/blob/main/Conformal%20prediction%20growth.png) 
 
