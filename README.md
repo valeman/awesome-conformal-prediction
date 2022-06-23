@@ -340,6 +340,7 @@ Probabilistic Time Series Forecasting](https://arxiv.org/pdf/2202.08756v1.pdf) b
 102. [Conformal prediction set for time-series](https://arxiv.org/abs/2206.07851) by Chen Xu, Yao Xie (Georgia Tech, 2022) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 103. [Adaptive Conformal Predictions for Time Series](https://arxiv.org/abs/2202.07282) by Margaux Zaffran,  Aymeric Dieuleveut,  Olivier Fe ́ron, Yannig Goude, and Julie Josse (2022) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 104. [Conformal Time-Series Forecasting](https://proceedings.neurips.cc/paper/2021/file/312f1ba2a72318edaaa995a67835fad5-Paper.pdf) by Kamile  Stankeviciu te and Ahmed M. Alaa (2021)  TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+105. [Efficient Conformal Prediction via cascaded inference with expanded admission](https://arxiv.org/pdf/2007.03114.pdf) by Adam Fisch,  Tal Schuster, Tommi Jaakkola, Regina Barzilay (MIT 2021].
 
 ## Papers_Time_Series
 
