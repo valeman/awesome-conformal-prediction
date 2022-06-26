@@ -1,20 +1,22 @@
 # Awesome Conformal Prediction [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![DOI](https://zenodo.org/badge/436989758.svg)](https://zenodo.org/badge/latestdoi/436989758)
 
-The most comprehensive professionally curated resource on Conformal Prediction including the best tutorials, videos, books, papers, articles, courses, websites, conferences and open-source libraries code in Python and R. I have created this resource after completing my PhD in Machine Learning specialising in Conformal Prediction (supervised by creator of Conformal Prediction Prof. Vladimir Vovk).
+The most comprehensive professionally curated resource on Conformal Prediction including the best tutorials, videos, books, papers, articles, courses, websites, conferences and open-source libraries code in Python and R.
 
-The resources were meticulously collected since 2015 and after completing my PhD (thesis "Machine Learning for Probabilistic Predicion is available in the "Theses" section) I have decided to share them with global research and practitioner community.
+I have created this resource after completing my PhD in Machine Learning specialising in Conformal Prediction (supervised by creator of Conformal Prediction Prof. Vladimir Vovk).
+
+The resources were meticulously collected since 2015 and after completing my PhD (thesis "Machine Learning for Probabilistic Predicion is available in the "Theses" section) I have decided to share them with the global research and practitioner communities.
 
 I am actively promoting Conformal Prediction (because it is well Awesome) on LinkedIn (https://www.linkedin.com/in/valeriy-m-704731236/) and Twitter (@predict_addict). 
 
 Having done research in Conformal Prediction since 2015, I am still amazed about how robust, powerful and flexible this best framework for Uncertainty Quantification is and how much it has to offer to solve most problems involving uncertainty. From niche area of research, I am humbled to see its explonential growth during the last 2-3 years.
 
-Awesome Conformal Prediction s cited in the best book on Machine Learning (aka the machine learning 'bible') [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html) by the leading research scientist at Google (over 80K Google Scholar citations) and Bestselling Machine Learning Book Author Kevin Murphy.
+Awesome Conformal Prediction has been cited in the best book on Machine Learning (aka the machine learning 'bible') [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html) by the leading research scientist at Google (over 80K Google Scholar citations) and Bestselling Machine Learning Book Author Kevin Murphy.
 
 [![Star History Chart](https://api.star-history.com/svg?repos=valeman/awesome-conformal-prediction&type=Date)](https://star-history.com/#valeman/awesome-conformal-prediction&Date)
 
 Please star 🌟 the repo and spread the word. If you use the repository in a scientific publication, we would appreciate citations of Awesome Conformal Prediction to help promote this amazing framework in academia and industry:
 
-Manokhin, Valery. (2022). Awesome Conformal Prediction (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.6467205
+Manokhin, Valery. (2022). Awesome Conformal Prediction (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.6467205 Please cite Awesome Conformal Prediction to help promote Conformal Prediction to global machine learning community.
 
 Bibtex entry
 
@@ -52,9 +54,7 @@ When both the top machine learning and the top statistic professors from the bes
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 What about the industry one might ask - well Conformal Prediction already for several years powers the main anomaly detection proposition in Microsoft Azure and Data Robot (AutoML) uses Conformal Prediction to generate robust [prediction intervals for its models](https://docs.datarobot.com/en/docs/release/public-preview/mlops-preview/prediction-intervals-regression.html#the-trumpet-chart)
 
-![Conformal_prediction_growth](https://github.com/valeman/awesome-conformal-prediction/blob/main/Conformal%20prediction%20growth.png) 
-
-In 2022 conformal prediction research experienced exponential growth in academia and with the availabity of open-source libaries the industry is positioned to replicate this growth in the industry. Awesome Conformal Prediction DOI is https://doi.org/10.5281/zenodo.6467205
+In 2021 conformal prediction research experienced exponential growth in academia and with the availabity of open-source libaries the industry is positioned to replicate this growth in the industry.
 
 
 📢📢Industry take notice. The revolution in Uncertainty Quantification / Probabilistic Prediction / Forecasting is already here 📢📢  A big one  🔥🔥🔥🔥🔥
