@@ -8,7 +8,7 @@ The resources were meticulously collected since 2015 and after completing my PhD
 
 I am actively promoting Conformal Prediction (because it is well Awesome) on LinkedIn (https://www.linkedin.com/in/valeriy-m-704731236/) and Twitter (@predict_addict). 
 
-Having done research in Conformal Prediction since 2015, I am still amazed about how robust, powerful and flexible this best framework for Uncertainty Quantification is and how much it has to offer to solve most problems involving uncertainty. From niche area of research, I am humbled to see its explonential growth during the last 2-3 years.
+Having done research in Conformal Prediction since 2015, I am still amazed about how robust, powerful and flexible this best framework for Uncertainty Quantification is and how much it has to offer to solve most problems involving uncertainty. From niche area of research just a few years of ago, I am humbled to have seen its explonential growth during the last 2-3 years due to the work of amazing ambassadors of Conformal Prediction such as Prof. [Larry Wasserman](https://www.stat.cmu.edu/~larry/) and [Anastasious Angelopolous](https://people.eecs.berkeley.edu/~angelopoulos/) in academia.
 
 Awesome Conformal Prediction has been cited in the best book on Machine Learning (aka the machine learning 'bible') [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html) by the leading research scientist at Google (over 80K Google Scholar citations) and Bestselling Machine Learning Book Author Kevin Murphy.
 
