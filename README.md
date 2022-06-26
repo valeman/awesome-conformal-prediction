@@ -6,7 +6,7 @@ I have created this resource after completing my PhD in Machine Learning special
 
 The resources were meticulously collected since 2015 and after completing my PhD (thesis "Machine Learning for Probabilistic Predicion is available in the "Theses" section) I have decided to share them with the global research and practitioner communities.
 
-I am actively promoting Conformal Prediction (because it is well Awesome) on LinkedIn (https://www.linkedin.com/in/valeriy-m-704731236/) and Twitter (@predict_addict). 
+I am actively promoting Conformal Prediction (because it is well Awesome) on [LinkedIn](https://www.linkedin.com/in/valeriy-m-704731236/) and [Twitter](https://twitter.com/predict_addict).
 
 Having done research in Conformal Prediction since 2015, I am still amazed about how robust, powerful and flexible this best framework for Uncertainty Quantification is and how much it has to offer to solve most problems involving uncertainty. From niche area of research just a few years of ago, I am humbled to have seen its explonential growth during the last 2-3 years due to the work of amazing ambassadors of Conformal Prediction such as Prof. [Larry Wasserman](https://www.stat.cmu.edu/~larry/) and [Anastasious Angelopolous](https://people.eecs.berkeley.edu/~angelopoulos/) in academia.
 
