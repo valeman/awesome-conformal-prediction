@@ -1,8 +1,14 @@
 # Awesome Conformal Prediction [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![DOI](https://zenodo.org/badge/436989758.svg)](https://zenodo.org/badge/latestdoi/436989758)
 
-The most comprehensive professionally curated resource on Conformal Prediction including the best tutorials, videos, books, papers, articles, courses, websites, conferences and open-source libraries code in Python and R.
+The most comprehensive professionally curated resource on Conformal Prediction including the best tutorials, videos, books, papers, articles, courses, websites, conferences and open-source libraries code in Python and R. I have created this resource after completing my PhD in Machine Learning specialising in Conformal Prediction (supervised by creator of Conformal Prediction Prof. Vladimir Vovk).
 
-As cited in the best book on Machine Learning (aka the machine learning 'bible') [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html) by the leading research scientist at Google (over 80K Google Scholar citations) and Bestselling Machine Learning Book Author Kevin Murphy.
+The resources were meticulously collected since 2015 and after completing my PhD (thesis "Machine Learning for Probabilistic Predicion is available in the "Theses" section) I have decided to share them with global research and practitioner community.
+
+I am actively promoting Conformal Prediction (because it is well Awesome) on LinkedIn (https://www.linkedin.com/in/valeriy-m-704731236/) and Twitter (@predict_addict). 
+
+Having done research in Conformal Prediction since 2015, I am still amazed about how robust, powerful and flexible this best framework for Uncertainty Quantification is and how much it has to offer to solve most problems involving uncertainty. From niche area of research, I am humbled to see its explonential growth during the last 2-3 years.
+
+Awesome Conformal Prediction s cited in the best book on Machine Learning (aka the machine learning 'bible') [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html) by the leading research scientist at Google (over 80K Google Scholar citations) and Bestselling Machine Learning Book Author Kevin Murphy.
 
 [![Star History Chart](https://api.star-history.com/svg?repos=valeman/awesome-conformal-prediction&type=Date)](https://star-history.com/#valeman/awesome-conformal-prediction&Date)
 
