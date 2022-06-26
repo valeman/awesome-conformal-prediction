@@ -4,13 +4,13 @@ The most comprehensive professionally curated resource on Conformal Prediction i
 
 I have created this resource after completing my PhD in Machine Learning specialising in Conformal Prediction (supervised by the creator of Conformal Prediction Prof. Vladimir Vovk).
 
-The resources were meticulously collected since 2015 and after completing my PhD (thesis "Machine Learning for Probabilistic Predicion is available in the "Theses" section) I have decided to share them with the global machine learning community.
+The resources were meticulously collected since 2015 and after completing my PhD (thesis "Machine Learning for Probabilistic Prediction is available in the "Theses" section) I have decided to share them with the global machine learning community.
 
-Having done research in Conformal Prediction since 2015, I am still amazed about how robust, powerful and flexible this best framework for Uncertainty Quantification is and how much it has to offer to solve most problems involving uncertainty. From niche area of research just a few years of ago, I am humbled to have seen its explonential growth during the last 2-3 years due to the work of amazing ambassadors of Conformal Prediction such as Prof. [Larry Wasserman](https://www.stat.cmu.edu/~larry/) and [Anastasious Angelopolous](https://people.eecs.berkeley.edu/~angelopoulos/) in academia.
+Having done research in Conformal Prediction since 2015, I am still amazed about how robust, powerful and flexible this best framework for Uncertainty Quantification is and how much it has to offer to solve most problems involving uncertainty. From niche area of research just a few years of ago, I am humbled to have seen its exponential growth during the last 2-3 years due to the work of amazing ambassadors of Conformal Prediction such as Prof. [Larry Wasserman](https://www.stat.cmu.edu/~larry/) and [Anastasious Angelopolous](https://people.eecs.berkeley.edu/~angelopoulos/) in academia.
 
-I am actively promoting Conformal Prediction (because it is well Awesome) on [LinkedIn](https://www.linkedin.com/in/valeriy-m-704731236/) and [Twitter](https://twitter.com/predict_addict). [ResearchGate](https://www.researchgate.net/profile/Valery-Manokhin) has my research and I occassionally publish in [Medium](https://medium.com/@valeman) sharing insights from the data science trenches in industry.
+I am actively promoting Conformal Prediction (because it is well Awesome) on [LinkedIn](https://www.linkedin.com/in/valeriy-m-704731236/) and [Twitter](https://twitter.com/predict_addict). [ResearchGate](https://www.researchgate.net/profile/Valery-Manokhin) has my research and I occasionally publish in [Medium](https://medium.com/@valeman) sharing insights from the data science trenches in industry.
 
-Please feel free ro connect and also help spread the word about Conformal Prediction.
+Please feel free to connect and also help spread the word about Conformal Prediction.
 
 Awesome Conformal Prediction has been cited in the best book on Machine Learning (aka the machine learning 'bible') [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html) by the leading research scientist at Google (over 80K Google Scholar citations) and Bestselling Machine Learning Book Author Kevin Murphy.
 
@@ -56,7 +56,7 @@ When both the top machine learning and the top statistic professors from the bes
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 What about the industry one might ask - well Conformal Prediction already for several years powers the main anomaly detection proposition in Microsoft Azure and Data Robot (AutoML) uses Conformal Prediction to generate robust [prediction intervals for its models](https://docs.datarobot.com/en/docs/release/public-preview/mlops-preview/prediction-intervals-regression.html#the-trumpet-chart)
 
-In 2021 conformal prediction research experienced exponential growth in academia and with the availabity of open-source libaries the industry is positioned to replicate this growth in the industry.
+In 2021 conformal prediction research experienced exponential growth in academia and with the availability of open-source libraries the industry is positioned to replicate this growth in the industry.
 
 
 📢📢Industry take notice. The revolution in Uncertainty Quantification / Probabilistic Prediction / Forecasting is already here 📢📢  A big one  🔥🔥🔥🔥🔥
@@ -135,7 +135,7 @@ at ICML 2021](https://github.com/valeman/awesome-conformal-prediction/blob/main/
 ## Books
 
 1. [Algorithmic Learning in a Random World](https://link.springer.com/book/10.1007/b106715) by Vladimir Vovk and Alex Gammerman, also Glenn Shafer (2005). Second edition in progress. 🔥🔥🔥🔥🔥
-2. [Conformal Prediciton for Reliable Machine Learning](https://www.elsevier.com/books/conformal-prediction-for-reliable-machine-learning/balasubramanian/978-0-12-398537-8) by Vineeth Balasubramanian, Shen-Shyang Ho, Vladimir Vovk (2014) 🔥🔥🔥🔥🔥
+2. [Conformal Prediction for Reliable Machine Learning](https://www.elsevier.com/books/conformal-prediction-for-reliable-machine-learning/balasubramanian/978-0-12-398537-8) by Vineeth Balasubramanian, Shen-Shyang Ho, Vladimir Vovk (2014) 🔥🔥🔥🔥🔥
 3. [Conformal predictive distributions with kernels](https://link.springer.com/chapter/10.1007/978-3-319-99492-5_4) by Vladimir Vovk, Ilia Nouretdinov, Valery Manokhin, Alex Gammerman (Chapter in 'Braverman Readings in Machine Learning. Key Ideas from Inception to Current State', Springer, 2018). 🔥🔥🔥🔥🔥
 4. [Confidence, Likelihood, Probability](https://www.cambridge.org/core/books/confidence-likelihood-probability/143A34F11FB3D6F611F78E27C6D2CA5A) by Tore Schweder and Nils Lid Hjort (University of Oslo, 2016). Not directly about Conformal Prediction but a great book about modern frequentist methods. 🔥🔥🔥🔥🔥
 
@@ -150,7 +150,7 @@ at ICML 2021](https://github.com/valeman/awesome-conformal-prediction/blob/main/
 8. [Small and Large Scale Probabilistic Classifiers with Guarantees of Validity](https://pure.royalholloway.ac.uk/portal/files/30400650/2018PetejIPhd.pdf) by Ivan Petej (Royal Holloway, UK, 2019)
 9. [Towards a Question Answering View of Natural Language Processing](https://pure.royalholloway.ac.uk/portal/files/35163753/Towards_a_Question_Answering_View_of_Natural_Language_Processing_3.pdf) by Zukov Gregoric, Andrej (Royal Holloway, UK, 2019)
 10. [Confidence and Venn Machines and Their Applications to Proteomics](https://pure.royalholloway.ac.uk/portal/files/1402925/PhD_Thesis_Final_Dmitry_Devetyarov.pdf) by Devetyarov, Dmitry (Royal Holloway, UK, 2019)
-11. [Conformal Anomaly Detection - detecting abnormanl trajectories in surveillance applications](https://www.diva-portal.org/smash/get/diva2:690997/FULLTEXT02.pdf) by Rikard Laxhammar (University of Skoeve, Sweden, 2014)
+11. [Conformal Anomaly Detection - detecting abnormal trajectories in surveillance applications](https://www.diva-portal.org/smash/get/diva2:690997/FULLTEXT02.pdf) by Rikard Laxhammar (University of Skoeve, Sweden, 2014)
 12. [Inductive Confidence Machine for Pattern Recognition - is it the next step towards AI](https://github.com/eghamtech/AIOS/blob/master/notebooks/David_Surkov-RHUL-thesis-2004.pdf) by David Surkov (Royal Holloway, UK, 2004)
 13. [Distribution Free Prediction Intervals for Multiple Functional Regression](http://d-scholarship.pitt.edu/39495/1/RMK%20Dissertation%20Final.pdf) by Ryan Kelly (University of Pittsburgh, 2020).
 14. [Probabilistic Load Forecasting with Deep Conformalized Quantile Regression](https://munin.uit.no/bitstream/handle/10037/21914/thesis.pdf?sequence=2) by Vilde Jensen (Artcic University of Norway, 2021)
@@ -161,7 +161,7 @@ at ICML 2021](https://github.com/valeman/awesome-conformal-prediction/blob/main/
 1. [A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification](https://arxiv.org/pdf/2107.07511.pdf) by Anastasios N. Angelopoulos and Stephen Bates (2021) 🔥🔥🔥🔥🔥
 2. [A Tutorial on Conformal Prediction](https://www.youtube.com/watch?v=nql000Lu_iE&t=1786s) by Anastasios Angelopoulos and Stephen Bates (2021) 🔥🔥🔥🔥🔥
 3. [A Tutorial on Conformal Predictive Distributions](https://www.youtube.com/watch?v=FUi5jklGvvo&t=3s) by Paolo Toccaceli (2020) 🔥🔥🔥🔥🔥
-4. [Conformal Prediciton Tutorial](https://www.youtube.com/watch?v=0MsGri8nmJQ) by Henrik Linusson (2021) 🔥🔥🔥🔥🔥
+4. [Conformal Predication Tutorial](https://www.youtube.com/watch?v=0MsGri8nmJQ) by Henrik Linusson (2021) 🔥🔥🔥🔥🔥
 5. [Henrik Linusson: Conformal Prediction](https://www.youtube.com/watch?v=lQxH-zXrOwI&t=1522s) by Henrik Linusson (2020)
 6. [Predicting with Confidence - Henrik Boström](https://www.youtube.com/watch?v=eXU-64dwHmA) by Henrik Boström (2016)
 7. [Venn Predictors Tutorial](https://www.youtube.com/watch?v=KsQpkjl7u1w) by Ulf Johansson, Cecilia Sönströd, Tuve Löfström, and Henrik Boström (2021)
@@ -189,13 +189,13 @@ at ICML 2021](https://github.com/valeman/awesome-conformal-prediction/blob/main/
 6. [A Tutorial on Conformal Prediction](https://www.youtube.com/watch?v=nql000Lu_iE&t=1786s) by Anastasios Angelopoulos and Stephen Bates (Berkeley, ICML 2021) 🔥🔥🔥🔥🔥
 7. [Steps Toward Trustworthy Machine Learning](https://www.youtube.com/watch?v=2iNRSgS7-L4) by Tom Dietterich (2021)
 8. [A Tutorial on Conformal Predictive Distributions](https://www.youtube.com/watch?v=FUi5jklGvvo&t=3s) by Paolo Toccaceli (Royal Holloway, UK, 2020) 🔥🔥🔥🔥🔥
-9. [Conformal Prediciton Tutorial](https://www.youtube.com/watch?v=0MsGri8nmJQ) by Henrik Linusson (2021) 🔥🔥🔥🔥🔥
+9. [Conformal Prediction Tutorial](https://www.youtube.com/watch?v=0MsGri8nmJQ) by Henrik Linusson (2021) 🔥🔥🔥🔥🔥
 10. [Henrik Linusson: Conformal Prediction](https://www.youtube.com/watch?v=lQxH-zXrOwI&t=1522s) by Henrik Linusson (2020)
 11. [Predicting with Confidence - Henrik Boström](https://www.youtube.com/watch?v=eXU-64dwHmA) by Henrik Boström (2016)
 12. [How to increase certainty in predictive modeling](https://www.youtube.com/watch?v=fQQP84yxCRs&t=1277s) by Emmanuel Candes (Stanford, 2021) 🔥🔥🔥🔥🔥
 13. [Recent Progress in Predictive Inference](https://www.youtube.com/watch?v=tY73G_UvkAE&t=833s) by Emmanuel Candes (Stanford, 2020) 🔥🔥🔥🔥🔥
 14. [Some recent progress in predictive inference" (Stanford) @ MAD+](https://www.youtube.com/watch?v=djgxwpJQyAA) by Emmanuel Candes (Stanford, 2020)
-15. [Conformal Prediciton in 2020](https://www.youtube.com/watch?v=61tpigfLHso&t=1507s) by Emmanuel Candes (Stanford, 2020) 🔥🔥🔥🔥🔥
+15. [Conformal Prediction in 2020](https://www.youtube.com/watch?v=61tpigfLHso&t=1507s) by Emmanuel Candes (Stanford, 2020) 🔥🔥🔥🔥🔥
 16. [Assumption-free prediction intervals for black-box regression algorithms](https://www.youtube.com/watch?v=GMnCO7_HIOY&t=3943s) by Aaditya Ramdas (Carnegie Mellon, 2020) 🔥🔥🔥🔥🔥
 17. [Maria Navarro: Quantifying uncertainty in Machine Learning predictions | PyData London 2019](https://www.youtube.com/watch?v=r6bhm_A-YcQ&t=12s) by Maria Navarro (2019)
 18. [Conformal Prediction: Enhanced Method for Understanding the Prediction Quality](https://www.youtube.com/watch?v=_ZVuEWEfwuw&t=948s) by Artem Ryasik and Greg Landrum
