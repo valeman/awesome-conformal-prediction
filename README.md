@@ -358,6 +358,7 @@ Probabilistic Time Series Forecasting](https://arxiv.org/pdf/2202.08756v1.pdf) b
 104. [Conformal Time-Series Forecasting](https://proceedings.neurips.cc/paper/2021/file/312f1ba2a72318edaaa995a67835fad5-Paper.pdf) by Kamile  Stankeviciu te and Ahmed M. Alaa (2021)  TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 105. [Efficient Conformal Prediction via cascaded inference with expanded admission](https://arxiv.org/pdf/2007.03114.pdf) by Adam Fisch,  Tal Schuster, Tommi Jaakkola, Regina Barzilay (MIT 2021]. [Python Code](https://github.com/ajfisch/conformal-cascades)
 106. [Split Localized Conformal Prediction](https://arxiv.org/abs/2206.13092) by Xing Han, Ziyang Tang, Joydeep Ghosh, Qiang Liu (University of Texas, 2022). [Python Code](https://github.com/valeman/SLCP)
+107. [Three Applications of Conformal Prediction for Rating Breast Density in Mammography](https://arxiv.org/pdf/2206.12008.pdf) by Charles Lu, Ken Chang, Praveer Singh, Jayashree Kalpathy-Crame (2022) 
 
 ## Papers_Time_Series
 
