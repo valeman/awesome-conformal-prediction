@@ -371,7 +371,7 @@ Probabilistic Time Series Forecasting](https://arxiv.org/pdf/2202.08756v1.pdf) b
 7. [Conformal prediction set for time-series](https://arxiv.org/abs/2206.07851) by Chen Xu,Yao Xie (Georgia Tech, 2022) TIME SERIES 🚀🚀🚀🚀🚀🔥🔥🔥🔥🔥
 8. [Exact and Robust Conformal Inference Methods for Predictive Machine Learning with Dependent Data](http://proceedings.mlr.press/v75/chernozhukov18a/chernozhukov18a.pdf) by Victor Chernozhukov (MIT), Kaspar Wuethrich (University of California, San Diego) and Yinchu Zhu (University of Oregon) (2018)
 9. [Distributional Conformal Prediction](https://www.pnas.org/doi/pdf/10.1073/pnas.2107794118) by Chernozhukov (MIT), Kaspar Wuethrich (University of California, San Diego) and Yinchu Zhu (University of Oregon) (2022)
-10.[Distribution-Free Prediction Bands for Multivariate Functional Time Series: an Application to the Italian Gas Market](https://arxiv.org/abs/2107.00527) by Jacopo Diquigiovanni (University of Padua) Matteo Fontana (Joint Research Centre - European Commission) Simone Vantini (Politecnico di Milano) (2021)
+10. [Distribution-Free Prediction Bands for Multivariate Functional Time Series: an Application to the Italian Gas Market](https://arxiv.org/abs/2107.00527) by Jacopo Diquigiovanni (University of Padua) Matteo Fontana (Joint Research Centre - European Commission) Simone Vantini (Politecnico di Milano) (2021)
 
 
 ## Presentation_slides
