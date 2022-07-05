@@ -360,6 +360,7 @@ Probabilistic Time Series Forecasting](https://arxiv.org/pdf/2202.08756v1.pdf) b
 106. [Split Localized Conformal Prediction](https://arxiv.org/abs/2206.13092) by Xing Han, Ziyang Tang, Joydeep Ghosh, Qiang Liu (University of Texas, 2022). [Python Code](https://github.com/valeman/SLCP)
 107. [Three Applications of Conformal Prediction for Rating Breast Density in Mammography](https://arxiv.org/pdf/2206.12008.pdf) by Charles Lu, Ken Chang, Praveer Singh, Jayashree Kalpathy-Crame (2022)
 108. [Conformal prediction set for time-series](https://arxiv.org/abs/2206.07851) by Chen Xu, Yao Xie (Georgia Tech, 2022) Python Code](hhttps://github.com/valeman/Ensemble-Regularized-Adaptive-Prediction-Set-ERAPS) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+109. [Recommendation systems with distribution-free reliability guarantees](https://arxiv.org/pdf/2207.01609.pdf)) by Anastasious Angelopolous, Karl Krauth, Stephen Bates, Yixin Wang and Michael I. Jordan (Berkeley 2022)
 
 ## Papers Time Series
 
