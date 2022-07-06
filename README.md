@@ -181,6 +181,7 @@ at ICML 2021](https://github.com/valeman/awesome-conformal-prediction/blob/main/
 15. [Conformal prediction A Tiny Tutorial on Predicting with Confidence](https://people.dsv.su.se/~henke/DSWS/johansson.pdf) by Henrik Linusson and Ulf Johansson (2014)
 16. [Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification](https://www.youtube.com/watch?v=usaHyuu2TzY) by Anastasios Angelopoulos (Berkeley, 2022)
 17. [Beyond Conformal Prediction: Tutorial on Conformal Part 3](https://www.youtube.com/watch?v=37HKrmA5gJE) by Anastasios Angelopoulos and Stephen Bates (2022) 🔥🔥🔥🔥🔥
+18. [A Tutorial on Conformal Predictive Distributions](https://cml.rhul.ac.uk/people/ptocca/HomePage/Toccaceli_CP___Venn_Tutorial.pdf) by Paolo Toccaceli (2019) 🔥🔥🔥🔥🔥
 
 ## Courses
 1. [Topics in Modern Statistical Learning](https://github.com/dobriban/Topics-In-Modern-Statistical-Learning)
