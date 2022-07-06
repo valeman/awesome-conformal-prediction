@@ -3,6 +3,7 @@
 [LinkedIn group - Awesome Conformal Prediction](https://www.linkedin.com/groups/12683432/)
 
 [Slack for Awesome Conformal Prediction](https://join.slack.com/t/awesomeconformalpred/shared_invite/zt-1b07b5n1c-swtQDpoaBaWGxDl_Xjr4Tw)
+
 Please reach out to rahul_vishwakarma@icloud.com if you have issues with Slack link and need invite to the Slack.
 
 
