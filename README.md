@@ -343,26 +343,23 @@ Jiao Gu, Huaibo Liu, Chaoqun Ma, Lei Li, Chun Zhu, Christ Glorieux, Guoqing Chen
 90. [The Lifecycle of a Statistical Model: Model Failure Detection, Identification, and Refitting](https://arxiv.org/pdf/2202.04166.pdf) by Alnur Ali1, Maxime Cauchois and John C. Duchi (Stanford, 2022)
 91. [E-values: Calibration, combination, and applications](https://arxiv.org/pdf/1912.06116.pdf) by Vladimir Vovk (Royal Holloway) and Ruodu Wang (University of Waterloo) (2019)
 92. [Conformal Prediction Sets with Limited False Positives](https://arxiv.org/pdf/2202.07650.pdf) by Adam Fisch, Tal Schuster, Tommi Jaakkola and Regina Barzilay (MIT / Google Research, 2022)
-93. [Adaptive Conformal Predictions for Time Series](https://arxiv.org/pdf/2202.07282.pdf) by Margaux Zaffran, Aymeric Dieuleveut, Olivier Fe ́ron, Yannig Goude,  and Julie Josse (EDF / INRIA / CMAP, France, 2022) 🔥🔥🔥🔥🔥
-94. [Ensemble Conformalized Quantile Regression for
-Probabilistic Time Series Forecasting](https://arxiv.org/pdf/2202.08756v1.pdf) by Vilde Jensen, Filippo Maria Bianchi, Stian Norman Anfinsen (Arctic University of Norway, 2022) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
-95. [Prediction of Metabolic Transformations using Cross Venn-ABERS Predictors](http://proceedings.mlr.press/v60/arvidsson17a/arvidsson17a.pdf) by Staffan Arvidsson, Ola Spjuth, Lars Carlsson and Paolo Toccaceli (University of Uppsala, Astra Zeneca, Royal Holloway, 2017)
-96. [Probabilistic Prediction in scikit-learn](https://www.diva-portal.org/smash/get/diva2:1603345/FULLTEXT01.pdf) by Sweidan, Dirar and Ulf Johansson. 🔥🔥🔥🔥🔥
-97. [Conformalized Online Learning: Online Calibration Without a Holdout Set](https://arxiv.org/pdf/2205.09095.pdf) by Shai Feldman, Stephen Bates and Yaniv Romano (2022). TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
-98. [Valid model-free spatial prediction](https://arxiv.org/pdf/2006.15640.pdf) by Huiying Mao, Ryan Martin and Brian J Reich (2020)
-99. [Conformal Prediction with Temporal Quantile Adjustments](https://arxiv.org/pdf/2205.09940.pdf) by Zhen Lin, Shubhendu Trivedi, Jimeng Sun (2022)  TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
-100. [Calibration of Natural Language Understanding Models with Venn–ABERS Predictors](https://arxiv.org/pdf/2205.10586.pdf) by Patrizio Giovannotti (Royal Holloway, UK, 2022) NLP
-101. [Conformal prediction interval for dynamic time-series](https://proceedings.mlr.press/v139/xu21h.html) by Chen Xu, Yao Xie (Georgia Tech, 2021) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
-102. [Conformal prediction set for time-series](https://arxiv.org/abs/2206.07851) by Chen Xu, Yao Xie (Georgia Tech, 2022) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
-103. [Adaptive Conformal Predictions for Time Series](https://arxiv.org/abs/2202.07282) by Margaux Zaffran,  Aymeric Dieuleveut,  Olivier Fe ́ron, Yannig Goude, and Julie Josse (2022) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
-104. [Conformal Time-Series Forecasting](https://proceedings.neurips.cc/paper/2021/file/312f1ba2a72318edaaa995a67835fad5-Paper.pdf) by Kamile  Stankeviciu te and Ahmed M. Alaa (2021)  TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+
+93. [Prediction of Metabolic Transformations using Cross Venn-ABERS Predictors](http://proceedings.mlr.press/v60/arvidsson17a/arvidsson17a.pdf) by Staffan Arvidsson, Ola Spjuth, Lars Carlsson and Paolo Toccaceli (University of Uppsala, Astra Zeneca, Royal Holloway, 2017)
+94. [Probabilistic Prediction in scikit-learn](https://www.diva-portal.org/smash/get/diva2:1603345/FULLTEXT01.pdf) by Sweidan, Dirar and Ulf Johansson. 🔥🔥🔥🔥🔥
+
+95. [Valid model-free spatial prediction](https://arxiv.org/pdf/2006.15640.pdf) by Huiying Mao, Ryan Martin and Brian J Reich (2020)
+96. [Conformal Prediction with Temporal Quantile Adjustments](https://arxiv.org/pdf/2205.09940.pdf) by Zhen Lin, Shubhendu Trivedi, Jimeng Sun (2022)  TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+97. [Calibration of Natural Language Understanding Models with Venn–ABERS Predictors](https://arxiv.org/pdf/2205.10586.pdf) by Patrizio Giovannotti (Royal Holloway, UK, 2022) NLP
+98. [Conformal prediction interval for dynamic time-series](https://proceedings.mlr.press/v139/xu21h.html) by Chen Xu, Yao Xie (Georgia Tech, 2021) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+99. [Conformal prediction set for time-series](https://arxiv.org/abs/2206.07851) by Chen Xu, Yao Xie (Georgia Tech, 2022) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+
 105. [Efficient Conformal Prediction via cascaded inference with expanded admission](https://arxiv.org/pdf/2007.03114.pdf) by Adam Fisch,  Tal Schuster, Tommi Jaakkola, Regina Barzilay (MIT 2021]. [Python Code](https://github.com/ajfisch/conformal-cascades)
 106. [Split Localized Conformal Prediction](https://arxiv.org/abs/2206.13092) by Xing Han, Ziyang Tang, Joydeep Ghosh, Qiang Liu (University of Texas, 2022). [Python Code](https://github.com/valeman/SLCP)
 107. [Three Applications of Conformal Prediction for Rating Breast Density in Mammography](https://arxiv.org/pdf/2206.12008.pdf) by Charles Lu, Ken Chang, Praveer Singh, Jayashree Kalpathy-Crame (2022)
-108. [Conformal prediction set for time-series](https://arxiv.org/abs/2206.07851) by Chen Xu, Yao Xie (Georgia Tech, 2022) Python Code](hhttps://github.com/valeman/Ensemble-Regularized-Adaptive-Prediction-Set-ERAPS) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+
 109. [Recommendation systems with distribution-free reliability guarantees](https://arxiv.org/pdf/2207.01609.pdf)) by Anastasious Angelopolous, Karl Krauth, Stephen Bates, Yixin Wang and Michael I. Jordan (Berkeley 2022)
 
-## Papers Time Series
+## Papers Time Series and Econometrics
 
 1. [Conformal prediction interval for dynamic time-series](https://proceedings.mlr.press/v139/xu21h.html) by Chen Xu, Yao Xie (Georgia Tech, 2021) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 2. [Conformal Time-Series Forecasting](https://proceedings.neurips.cc/paper/2021/file/312f1ba2a72318edaaa995a67835fad5-Paper.pdf) by Kamile  Stankeviciu te and Ahmed M. Alaa (2021)  TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
@@ -374,6 +371,16 @@ Probabilistic Time Series Forecasting](https://arxiv.org/pdf/2202.08756v1.pdf) b
 8. [Exact and Robust Conformal Inference Methods for Predictive Machine Learning with Dependent Data](http://proceedings.mlr.press/v75/chernozhukov18a/chernozhukov18a.pdf) by Victor Chernozhukov (MIT), Kaspar Wuethrich (University of California, San Diego) and Yinchu Zhu (University of Oregon) (2018)
 9. [Distributional Conformal Prediction](https://www.pnas.org/doi/pdf/10.1073/pnas.2107794118) by Chernozhukov (MIT), Kaspar Wuethrich (University of California, San Diego) and Yinchu Zhu (University of Oregon) (2022)
 10. [Distribution-Free Prediction Bands for Multivariate Functional Time Series: an Application to the Italian Gas Market](https://arxiv.org/abs/2107.00527) by Jacopo Diquigiovanni (University of Padua) Matteo Fontana (Joint Research Centre - European Commission) Simone Vantini (Politecnico di Milano) (2021)
+11. [Conformalized Online Learning: Online Calibration Without a Holdout Set](https://arxiv.org/pdf/2205.09095.pdf) by Shai Feldman, Stephen Bates and Yaniv Romano (2022). TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+12. [Adaptive Conformal Predictions for Time Series](https://arxiv.org/pdf/2202.07282.pdf) by Margaux Zaffran, Aymeric Dieuleveut, Olivier Fe ́ron, Yannig Goude,  and Julie Josse (EDF / INRIA / CMAP, France, 2022) 🔥🔥🔥🔥🔥
+13. [Conformal Prediction with Temporal Quantile Adjustments](https://arxiv.org/pdf/2205.09940.pdf) by Zhen Lin, Shubhendu Trivedi, Jimeng Sun (2022)  TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+14. [Ensemble Conformalized Quantile Regression for Probabilistic Time Series Forecasting](https://arxiv.org/pdf/2202.08756v1.pdf) by Vilde Jensen, Filippo Maria Bianchi, Stian Norman Anfinsen (Arctic University of Norway, 2022) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+15. [Conformal Time-Series Forecasting](https://proceedings.neurips.cc/paper/2021/file/312f1ba2a72318edaaa995a67835fad5-Paper.pdf) by Kamile  Stankeviciu te and Ahmed M. Alaa (2021)  TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+16. [Conformal prediction set for time-series](https://arxiv.org/abs/2206.07851) by Chen Xu, Yao Xie (Georgia Tech, 2022) Python Code](hhttps://github.com/valeman/Ensemble-Regularized-Adaptive-Prediction-Set-ERAPS) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+17. [Conformal inference of counterfactuals and individual treatment effects](https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/rssb.12445) by Lihua Lei, Emmanuel J. Cand�s (Stanford, 2021)
+
+
+
 
 ## Presentation_slides
 1. [Adaptive Conformal Anomaly Detection for Time-series](https://cml.rhul.ac.uk/copa2017/presentations/burnaev.pdf) by Evgeny Burnaev, Alexander Bernstein, Vlad Ishimtsev and Ivan Nazarov (Skoltech, Moscow, Russia, 2017)
@@ -473,8 +480,9 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 5. [piRF - Prediction Intervals for Random Forests](https://github.com/chancejohnstone/piRF) by Chancellor Johnstone and Haozhe Zhang (2019)
 6. [conformalClassification: Transductive and Inductive Conformal Predictions for Classification Problems](https://cran.r-project.org/web/packages/conformalClassification/) by Niharika Gauraha and Ola Spjuth (2019)
 7. [R Package for Spatial Conformal Prediction](https://github.com/mhuiying/scp)
-8. [conformalInference.multi: Conformal Inference Tools for Regression with Multivariate Response] (https://cran.r-project.org/web/packages/conformalInference.multi/index.html) by Jacopo Diquigiovanni, Matteo Fontana, Aldo Solari, Simone Vantini, Paolo Vergottini, Ryan Tibshirani (2021) 🔥🔥🔥🔥🔥
-9. [conformalInference.fd: Conformal Inference Tools for Regression with Functional Multivariate Response] (https://cran.r-project.org/web/packages/conformalInference.fd/index.html) by Jacopo Diquigiovanni, Matteo Fontana, Aldo Solari, Simone Vantini, Paolo Vergottini, Ryan Tibshirani (2021)
+8. [conformalInference.multi: Conformal Inference Tools for Regression with Multivariate Response](https://cran.r-project.org/web/packages/conformalInference.multi/index.html) by Jacopo Diquigiovanni, Matteo Fontana, Aldo Solari, Simone Vantini, Paolo Vergottini, Ryan Tibshirani (2021) 🔥🔥🔥🔥🔥
+9. [conformalInference.fd: Conformal Inference Tools for Regression with Functional Multivariate Response](https://cran.r-project.org/web/packages/conformalInference.fd/index.html) by Jacopo Diquigiovanni, Matteo Fontana, Aldo Solari, Simone Vantini, Paolo Vergottini, Ryan Tibshirani (2021)
+10.[cfcausal: An R package for conformal inference of counterfactuals and individual treatment effects](https://lihualei71.github.io/cfcausal/index.html) by Lihua Lei (2021)
 
 
 ## Code-Julia
