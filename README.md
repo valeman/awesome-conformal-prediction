@@ -133,11 +133,8 @@ This is newest version of the super-popular tutorial on Conformal Prediction (ov
 ## Events
 
 
-![Featured Event - Workshop on Distribution-Free Uncertainty Quantification
-at ICML 2021](https://github.com/valeman/awesome-conformal-prediction/blob/main/ICML%20DFUQ%2022%20rocks!.jpeg)
-
-1. [Workshop on Distribution-Free Uncertainty Quantification at ICML 2022](https://sites.google.com/berkeley.edu/dfuq-22/home)
-2. [11th Symposium on Conformal and Probabilistic Prediction with Applications](http://copa-conference.com)
+![11th Symposium on Conformal and Probabilistic Prediction with Applications](https://github.com/valeman/awesome-conformal-prediction/blob/main/COPA%202022%20conformal.png)
+[11th Symposium on Conformal and Probabilistic Prediction with Applications](http://copa-conference.com)
 
 ## Books
 
@@ -438,12 +435,14 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 
 
 ## Conferences
-1. https://icml.cc/Conferences/2021/ScheduleMultitrack?event=8373 🔥🔥🔥🔥🔥
-2. https://cml.rhul.ac.uk/copa2021/ 🔥🔥🔥🔥🔥
-3. https://cml.rhul.ac.uk/copa2020/ 🔥🔥🔥🔥🔥
-4. https://cml.rhul.ac.uk/copa2019/ 🔥🔥🔥🔥🔥
-5. https://cml.rhul.ac.uk/copa2018/ 🔥🔥🔥🔥🔥
-6. https://cml.rhul.ac.uk/copa2017/ 🔥🔥🔥🔥🔥
+1. [11th Symposium on Conformal and Probabilistic Prediction with Applications](http://copa-conference.com) 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥 
+2. [Workshop on Distribution-Free Uncertainty Quantification at ICML 2022](https://sites.google.com/berkeley.edu/dfuq-22/home) 🔥🔥🔥🔥🔥 
+3. [Workshop on Distribution-Free Uncertainty Quantification at ICML 2022](https://icml.cc/Conferences/2021/ScheduleMultitrack?event=8373)🔥🔥🔥🔥🔥 
+4. [10th Symposium on Conformal and Probabilistic Prediction with Applications](https://cml.rhul.ac.uk/copa2021/) 🔥🔥🔥🔥🔥
+5. [9th Symposium on Conformal and Probabilistic Prediction with Applications](https://cml.rhul.ac.uk/copa2020/) 🔥🔥🔥🔥🔥
+6. [8th Symposium on Conformal and Probabilistic Prediction with Applications](https://cml.rhul.ac.uk/copa2019/) 🔥🔥🔥🔥🔥
+7. [7th Symposium on Conformal and Probabilistic Prediction with Applications](https://cml.rhul.ac.uk/copa2018/ 🔥🔥🔥🔥🔥
+8. [6th Symposium on Conformal and Probabilistic Prediction with Applications](https://cml.rhul.ac.uk/copa2017/ 🔥🔥🔥🔥🔥
 
 ## Code-Python
 
