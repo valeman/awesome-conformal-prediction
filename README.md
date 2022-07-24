@@ -313,7 +313,7 @@ Jiao Gu, Huaibo Liu, Chaoqun Ma, Lei Li, Chun Zhu, Christ Glorieux, Guoqing Chen
 62. [Efficient iterative virtual screening with Apache Spark and conformal prediction](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-018-0265-z) by Laeeq Ahmed, Valentin Georgiev, Marco Capuccini, Salman Toor, Wesley Schaal, Erwin Laure and Ola Spjuth (2018)
 63. [Predicting Off-Target Binding Profiles With Confidence Using Conformal Prediction](https://pubmed.ncbi.nlm.nih.gov/30459617/) by Samuel Lampa, Jonathan Alvarsson, Staffan Arvidsson Mc Shane, Arvid Berg, Ernst Ahlberg, Ola Spjuth (2018)
 64. [Maximizing gain in high-throughput screening using conformal prediction](https://jcheminf.biomedcentral.com/track/pdf/10.1186/s13321-018-0260-4.pdf) by Fredrik Svensson, Avid M. Afzal1, Ulf Norinder and Andreas Bender (2018)
-65. [Conformalized Survival Analysis](https://arxiv.org/pdf/2103.09763.pdf) by Emmanuel Candès, Lihua Lei and Zhimei Ren (2021) 🔥🔥🔥🔥🔥
+65. [Conformalized Survival Analysis](https://arxiv.org/pdf/2103.09763.pdf) by Emmanuel Candès, Lihua Lei and Zhimei Ren (2021) [R-Code](https://github.com/valeman/cfsurv_paper)  🔥🔥🔥🔥🔥
 66. [Random Forest Prediction Intervals](https://haozhestat.github.io/files/manuscript_RFIntervals_FinalVersion.pdf) by Haozhe Zhang†, Joshua Zimmerman†, Dan Nettleton† and Daniel J. Nordman† (Iowa State University, USA, 2019)
 67. [Conformal Training: Learning Optimal Conformal Classifiers | DeepMind](https://arxiv.org/pdf/2110.09192.pdf) by David Stutz (DeepMind), Krishnamurthy Dvijotham, Ali Taylan Cemgil and Arnaud Doucet (2021)
 68. [Comparing the Bayes and typicalness frameworks](https://link.springer.com/content/pdf/10.1007%2F3-540-44795-4_31.pdf) by Thomas Melluish, Craig Saunders, Ilia Nouretdinov, and Volodya Vovk (Royal Holloway, UK, 2001). 🔥🔥🔥🔥🔥
@@ -484,6 +484,7 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 7. [R Package for Spatial Conformal Prediction](https://github.com/mhuiying/scp)
 8. [conformalInference.multi: Conformal Inference Tools for Regression with Multivariate Response](conformalInference.multi: Conformal Inference Tools for Regression with Multivariate Response](https://cran.r-project.org/web/packages/conformalInference.multi/index.html) by Jacopo Diquigiovanni, Matteo Fontana, Aldo Solari, Simone Vantini, Paolo Vergottini, Ryan Tibshirani (2021) 🔥🔥🔥🔥🔥
 9. [Conformal: an R package to calculate prediction errors in the conformal prediction framework](https://github.com/isidroc/conformal/) by Isidro Cortes, 2019
+10. [cfsurvival - An R package that implements the conformalized survival analysis methodology](https://zhimeir.github.io/cfsurvival/index.html) [Paper](https://arxiv.org/abs/2103.09763)
 
 ## Code-Julia
 
