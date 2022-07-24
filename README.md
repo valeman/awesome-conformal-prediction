@@ -363,8 +363,9 @@ Probabilistic Time Series Forecasting](https://arxiv.org/pdf/2202.08756v1.pdf) b
 109. [Recommendation systems with distribution-free reliability guarantees](https://arxiv.org/pdf/2207.01609.pdf)) by Anastasious Angelopolous, Karl Krauth, Stephen Bates, Yixin Wang and Michael I. Jordan (Berkeley 2022)
 110. [Model Agnostic Conformal Hyperparameter Optimization](https://arxiv.org/pdf/2207.03017.pdf) by Riccardo Doyle (Spotify, 2022)
 111. [Improving Trustworthiness of AI Disease Severity Rating in Medical Imaging with Ordinal Conformal Prediction Sets](https://arxiv.org/pdf/2207.02238.pdf) by Charles Lu, Anastasios N. Angelopoulos, Stuart Pomerantz (2022)
-112. [Conformal Off-Policy Prediction in Contextual Bandits](https://arxiv.org/pdf/2206.04405.pdf) by Muhammad Faaiz Taufiq, Jean-François Ton, Rob Cornish, Yee Whye Teh, Arnaud Doucet (Oxford, 2022)
-113. [Training Uncertainty-Aware Classifiers with Conformalized Deep Learning](https://arxiv.org/abs/2205.05878) by Bat-Sheva Einbinder, Yaniv Romano, Matteo Sesia, Yanfei Zhou (Technion, USCLA 2022) [Video presentation](https://www.youtube.com/watch?v=RJ7ShciZq2s) [Code](https://github.com/bat-sheva/conformal-learning)
+112. [Conformal Off-Policy Prediction in Contextual Bandits](https://arxiv.org/pdf/2206.04405.pdf) by Muhammad Faaiz Taufiq, Jean-François Ton, Rob Cornish, Yee Whye Teh, Arnaud Doucet (Oxford, 2022) [Video presentation](https://youtu.be/K5RAjP1Ze30)
+113. [Training Uncertainty-Aware Classifiers with Conformalized Deep Learning](https://arxiv.org/abs/2205.05878) by Bat-Sheva Einbinder, Yaniv Romano, Matteo Sesia, Yanfei Zhou (Technion, USCLA 2022) [Video presentation](https://www.youtube.com/watch?v=RJ7ShciZq2s); [Code](https://github.com/bat-sheva/conformal-learning)
+114. 
 
 
 ## Papers Time Series
