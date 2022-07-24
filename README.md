@@ -242,6 +242,8 @@ This is newest version of the super-popular tutorial on Conformal Prediction (ov
 56. [Fast conformal classification using influence functions](https://www.youtube.com/watch?v=LRwm976poDE) by Umang Bhatt, Adrian Weller and Giovanni Cherubin (Cambridge / Alan Turinig Institute, 2021).
 57. [Adaptive Conformal Predictions for Time Series | ISDFS](https://www.youtube.com/watch?v=Yuxu9aUpVi0) by Margaux Zaffran (2022) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 58. [Recent progress in predictive inference](https://www.youtube.com/watch?v=FQxpdMME0qU) by Emmanuel Candes, Stanford University (2022)
+59. [Conformalized Survival Analysis with Adaptive Cutoffs](https://youtu.be/bvZ0SZlnkv8) by Rina Foygel Barber, Zhimei Ren, Yu Gui and Rohan Hore, University of Chicago (2022)
+60. 
 
 ## Papers
 
@@ -362,6 +364,8 @@ Probabilistic Time Series Forecasting](https://arxiv.org/pdf/2202.08756v1.pdf) b
 110. [Model Agnostic Conformal Hyperparameter Optimization](https://arxiv.org/pdf/2207.03017.pdf) by Riccardo Doyle (Spotify, 2022)
 111. [Improving Trustworthiness of AI Disease Severity Rating in Medical Imaging with Ordinal Conformal Prediction Sets](https://arxiv.org/pdf/2207.02238.pdf) by Charles Lu, Anastasios N. Angelopoulos, Stuart Pomerantz (2022)
 112. [Conformal Off-Policy Prediction in Contextual Bandits](https://arxiv.org/pdf/2206.04405.pdf) by Muhammad Faaiz Taufiq, Jean-François Ton, Rob Cornish, Yee Whye Teh, Arnaud Doucet (Oxford, 2022)
+113. [Training Uncertainty-Aware Classifiers with Conformalized Deep Learning](https://arxiv.org/abs/2205.05878) by Bat-Sheva Einbinder, Yaniv Romano, Matteo Sesia, Yanfei Zhou (Technion, USCLA 2022) [Video presentation](https://www.youtube.com/watch?v=RJ7ShciZq2s) [Code](https://github.com/bat-sheva/conformal-learning)
+
 
 ## Papers Time Series
 
@@ -407,6 +411,7 @@ Probabilistic Time Series Forecasting](https://arxiv.org/pdf/2202.08756v1.pdf) b
 21. [Ola Spjuth](https://pharmb.io), Uppsala University, Sweden
 22. [Ilia Nouretdinov](https://cml.rhul.ac.uk/people/nouretdinov/index.htm), Royal Holloway, United Kingdom
 23. [Matteo Fontana](https://scholar.google.com/citations?user=U7jODH8AAAAJ&hl=it), Joint Research Centre - European Commission
+24. [Yao Xie](https://www2.isye.gatech.edu/~yxie77/), Georgia Institute of Technology
 
 ## Articles
 1. [Measuring Models' Uncertainty: Conformal Prediction](https://blog.dataiku.com/measuring-models-uncertainty-conformal-prediction) by 
