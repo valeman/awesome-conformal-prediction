@@ -365,12 +365,11 @@ Probabilistic Time Series Forecasting](https://arxiv.org/pdf/2202.08756v1.pdf) b
 111. [Improving Trustworthiness of AI Disease Severity Rating in Medical Imaging with Ordinal Conformal Prediction Sets](https://arxiv.org/pdf/2207.02238.pdf) by Charles Lu, Anastasios N. Angelopoulos, Stuart Pomerantz (2022)
 112. [Conformal Off-Policy Prediction in Contextual Bandits](https://arxiv.org/pdf/2206.04405.pdf) by Muhammad Faaiz Taufiq, Jean-François Ton, Rob Cornish, Yee Whye Teh, Arnaud Doucet (Oxford, 2022) [Video presentation](https://youtu.be/K5RAjP1Ze30)
 113. [Training Uncertainty-Aware Classifiers with Conformalized Deep Learning](https://arxiv.org/abs/2205.05878) by Bat-Sheva Einbinder, Yaniv Romano, Matteo Sesia, Yanfei Zhou (Technion, USCLA 2022) [Video presentation](https://www.youtube.com/watch?v=RJ7ShciZq2s); [Code](https://github.com/bat-sheva/conformal-learning)
-114. 
-
+114. [Semantic uncertainty intervals for disentangled latent space](https://arxiv.org/pdf/2207.10074.pdf) by Swami Sankaranarayanan, Anastasios N. Angelopoulos, Stephen Bates, Yaniv Romano, and Phillip Isola (Unversity of Berkeley, Technion, 2022) 🔥🔥🔥🔥🔥
 
 ## Papers Time Series
 
-1. [Conformal prediction interval for dynamic time-series](https://proceedings.mlr.press/v139/xu21h.html) by Chen Xu, Yao Xie (Georgia Tech, 2021) TIME SERIES [Python Code] (https://github.com/hamrel-cxu/EnbPI) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥 
+1. [Conformal prediction interval for dynamic time-series](https://proceedings.mlr.press/v139/xu21h.html) by Chen Xu, Yao Xie (Georgia Tech, 2021) TIME SERIES [Python Code] (https://github.com/hamrel-cxu/EnbPI) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 2. [Conformal prediction set for time-series](https://arxiv.org/abs/2206.07851) by Chen Xu, Yao Xie (Georgia Tech, 2022) [Python Code](https://github.com/hamrel-cxu/Ensemble-Regularized-Adaptive-Prediction-Set-ERAPS) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 3. [Conformal Time-Series Forecasting](https://proceedings.neurips.cc/paper/2021/file/312f1ba2a72318edaaa995a67835fad5-Paper.pdf) by Kamile  Stankeviciu te and Ahmed M. Alaa (2021)  TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 4. [Ensemble Conformalized Quantile Regression for Probabilistic Time Series Forecasting](https://arxiv.org/pdf/2202.08756.pdf) by Vilde Jensen, Filippo Maria Bianchi, Stian Norman Anfinsen (2022). TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
