@@ -367,6 +367,7 @@ Probabilistic Time Series Forecasting](https://arxiv.org/pdf/2202.08756v1.pdf) b
 113. [Training Uncertainty-Aware Classifiers with Conformalized Deep Learning](https://arxiv.org/abs/2205.05878) by Bat-Sheva Einbinder, Yaniv Romano, Matteo Sesia, Yanfei Zhou (Technion, USCLA 2022) [Video presentation](https://www.youtube.com/watch?v=RJ7ShciZq2s); [Code](https://github.com/bat-sheva/conformal-learning)
 114. [Semantic uncertainty intervals for disentangled latent space](https://arxiv.org/pdf/2207.10074.pdf) by Swami Sankaranarayanan, Anastasios N. Angelopoulos, Stephen Bates, Yaniv Romano, and Phillip Isola (Unversity of Berkeley, Technion, 2022) 🔥🔥🔥🔥🔥
 115. [MAPIE: an open-source library for distribution-free uncertainty quantification](https://arxiv.org/pdf/2207.12274.pdf) by Vianney Taquet, Vincent Blot, Thomas Morzadec, Louis Lacombe, Nicolas Brunel (Quantmetry, France, 2022)
+116. [CODiT: Conformal Out-of-Distribution Detection in Time- Series Data](https://arxiv.org/pdf/2207.11769.pdf) by Ramneet Kaur et.al., Unibersity of Pensylvania (2022). [Code](https://github.com/kaustubhsridhar/time-series-OOD) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 
 ## Papers Time Series
 
@@ -380,6 +381,7 @@ Probabilistic Time Series Forecasting](https://arxiv.org/pdf/2202.08756v1.pdf) b
 9. [Exact and Robust Conformal Inference Methods for Predictive Machine Learning with Dependent Data](http://proceedings.mlr.press/v75/chernozhukov18a/chernozhukov18a.pdf) by Victor Chernozhukov (MIT), Kaspar Wuethrich (University of California, San Diego) and Yinchu Zhu (University of Oregon) (2018)
 10. [Distributional Conformal Prediction](https://www.pnas.org/doi/pdf/10.1073/pnas.2107794118) by Chernozhukov (MIT), Kaspar Wuethrich (University of California, San Diego) and Yinchu Zhu (University of Oregon) (2022)
 11. [Distribution-Free Prediction Bands for Multivariate Functional Time Series: an Application to the Italian Gas Market](https://arxiv.org/abs/2107.00527) by Jacopo Diquigiovanni (University of Padua) Matteo Fontana (Joint Research Centre - European Commission) Simone Vantini (Politecnico di Milano) (2021)
+12. [CODiT: Conformal Out-of-Distribution Detection in Time- Series Data](https://arxiv.org/pdf/2207.11769.pdf) by Ramneet Kaur et.al., Unibersity of Pensylvania (2022). [Code](https://github.com/kaustubhsridhar/time-series-OOD) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 
 
 ## Presentation_slides
