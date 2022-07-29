@@ -415,7 +415,8 @@ Probabilistic Time Series Forecasting](https://arxiv.org/pdf/2202.08756v1.pdf) b
 22. [Ilia Nouretdinov](https://cml.rhul.ac.uk/people/nouretdinov/index.htm), Royal Holloway, United Kingdom
 23. [Matteo Fontana](https://scholar.google.com/citations?user=U7jODH8AAAAJ&hl=it), Joint Research Centre - European Commission
 24. [Yao Xie](https://www2.isye.gatech.edu/~yxie77/), Georgia Institute of Technology
-
+25. [Zhimeo Ren](https://zhimeir.github.io), University of Chicago
+2
 ## Articles
 1. [Measuring Models' Uncertainty: Conformal Prediction](https://blog.dataiku.com/measuring-models-uncertainty-conformal-prediction) by 
 Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
