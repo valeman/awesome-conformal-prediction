@@ -367,6 +367,7 @@ Probabilistic Time Series Forecasting](https://arxiv.org/pdf/2202.08756v1.pdf) b
 114. [Semantic uncertainty intervals for disentangled latent space](https://arxiv.org/pdf/2207.10074.pdf) by Swami Sankaranarayanan, Anastasios N. Angelopoulos, Stephen Bates, Yaniv Romano, and Phillip Isola (Unversity of Berkeley, Technion, 2022) 🔥🔥🔥🔥🔥
 115. [MAPIE: an open-source library for distribution-free uncertainty quantification](https://arxiv.org/pdf/2207.12274.pdf) by Vianney Taquet, Vincent Blot, Thomas Morzadec, Louis Lacombe, Nicolas Brunel (Quantmetry, France, 2022)
 116. [CODiT: Conformal Out-of-Distribution Detection in Time- Series Data](https://arxiv.org/pdf/2207.11769.pdf) by Ramneet Kaur et.al., Unibersity of Pensylvania (2022). [Code](https://github.com/kaustubhsridhar/time-series-OOD) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+117.[Confident Adaptive Language Modeling](https://arxiv.org/pdf/2207.07061.pdf) by Tal Schuster1, Adam Fisch, Jai Gupta, Mostafa Dehghani, Dara Bahri, Vinh Q. Tran, Yi Tay, Donald Metzler (Google, MIT, 2022j
 
 ## Papers Time Series
 
