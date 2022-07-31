@@ -254,12 +254,12 @@ This is newest version of the super-popular tutorial on Conformal Prediction (ov
 6. [Cross-conformal predictive distributions](http://proceedings.mlr.press/v91/vovk18a.html) by Vladimir Vovk, Ilia Nouretdinov, Valery Manokhin and Alexander Gammerman (Royal Holloway, UK, 2018) 🔥🔥🔥🔥🔥 🔥🔥🔥🔥🔥
 7. [Criteria of Efficiency for Conformal Prediction](https://arxiv.org/pdf/1603.04416.pdf) by Vladimir Vovk, Ilia Nouretdinov, Valentina Fedorova,
 Ivan Petej, and Alex Gammerman ((Royal Holloway, UK, 2016)
-7. [Conformal Prediction for Simulation Models](https://benjaminleroy.github.io/documents/icml2021/conformal_prediction_for_simulation_models.pdf) by Benjamin LeRoy and Chad Schafer (Carnegie Mellon, 2021)
-8. [Distribution-free, risk-controlling prediction sets](https://arxiv.org/pdf/2101.02703) Stephen Bates, Anastasios Angelopoulos, Lihua Lei, Jitendra Malik and  Michael I Jordan (Berkeley, 2021) 🔥🔥🔥🔥🔥
-9. [Conditional calibration for false discovery rate control under dependence](https://arxiv.org/abs/2007.10438) by William Fithian and Lihua Lei (Stanford, 2021)
-10. [Conformal Prediction: a Unified Review of Theory and New Challenges](https://www.e-publications.org/ims/submission/BEJ/user/submissionFile/46245?confirm=193b4e5b) by Gianluca Zeni, Matteo Fontana and S. Vantini (2021) 🔥🔥🔥🔥🔥
-11. [Regression conformal prediction with random forests](https://link.springer.com/content/pdf/10.1007%2Fs10994-014-5453-0.pdf) by Ulf Johansson, Henrik Boström,  Tuve Löfström and Henrik Linusson (2014)
-12. [A conformal prediction approach to explore functional data](https://arxiv.org/pdf/1302.6452.pdf) by Jing Lei, Alessandro Rinaldo, Larry Wasserman (Carnegie Mellon, 2013)
+8. [Conformal Prediction for Simulation Models](https://benjaminleroy.github.io/documents/icml2021/conformal_prediction_for_simulation_models.pdf) by Benjamin LeRoy and Chad Schafer (Carnegie Mellon, 2021)
+9. [Distribution-free, risk-controlling prediction sets](https://arxiv.org/pdf/2101.02703) Stephen Bates, Anastasios Angelopoulos, Lihua Lei, Jitendra Malik and  Michael I Jordan (Berkeley, 2021) 🔥🔥🔥🔥🔥
+10. [Conditional calibration for false discovery rate control under dependence](https://arxiv.org/abs/2007.10438) by William Fithian and Lihua Lei (Stanford, 2021)
+11. [Conformal Prediction: a Unified Review of Theory and New Challenges](https://www.e-publications.org/ims/submission/BEJ/user/submissionFile/46245?confirm=193b4e5b) by Gianluca Zeni, Matteo Fontana and S. Vantini (2021) 🔥🔥🔥🔥🔥
+12. [Regression conformal prediction with random forests](https://link.springer.com/content/pdf/10.1007%2Fs10994-014-5453-0.pdf) by Ulf Johansson, Henrik Boström,  Tuve Löfström and Henrik Linusson (2014)
+13. [A conformal prediction approach to explore functional data](https://arxiv.org/pdf/1302.6452.pdf) by Jing Lei, Alessandro Rinaldo, Larry Wasserman (Carnegie Mellon, 2013)
 13. [An electronic nose-based assistive diagnostic prototype for lung cancer detection with conformal prediction](https://pure.royalholloway.ac.uk/portal/files/37171406/Measurement_Manuscript_unmarked_R4.pdf) by Xianghao Zhana,c, Zhan Wanga, Meng Yangb, Zhiyuan Luod, You Wanga, Guang Li (2020)
 14. [Predicting the Rate of Skin Penetration Using an Aggregated Conformal Prediction Framework](https://pubmed.ncbi.nlm.nih.gov/28335598/) by Martin Lindh, A. Karlén, Ulf Norinder (2017)
 15. [The application of conformal prediction to the drug discovery process](https://link.springer.com/article/10.1007%2Fs10472-013-9378-2) by Martin Eklund, Ulf Norinder, Scott Boyer & Lars Carlsson (2014) 🔥🔥🔥🔥🔥
@@ -369,6 +369,9 @@ Probabilistic Time Series Forecasting](https://arxiv.org/pdf/2202.08756v1.pdf) b
 116. [CODiT: Conformal Out-of-Distribution Detection in Time- Series Data](https://arxiv.org/pdf/2207.11769.pdf) by Ramneet Kaur et.al., Unibersity of Pensylvania (2022). [Code](https://github.com/kaustubhsridhar/time-series-OOD) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 117.[Confident Adaptive Language Modeling](https://arxiv.org/pdf/2207.07061.pdf) by Tal Schuster1, Adam Fisch, Jai Gupta, Mostafa Dehghani, Dara Bahri, Vinh Q. Tran, Yi Tay, Donald Metzler (Google, MIT, 2022j
 118. [Probabilistic Conformal Prediction Using Conditional Random Samples](https://arxiv.org/pdf/2206.06584.pdf) by Zhendong Wang, Ruijiang Gao, Mingzhang Yin, Mingyuan Zhou, David M. Blei (Columbia University, 2020) [Code](https://github.com/Zhendong-Wang/Probabilistic-Conformal-Prediction)
+119. [A general framework for multi-step ahead adaptive conformal heteroscedastic time series forecasting](https://arxiv.org/pdf/2207.14219.pdf) by Martim Sousa, Ana Maria Tome and Jose Moreira (University of Aveiro, 2022)  
+
+
 
 
 ## Papers Time Series
