@@ -23,13 +23,13 @@ Awesome Conformal Prediction has been cited in the best book on Machine Learning
 
 Please star 🌟 the repo and spread the word. If you use the repository in a scientific publication, please cite Awesome Conformal Prediction to help promote this amazing framework in academia and industry:
 
-Manokhin, Valery. (2022). Awesome Conformal Prediction (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.6467205
+Manokhin, Valery. (2022). Awesome Conformal Prediction (v1.0.0). Zenodo. https://zenodo.org/record/6467205 https://doi.org/10.5281/zenodo.6467205 
 
 Bibtex entry
 
 @misc{AwesomeConformalPrediction:2021,
   doi = {10.5281/ZENODO.6467205},
-  url = {https://zenodo.org/record/6467205},
+  url = {https://zenodo.org/record/6467205 },
   author = {Manokhin,  Valery},
   title = {Awesome Conformal Prediction},
   publisher = {Zenodo},
