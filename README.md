@@ -519,4 +519,5 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 2. Rahul Vishwakarma, Analyzing Time Series Data for Sets of Devices Using Machine Learning Techniques. US 2021/0241929 A1 United States Patent and Trademark Office, Aug 2021
 3. Rahul Vishwakarma, System and method for prioritizing and preventing backup failures. US 2021/0374568 A1 United States Patent and Trademark Office, Dec 2021
 
+
     
