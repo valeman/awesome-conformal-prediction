@@ -29,7 +29,7 @@ Bibtex entry
 
 @misc{AwesomeConformalPrediction:2021,
   doi = {10.5281/ZENODO.6467205},
-  url = {https://zenodo.org/record/6467205 },
+  url = {https://zenodo.org/record/6467205},
   author = {Manokhin,  Valery},
   title = {Awesome Conformal Prediction},
   publisher = {Zenodo},
