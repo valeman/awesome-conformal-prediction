@@ -460,8 +460,8 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 4. [10th Symposium on Conformal and Probabilistic Prediction with Applications](https://cml.rhul.ac.uk/copa2021/) 🔥🔥🔥🔥🔥
 5. [9th Symposium on Conformal and Probabilistic Prediction with Applications](https://cml.rhul.ac.uk/copa2020/) 🔥🔥🔥🔥🔥
 6. [8th Symposium on Conformal and Probabilistic Prediction with Applications](https://cml.rhul.ac.uk/copa2019/) 🔥🔥🔥🔥🔥
-7. [7th Symposium on Conformal and Probabilistic Prediction with Applications](https://cml.rhul.ac.uk/copa2018/ 🔥🔥🔥🔥🔥
-8. [6th Symposium on Conformal and Probabilistic Prediction with Applications](https://cml.rhul.ac.uk/copa2017/ 🔥🔥🔥🔥🔥
+7. [7th Symposium on Conformal and Probabilistic Prediction with Applications](https://cml.rhul.ac.uk/copa2018/) 🔥🔥🔥🔥🔥
+8. [6th Symposium on Conformal and Probabilistic Prediction with Applications](https://cml.rhul.ac.uk/copa2017/) 🔥🔥🔥🔥🔥
 
 
 
