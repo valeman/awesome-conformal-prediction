@@ -375,7 +375,8 @@ Probabilistic Time Series Forecasting](https://arxiv.org/pdf/2202.08756v1.pdf) b
 118. [Probabilistic Conformal Prediction Using Conditional Random Samples](https://arxiv.org/pdf/2206.06584.pdf) by Zhendong Wang, Ruijiang Gao, Mingzhang Yin, Mingyuan Zhou, David M. Blei (Columbia University, 2020) [Code](https://github.com/Zhendong-Wang/Probabilistic-Conformal-Prediction)
 119. [A general framework for multi-step ahead adaptive conformal heteroscedastic time series forecasting](https://arxiv.org/pdf/2207.14219.pdf) by Martim Sousa, Ana Maria Tome and Jose Moreira (University of Aveiro, 2022) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥  
 120. [A novel Deep Learning approach for one-step Conformal Prediction approximation](https://arxiv.org/pdf/2207.12377.pdf) by Julia A. Meister, Khuong An Nguyen, Stelios Kapetanakis and Zhiyuan Luo (University of Brighton, UK, 2022)  🔥🔥🔥🔥🔥
-121. [https://arxiv.org/pdf/2208.02814.pdf](Conformal Risk Control) by Anastasious Angelopolous, Stephen Bates, Adam Fisch, Lihua Lei and Tal Schuster (Berkeley, Stanford, MIT and Google Research) 🔥🔥🔥🔥🔥
+121. [Conformal Risk Control](https://arxiv.org/pdf/2208.02814.pdf) by Anastasious Angelopolous, Stephen Bates, Adam Fisch, Lihua Lei and Tal Schuster (Berkeley, Stanford, MIT and Google Research) 🔥🔥🔥🔥🔥
+
 
 
 
