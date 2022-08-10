@@ -432,6 +432,7 @@ Probabilistic Time Series Forecasting](https://arxiv.org/pdf/2202.08756v1.pdf) b
 23. [Matteo Fontana](https://scholar.google.com/citations?user=U7jODH8AAAAJ&hl=it), Joint Research Centre - European Commission
 24. [Yao Xie](https://www2.isye.gatech.edu/~yxie77/), Georgia Institute of Technology
 25. [Zhimeo Ren](https://zhimeir.github.io), University of Chicago
+26. [Rafael Izbicki](http://www.rizbicki.ufscar.br), Federal University of São Carlos (UFSCar) Brazil
 2
 ## Articles
 1. [Measuring Models' Uncertainty: Conformal Prediction](https://blog.dataiku.com/measuring-models-uncertainty-conformal-prediction) by 
