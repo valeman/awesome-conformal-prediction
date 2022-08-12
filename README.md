@@ -459,7 +459,7 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 1. [Title: What Can *Conformal Inference* Offer to Statistics?](https://t.co/znZHcyyknV) by Lihua Lei, Stanford, 2022
 2. [Conformalized survival analysis](https://twitter.com/lihua_lei_stat/status/1381418936739098630?s=20&t=PnfV8wnLV2bThXcKdFFbRg) by Lihua Lei, Stanford, 2021
 3. [Conformal Risk Control](https://threadreaderapp.com/thread/1555616778578829312.html) by Anastasious Angelopolous, Berkeley, 2022
-4. 
+4. [Stable Conformal Prediction Sets](https://threadreaderapp.com/thread/1549413164835536897.html) by Eugene Ndiaye (Georgia Tech, 2022)
 
 ## Conferences
 1. [11th Symposium on Conformal and Probabilistic Prediction with Applications](http://copa-conference.com) 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥 
