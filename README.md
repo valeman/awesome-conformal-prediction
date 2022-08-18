@@ -1,7 +1,5 @@
 # Awesome Conformal Prediction [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![DOI](https://zenodo.org/badge/436989758.svg)](https://zenodo.org/badge/latestdoi/436989758)
 
-[LinkedIn group - Awesome Conformal Prediction](https://www.linkedin.com/groups/12683432/)
-
 [Slack for Awesome Conformal Prediction](https://join.slack.com/t/awesomeconformalpred/shared_invite/zt-1bghkcotu-8wVXu2iFaCSM3Ot42qWzvA)
 Please reach out to rahul_vishwakarma@icloud.com if you have issues with Slack link and need invite to the Slack.
 
@@ -11,9 +9,9 @@ I have created this resource after completing my PhD in Machine Learning special
 
 The resources were meticulously collected since 2015 and after completing my PhD (thesis "Machine Learning for Probabilistic Prediction is available in the "Theses" section) I have decided to share them with the global machine learning community.
 
-Having done research in Conformal Prediction since 2015, I am still amazed about how robust, powerful and flexible this best framework for Uncertainty Quantification is and how much it has to offer to solve most problems involving uncertainty. From niche area of research just a few years of ago, I am humbled to have seen its exponential growth during the last 2-3 years due to the work of amazing ambassadors of Conformal Prediction such as Prof. [Larry Wasserman](https://www.stat.cmu.edu/~larry/) and [Anastasious Angelopolous](https://people.eecs.berkeley.edu/~angelopoulos/) in academia.
+Having done research in Conformal Prediction since 2015, I am still amazed about how robust, powerful and flexible this best framework for Uncertainty Qualification is and how much it has to offer to solve most of the problems involving uncertainty. Conformal Prediction is no longer aniche area of research like it was just a few years ago, it has seen exponential growth during the last 2-3 years due to the work of amazing ambassadors of Conformal Prediction such as Prof. [Larry Wasserman](https://www.stat.cmu.edu/~larry/) and [Anastasious Angelopolous](https://people.eecs.berkeley.edu/~angelopoulos/) in academia.
 
-I am actively promoting Conformal Prediction (because it is well Awesome) on [LinkedIn](https://www.linkedin.com/in/valeriy-m-704731236/) and [Twitter](https://twitter.com/predict_addict). [ResearchGate](https://www.researchgate.net/profile/Valery-Manokhin) has my research and I occasionally publish in [Medium](https://medium.com/@valeman) sharing insights from the data science trenches in industry.
+I am actively promoting Conformal Prediction (because it is well Awesome) on social media incluidng LinkedIn and [Twitter](https://twitter.com/predict_addict). [ResearchGate](https://www.researchgate.net/profile/Valery-Manokhin) has all my research and I occasionally publish in [Medium](https://medium.com/@valeman) sharing insights from the data science trenches in the industry.
 
 Please feel free to connect and also help spread the word about Conformal Prediction.
 
@@ -379,7 +377,7 @@ Probabilistic Time Series Forecasting](https://arxiv.org/pdf/2202.08756v1.pdf) b
 122. [CD-split and HPD-split: Efficient Conformal Regions in High Dimensions](https://www.jmlr.org/papers/volume23/20-797/20-797.pdf) by Rafael Izbicki, Gilson Shimizu, Rafael B. Stern (San Carlos University Brazil, 2022)
 123. [Flexible distribution-free conditional predictive bands using density estimators](https://proceedings.mlr.press/v108/izbicki20a.html) by Rafael Izbicki, Gilson Shimizu, and Rafael B.  Stern (San Carlos University Brazil, 2020)
 124. [Split Conformal Prediction for Dependent Data](https://arxiv.org/abs/2203.15885) by Roberto I. Oliveira, Paulo Orenstein, Thiago Ramos, João Vitor Romano (IMPA, Rio de Janeiro, Brazil, 2022) 
-125. 
+125. [Conformal Inference for Online Prediction with Arbitrary Distribution Shifts](https://arxiv.org/pdf/2208.08401.pdf) by Isaac Gibbs and Emmanual Candes (Stanford, 2022) 🔥🔥🔥🔥🔥
 
 
 
