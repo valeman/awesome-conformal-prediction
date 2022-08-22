@@ -134,8 +134,6 @@ This is newest version of the super-popular tutorial on Conformal Prediction (ov
 
 ## Events
 
-
-![11th Symposium on Conformal and Probabilistic Prediction with Applications](https://github.com/valeman/awesome-conformal-prediction/blob/main/COPA%202022%20conformal.png)
 [11th Symposium on Conformal and Probabilistic Prediction with Applications](http://copa-conference.com)
 
 ## Books
