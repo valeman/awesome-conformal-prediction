@@ -377,9 +377,7 @@ Probabilistic Time Series Forecasting](https://arxiv.org/pdf/2202.08756v1.pdf) b
 123. [Flexible distribution-free conditional predictive bands using density estimators](https://proceedings.mlr.press/v108/izbicki20a.html) by Rafael Izbicki, Gilson Shimizu, and Rafael B.  Stern (San Carlos University Brazil, 2020)
 124. [Split Conformal Prediction for Dependent Data](https://arxiv.org/abs/2203.15885) by Roberto I. Oliveira, Paulo Orenstein, Thiago Ramos, João Vitor Romano (IMPA, Rio de Janeiro, Brazil, 2022) 
 125. [Conformal Inference for Online Prediction with Arbitrary Distribution Shifts](https://arxiv.org/pdf/2208.08401.pdf) by Isaac Gibbs and Emmanual Candes (Stanford, 2022) 🔥🔥🔥🔥🔥
-
-
-
+126. [A General Framework For Multi-step Ahead Adaptive Conformal Heteroscedastic Time Series Forecasting](https://arxiv.org/pdf/2207.14219.pdf) by Martim Sousa, Ana Maria Tomé, University of Aveiro (2022) [Code](https://github.com/Quilograma/AdaptiveEnbMIMOCQR) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 
 
 ## Papers_Time_Series
@@ -395,6 +393,7 @@ Probabilistic Time Series Forecasting](https://arxiv.org/pdf/2202.08756v1.pdf) b
 10. [Distributional Conformal Prediction](https://www.pnas.org/doi/pdf/10.1073/pnas.2107794118) by Chernozhukov (MIT), Kaspar Wuethrich (University of California, San Diego) and Yinchu Zhu (University of Oregon) (2022)
 11. [Distribution-Free Prediction Bands for Multivariate Functional Time Series: an Application to the Italian Gas Market](https://arxiv.org/abs/2107.00527) by Jacopo Diquigiovanni (University of Padua) Matteo Fontana (Joint Research Centre - European Commission) Simone Vantini (Politecnico di Milano) (2021)
 12. [CODiT: Conformal Out-of-Distribution Detection in Time- Series Data](https://arxiv.org/pdf/2207.11769.pdf) by Ramneet Kaur et.al., Unibersity of Pensylvania (2022). [Code](https://github.com/kaustubhsridhar/time-series-OOD) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+13.  [A General Framework For Multi-step Ahead Adaptive Conformal Heteroscedastic Time Series Forecasting](https://arxiv.org/pdf/2207.14219.pdf) by Martim Sousa, Ana Maria Tomé, University of Aveiro (2022) [Code](https://github.com/Quilograma/AdaptiveEnbMIMOCQR) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 
 
 ## Presentation_slides
