@@ -519,6 +519,7 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 2. [An Implementation of Venn-ABERS predictor](https://github.com/fated/venn-abers-predictor) 🔥🔥🔥🔥🔥
 3. [LibVM -- A Library for Venn Machine](https://github.com/fated/libvm)
 4. [Scala-CP](https://github.com/mcapuccini/scala-cp) by Marco Capuccini (2017)' 🔥🔥🔥🔥🔥 (see tutorial section 'Conformal Prediction in Spark')
+5. [Conformal Prediction in Knime](https://copa-conference.com/papers/COPA2022_paper_8.pdf) 
 
 ## AI-platforms
 1. Data Robot (https://docs.datarobot.com/en/docs/release/public-preview/mlops-preview/prediction-intervals-regression.html#the-trumpet-chart)
