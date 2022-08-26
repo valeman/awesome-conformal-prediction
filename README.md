@@ -403,6 +403,7 @@ Probabilistic Time Series Forecasting](https://arxiv.org/pdf/2202.08756v1.pdf) b
 3. [What Can Conformal Inference Offer to Statistics?](https://lihualei71.github.io/Job_Talk_Lihua_Lei.pdf) by Lihua Lei, Stanford University
 4. [Conformal Regressors and Predictive Systems – a Gentle Introduction](https://copa-conference.com/presentations/COPA_2022_Presentation__Conformal_Regressors_and_Predictive_Systems___a_Gentle_Introduction.pdf) by Henrik Bostroem (KTH, Sweden, 2022)
 5. [Applications of Conformal Predictors](https://copa-conference.com/presentations/lars_ernst.pdf) by Ernst Ahlberg and Lars Carlsson (Stena Line, 2022)
+6. [crepes: a Python Package for Conformal Regressors and Predictive Systems](https://copa-conference.com/presentations/COPA_2022_Presentation__crepes.pdf) by Henrik Bostroem (KTH, Sweden, 2022)
 
 
 ## Researchers
@@ -475,7 +476,7 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 ## Python
 
 1. [MAPIE - Model Agnostic Prediction Interval Estimator](https://github.com/scikit-learn-contrib/MAPIE) by Quantmetry team (2021) [Paper](https://arxiv.org/pdf/2207.12274.pdf) Includes TIME SERIES (EnbPI) 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
-2. ['Crêpes' - Conformal regressors and predictive systems](https://github.com/henrikbostrom/crepes) by Henrik Boström (2021) [Paper](https://copa-conference.com/papers/COPA2022_paper_11.pdf) 🔥🔥🔥🔥🔥 [Presentation](https://copa-conference.com/presentations/COPA_2022_Presentation__Conformal_Regressors_and_Predictive_Systems___a_Gentle_Introduction.pdf) by Henrik Bostroem (KTH, Sweden, 2022)
+2. ['Crêpes' - Conformal regressors and predictive systems](https://github.com/henrikbostrom/crepes) by Henrik Boström (2021) [Paper](https://copa-conference.com/papers/COPA2022_paper_11.pdf) 🔥🔥🔥🔥🔥 [Presentation](https://copa-conference.com/presentations/COPA_2022_Presentation__crepes.pdf) by Henrik Bostroem (KTH, Sweden, 2022)
 3. [EnbPI](https://github.com/hamrel-cxu/EnbPI) by Chen Xu (2021) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥 [Paper](https://proceedings.mlr.press/v139/xu21h.html)
 4. Nonconformist](https://github.com/donlnz/nonconformist) by Henrik Linusson (2015) 🔥🔥🔥🔥🔥
 5. [Venn-ABERS Predictor](https://github.com/ptocca/VennABERS) by Paolo Toccaceli (2019) [Paper](https://proceedings.neurips.cc/paper/2015/hash/a9a1d5317a33ae8cef33961c34144f84-Abstract.html) 🔥🔥🔥🔥🔥
