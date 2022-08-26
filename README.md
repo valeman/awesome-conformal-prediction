@@ -405,6 +405,10 @@ Probabilistic Time Series Forecasting](https://arxiv.org/pdf/2202.08756v1.pdf) b
 4. [Conformal Regressors and Predictive Systems – a Gentle Introduction](https://copa-conference.com/presentations/COPA_2022_Presentation__Conformal_Regressors_and_Predictive_Systems___a_Gentle_Introduction.pdf) by Henrik Bostroem (KTH, Sweden, 2022)
 5. [Applications of Conformal Predictors](https://copa-conference.com/presentations/lars_ernst.pdf) by Ernst Ahlberg and Lars Carlsson (Stena Line, 2022)
 6. [crepes: a Python Package for Conformal Regressors and Predictive Systems](https://copa-conference.com/presentations/COPA_2022_Presentation__crepes.pdf) by Henrik Bostroem (KTH, Sweden, 2022)
+7. [Assessing Explanation Quality by Venn Prediction](https://copa-conference.com/presentations/amr.pdf) by Amr Alkhatib, Henrik Boström and Ulf Johansson (2022)
+8. [Well-Calibrated Rule Extractors](https://copa-conference.com/presentations/Johansson_U_COPA2022_pres.pdf) by Ulf Johansson, Tuwe Löfström, Niclas Ståhl (2022)
+9. [Calibration of Natural Language Understanding Models with Venn-ABERS Predictors](Calibration of Natural Language Understanding Models with Venn-ABERS Predictors](https://copa-conference.com/presentations/patrizio.pdf) by Patrizio Giovannotti (2022)
+10. 
 
 
 ## Researchers
