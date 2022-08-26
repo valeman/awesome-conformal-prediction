@@ -381,6 +381,7 @@ Probabilistic Time Series Forecasting](https://arxiv.org/pdf/2202.08756v1.pdf) b
 127. [Cough-based COVID-19 detection with audio quality clustering and confidence measure based learning](https://copa-conference.com/papers/COPA2022_paper_13.pdf) by Alice E. Ashby, Julia A. Meister, Khuong An Nguyen, Zhiyuan Luo, Werner Gentzk (University of Brighton, 2022)
 128. [Assessing Explanation Quality by Venn Prediction](https://copa-conference.com/papers/COPA2022_paper_10.pdf) by Amr Alkhatib, Henrik Bostroem and Ulf Johansson (2022)
 129. [Conformal prediction for hypersonic flight vehicle classification](https://www.copa-conference.com/papers/COPA2022_paper_1.pdf) by Zepu Xi, Xuebin Zhuang, Hongbo Chen (Yat-sen University, Guangzhou, China, 2022)
+130. [Robust Gas Demand Forecasting With Conformal Prediction](https://copa-conference.com/papers/COPA2022_paper_12.pdf) by Mouhcine Mendil, Luca Mossina, Marc Nabhan, Kevin Pasini (2022)
 
 
 ## Papers_Time_Series
