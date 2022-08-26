@@ -379,6 +379,7 @@ Probabilistic Time Series Forecasting](https://arxiv.org/pdf/2202.08756v1.pdf) b
 125. [Conformal Inference for Online Prediction with Arbitrary Distribution Shifts](https://arxiv.org/pdf/2208.08401.pdf) by Isaac Gibbs and Emmanual Candes (Stanford, 2022) 🔥🔥🔥🔥🔥
 126. [A General Framework For Multi-step Ahead Adaptive Conformal Heteroscedastic Time Series Forecasting](https://arxiv.org/pdf/2207.14219.pdf) by Martim Sousa, Ana Maria Tomé, University of Aveiro (2022) [Code](https://github.com/Quilograma/AdaptiveEnbMIMOCQR) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 127. [Cough-based COVID-19 detection with audio quality clustering and confidence measure based learning](https://copa-conference.com/papers/COPA2022_paper_13.pdf) by Alice E. Ashby, Julia A. Meister, Khuong An Nguyen, Zhiyuan Luo, Werner Gentzk (University of Brighton, 2022)
+128. [Assessing Explanation Quality by Venn Prediction](https://copa-conference.com/papers/COPA2022_paper_10.pdf) by Amr Alkhatib, Henrik Bostroem and Ulf Johansson (2022)
 
 
 ## Papers_Time_Series
