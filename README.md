@@ -412,7 +412,7 @@ Probabilistic Time Series Forecasting](https://arxiv.org/pdf/2202.08756v1.pdf) b
 7. [Assessing Explanation Quality by Venn Prediction](https://copa-conference.com/presentations/amr.pdf) by Amr Alkhatib, Henrik Boström and Ulf Johansson (2022)
 8. [Well-Calibrated Rule Extractors](https://copa-conference.com/presentations/Johansson_U_COPA2022_pres.pdf) by Ulf Johansson, Tuwe Löfström, Niclas Ståhl (2022)
 9. [Calibration of Natural Language Understanding Models with Venn-ABERS Predictors](Calibration of Natural Language Understanding Models with Venn-ABERS Predictors](https://copa-conference.com/presentations/patrizio.pdf) by Patrizio Giovannotti (2022)
-10. 
+10. [Reinforcement Learning Prediction Intervals with Guaranteed Fidelity](https://web.engr.oregonstate.edu/~tgd/talks/dietterich-caml-rl-prediction-intervals.pdf) by Thomas Dietterich (University of Oregon, 2022)
 
 
 ## Researchers
