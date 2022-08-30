@@ -384,6 +384,7 @@ Probabilistic Time Series Forecasting](https://arxiv.org/pdf/2202.08756v1.pdf) b
 129. [Conformal prediction for hypersonic flight vehicle classification](https://www.copa-conference.com/papers/COPA2022_paper_1.pdf) by Zepu Xi, Xuebin Zhuang, Hongbo Chen (Yat-sen University, Guangzhou, China, 2022)
 130. [Robust Gas Demand Forecasting With Conformal Prediction](https://copa-conference.com/papers/COPA2022_paper_12.pdf) by Mouhcine Mendil, Luca Mossina, Marc Nabhan, Kevin Pasini (2022)
 131. [Conformal Prediction Interval Estimations with an Application to Day-Ahead and Intraday Power Markets](https://arxiv.org/pdf/1905.07886.pdf) by Christopher Kath and Florian Ziel (2020)
+132. [Conformal Prediciton beyond exchangeability](https://arxiv.org/abs/2202.13415) by Rina Foygel Barber, Emmanuel J. Candes, Aaditya Ramdas, Ryan J. Tibshirani (2022)
 
 
 ## Papers_Time_Series
@@ -444,6 +445,7 @@ Probabilistic Time Series Forecasting](https://arxiv.org/pdf/2202.08756v1.pdf) b
 24. [Yao Xie](https://www2.isye.gatech.edu/~yxie77/), Georgia Institute of Technology
 25. [Zhimeo Ren](https://zhimeir.github.io), University of Chicago
 26. [Rafael Izbicki](http://www.rizbicki.ufscar.br), Federal University of São Carlos (UFSCar) Brazil
+27. [Rina Foygel Barber)(https://rinafb.github.io) University of Chicago
 
 ## Articles
 1. [Measuring Models' Uncertainty: Conformal Prediction](https://blog.dataiku.com/measuring-models-uncertainty-conformal-prediction) by 
