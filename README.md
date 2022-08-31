@@ -474,10 +474,11 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 3. [Conformal Risk Control](https://threadreaderapp.com/thread/1555616778578829312.html) by Anastasious Angelopolous, Berkeley, 2022
 4. [Stable Conformal Prediction Sets](https://threadreaderapp.com/thread/1549413164835536897.html) by Eugene Ndiaye (Georgia Tech, 2022)
 
-## Conferences
+## Conferences & Workshops
 1. [11th Symposium on Conformal and Probabilistic Prediction with Applications](http://copa-conference.com) 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥 
+2. [IFDS Workshop on Conformal Prediction](https://ifds.info/ifds-madlab-workshop) 🔥🔥🔥🔥🔥 
 2. [Workshop on Distribution-Free Uncertainty Quantification at ICML 2022](https://sites.google.com/berkeley.edu/dfuq-22/home) 🔥🔥🔥🔥🔥 
-3. [Workshop on Distribution-Free Uncertainty Quantification at ICML 2022](https://icml.cc/Conferences/2021/ScheduleMultitrack?event=8373)🔥🔥🔥🔥🔥 
+3. [Workshop on Distribution-Free Uncertainty Quantification at ICML 2021](https://icml.cc/Conferences/2021/ScheduleMultitrack?event=8373)🔥🔥🔥🔥🔥 
 4. [10th Symposium on Conformal and Probabilistic Prediction with Applications](https://cml.rhul.ac.uk/copa2021/) 🔥🔥🔥🔥🔥
 5. [9th Symposium on Conformal and Probabilistic Prediction with Applications](https://cml.rhul.ac.uk/copa2020/) 🔥🔥🔥🔥🔥
 6. [8th Symposium on Conformal and Probabilistic Prediction with Applications](https://cml.rhul.ac.uk/copa2019/) 🔥🔥🔥🔥🔥
