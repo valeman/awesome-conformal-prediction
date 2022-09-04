@@ -157,7 +157,8 @@ This is newest version of the super-popular tutorial on Conformal Prediction (ov
 12. [Inductive Confidence Machine for Pattern Recognition - is it the next step towards AI](https://github.com/eghamtech/AIOS/blob/master/notebooks/David_Surkov-RHUL-thesis-2004.pdf) by David Surkov (Royal Holloway, UK, 2004)
 13. [Distribution Free Prediction Intervals for Multiple Functional Regression](http://d-scholarship.pitt.edu/39495/1/RMK%20Dissertation%20Final.pdf) by Ryan Kelly (University of Pittsburgh, 2020).
 14. [Probabilistic Load Forecasting with Deep Conformalized Quantile Regression](https://munin.uit.no/bitstream/handle/10037/21914/thesis.pdf?sequence=2) by Vilde Jensen (Artcic University of Norway, 2021)
-15. [Model-free methods for multiple testing and predictive inference](https://searchworks.stanford.edu/view/13876512), PhD Thesis, Zhimei Ren (Stanford, 2021)  
+15. [Model-free methods for multiple testing and predictive inference](https://searchworks.stanford.edu/view/13876512), PhD Thesis, Zhimei Ren (Stanford, 2021)
+16. [Comparison of Support Vector Machines and Deep Learning For QSAR with Conformal Prediction](https://www.diva-portal.org/smash/get/diva2:1682247/FULLTEXT01.pdf) by Deligianni Maria, MSc thesis, Universit of Uppsala (2022)
 
 ## Tutorials
 
