@@ -389,6 +389,8 @@ Probabilistic Time Series Forecasting](https://arxiv.org/pdf/2202.08756v1.pdf) b
 133. [Robust Gas Demand Forecasting with Conformal Prediction](https://copa-conference.com/papers/COPA2022_paper_12.pdf) by Mouhcine Mendil, Luca Mossina, Marc Nabhan, Kevin Pasini (2022)
 134. [Split conformal prediction for dependant data](https://arxiv.org/pdf/2203.15885.pdf) by Roberto I. Oliveira, Paulo Orenstein, Thiago Ramos and João Vitor Romano (2022) 
 135. [Integrative conformal p-values for powerful out-of-distribution testing with labeled outliers](https://arxiv.org/pdf/2208.11111.pdf) by Ziyi Liang, Matteo Sesia, Wenguang Sun (UCLA, 2022)
+136. [Conformal Prediction Bands for Two-Dimensional Functional Time Series](https://arxiv.org/pdf/2207.13656.pdf) by 
+Niccolo` Ajroldia, Jacopo Diquigiovannib, Matteo Fontanac, Simone Vantinia (2022)
 
 
 ## Papers_Time_Series
@@ -407,6 +409,8 @@ Probabilistic Time Series Forecasting](https://arxiv.org/pdf/2202.08756v1.pdf) b
 13.  [A General Framework For Multi-step Ahead Adaptive Conformal Heteroscedastic Time Series Forecasting](https://arxiv.org/pdf/2207.14219.pdf) by Martim Sousa, Ana Maria Tomé, University of Aveiro (2022) [Code](https://github.com/Quilograma/AdaptiveEnbMIMOCQR) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 14. [Conformal Prediction Interval Estimations with an Application to Day-Ahead and Intraday Power Markets](https://arxiv.org/pdf/1905.07886.pdf) by Christopher Kath and Florian Ziel (2020)
 15. [Robust Gas Demand Forecasting With Conformal Prediction](https://copa-conference.com/papers/COPA2022_paper_12.pdf) by Mouhcine Mendil, Luca Mossina, Marc Nabhan, Kevin Pasini (2022)
+16. [Conformal Prediction Bands for Two-Dimensional Functional Time Series](https://arxiv.org/pdf/2207.13656.pdf) by 
+Niccolo` Ajroldia, Jacopo Diquigiovannib, Matteo Fontanac, Simone Vantinia (2022)v
 
 
 ## Presentation_slides
