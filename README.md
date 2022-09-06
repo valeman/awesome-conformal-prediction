@@ -382,7 +382,7 @@ Probabilistic Time Series Forecasting](https://arxiv.org/pdf/2202.08756v1.pdf) b
 126. [A General Framework For Multi-step Ahead Adaptive Conformal Heteroscedastic Time Series Forecasting](https://arxiv.org/pdf/2207.14219.pdf) by Martim Sousa, Ana Maria Tomé, University of Aveiro (2022) [Code](https://github.com/Quilograma/AdaptiveEnbMIMOCQR) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 127. [Cough-based COVID-19 detection with audio quality clustering and confidence measure based learning](https://copa-conference.com/papers/COPA2022_paper_13.pdf) by Alice E. Ashby, Julia A. Meister, Khuong An Nguyen, Zhiyuan Luo, Werner Gentzk (University of Brighton, 2022)
 128. [Assessing Explanation Quality by Venn Prediction](https://copa-conference.com/papers/COPA2022_paper_10.pdf) by Amr Alkhatib, Henrik Bostroem and Ulf Johansson (2022)
-129. [Conformal prediction for hypersonic flight vehicle classification](https://www.copa-conference.com/papers/COPA2022_paper_1.pdf) by Zepu Xi, Xuebin Zhuang, Hongbo Chen (Yat-sen University, Guangzhou, China, 2022)
+129. [Conformal prediction for hypersonic flight vehicle classification](https://www.copa-conference.com/papers/COPA2022_paper_1.pdf) by Zepu Xi, Xuebin Zhuang, Hongbo Chen (Yat-sen University, Guangzhou, China, 2022) [Slides](https://copa-conference.com/presentations/Zepu.pdf)
 130. [Robust Gas Demand Forecasting With Conformal Prediction](https://copa-conference.com/papers/COPA2022_paper_12.pdf) by Mouhcine Mendil, Luca Mossina, Marc Nabhan, Kevin Pasini (2022)
 131. [Conformal Prediction Interval Estimations with an Application to Day-Ahead and Intraday Power Markets](https://arxiv.org/pdf/1905.07886.pdf) by Christopher Kath and Florian Ziel (2020)
 132. [Conformal Prediciton beyond exchangeability](https://arxiv.org/abs/2202.13415) by Rina Foygel Barber, Emmanuel J. Candes, Aaditya Ramdas, Ryan J. Tibshirani (2022)
@@ -392,7 +392,7 @@ Probabilistic Time Series Forecasting](https://arxiv.org/pdf/2202.08756v1.pdf) b
 136. [Conformal Prediction Bands for Two-Dimensional Functional Time Series](https://arxiv.org/pdf/2207.13656.pdf) by 
 Niccolo` Ajroldia, Jacopo Diquigiovannib, Matteo Fontanac, Simone Vantinia (2022)
 137. [Conformal prediction of small-molecule drug resistance in cancer cell lines](https://copa-conference.com/papers/COPA2022_paper_22.pdf) by Saiveth Hernandez-Hernandez, Sachin Vishwakarma and Pedro Ballester (2022)
-138. [Ellipsoidal conformal inference for Multi-Target Regression](https://copa-conference.com/papers/COPA2022_paper_7.pdf) [Slides](https://copa-conference.com/presentations/soundouss.pdf) by Soundouss Messoudi, Sebastien Destercke, Sylvain Rousseau (2022) 
+138. [Ellipsoidal conformal inference for Multi-Target Regression](https://copa-conference.com/papers/COPA2022_paper_7.pdf) by Soundouss Messoudi, Sebastien Destercke, Sylvain Rousseau (2022) [Slides](https://copa-conference.com/presentations/soundouss.pdf) 
 
 
 ## Papers_Time_Series
