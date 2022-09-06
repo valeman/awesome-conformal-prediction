@@ -392,6 +392,7 @@ Probabilistic Time Series Forecasting](https://arxiv.org/pdf/2202.08756v1.pdf) b
 136. [Conformal Prediction Bands for Two-Dimensional Functional Time Series](https://arxiv.org/pdf/2207.13656.pdf) by 
 Niccolo` Ajroldia, Jacopo Diquigiovannib, Matteo Fontanac, Simone Vantinia (2022)
 137. [Conformal prediction of small-molecule drug resistance in cancer cell lines](https://copa-conference.com/papers/COPA2022_paper_22.pdf) by Saiveth Hernandez-Hernandez, Sachin Vishwakarma and Pedro Ballester (2022)
+138. [Ellipsoidal conformal inference for Multi-Target Regression](https://copa-conference.com/papers/COPA2022_paper_7.pdf) [Slides](https://copa-conference.com/presentations/soundouss.pdf) by Soundouss Messoudi, Sebastien Destercke, Sylvain Rousseau (2022) 
 
 
 ## Papers_Time_Series
