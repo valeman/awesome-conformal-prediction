@@ -72,7 +72,7 @@ In 2021 conformal prediction research experienced exponential growth in academia
 
 Featured resources:
 
-[A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification](https://people.eecs.berkeley.edu/~angelopoulos/publications/downloads/gentle_intro_conformal_dfuq.pdf)
+[A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification](https://people.eecs.berkeley.edu/~angelopoulos/publications/downloads/gentle_intro_conformal_dfuq.pdf) [Colab](https://github.com/aangelopoulos/conformal-prediction) 🔥🔥🔥🔥🔥
 
 This is newest version of the super-popular tutorial on Conformal Prediction (over 7,000 stars on YouTube) now significantly expanded (2x), including advanced techniques such as covariate shift conformal, as well as a super fun history and literature review in Section 7.
 
