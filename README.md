@@ -159,6 +159,7 @@ This is newest version of the super-popular tutorial on Conformal Prediction (ov
 14. [Probabilistic Load Forecasting with Deep Conformalized Quantile Regression](https://munin.uit.no/bitstream/handle/10037/21914/thesis.pdf?sequence=2) by Vilde Jensen (Artcic University of Norway, 2021)
 15. [Model-free methods for multiple testing and predictive inference](https://searchworks.stanford.edu/view/13876512), PhD Thesis, Zhimei Ren (Stanford, 2021)
 16. [Comparison of Support Vector Machines and Deep Learning For QSAR with Conformal Prediction](https://www.diva-portal.org/smash/get/diva2:1682247/FULLTEXT01.pdf) by Deligianni Maria, MSc thesis, Universit of Uppsala (2022)
+17. [Predictive Maintenance with Conformal and Probabilistic Prediction: A Commercial Case Study](https://www.jamesgammerman.com/files/Thesis.pdf) by James Gammerman (2022)
 
 ## Tutorials
 
