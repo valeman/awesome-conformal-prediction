@@ -530,6 +530,7 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 26. [Conformal Prediction in KNIME](https://hub.knime.com/tuwelofstrom/spaces/Public/latest/Conformal%20Prediction~kFOgjfgw9wuw1ULw/) 
 27. [Nonconformist](https://github.com/donlnz/nonconformist) by Henrik Linusson (2015) 🔥🔥🔥🔥🔥
 28. [SKTime](https://www.sktime.org/en/stable/api_reference/auto_generated/sktime.forecasting.conformal.ConformalIntervals.html?highlight=Conformal#sktime.forecasting.conformal.ConformalIntervals) by Franz Kiraly (2022)
+29. [NeuralProphet](https://github.com/ourownstory/neural_prophet/blob/conformal-prediction/tutorials/feature-use/conformal_prediction_energy_hospital_load.ipynb) (2022)
 
 ## Code-R
 1. [Conformal Inference R Project](https://github.com/ryantibs/conformal) maintained by Ryan Tibshirani (2016) 🔥🔥🔥🔥🔥
