@@ -395,6 +395,8 @@ Niccolo` Ajroldia, Jacopo Diquigiovannib, Matteo Fontanac, Simone Vantinia (2022
 137. [Conformal prediction of small-molecule drug resistance in cancer cell lines](https://copa-conference.com/papers/COPA2022_paper_22.pdf) by Saiveth Hernandez-Hernandez, Sachin Vishwakarma and Pedro Ballester (2022)
 138. [Ellipsoidal conformal inference for Multi-Target Regression](https://copa-conference.com/papers/COPA2022_paper_7.pdf) by Soundouss Messoudi, Sebastien Destercke, Sylvain Rousseau (2022) [Slides](https://copa-conference.com/presentations/soundouss.pdf) 
 139. [Conformal Methods for Quantifying Uncertainty in Spatiotemporal Data: A Survey](https://arxiv.org/abs/2209.03580) by Sophia Sun (UCLA, 2022)
+140. [Deep Learning With Conformal Prediction for Hierarchical Analysis of Large-Scale Whole-Slide Tissue Images(https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9103229) by Håkan Wieslander , Philip J. Harrison, Gabriel Skogberg, Sonya Jackson, Markus Fridén, Johan Karlsson, Ola Spjuth, and Carolina Wählby (2021)
+141. [Audio–visual domain adaptation using conditional semi-supervised Generative Adversarial Networks](https://www.sciencedirect.com/science/article/pii/S0925231219316170) by Christos Athanasiadis, Enrique Hortal, Stylianos Asteriadis (2022)
 
 
 ## Papers_Time_Series
