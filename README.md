@@ -490,6 +490,7 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 2. [Conformalized survival analysis](https://twitter.com/lihua_lei_stat/status/1381418936739098630?s=20&t=PnfV8wnLV2bThXcKdFFbRg) by Lihua Lei, Stanford, 2021
 3. [Conformal Risk Control](https://threadreaderapp.com/thread/1555616778578829312.html) by Anastasious Angelopolous, Berkeley, 2022
 4. [Stable Conformal Prediction Sets](https://threadreaderapp.com/thread/1549413164835536897.html) by Eugene Ndiaye (Georgia Tech, 2022)
+5. [Machine learning sucks at uncertainty quantification. But there is a solution that almost sounds too good to be true: conformal prediction](https://threadreaderapp.com/thread/1572526084981129217.html) by Cristoph Molnar (2022).
 
 ## Conferences & Workshops
 1. [11th Symposium on Conformal and Probabilistic Prediction with Applications](http://copa-conference.com) 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥 
