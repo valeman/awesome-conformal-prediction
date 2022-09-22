@@ -113,6 +113,8 @@ This is newest version of the super-popular tutorial on Conformal Prediction (ov
 
 * [Twitter](#Twitter)
 
+* [TikTok](#TikTok)
+
 * [Conferences](#Conferences)
 
 * [Python](#Python)  
@@ -491,6 +493,13 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 3. [Conformal Risk Control](https://threadreaderapp.com/thread/1555616778578829312.html) by Anastasious Angelopolous, Berkeley, 2022
 4. [Stable Conformal Prediction Sets](https://threadreaderapp.com/thread/1549413164835536897.html) by Eugene Ndiaye (Georgia Tech, 2022)
 5. [Machine learning sucks at uncertainty quantification. But there is a solution that almost sounds too good to be true: conformal prediction](https://threadreaderapp.com/thread/1572526084981129217.html) by Cristoph Molnar (2022).
+
+## TikTok 
+
+![TikTok](TikTok - Rajiv Shah.png)
+1. [Getting prediction intervals with conformal prediction](https://www.tiktok.com/@rajistics/video/7145960334270975275?is_from_webapp=v1&item_id=7145960334270975275) by Rajiv Shah (Hugging Face,2022)
+
+
 
 ## Conferences & Workshops
 1. [11th Symposium on Conformal and Probabilistic Prediction with Applications](http://copa-conference.com) 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥 
