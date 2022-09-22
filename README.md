@@ -496,7 +496,6 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 
 ## TikTok 
 
-![TikTok](TikTok - Rajiv Shah.png)
 1. [Getting prediction intervals with conformal prediction](https://www.tiktok.com/@rajistics/video/7145960334270975275?is_from_webapp=v1&item_id=7145960334270975275) by Rajiv Shah (Hugging Face,2022)
 
 
