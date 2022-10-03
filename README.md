@@ -401,7 +401,7 @@ Niccolo` Ajroldia, Jacopo Diquigiovannib, Matteo Fontanac, Simone Vantinia (2022
 141. [Audio–visual domain adaptation using conditional semi-supervised Generative Adversarial Networks](https://www.sciencedirect.com/science/article/pii/S0925231219316170) by Christos Athanasiadis, Enrique Hortal, Stylianos Asteriadis (2022)
 142. [Conformal Prediction is Robust to Label Noise](https://arxiv.org/pdf/2209.14295.pdf) by Bat-Sheva Einbinder, Stephen Bates, Anastasios N. Angelopoulos, Asaf Gendler, Yaniv Romano (2022)
 143. [Copula Conformal Prediction for Multi-step Time Series Forecasting](https://openreview.net/pdf?id=jCdoLxMZxf) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
-
+144. [Batch Multivalid Conformal Prediction](https://arxiv.org/abs/2209.15145) by Christopher Jung, Georgy Noarov, Ramya Ramalingam, Aaron Roth (Stanford, university of Pensylvania, 2022)
 
 ## Papers_Time_Series
 
