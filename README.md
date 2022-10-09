@@ -472,7 +472,7 @@ Niccolo` Ajroldia, Jacopo Diquigiovannib, Matteo Fontanac, Simone Vantinia (2022
 24. [Yao Xie](https://www2.isye.gatech.edu/~yxie77/), Georgia Institute of Technology
 25. [Zhimeo Ren](https://zhimeir.github.io), University of Chicago
 26. [Rafael Izbicki](http://www.rizbicki.ufscar.br), Federal University of São Carlos (UFSCar) Brazil
-27. [Rina Foygel Barber)(https://rinafb.github.io) University of Chicago
+27. [Rina Foygel Barber](https://rinafb.github.io) University of Chicago
 
 ## Articles
 1. [Measuring Models' Uncertainty: Conformal Prediction](https://blog.dataiku.com/measuring-models-uncertainty-conformal-prediction) by 
