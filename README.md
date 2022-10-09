@@ -490,7 +490,7 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 12. [How to calibrate your classifier in an intelligent way](https://medium.com/@valeman/how-to-calibrate-your-classifier-in-an-intelligent-way-a996a2faf718) by Valery Manokhin (2022) 🔥🔥🔥🔥🔥
 13 [Conformal Prediction forecasting with MAPIE](https://medium.com/@valeman/conformal-prediction-forecasting-with-mapie-library-for-conformal-prediction-7aac033ae3ef) by Valery Manokhin (2022) 🔥🔥🔥🔥🔥
 14. [How to predict full probability distribution using machine learning Conformal Predictive Distributions](https://medium.com/@valeman/how-to-predict-full-probability-distribution-using-machine-learning-conformal-predictive-f8f4d805e420) by Valery Manokhin (2022) 🔥🔥🔥🔥🔥
-15. [How to predict quantiles in a more intelligent way (or ‘Bye-bye quantile regression, hello Conformal Quantile Regression(https://valeman.medium.com/how-to-predict-quantiles-in-a-more-intelligent-way-or-bye-bye-quantile-regression-hello-24a65e4c50f) by Valery Manokhin (2022) 🔥🔥🔥🔥🔥
+15. [How to predict quantiles in a more intelligent way (or ‘Bye-bye quantile regression, hello Conformal Quantile Regression](https://valeman.medium.com/how-to-predict-quantiles-in-a-more-intelligent-way-or-bye-bye-quantile-regression-hello-24a65e4c50f) by Valery Manokhin (2022) 🔥🔥🔥🔥🔥
 
 ## Websites
 1. [Main website with research from Prof. Vladimir (Volodya) Vovk](http://alrw.net) 🔥🔥🔥🔥🔥
