@@ -162,6 +162,7 @@ This is newest version of the super-popular tutorial on Conformal Prediction (ov
 15. [Model-free methods for multiple testing and predictive inference](https://searchworks.stanford.edu/view/13876512), PhD Thesis, Zhimei Ren (Stanford, 2021)
 16. [Comparison of Support Vector Machines and Deep Learning For QSAR with Conformal Prediction](https://www.diva-portal.org/smash/get/diva2:1682247/FULLTEXT01.pdf) by Deligianni Maria, MSc thesis, Universit of Uppsala (2022)
 17. [Predictive Maintenance with Conformal and Probabilistic Prediction: A Commercial Case Study](https://www.jamesgammerman.com/files/Thesis.pdf) by James Gammerman (2022)
+18. [Risk-Sensitive Decision-Making for Autonomous-Driving](https://www.diva-portal.org/smash/get/diva2:1698692/FULLTEXT01.pdf) by Hardy Hasan (University of Uppsala, 2022)
 
 ## Tutorials
 
@@ -404,6 +405,8 @@ Niccolo` Ajroldia, Jacopo Diquigiovannib, Matteo Fontanac, Simone Vantinia (2022
 144. [Batch Multivalid Conformal Prediction](https://arxiv.org/abs/2209.15145) by Christopher Jung, Georgy Noarov, Ramya Ramalingam, Aaron Roth (Stanford, university of Pensylvania, 2022)
 145. [Selection by Prediction with Conformal p-values](https://arxiv.org/pdf/2210.01408.pdf) by Ying Jin1 and Emmanuel J. Candes, (Stanford, 2022]
 146. [Few-Shot Calibration of Set Predictors via Meta-Learned Cross-Validation-Based Conformal Prediction](https://arxiv.org/pdf/2210.03067v1.pdf) by Sangwoo Park, Kfir M. Cohen, Osvaldo Simeone (2022)
+147. [Conformalized Fairness via Quantile Regression](https://web7.arxiv.org/pdf/2210.02015.pdf) by Meichen Liu, Lei Ding,
+Dengdeng Yu, Wulong Liu, Linglong Kong, Bei Jiang (University of Alberta, Noah Arc Huawei, 2022)
 
 ## Papers_Time_Series
 
@@ -485,6 +488,9 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 10. [Stanford statisticians and Washington Post data scientists build more honest prediction models](https://news.stanford.edu/2021/03/19/honesty-statistical-models/#) Stanford (2021) 🔥🔥🔥🔥🔥
 11. [How to Detect Anomalies — state-of-the-art methods using Conformal Prediction](https://valeman.medium.com/how-to-detect-anomalies-state-of-the-art-methods-using-conformal-prediction-e02691659412) by Valery Manokhin (2021) 🔥🔥🔥🔥🔥
 12. [How to calibrate your classifier in an intelligent way](https://medium.com/@valeman/how-to-calibrate-your-classifier-in-an-intelligent-way-a996a2faf718) by Valery Manokhin (2022) 🔥🔥🔥🔥🔥
+13 [Conformal Prediction forecasting with MAPIE](https://medium.com/@valeman/conformal-prediction-forecasting-with-mapie-library-for-conformal-prediction-7aac033ae3ef) by Valery Manokhin (2022) 🔥🔥🔥🔥🔥
+14. [How to predict full probability distribution using machine learning Conformal Predictive Distributions](https://medium.com/@valeman/how-to-predict-full-probability-distribution-using-machine-learning-conformal-predictive-f8f4d805e420) by Valery Manokhin (2022) 🔥🔥🔥🔥🔥
+15. [How to predict quantiles in a more intelligent way (or ‘Bye-bye quantile regression, hello Conformal Quantile Regression(https://valeman.medium.com/how-to-predict-quantiles-in-a-more-intelligent-way-or-bye-bye-quantile-regression-hello-24a65e4c50f) by Valery Manokhin (2022) 🔥🔥🔥🔥🔥
 
 ## Websites
 1. [Main website with research from Prof. Vladimir (Volodya) Vovk](http://alrw.net) 🔥🔥🔥🔥🔥
