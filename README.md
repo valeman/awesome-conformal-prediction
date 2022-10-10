@@ -15,7 +15,8 @@ I am actively promoting Conformal Prediction (because it is well Awesome) on soc
 
 Please feel free to connect and also help spread the word about Conformal Prediction.
 
-Awesome Conformal Prediction has been cited in the best book on Machine Learning (aka the machine learning 'bible') ["Probabilistic Machine Learning: Advanced Topics"](https://github.com/probml/pml2-book) by the leading research scientist at Google (over 80K Google Scholar citations) and Bestselling Machine Learning Book Author Kevin Murphy.
+Awesome Conformal Prediction has been cited in the best book on Machine Learning (aka the machine learning 'bible') ["Probabilistic Machine Learning: Advanced Topics"](https://github.com/probml/pml2-book) by the leading research scientist at Google (over 80K Google Scholar citations) and Bestselling Machine Learning Book Author Kevin Murphy (starting at page 555).
+
 ![Probabilistic Machine Learning: Advanced Topics](Probabilistic%20Machine%20Learning%20Advanced%20Topics%20(Kevin%20Murphy).png)
 
 
