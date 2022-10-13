@@ -414,6 +414,8 @@ Dengdeng Yu, Wulong Liu, Linglong Kong, Bei Jiang (University of Alberta, Noah A
 149. [Extending Conformal Prediction to Hidden Markov Models with Exact Validity via de Finetti's Theorem for Markov Chains](https://arxiv.org/abs/2210.02271) by Buddhika Nettasinghe, Samrat Chatterjee, Ramakrishna Tipireddy, Mahantesh Halappanavar (2022)
 150. [Predictive inference with feature conformal prediction](https://openreview.net/pdf?id=0uRm1YmFTu) (2022)
 151. [Constructing Prediction Intervals with Neural Networks: An Empirical Evaluation of Bootstrapping and Conformal Inference Methods](https://arxiv.org/pdf/2210.05354.pdf) by Alex Contarino, Christine Schubert Kabban, Chancellor Johnstone and Fairul Mohd-Zaid (2022)
+152. [Spatio-Temporal Wildfire Prediction using Multi-Modal Data](https://arxiv.org/pdf/2207.13250.pdf) by Chen Xu1, Yao Xie,
+Daniel A. Zuniga Vazquez, Rui Yao, and Feng Qiu (2022)
 
 ## Papers_Time_Series
 
