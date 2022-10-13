@@ -413,6 +413,7 @@ Dengdeng Yu, Wulong Liu, Linglong Kong, Bei Jiang (University of Alberta, Noah A
 148. [Test-time recalibration of conformal predictors under distribution shift based on unlabeled examples](https://arxiv.org/pdf/2210.04166.pdf) by Fatih Furkan Yilmaz, and Reinhard Heckel (Rice University / University of Munuch, 2022)
 149. [Extending Conformal Prediction to Hidden Markov Models with Exact Validity via de Finetti's Theorem for Markov Chains](https://arxiv.org/abs/2210.02271) by Buddhika Nettasinghe, Samrat Chatterjee, Ramakrishna Tipireddy, Mahantesh Halappanavar (2022)
 150. [Predictive inference with feature conformal prediction](https://openreview.net/pdf?id=0uRm1YmFTu) (2022)
+151. [Constructing Prediction Intervals with Neural Networks: An Empirical Evaluation of Bootstrapping and Conformal Inference Methods](https://arxiv.org/pdf/2210.05354.pdf) by Alex Contarino, Christine Schubert Kabban, Chancellor Johnstone and Fairul Mohd-Zaid (2022)
 
 ## Papers_Time_Series
 
