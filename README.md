@@ -416,6 +416,9 @@ Dengdeng Yu, Wulong Liu, Linglong Kong, Bei Jiang (University of Alberta, Noah A
 151. [Constructing Prediction Intervals with Neural Networks: An Empirical Evaluation of Bootstrapping and Conformal Inference Methods](https://arxiv.org/pdf/2210.05354.pdf) by Alex Contarino, Christine Schubert Kabban, Chancellor Johnstone and Fairul Mohd-Zaid (2022)
 152. [Spatio-Temporal Wildfire Prediction using Multi-Modal Data](https://arxiv.org/pdf/2207.13250.pdf) by Chen Xu1, Yao Xie,
 Daniel A. Zuniga Vazquez, Rui Yao, and Feng Qiu (2022)
+153. [Calibrating AI models for few-shot demodulation via conformal prediction](https://arxiv.org/pdf/2210.04621.pdf) Kfir M. Cohen1, Sangwoo Park, Osvaldo Simeone, Shlomo Shamai (2022)
+154. [Test-time recalibration of conformal predictors under distribution shift based on unlabeled examples](https://arxiv.org/pdf/2210.04166.pdf) 
+[Code](https://github.com/MLI-lab/recalibrating_conformal_prediction)
 
 ## Papers_Time_Series
 
