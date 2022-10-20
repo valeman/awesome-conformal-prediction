@@ -419,6 +419,9 @@ Daniel A. Zuniga Vazquez, Rui Yao, and Feng Qiu (2022)
 153. [Calibrating AI models for few-shot demodulation via conformal prediction](https://arxiv.org/pdf/2210.04621.pdf) Kfir M. Cohen1, Sangwoo Park, Osvaldo Simeone, Shlomo Shamai (2022)
 154. [Test-time recalibration of conformal predictors under distribution shift based on unlabeled examples](https://arxiv.org/pdf/2210.04166.pdf) 
 [Code](https://github.com/MLI-lab/recalibrating_conformal_prediction)
+155. [Nonparametric Quantile Regression: Non-Crossing Constraints and Conformal Prediction](https://arxiv.org/pdf/2210.10161.pdf) by Wenlu Tang, Guohao Shen, Yuanyuan Lin and Jian Huang (The Hong Kong Polytechnic University, 2022)
+156. [Safe Planning in Dynamic Environments using Conformal Prediction](https://arxiv.org/pdf/2210.10254.pdf) by 
+Lars Lindemann, Matthew Cleaveland∗, Gihyun Shim, and George J. Pappas (University of Pensylvania, 2022)
 
 ## Papers_Time_Series
 
