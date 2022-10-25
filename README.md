@@ -424,7 +424,8 @@ Daniel A. Zuniga Vazquez, Rui Yao, and Feng Qiu (2022)
 Lars Lindemann, Matthew Cleaveland∗, Gihyun Shim, and George J. Pappas (University of Pensylvania, 2022)
 157. [Conformal prediction under feedback covariate shift for biomolecular design](https://www.pnas.org/doi/10.1073/pnas.2204569119) by Clara Fannjiang, Stephen Bates, Anastasios N. Angelopoulos,and Michael I. Jordan (2022) 🔥🔥🔥🔥🔥
 158. [Conformal Predictor for Improving Zero-shot Text Classification Efficiency](https://arxiv.org/pdf/2210.12619.pdf) by Prafulla Kumar Choubey, Yu Bai,  Chien-Sheng Wu, Wenhao Liu, Nazneen Rajani (Saleforce AI Research and Hugging Face, 2022)
-159. [Bayesian Optimization with Conformal Coverage Guarantees](https://arxiv.org/pdf/2210.12496.pdf) by Samuel Stanton, Wesley Maddox and Andrew Gordon Wilson (Genentech, New York University, 2022) [Code](https://github.com/samuelstanton/conformal-bayesopt)
+159. [Bayesian Optimization with Conformal Coverage Guarantees](https://arxiv.org/pdf/2210.12496.pdf) by Samuel Stanton, Wesley Maddox and Andrew Gordon Wilson (Genentech, New York University, 2022) [Code](https://github.com/samuelstanton/conformal-bayesopt) 🔥🔥🔥🔥🔥
+
 
 ## Papers_Time_Series
 
