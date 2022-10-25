@@ -423,6 +423,8 @@ Daniel A. Zuniga Vazquez, Rui Yao, and Feng Qiu (2022)
 156. [Safe Planning in Dynamic Environments using Conformal Prediction](https://arxiv.org/pdf/2210.10254.pdf) by 
 Lars Lindemann, Matthew Cleaveland∗, Gihyun Shim, and George J. Pappas (University of Pensylvania, 2022)
 157. [Conformal prediction under feedback covariate shift for biomolecular design](https://www.pnas.org/doi/10.1073/pnas.2204569119) by Clara Fannjiang, Stephen Bates, Anastasios N. Angelopoulos,and Michael I. Jordan (2022) 🔥🔥🔥🔥🔥
+158. [Conformal Predictor for Improving Zero-shot Text Classification Efficiency](https://arxiv.org/pdf/2210.12619.pdf) by Prafulla Kumar Choubey, Yu Bai,  Chien-Sheng Wu, Wenhao Liu, Nazneen Rajani (Saleforce AI Research and Hugging Face, 2022)
+159. [Bayesian Optimization with Conformal Coverage Guarantees](https://arxiv.org/pdf/2210.12496.pdf) by Samuel Stanton, Wesley Maddox and Andrew Gordon Wilson (Genentech, New York University, 2022) [Code](https://github.com/samuelstanton/conformal-bayesopt)
 
 ## Papers_Time_Series
 
@@ -520,6 +522,8 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 3. [Conformal Risk Control](https://threadreaderapp.com/thread/1555616778578829312.html) by Anastasious Angelopolous, Berkeley, 2022
 4. [Stable Conformal Prediction Sets](https://threadreaderapp.com/thread/1549413164835536897.html) by Eugene Ndiaye (Georgia Tech, 2022)
 5. [Machine learning sucks at uncertainty quantification. But there is a solution that almost sounds too good to be true: conformal prediction](https://threadreaderapp.com/thread/1572526084981129217.html) by Cristoph Molnar (2022).
+6. [How to correctly, yet efficiently model the uncertainty on predictions](https://threadreaderapp.com/thread/1584905067718647808.html) by Nico Wolf (2022)
+
 
 ## TikTok 
 
