@@ -166,6 +166,7 @@ This is newest version of the super-popular tutorial on Conformal Prediction (ov
 16. [Comparison of Support Vector Machines and Deep Learning For QSAR with Conformal Prediction](https://www.diva-portal.org/smash/get/diva2:1682247/FULLTEXT01.pdf) by Deligianni Maria, MSc thesis, Universit of Uppsala (2022)
 17. [Predictive Maintenance with Conformal and Probabilistic Prediction: A Commercial Case Study](https://www.jamesgammerman.com/files/Thesis.pdf) by James Gammerman (2022)
 18. [Risk-Sensitive Decision-Making for Autonomous-Driving](https://www.diva-portal.org/smash/get/diva2:1698692/FULLTEXT01.pdf) by Hardy Hasan (University of Uppsala, 2022)
+19. [Distribution-Free Finite-Sample Guarantees and Split Conformal Prediction](https://arxiv.org/pdf/2210.14735.pdf), MSc thesis by Roel Hulsman, University of Oxford (2022)
 
 ## Tutorials
 
