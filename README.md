@@ -428,6 +428,7 @@ Lars Lindemann, Matthew Cleaveland∗, Gihyun Shim, and George J. Pappas (Univer
 159. [Bayesian Optimization with Conformal Coverage Guarantees](https://arxiv.org/pdf/2210.12496.pdf) by Samuel Stanton, Wesley Maddox and Andrew Gordon Wilson (Genentech, New York University, 2022) [Code](https://github.com/samuelstanton/conformal-bayesopt) 🔥🔥🔥🔥🔥
 160. [Measuring the Confidence of Traffic Forecasting Models: Techniques, Experimental Comparison and Guidelines towards Their Actionability](https://arxiv.org/pdf/2210.16049.pdf) by Ibai Lanaa, Ignacio (In ̃aki) Olabarrietaa, Javier Del Sera (2022)
 161. [Training Uncertainty-Aware Classifiers with Conformalized Deep Learning](https://openreview.net/pdf?id=NaZwgxp-mT_) by Bat-Sheva Einbinder, Yaniv Romano, Matteo Sesia and Yanfei Zhou (Technion/UCLA, NeurIPS 2022 paper) 🔥🔥🔥🔥🔥
+162. [Conformalized Fairness via Quantile Regression](https://openreview.net/pdf?id=rwyISFoSmXd) by Meichen Liu, Lei Ding, Dengdeng Yu, Wulong Liu, Linglong Kong, Bei Jiang (University of Alberta, Huawei Noah’s Ark Lab Canada, NeurIPS 2022 paper) [Code](https://github.com/Lei-Ding07/Conformal_Quantile_Fairness) 🔥🔥🔥🔥🔥
 
 ## Papers_Time_Series
 
