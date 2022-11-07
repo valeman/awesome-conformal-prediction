@@ -429,6 +429,7 @@ Lars Lindemann, Matthew Cleaveland∗, Gihyun Shim, and George J. Pappas (Univer
 160. [Measuring the Confidence of Traffic Forecasting Models: Techniques, Experimental Comparison and Guidelines towards Their Actionability](https://arxiv.org/pdf/2210.16049.pdf) by Ibai Lanaa, Ignacio (In ̃aki) Olabarrietaa, Javier Del Sera (2022)
 161. [Training Uncertainty-Aware Classifiers with Conformalized Deep Learning](https://openreview.net/pdf?id=NaZwgxp-mT_) by Bat-Sheva Einbinder, Yaniv Romano, Matteo Sesia and Yanfei Zhou (Technion/UCLA, NeurIPS 2022 paper) 🔥🔥🔥🔥🔥
 162. [Conformalized Fairness via Quantile Regression](https://openreview.net/pdf?id=rwyISFoSmXd) by Meichen Liu, Lei Ding, Dengdeng Yu, Wulong Liu, Linglong Kong, Bei Jiang (University of Alberta, Huawei Noah’s Ark Lab Canada, NeurIPS 2022 paper) [Code](https://github.com/Lei-Ding07/Conformal_Quantile_Fairness) 🔥🔥🔥🔥🔥
+163. [Engineering Uncertainty Representations to Monitor Distribution Shifts](https://openreview.net/pdf?id=Koug1i2HpH) by Thomas Bonnier and  Benjamin Bosch (Société Générale, 2022)
 
 ## Papers_Time_Series
 
