@@ -192,7 +192,7 @@ This is newest version of the super-popular tutorial on Conformal Prediction (ov
 16. [Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification](https://www.youtube.com/watch?v=usaHyuu2TzY) by Anastasios Angelopoulos (Berkeley, 2022)
 17. [A Tutorial on Conformal Prediction Part 2: Conditional Coverage and Diagnostics](https://www.youtube.com/watch?v=TRx4a2u-j7M&t=529s) by Anastasios Angelopoulos and Stephen Bates (2022) 🔥🔥🔥🔥🔥
 16. [Beyond Conformal Prediction: Tutorial on Conformal Part 3](https://www.youtube.com/watch?v=37HKrmA5gJE) by Anastasios Angelopoulos and Stephen Bates (2022) 🔥🔥🔥🔥🔥
-17. [EuroSciPy 2022 tutorial time series](https://github.com/ogrisel/euroscipy-2022-time-series) by Olivier Grisel (INRIA, 2022)
+17. [Getting predictions intervals with conformal inference](http://projects.rajivshah.com/blog/2022/09/24/conformal_predictions) by Rajiv Shah (2022) [YouTube](https://www.youtube.com/watch?v=ZUK4zR0IeLU) [Code](https://colab.research.google.com/drive/1bA_TrrmRpgJ0jasWBZCxkXSLePi8uWBx) 🔥🔥🔥🔥🔥
 
 ## Courses
 1. [Topics in Modern Statistical Learning](https://github.com/dobriban/Topics-In-Modern-Statistical-Learning)
