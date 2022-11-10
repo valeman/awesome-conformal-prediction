@@ -222,7 +222,8 @@ This is newest version of the super-popular tutorial on Conformal Prediction (ov
 21. [Calibrating Multi-Class Models](https://www.youtube.com/watch?v=uCnFgTjUYto) by Ulf Johansson, Tuwe Löfström, and Henrik Boström (2021)
 22. [Conformal testing in a binary model situation](https://www.youtube.com/watch?v=RTcT4YXRdMg) by Vladimir Vovk (Royal Holloway, UK, 2021)
 23. [Conformal prediction in Orange](https://www.youtube.com/watch?v=qI1jOEour1g&t=14s) by Tomaž Hočevar and Blaž Zupan (2021)
-24. [Distribution-Free, Risk-Controlling Prediction Sets](https://www.youtube.com/watch?v=ITJAR3fcNuI) by Anastasios Angelopoulos (Stanford, 2021) 🔥🔥🔥🔥🔥
+24. [Distribution-Free, Risk-Controlling Prediction Sets](https://www.youtube.com/watch?v=ITJAR3fcNuI) by Anastasios Angelopoulos 
+(Stanford, 2021) 🔥🔥🔥🔥🔥
 25. [Conformal Prediction and Distribution-Free Calibration](https://synapse.math.univ-toulouse.fr/s/KDcWmmU9j9zk0rm) by Aaditya Ramdas (Carnegie Mellon, 2021) 🔥🔥🔥🔥🔥
 26. [Reliable Diagnostics by Conformal Predictors](https://www.youtube.com/watch?v=zW3R-vbLw58) by Alexander Gammerman (Royal Holloway, UK, 2015)
 27. [Distribution-Free, Risk-Controlling Prediction Sets](https://www.youtube.com/watch?v=ITJAR3fcNuI) by Anastasios Angelopoulos (Stanford, 2021) 🔥🔥🔥🔥🔥
@@ -258,7 +259,8 @@ This is newest version of the super-popular tutorial on Conformal Prediction (ov
 58. [Recent progress in predictive inference](https://www.youtube.com/watch?v=FQxpdMME0qU) by Emmanuel Candes, Stanford University (2022)
 59. [Conformalized Survival Analysis with Adaptive Cutoffs](https://youtu.be/bvZ0SZlnkv8) by Rina Foygel Barber, Zhimei Ren, Yu Gui and Rohan Hore, University of Chicago (2022)
 60. [Calibrating probabilistic hierarchical forecasts with conformal predictions](https://www.youtube.com/watch?v=VNhgk8Q1VFg) by Daan Ferdinandusse (University of Amsterdam, 2022)
-61 [Michael I. Jordan on Conformal Prediction](https://www.youtube.com/watch?v=kSGP4F_ZcBY) by Michael I. Jordan (Berkeley, 2022)
+61. [Michael I. Jordan on Conformal Prediction](https://www.youtube.com/watch?v=kSGP4F_ZcBY) by Michael I. Jordan (Berkeley, 2022)
+62. [Distribution-free Prediction: Exchangeability and Beyond](https://www.youtube.com/watch?v=HVZDLhW8Kxg) by Rina Foygel Barber (University of Chicago, 2022)
 
 ## Papers
 
