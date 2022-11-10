@@ -261,6 +261,7 @@ This is newest version of the super-popular tutorial on Conformal Prediction (ov
 60. [Calibrating probabilistic hierarchical forecasts with conformal predictions](https://www.youtube.com/watch?v=VNhgk8Q1VFg) by Daan Ferdinandusse (University of Amsterdam, 2022)
 61. [Michael I. Jordan on Conformal Prediction](https://www.youtube.com/watch?v=kSGP4F_ZcBY) by Michael I. Jordan (Berkeley, 2022)
 62. [Distribution-free Prediction: Exchangeability and Beyond](https://www.youtube.com/watch?v=HVZDLhW8Kxg) by Rina Foygel Barber (University of Chicago, 2022)
+63. [Purdue Statistics Theme Seminar, Conformal Prediction in 2022](https://www.youtube.com/watch?v=pjhp1moPvO4) by Emmanuel Candes (Stanford, 2022)
 
 ## Papers
 
