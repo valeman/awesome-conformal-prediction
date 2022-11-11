@@ -545,6 +545,7 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 
 1. [Getting prediction intervals with conformal prediction](https://www.tiktok.com/@rajistics/video/7145960334270975275?is_from_webapp=v1&item_id=7145960334270975275) by Rajiv Shah (Hugging Face,2022)
 2. [Why you want prediction intervals instead of point predictions](https://www.tiktok.com/@rajistics/video/7145295854927236398?is_from_webapp=v1&item_id=7145295854927236398) by Rajiv Shah (Hugging Face,2022)
+3. [It’s important to make sure your model is well calibrated](https://www.tiktok.com/@rajistics/video/7164607746396933419?is_copy_url=1&is_from_webapp=v1&item_id=7164607746396933419) by Rajiv Shah (Hugging Face,2022)
 
 
 
