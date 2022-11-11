@@ -461,19 +461,20 @@ Niccolo` Ajroldia, Jacopo Diquigiovannib, Matteo Fontanac, Simone Vantinia (2022
 
 
 ## Presentation_slides
-1. [Adaptive Conformal Anomaly Detection for Time-series](https://cml.rhul.ac.uk/copa2017/presentations/burnaev.pdf) by Evgeny Burnaev, Alexander Bernstein, Vlad Ishimtsev and Ivan Nazarov (Skoltech, Moscow, Russia, 2017)
-2. [Nonparametric predictive distributions based on conformal prediction](https://cml.rhul.ac.uk/copa2017/presentations/vovk.pdf) by Vladimir Vovk, Jieli Shen, Valery Manokhin, Min-ge Xie, Ilia Nouretdinov and Alex Gammerman (Royal Holloway, University of London Rutgers University, 2017)
-3. [What Can Conformal Inference Offer to Statistics?](https://lihualei71.github.io/Job_Talk_Lihua_Lei.pdf) by Lihua Lei, Stanford University
-4. [Conformal Regressors and Predictive Systems – a Gentle Introduction](https://copa-conference.com/presentations/COPA_2022_Presentation__Conformal_Regressors_and_Predictive_Systems___a_Gentle_Introduction.pdf) by Henrik Bostroem (KTH, Sweden, 2022)
-5. [Applications of Conformal Predictors](https://copa-conference.com/presentations/lars_ernst.pdf) by Ernst Ahlberg and Lars Carlsson (Stena Line, 2022)
-6. [crepes: a Python Package for Conformal Regressors and Predictive Systems](https://copa-conference.com/presentations/COPA_2022_Presentation__crepes.pdf) by Henrik Bostroem (KTH, Sweden, 2022)
-7. [Assessing Explanation Quality by Venn Prediction](https://copa-conference.com/presentations/amr.pdf) by Amr Alkhatib, Henrik Boström and Ulf Johansson (2022)
-8. [Well-Calibrated Rule Extractors](https://copa-conference.com/presentations/Johansson_U_COPA2022_pres.pdf) by Ulf Johansson, Tuwe Löfström, Niclas Ståhl (2022)
-9. [Calibration of Natural Language Understanding Models with Venn-ABERS Predictors](Calibration of Natural Language Understanding Models with Venn-ABERS Predictors](https://copa-conference.com/presentations/patrizio.pdf) by Patrizio Giovannotti (2022)
-10. [Reinforcement Learning Prediction Intervals with Guaranteed Fidelity](https://web.engr.oregonstate.edu/~tgd/talks/dietterich-caml-rl-prediction-intervals.pdf) by Thomas Dietterich (University of Oregon, 2022)
-11. [Conformal Prediction beyond exchangeability](https://copa-conference.com/presentations/conformal_UAI_tutorial_2.pdf) by Rina Foygel Barber (University of Chicago, 2022)
-12. [Split conformal prediction for dependant data](http://www.im.ufrj.br/~coloquiomea/apresentacoes/orenstein_2022.pdf) by Roberto I. Oliveira, Paulo Orenstein, Thiago Ramos and João Vitor Romano (2022)
-13. [Conformal prediction of small-molecule drug resistance in cancer cell lines](https://copa-conference.com/presentations/saiveth.pdf) by Saiveth Hernandez-Hernandez, Sachin Vishwakarma and Pedro Ballester
+1. [Machine Learning for Probabilistic Prediction](https://github.com/valeman/awesome-conformal-prediction/blob/main/Machine%20Learning%20for%20Probabilistic%20Prediction.pdf) by Valery Manokhin, 2022
+2. [Adaptive Conformal Anomaly Detection for Time-series](https://cml.rhul.ac.uk/copa2017/presentations/burnaev.pdf) by Evgeny Burnaev, Alexander Bernstein, Vlad Ishimtsev and Ivan Nazarov (Skoltech, Moscow, Russia, 2017)
+3. [Nonparametric predictive distributions based on conformal prediction](https://cml.rhul.ac.uk/copa2017/presentations/vovk.pdf) by Vladimir Vovk, Jieli Shen, Valery Manokhin, Min-ge Xie, Ilia Nouretdinov and Alex Gammerman (Royal Holloway, University of London Rutgers University, 2017)
+4. [What Can Conformal Inference Offer to Statistics?](https://lihualei71.github.io/Job_Talk_Lihua_Lei.pdf) by Lihua Lei, Stanford University
+5. [Conformal Regressors and Predictive Systems – a Gentle Introduction](https://copa-conference.com/presentations/COPA_2022_Presentation__Conformal_Regressors_and_Predictive_Systems___a_Gentle_Introduction.pdf) by Henrik Bostroem (KTH, Sweden, 2022)
+6. [Applications of Conformal Predictors](https://copa-conference.com/presentations/lars_ernst.pdf) by Ernst Ahlberg and Lars Carlsson (Stena Line, 2022)
+7. [crepes: a Python Package for Conformal Regressors and Predictive Systems](https://copa-conference.com/presentations/COPA_2022_Presentation__crepes.pdf) by Henrik Bostroem (KTH, Sweden, 2022)
+8. [Assessing Explanation Quality by Venn Prediction](https://copa-conference.com/presentations/amr.pdf) by Amr Alkhatib, Henrik Boström and Ulf Johansson (2022)
+9. [Well-Calibrated Rule Extractors](https://copa-conference.com/presentations/Johansson_U_COPA2022_pres.pdf) by Ulf Johansson, Tuwe Löfström, Niclas Ståhl (2022)
+10. [Calibration of Natural Language Understanding Models with Venn-ABERS Predictors](Calibration of Natural Language Understanding Models with Venn-ABERS Predictors](https://copa-conference.com/presentations/patrizio.pdf) by Patrizio Giovannotti (2022)
+11. [Reinforcement Learning Prediction Intervals with Guaranteed Fidelity](https://web.engr.oregonstate.edu/~tgd/talks/dietterich-caml-rl-prediction-intervals.pdf) by Thomas Dietterich (University of Oregon, 2022)
+12. [Conformal Prediction beyond exchangeability](https://copa-conference.com/presentations/conformal_UAI_tutorial_2.pdf) by Rina Foygel Barber (University of Chicago, 2022)
+13. [Split conformal prediction for dependant data](http://www.im.ufrj.br/~coloquiomea/apresentacoes/orenstein_2022.pdf) by Roberto I. Oliveira, Paulo Orenstein, Thiago Ramos and João Vitor Romano (2022)
+14. [Conformal prediction of small-molecule drug resistance in cancer cell lines](https://copa-conference.com/presentations/saiveth.pdf) by Saiveth Hernandez-Hernandez, Sachin Vishwakarma and Pedro Ballester
 
 
 ## Researchers
