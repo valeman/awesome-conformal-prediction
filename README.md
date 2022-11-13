@@ -195,7 +195,8 @@ This is newest version of the super-popular tutorial on Conformal Prediction (ov
 17. [Getting predictions intervals with conformal inference](http://projects.rajivshah.com/blog/2022/09/24/conformal_predictions) by Rajiv Shah (2022) [YouTube](https://www.youtube.com/watch?v=ZUK4zR0IeLU) [Code](https://colab.research.google.com/drive/1bA_TrrmRpgJ0jasWBZCxkXSLePi8uWBx) 🔥🔥🔥🔥🔥
 
 ## Courses
-1. [Topics in Modern Statistical Learning](https://github.com/dobriban/Topics-In-Modern-Statistical-Learning)
+1. [Uncertain: Modern topics in uncertainty estimation](https://uncertaintyclass.com) [YouTube](https://www.youtube.com/watch?app=desktop&v=M3tkM4dcIPA) [Course notes](https://www.cis.upenn.edu/~aaroth/uncertainty-notes.pdf) by Aaron Roth (University of Pennsylvania, 2022)
+2. [Topics in Modern Statistical Learning](https://github.com/dobriban/Topics-In-Modern-Statistical-Learning)
 
 ## Videos 
 
