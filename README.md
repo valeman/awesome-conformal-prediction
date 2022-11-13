@@ -3,7 +3,7 @@
 [Slack for Awesome Conformal Prediction](https://join.slack.com/t/awesomeconformalpred/shared_invite/zt-1bghkcotu-8wVXu2iFaCSM3Ot42qWzvA)
 Please reach out to rahul_vishwakarma@icloud.com if you have issues with Slack link and need invite to the Slack.
 
-The most comprehensive professionally curated resource on Conformal Prediction including the best tutorials, videos, books, papers, articles, courses, websites, conferences and open-source libraries code in Python and R.
+The most comprehensive professionally curated resource on Conformal Prediction including the best tutorials, videos, books, papers, articles, courses, websites, conferences and open-source libraries code in Python, R and Julia.
 
 I have created this resource after completing my PhD in Machine Learning specialising in Conformal Prediction (supervised by the creator of Conformal Prediction Prof. Vladimir Vovk).
 
