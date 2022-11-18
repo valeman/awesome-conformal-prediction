@@ -439,6 +439,7 @@ Lars Lindemann, Matthew Cleaveland∗, Gihyun Shim, and George J. Pappas (Univer
 161. [Training Uncertainty-Aware Classifiers with Conformalized Deep Learning](https://openreview.net/pdf?id=NaZwgxp-mT_) by Bat-Sheva Einbinder, Yaniv Romano, Matteo Sesia and Yanfei Zhou (Technion/UCLA, NeurIPS 2022 paper) 🔥🔥🔥🔥🔥
 162. [Conformalized Fairness via Quantile Regression](https://openreview.net/pdf?id=rwyISFoSmXd) by Meichen Liu, Lei Ding, Dengdeng Yu, Wulong Liu, Linglong Kong, Bei Jiang (University of Alberta, Huawei Noah’s Ark Lab Canada, NeurIPS 2022 paper) [Code](https://github.com/Lei-Ding07/Conformal_Quantile_Fairness) 🔥🔥🔥🔥🔥
 163. [Engineering Uncertainty Representations to Monitor Distribution Shifts](https://openreview.net/pdf?id=Koug1i2HpH) by Thomas Bonnier and  Benjamin Bosch (Société Générale, 2022)
+164. [CONffusion: CONFIDENCE INTERVALS FOR DIFFUSION MODELS](https://arxiv.org/pdf/2211.09795.pdf) [Project](https://www.vision.huji.ac.il/conffusion/) 🔥🔥🔥🔥🔥
 
 ## Papers_Time_Series
 
