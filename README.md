@@ -61,7 +61,7 @@ One the most influential statistics Professors - Larry Wasserman (Carnegie Mello
 
 'Conformal inference methods are becoming all the rage in academia and industry alike. In a nutshell, these methods deliver exact prediction intervals for future observations without making any distributional assumption whatsoever other than having iid, and more generally, exchangeable data.'
 
-Prof. Emmanual Candes (Stanfor) - Neurips 2022 key talk.
+Prof. Emmanual Candes (Stanford) - Neurips 2022 key talk.
 
 https://slideslive.com/icml-2021/workshop-on-distributionfree-uncertainty-quantification
 
