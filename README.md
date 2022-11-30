@@ -171,7 +171,9 @@ This is newest version of the super-popular tutorial on Conformal Prediction (ov
 17. [Predictive Maintenance with Conformal and Probabilistic Prediction: A Commercial Case Study](https://www.jamesgammerman.com/files/Thesis.pdf) by James Gammerman (2022)
 18. [Risk-Sensitive Decision-Making for Autonomous-Driving](https://www.diva-portal.org/smash/get/diva2:1698692/FULLTEXT01.pdf) by Hardy Hasan (University of Uppsala, 2022)
 19. [Distribution-Free Finite-Sample Guarantees and Split Conformal Prediction](https://arxiv.org/pdf/2210.14735.pdf), MSc thesis by Roel Hulsman, University of Oxford (2022)
-20. [Coreset-based Protocols for Machine Learning Classification](https://pure.royalholloway.ac.uk/en/publications/coreset-based-protocols-for-machine-learning-classification), PhD thesis by Nery Riquelme Granada (Royal Holloway, University of London, 2022) 
+20. [Coreset-based Protocols for Machine Learning Classification](https://pure.royalholloway.ac.uk/en/publications/coreset-based-protocols-for-machine-learning-classification), PhD thesis by Nery Riquelme Granada (Royal Holloway, University of London, 2022)
+21. [Conformal survival predictions at a user-controlled time point](https://kth.diva-portal.org/smash/get/diva2:1231989/FULLTEXT01.pdf) by 
+Jelle Van Miltenburg (KTH ROYAL INSTITUTE OF TECHNOLOGY, 2018)
 
 ## Tutorials
 
