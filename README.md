@@ -9,20 +9,15 @@ I have created this resource after completing my PhD in Machine Learning special
 
 Conformal Prediction is no longer a niche area of research like it was just a few years ago, it has seen exponential growth during the last 2-3 years due to the work of amazing ambassadors of Conformal Prediction such as Prof. [Larry Wasserman](https://www.stat.cmu.edu/~larry/) and [Anastasious Angelopolous](https://people.eecs.berkeley.edu/~angelopoulos/) in academia. There has been two tracks dedicated to conformal prediction at [ICML2021](https://icml.cc/Conferences/2021/ScheduleMultitrack?event=8373) and [ICML2022](https://sites.google.com/berkeley.edu/dfuq-22/home) and key invited talk by Professor Emmanuel Candes 'Conformal Prediction in 2022' at [NeurIPS2022](https://neurips.cc/virtual/2022/invited-talk/55872). The [main conference on Conformal Prediction (COPA)](https://copa-conference.com) has been running for over 11 years.
 
-
-
-I am actively promoting Conformal Prediction (because it is well Awesome) on social media incluidng [LinkedIn](https://www.linkedin.com/in/valeriy-manokhin-phd-mba-cqf-704731236/) and [Twitter](https://twitter.com/predict_addict). [ResearchGate](https://www.researchgate.net/profile/Valery-Manokhin) has all my research and I occasionally publish in [Medium](https://medium.com/@valeman) sharing insights from the data science trenches in the industry.
-
-Please feel free to connect and also help spread the word about Conformal Prediction.
-
 Awesome Conformal Prediction has been cited in the best book on Machine Learning (aka the machine learning 'bible') ["Probabilistic Machine Learning: Advanced Topics"](https://github.com/probml/pml2-book) by the leading research scientist at Google (over 80K Google Scholar citations) and Bestselling Machine Learning Book Author Kevin Murphy (starting at page 555).
 
 ![Probabilistic Machine Learning: Advanced Topics](Probabilistic%20Machine%20Learning%20Advanced%20Topics%20(Kevin%20Murphy).png)
 
+I am actively promoting Conformal Prediction (because it is well Awesome) on social media incluidng [LinkedIn](https://www.linkedin.com/in/valeriy-manokhin-phd-mba-cqf-704731236/) and [Twitter](https://twitter.com/predict_addict). [ResearchGate](https://www.researchgate.net/profile/Valery-Manokhin) has all my research and I occasionally publish in [Medium](https://medium.com/@valeman) sharing insights from the data science trenches in the industry. Please feel free to connect and also help spread the word about Conformal Prediction.
 
 [![Star History Chart](https://api.star-history.com/svg?repos=valeman/awesome-conformal-prediction&type=Date)](https://star-history.com/#valeman/awesome-conformal-prediction&Date)
 
-Please star 🌟 the repo and spread the word. If you use the repository in a scientific publication, please cite Awesome Conformal Prediction to help promote this amazing framework in academia and industry:
+Please star 🌟 the repo and spread the word. If you use the repository in a scientific publication, please ensure citing Awesome Conformal Prediction to help promote this amazing framework in academia and industry:
 
 Manokhin, Valery. (2022). Awesome Conformal Prediction (v1.0.0). Zenodo. https://zenodo.org/record/6467205 https://doi.org/10.5281/zenodo.6467205 
 
