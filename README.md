@@ -621,9 +621,9 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 
 ## AI-platforms
 1. [Conformal Prediction in Knime](https://copa-conference.com/papers/COPA2022_paper_8.pdf) [Presentation](https://copa-conference.com/presentations/tuwe_presentation.pdf) 🔥🔥🔥🔥🔥
-2. Data Robot (https://docs.datarobot.com/en/docs/release/public-preview/mlops-preview/prediction-intervals-regression.html#the-trumpet-chart)
+2. Data Robot](https://docs.datarobot.com/en/docs/release/public-preview/mlops-preview/prediction-intervals-regression.html#the-trumpet-chart)
 
-## Patents
+## [Patents
 1. Rahul Vishwakarma, Method and system for reliably forecasting storage disk failure. US 2021/0034450 A1 United States Patent and Trademark Office, Feb 2021
 2. Rahul Vishwakarma, Analyzing Time Series Data for Sets of Devices Using Machine Learning Techniques. US 2021/0241929 A1 United States Patent and Trademark Office, Aug 2021
 3. Rahul Vishwakarma, System and method for prioritizing and preventing backup failures. US 2021/0374568 A1 United States Patent and Trademark Office, Dec 2021
