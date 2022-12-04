@@ -11,7 +11,7 @@ Conformal Prediction is no longer a niche area of research like it was just a fe
 
 
 
-I am actively promoting Conformal Prediction (because it is well Awesome) on social media incluidng LinkedIn and [Twitter](https://twitter.com/predict_addict). [ResearchGate](https://www.researchgate.net/profile/Valery-Manokhin) has all my research and I occasionally publish in [Medium](https://medium.com/@valeman) sharing insights from the data science trenches in the industry.
+I am actively promoting Conformal Prediction (because it is well Awesome) on social media incluidng [LinkedIn](https://www.linkedin.com/in/valeriy-manokhin-phd-mba-cqf-704731236/) and [Twitter](https://twitter.com/predict_addict). [ResearchGate](https://www.researchgate.net/profile/Valery-Manokhin) has all my research and I occasionally publish in [Medium](https://medium.com/@valeman) sharing insights from the data science trenches in the industry.
 
 Please feel free to connect and also help spread the word about Conformal Prediction.
 
