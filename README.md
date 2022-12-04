@@ -9,7 +9,9 @@ I have created this resource after completing my PhD in Machine Learning special
 
 The resources were meticulously collected since 2015 and after completing my PhD (thesis "Machine Learning for Probabilistic Prediction is available in the "Theses" section) I have decided to share them with the global machine learning community.
 
-Having done research in Conformal Prediction since 2015, I am still amazed about how robust, powerful and flexible this best framework for Uncertainty Qualification is and how much it has to offer to solve most of the problems involving uncertainty. Conformal Prediction is no longer aniche area of research like it was just a few years ago, it has seen exponential growth during the last 2-3 years due to the work of amazing ambassadors of Conformal Prediction such as Prof. [Larry Wasserman](https://www.stat.cmu.edu/~larry/) and [Anastasious Angelopolous](https://people.eecs.berkeley.edu/~angelopoulos/) in academia.
+Conformal Prediction is no longer a niche area of research like it was just a few years ago, it has seen exponential growth during the last 2-3 years due to the work of amazing ambassadors of Conformal Prediction such as Prof. [Larry Wasserman](https://www.stat.cmu.edu/~larry/) and [Anastasious Angelopolous](https://people.eecs.berkeley.edu/~angelopoulos/) in academia. There has been two tracks dedicated to conformal prediction at ICML2021 and ICML 2022 and key invited talk by Professor Emmanuel Candes at NeurIPS2022 [Conformal Prediction in 2022](https://neurips.cc/virtual/2022/invited-talk/55872).
+
+
 
 I am actively promoting Conformal Prediction (because it is well Awesome) on social media incluidng LinkedIn and [Twitter](https://twitter.com/predict_addict). [ResearchGate](https://www.researchgate.net/profile/Valery-Manokhin) has all my research and I occasionally publish in [Medium](https://medium.com/@valeman) sharing insights from the data science trenches in the industry.
 
