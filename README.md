@@ -5,11 +5,9 @@ Please reach out to rahul_vishwakarma@icloud.com if you have issues with Slack l
 
 The most comprehensive professionally curated resource on Conformal Prediction including the best tutorials, videos, books, papers, articles, courses, websites, conferences and open-source libraries code in Python, R and Julia.
 
-I have created this resource after completing my PhD in Machine Learning specialising in Conformal Prediction (supervised by the creator of Conformal Prediction Prof. Vladimir Vovk).
+I have created this resource after completing my PhD in Machine Learning specialising in Conformal Prediction (supervised by the creator of Conformal Prediction Prof. Vladimir Vovk). The resources were meticulously collected since 2015 and after completing my PhD (thesis "Machine Learning for Probabilistic Prediction is available in the "Theses" section) I have decided to share them with the global machine learning community.
 
-The resources were meticulously collected since 2015 and after completing my PhD (thesis "Machine Learning for Probabilistic Prediction is available in the "Theses" section) I have decided to share them with the global machine learning community.
-
-Conformal Prediction is no longer a niche area of research like it was just a few years ago, it has seen exponential growth during the last 2-3 years due to the work of amazing ambassadors of Conformal Prediction such as Prof. [Larry Wasserman](https://www.stat.cmu.edu/~larry/) and [Anastasious Angelopolous](https://people.eecs.berkeley.edu/~angelopoulos/) in academia. There has been two tracks dedicated to conformal prediction at ICML2021 and ICML 2022 and key invited talk by Professor Emmanuel Candes at NeurIPS2022 [Conformal Prediction in 2022](https://neurips.cc/virtual/2022/invited-talk/55872).
+Conformal Prediction is no longer a niche area of research like it was just a few years ago, it has seen exponential growth during the last 2-3 years due to the work of amazing ambassadors of Conformal Prediction such as Prof. [Larry Wasserman](https://www.stat.cmu.edu/~larry/) and [Anastasious Angelopolous](https://people.eecs.berkeley.edu/~angelopoulos/) in academia. There has been two tracks dedicated to conformal prediction at [ICML2021]([Workshop on Distribution-Free Uncertainty Quantification](https://icml.cc/Conferences/2021/ScheduleMultitrack?event=8373)) and [ICML2022](https://sites.google.com/berkeley.edu/dfuq-22/home) and key invited talk by Professor Emmanuel Candes at NeurIPS2022 [Conformal Prediction in 2022](https://neurips.cc/virtual/2022/invited-talk/55872).
 
 
 
