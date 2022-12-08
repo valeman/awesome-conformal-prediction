@@ -479,6 +479,8 @@ Niccolo` Ajroldia, Jacopo Diquigiovannib, Matteo Fontanac, Simone Vantinia (2022
 12. [Conformal Prediction beyond exchangeability](https://copa-conference.com/presentations/conformal_UAI_tutorial_2.pdf) by Rina Foygel Barber (University of Chicago, 2022)
 13. [Split conformal prediction for dependant data](http://www.im.ufrj.br/~coloquiomea/apresentacoes/orenstein_2022.pdf) by Roberto I. Oliveira, Paulo Orenstein, Thiago Ramos and João Vitor Romano (2022)
 14. [Conformal prediction of small-molecule drug resistance in cancer cell lines](https://copa-conference.com/presentations/saiveth.pdf) by Saiveth Hernandez-Hernandez, Sachin Vishwakarma and Pedro Ballester
+15. [Sequential Predictive Conformal Inference for Time Series](https://arxiv.org/pdf/2212.03463.pdf) by Chen Xu, Yao Xie (Georgia Tech, 2022)
+16. [Copula Conformal Prediction for Multi-step Time Series Forecasting](https://arxiv.org/abs/2212.03281) by Sophia Sun, Rose Yu (University of California, San Diego, 2022)
 
 
 ## Researchers
@@ -564,8 +566,6 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 6. [8th Symposium on Conformal and Probabilistic Prediction with Applications](https://cml.rhul.ac.uk/copa2019/) 🔥🔥🔥🔥🔥
 7. [7th Symposium on Conformal and Probabilistic Prediction with Applications](https://cml.rhul.ac.uk/copa2018/) 🔥🔥🔥🔥🔥
 8. [6th Symposium on Conformal and Probabilistic Prediction with Applications](https://cml.rhul.ac.uk/copa2017/) 🔥🔥🔥🔥🔥
-
-
 
 ## Python
 
