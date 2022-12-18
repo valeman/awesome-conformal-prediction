@@ -530,7 +530,7 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 10. [Stanford statisticians and Washington Post data scientists build more honest prediction models](https://news.stanford.edu/2021/03/19/honesty-statistical-models/#) Stanford (2021) 🔥🔥🔥🔥🔥
 11. [How to Detect Anomalies — state-of-the-art methods using Conformal Prediction](https://valeman.medium.com/how-to-detect-anomalies-state-of-the-art-methods-using-conformal-prediction-e02691659412) by Valery Manokhin (2021) 🔥🔥🔥🔥🔥
 12. [How to calibrate your classifier in an intelligent way](https://medium.com/@valeman/how-to-calibrate-your-classifier-in-an-intelligent-way-a996a2faf718) by Valery Manokhin (2022) 🔥🔥🔥🔥🔥
-13. [Conformal Prediction forecasting with MAPIE](https://medium.com/@valeman/conformal-prediction-forecasting-with-mapie-library-for-conformal-prediction-7aac033ae3ef) by Valery Manokhin (2022) 🔥🔥🔥🔥🔥
+13. [Conformal Prediction forecasting with MAPIE](https://medium.com/@valeman/conformal-prediction-forecasting-with-mapie-library-for-conformal-prediction-7aac033ae3ef) by Valery Manokhin (2022) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 14. [How to predict full probability distribution using machine learning Conformal Predictive Distributions](https://medium.com/@valeman/how-to-predict-full-probability-distribution-using-machine-learning-conformal-predictive-f8f4d805e420) by Valery Manokhin (2022) 🔥🔥🔥🔥🔥
 15. [How to predict quantiles in a more intelligent way (or ‘Bye-bye quantile regression, hello Conformal Quantile Regression](https://valeman.medium.com/how-to-predict-quantiles-in-a-more-intelligent-way-or-bye-bye-quantile-regression-hello-24a65e4c50f) by Valery Manokhin (2022) 🔥🔥🔥🔥🔥
 16. [Conformal Prediction in Julia, Part I - Introduction](https://towardsdatascience.com/conformal-prediction-in-julia-351b81309e30) by Patrick Altmeyer (2022)
@@ -539,6 +539,8 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 19. [Time Series Forecasting with Conformal Prediction Intervals: Scikit-Learn is All you Need](https://towardsdatascience.com/time-series-forecasting-with-conformal-prediction-intervals-scikit-learn-is-all-you-need-4b68143a027a) by Marco Cerliani (2022)
 20. [Conformal Prediction in Julia, Part II - How to conformalize a deep image classifier](https://towardsdatascience.com/how-to-conformalize-a-deep-image-classifier-14ead4e1a5a0) by Patrick Altmeyer (2022)
 21. [Conformal Prediction in Julia, Part III - Prediction intervals for any regression model](https://towardsdatascience.com/prediction-intervals-for-any-regression-model-306930d5ad9a) by Patrick Altmeyer (2022)
+22. [Probabilistic Forecasting with Conformal Prediction and NeuralProphet](https://medium.com/@valeman/probabilistic-forecasting-with-conformal-prediction-and-neuralprophet-af9c87901d94) by Valery Manokhin (2022) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+23. [Time Series Forecasting with Conformal Prediction Intervals: Scikit-Learn is All you Need](https://towardsdatascience.com/time-series-forecasting-with-conformal-prediction-intervals-scikit-learn-is-all-you-need-4b68143a027a) by Marco Cerliani (2022) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 
 ## Websites
 1. [Main website with research from Prof. Vladimir (Volodya) Vovk](http://alrw.net) 🔥🔥🔥🔥🔥
