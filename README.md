@@ -606,7 +606,8 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 28. [SKTime](https://www.sktime.org/en/stable/api_reference/auto_generated/sktime.forecasting.conformal.ConformalIntervals.html?highlight=Conformal#sktime.forecasting.conformal.ConformalIntervals) by Franz Kiraly (2022)
 29. [NeuralProphet](https://github.com/ourownstory/neural_prophet/blob/main/tutorials/feature-use/uncertainty_conformal_prediction.ipynb) (2022)
 30. [River](https://github.com/online-ml/river/blob/0506ad73e45403638f13d66c6b2d71920d307461/river/conf/jackknife.py#L9) 2022
-31. [TorchUQ](https://github.com/TorchUQ/torchuq/blob/5335c5948385c7b9bde4baefc9399d79a7cb07ef/docs/tutorials/1_c_1_conformal/1_c_1_conformal.rst#L17) 2022
+31. [TorchUQ](https://github.com/TorchUQ/torchuq/blob/5335c5948385c7b9bde4baefc9399d79a7cb07ef/docs/tutorials/1_c_1_conformal/1_c_1_conformal.rst#L17) (2022)
+32. [AWS Fortuna](https://aws-fortuna.readthedocs.io/en/latest/) by Amazon, (2022)
 
 ## Code-R
 1. [Conformal Inference R Project](https://github.com/ryantibs/conformal) maintained by Ryan Tibshirani (2016) 🔥🔥🔥🔥🔥
@@ -636,6 +637,7 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 ## AI-platforms
 1. [Conformal Prediction in Knime](https://copa-conference.com/papers/COPA2022_paper_8.pdf) [Presentation](https://copa-conference.com/presentations/tuwe_presentation.pdf) 🔥🔥🔥🔥🔥
 2. [Data Robot](https://docs.datarobot.com/en/docs/release/public-preview/mlops-preview/prediction-intervals-regression.html/the-trumpet-chart)
+3. [AWS Fortuna](https://aws-fortuna.readthedocs.io/en/latest/) by Amazon, (2022) 🔥🔥🔥🔥🔥
 
 ## Patents
 1. Rahul Vishwakarma, Method and system for reliably forecasting storage disk failure. US 2021/0034450 A1 United States Patent and Trademark Office, Feb 2021
