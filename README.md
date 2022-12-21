@@ -541,6 +541,7 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 21. [Conformal Prediction in Julia, Part III - Prediction intervals for any regression model](https://towardsdatascience.com/prediction-intervals-for-any-regression-model-306930d5ad9a) by Patrick Altmeyer (2022)
 22. [Probabilistic Forecasting with Conformal Prediction and NeuralProphet](https://medium.com/@valeman/probabilistic-forecasting-with-conformal-prediction-and-neuralprophet-af9c87901d94) by Valery Manokhin (2022) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 23. [Time Series Forecasting with Conformal Prediction Intervals: Scikit-Learn is All you Need](https://towardsdatascience.com/time-series-forecasting-with-conformal-prediction-intervals-scikit-learn-is-all-you-need-4b68143a027a) by Marco Cerliani (2022) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+24. [TQA: Creating Valid Prediction Intervals for Cross-sectional Time Series Regression](https://realsunlab.medium.com/tqa-creating-valid-prediction-intervals-for-cross-sectional-time-series-regression-bd0f2260fae7) by Zhen Lin (UIUC, NeurIPS’22 paper) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 
 ## Websites
 1. [Main website with research from Prof. Vladimir (Volodya) Vovk](http://alrw.net) 🔥🔥🔥🔥🔥
