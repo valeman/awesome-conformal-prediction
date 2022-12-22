@@ -171,6 +171,8 @@ This is newest version of the super-popular tutorial on Conformal Prediction (ov
 20. [Coreset-based Protocols for Machine Learning Classification](https://pure.royalholloway.ac.uk/en/publications/coreset-based-protocols-for-machine-learning-classification), PhD thesis by Nery Riquelme Granada (Royal Holloway, University of London, 2022)
 21. [Conformal survival predictions at a user-controlled time point](https://kth.diva-portal.org/smash/get/diva2:1231989/FULLTEXT01.pdf) by 
 Jelle Van Miltenburg (KTH ROYAL INSTITUTE OF TECHNOLOGY, 2018)
+22. [Reliable Machine Learning with ConformalPrediction: A Review with Contributions](https://www.researchgate.net/publication/366205428_Reliable_Machine_Learning_with_Conformal_Prediction_A_Review_with_Contributions) by Martim Sousa (2022)
+
 
 ## Tutorials
 
