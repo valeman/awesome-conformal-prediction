@@ -447,6 +447,8 @@ Lars Lindemann, Matthew Cleaveland∗, Gihyun Shim, and George J. Pappas (Univer
 165. [Semantic uncertainty intervals for disentangled latent spaces](https://swamiviv.github.io/semantic_uncertainty_intervals/) by Swami Sankaranarayanan, Anastasios N. Angelopoulos, Stephen Bates, Yaniv Romano, Phillip Isola (MIT, Berkeley, Technion, 2022) 🔥🔥🔥🔥🔥
 166. [But are you sure? An uncertainty-aware perspective on explainable AI](https://assets.amazon.science/bf/d0/14c3eb614699909dae8a092b9492/but-are-you-sure-an-uncertainty-aware-perspective-on-explainable-ai.pdf) by Charlie Marx, Youngsuk Park, Hilaf Hasson, Yuyang (Bernie) Wang, Stefano Ermon, Jun Huan (2022)
 167. [Calibrating AI Models for Wireless Communications via Conformal Prediction](https://arxiv.org/pdf/2212.07775.pdf) by Kfir M. Cohen, Sangwoo Park, Osvaldo Simeone and Shlomo Shamai (2022)
+168. [Predicting Endocrine Disruption Using Conformal Prediction – A Prioritization Strategy to Identify Hazardous Chemicals with Confidence](https://pubs.acs.org/doi/10.1021/acs.chemrestox.2c00267) by Maria Sapounidou, Ulf Norinder and Patrick Andersson (2022)
+  
 
 ## Papers_Time_Series
 
