@@ -644,6 +644,7 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 1. [Conformal Prediction in Knime](https://copa-conference.com/papers/COPA2022_paper_8.pdf) [Presentation](https://copa-conference.com/presentations/tuwe_presentation.pdf) 🔥🔥🔥🔥🔥
 2. [Data Robot](https://docs.datarobot.com/en/docs/release/public-preview/mlops-preview/prediction-intervals-regression.html/the-trumpet-chart)
 3. [AWS Fortuna](https://aws-fortuna.readthedocs.io/en/latest/) by Amazon, (2022) 🔥🔥🔥🔥🔥
+4. [Microsoft Azure](https://learn.microsoft.com/en-gb/archive/blogs/machinelearning/anomaly-detection-using-machine-learning-to-detect-abnormalities-in-time-series-data)
 
 ## Patents
 1. Rahul Vishwakarma, Method and system for reliably forecasting storage disk failure. US 2021/0034450 A1 United States Patent and Trademark Office, Feb 2021
