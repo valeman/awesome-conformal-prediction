@@ -200,7 +200,7 @@ Jelle Van Miltenburg (KTH ROYAL INSTITUTE OF TECHNOLOGY, 2018)
 ## Courses
 1. [Course on Conformal Prediction](https://mindfulmodeler.substack.com/p/e-mail-course-on-conformal-prediction) - 5 week course starts soon! 🔥🔥🔥🔥🔥
 2. [Uncertain: Modern topics in uncertainty estimation](https://uncertaintyclass.com) [YouTube](https://www.youtube.com/watch?app=desktop&v=M3tkM4dcIPA) [Course notes](https://www.cis.upenn.edu/~aaroth/uncertainty-notes.pdf) by Aaron Roth (University of Pennsylvania, 2022)
-3. [Topics in Modern Statistical Learning](https://github.com/dobriban/Topics-In-Modern-Statistical-Learning)
+3. [Topics in Modern Statistical Learning](https://github.com/dobriban/Topics-In-Modern-Statistical-Learning) by Edgar Dobriban (Wharton Business School, University of Pennsylvania, 2022)
 4. [Theory of Statistics](https://candes.su.domains/teaching/stats300c/) Stanford Statistics course by Prof Emmanuel Candes (2022)
 5. [36-708 Statistical Methods for Machine Learning](https://www.stat.cmu.edu/~larry/=sml/) Carnegie-Mellon course by Prof Larry Wasserman (2022)
 
