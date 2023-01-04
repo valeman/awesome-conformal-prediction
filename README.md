@@ -271,6 +271,7 @@ Jelle Van Miltenburg (KTH ROYAL INSTITUTE OF TECHNOLOGY, 2018)
 62. [Distribution-free Prediction: Exchangeability and Beyond](https://www.youtube.com/watch?v=HVZDLhW8Kxg) by Rina Foygel Barber (University of Chicago, 2022)
 63. [Purdue Statistics Theme Seminar, Conformal Prediction in 2022](https://www.youtube.com/watch?v=pjhp1moPvO4) by Emmanuel Candes (Stanford, 2022)
 64. [WILL MY ROBOT ACHIEVE MY GOALS? PREDICTING THE PROBABILITY THAT AN MDP POLICY REACHES A USER-SPECIFIED BEHAVIOR TARGET](https://arxiv.org/pdf/2211.16462.pdf) by Alexander Guyer and Thomas G. Dietterich (University of Oregon, 2022)
+65. [Robust and Equitable Uncertainty Estimation](https://www.youtube.com/watch?v=Iznj13jP9ag) by Aaron Roth(2022)
 
 ## Papers
 
