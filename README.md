@@ -189,7 +189,8 @@ Jelle Van Miltenburg (KTH ROYAL INSTITUTE OF TECHNOLOGY, 2018)
 10. [Conformal Prediction: a Unified Review of Theory and New Challenges](https://www.e-publications.org/ims/submission/BEJ/user/submissionFile/46245?confirm=193b4e5b) by Gianluca Zeni, Matteo Fontana1 and Simone Vantini (Politecnico di Milano, Italy, 2021) 🔥🔥🔥🔥🔥
 11. [Conformal Prediction in Spark](https://docs.google.com/presentation/d/1eD1vUJVR3nejyJZsOMfxL-NxrLy7K2UUMSAEMHYLfek/edit#slide=id.g2276269343_0_129) by Marco Capuccini (Uppsala University, 2017)
 12. [Tutorial on Venn-ABERS prediction](https://cml.rhul.ac.uk/people/ptocca/HomePage/Toccaceli_CP___Venn_Tutorial.pdf) by Paolo Toccaceli (Royal Holloway, UK, 2019) 🔥🔥🔥🔥🔥
-13. [An Introduction to Conformal Prediction](https://cml.rhul.ac.uk/copa2017/presentations/CP_Tutorial_2017.pdf) by Henrik Linusson (2017) 🔥🔥🔥🔥🔥
+13. [An Introduction to Conformal Prediction](https://cml.rhul.ac.uk/copa2017/presentations/CP_Tutorial_2017.pdf) by Henrik Linusson (2017) 
+🔥🔥🔥🔥🔥
 14. [Introduction to Conformal Prediction](https://www.iith.ac.in/~vineethnb/indoukworkshop2015/assets/files/IntroToCP.pdf) by Vineeth N Balasubramanian (Indian Institue of Technology, Hyderabad, 2015) 
 15. [Conformal prediction A Tiny Tutorial on Predicting with Confidence](https://people.dsv.su.se/~henke/DSWS/johansson.pdf) by Henrik Linusson and Ulf Johansson (2014)
 16. [Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification](https://www.youtube.com/watch?v=usaHyuu2TzY) by Anastasios Angelopoulos (Berkeley, 2022)
@@ -197,6 +198,7 @@ Jelle Van Miltenburg (KTH ROYAL INSTITUTE OF TECHNOLOGY, 2018)
 16. [Beyond Conformal Prediction: Tutorial on Conformal Part 3](https://www.youtube.com/watch?v=37HKrmA5gJE) by Anastasios Angelopoulos and Stephen Bates (2022) 🔥🔥🔥🔥🔥
 17. [Getting predictions intervals with conformal inference](http://projects.rajivshah.com/blog/2022/09/24/conformal_predictions) by Rajiv Shah (2022) [YouTube](https://www.youtube.com/watch?v=ZUK4zR0IeLU) [Code](https://colab.research.google.com/drive/1bA_TrrmRpgJ0jasWBZCxkXSLePi8uWBx) 🔥🔥🔥🔥🔥
 18. [Uncertainty estimation in NLP](https://sites.google.com/view/uncertainty-nlp#h.is5zc8lcnuki) by Tal Schuster, Adam Fisch (MIT, USC, 2022) 🔥🔥🔥🔥🔥
+19. [Regression prediction intervals with MAPIE on Kaggle](https://www.kaggle.com/code/carlmcbrideellis/regression-prediction-intervals-with-mapie) by Carl McBride Ellis, PhD
 
 ## Courses
 1. [Course on Conformal Prediction](https://mindfulmodeler.substack.com/p/e-mail-course-on-conformal-prediction) - 5 week course starts soon! 🔥🔥🔥🔥🔥
