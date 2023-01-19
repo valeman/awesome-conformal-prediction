@@ -461,6 +461,7 @@ Lars Lindemann, Matthew Cleaveland∗, Gihyun Shim, and George J. Pappas (Univer
 168. [Predicting Endocrine Disruption Using Conformal Prediction – A Prioritization Strategy to Identify Hazardous Chemicals with Confidence](https://pubs.acs.org/doi/10.1021/acs.chemrestox.2c00267) by Maria Sapounidou, Ulf Norinder and Patrick Andersson (2022)
 169. [Conformal Loss-Controlling Prediction](https://arxiv.org/pdf/2301.02424.pdf) by Di Wang, Ping Wang, Zhong Ji, Xiaojun Yang, Hongyue Li (2023)
 170. [ROBUST AND SCALABLE UNCERTAINTY ESTIMATION WITH CONFORMAL PREDICTION FOR MACHINE-LEARNED INTERATOMIC POTENTIALS](https://arxiv.org/pdf/2208.08337.pdf) [Code](https://github.com/valeman/conformal_prediction_in_latent_space) by Yuge Hu, Joseph Musielewicz, Zachary Ulissi, Andrew J. Medford (Georgia Institute of Technology/Carnegie Mellon University, 2022)
+171. [Clustering of Trajectories using Non-Parametric Conformal DBSCAN Algorithm](https://sites.rutgers.edu/jie-gao/wp-content/uploads/sites/375/2022/03/conformal-DBSCAN-compressed.pdf) by Haotian Wang, Jie Gao, Min-ge Xie Rutgers University, 2022)
   
 
 ## Papers_Time_Series
