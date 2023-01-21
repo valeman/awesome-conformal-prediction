@@ -483,7 +483,8 @@ Lars Lindemann, Matthew Cleaveland∗, Gihyun Shim, and George J. Pappas (Univer
 16. [Conformal Prediction Bands for Two-Dimensional Functional Time Series](https://arxiv.org/pdf/2207.13656.pdf) by 
 Niccolo` Ajroldia, Jacopo Diquigiovannib, Matteo Fontanac, Simone Vantinia (2022)
 17. [Copula Conformal Prediction for Multi-step Time Series Forecasting](https://openreview.net/pdf?id=jCdoLxMZxf) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
-18. [ Conformal prediction set for time-series](Conformal prediction set for time-series)by Chen Xu, Yao Xie (Georgia Tech, 2022) [Code](https://github.com/hamrel-cxu/Ensemble-Regularized-Adaptive-Prediction-Set-ERAPS)
+18. [Conformal prediction set for time-series](Conformal prediction set for time-series)by Chen Xu, Yao Xie (Georgia Tech, 2022) [Code](https://github.com/hamrel-cxu/Ensemble-Regularized-Adaptive-Prediction-Set-ERAPS)
+19. [But Are You Sure? An Uncertainty-Aware Perspective on Explainable AI](https://assets.amazon.science/bf/d0/14c3eb614699909dae8a092b9492/but-are-you-sure-an-uncertainty-aware-perspective-on-explainable-ai.pdf) by Charlie Marx, Youngsuk Park, Hilaf Hasson, Yuyang Wang, Stefano Ermon, Jun Huan (2022)
 
 
 ## Presentation_slides
