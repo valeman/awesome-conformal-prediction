@@ -466,8 +466,9 @@ Lars Lindemann, Matthew Cleaveland∗, Gihyun Shim, and George J. Pappas (Univer
 172. [But Are You Sure? An Uncertainty-Aware Perspective on Explainable AI](https://assets.amazon.science/bf/d0/14c3eb614699909dae8a092b9492/but-are-you-sure-an-uncertainty-aware-perspective-on-explainable-ai.pdf) by Charlie Marx, Youngsuk Park, Hilaf Hasson, Yuyang Wang, Stefano Ermon, Jun Huan (2022)
 173. [Prediction-Powered Inference](https://arxiv.org/pdf/2301.09633.pdf) by Anastasios N. Angelopoulos, Stephen Bates, Clara Fannjiang, Michael I. Jordan, Tijana Zrnic (Universify of Berkeley, 2022) 🔥🔥🔥🔥🔥
 174. [Conformal Prediction for Trustworthy Detection of Railway Signals](https://arxiv.org/pdf/2301.11136.pdf) by Leo Andeol, Thomas Fel, Florence de Grancey, Luca Mossina (Institute de Mathematiques de Toulouse, SCNF, 2022)
-175. [Adaptive Conformal Prediction for Motion Planning among Dynamic Agents](https://arxiv.org/pdf/2212.00278.pdf) by Anushri Dixit, Lars Lindemann, Skylar Wei, Matthew Cleaveland, George J Pappas, Joel W Burdick (California Institute of Technology/University of Pennsylvania, 2022)
-176. [Conformal prediction for STL runtime verification](https://arxiv.org/pdf/2211.01539.pdf) by Lars Lindemann, Xin Qin, Jyotirmoy V. Deshmukh, George J. Pappas
+175. [Conformal Quantitative Predictive Monitoring of STL Requirements for Stochastic Processes](https://arxiv.org/pdf/2211.02375.pdf) by Francesca Cairoli, Nicola Paoletti, Luca Bortolussi (University of Trieste/King's College London, 2022)
+176. [Adaptive Conformal Prediction for Motion Planning among Dynamic Agents](https://arxiv.org/pdf/2212.00278.pdf) by Anushri Dixit, Lars Lindemann, Skylar Wei, Matthew Cleaveland, George J Pappas, Joel W Burdick (California Institute of Technology/University of Pennsylvania, 2022)
+177. [Conformal prediction for STL runtime verification](https://arxiv.org/pdf/2211.01539.pdf) by Lars Lindemann, Xin Qin, Jyotirmoy V. Deshmukh, George J. Pappas
  (University of Pennsylvania/University of Southern California, 2022)
  
 
