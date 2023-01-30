@@ -466,6 +466,7 @@ Lars Lindemann, Matthew Cleaveland∗, Gihyun Shim, and George J. Pappas (Univer
 172. [But Are You Sure? An Uncertainty-Aware Perspective on Explainable AI](https://assets.amazon.science/bf/d0/14c3eb614699909dae8a092b9492/but-are-you-sure-an-uncertainty-aware-perspective-on-explainable-ai.pdf) by Charlie Marx, Youngsuk Park, Hilaf Hasson, Yuyang Wang, Stefano Ermon, Jun Huan (2022)
 173. [Prediction-Powered Inference](https://arxiv.org/pdf/2301.09633.pdf) by Anastasios N. Angelopoulos, Stephen Bates, Clara Fannjiang, Michael I. Jordan, Tijana Zrnic (Universify of Berkeley, 2022) 🔥🔥🔥🔥🔥
 174. [Conformal Prediction for Trustworthy Detection of Railway Signals](https://arxiv.org/pdf/2301.11136.pdf) by Leo Andeol, Thomas Fel, Florence de Grancey, Luca Mossina (Institute de Mathematiques de Toulouse, SCNF, 2022)
+175. [Conformal inference is (almost) free for neural networks trained with early stopping](https://arxiv.org/pdf/2301.11556.pdf) by Ziyi Liang, Yanfei Zhou†, Matteo Sesia (University of Southern California, 2022)
 
 ## Papers_Time_Series
 
