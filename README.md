@@ -467,6 +467,7 @@ Lars Lindemann, Matthew Cleaveland∗, Gihyun Shim, and George J. Pappas (Univer
 173. [Prediction-Powered Inference](https://arxiv.org/pdf/2301.09633.pdf) by Anastasios N. Angelopoulos, Stephen Bates, Clara Fannjiang, Michael I. Jordan, Tijana Zrnic (Universify of Berkeley, 2022) 🔥🔥🔥🔥🔥
 174. [Conformal Prediction for Trustworthy Detection of Railway Signals](https://arxiv.org/pdf/2301.11136.pdf) by Leo Andeol, Thomas Fel, Florence de Grancey, Luca Mossina (Institute de Mathematiques de Toulouse, SCNF, 2022)
 175. [Conformal inference is (almost) free for neural networks trained with early stopping](https://arxiv.org/pdf/2301.11556.pdf) by Ziyi Liang, Yanfei Zhou†, Matteo Sesia (University of Southern California, 2022)
+176. [PAC Prediction Sets for Large Language Models of Code](https://www.seas.upenn.edu/~akhakhar/pacsetllm.pdf) by Adam Khakhar, Stephen Mell, Osbert Bastani (University of Pennsylvania, 2023)
 
 ## Papers_Time_Series
 
