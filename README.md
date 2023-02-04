@@ -72,20 +72,6 @@ In 2021 conformal prediction research experienced exponential growth in academia
 
 📢📢Industry take notice. The revolution in Uncertainty Quantification / Probabilistic Prediction / Forecasting is already here 📢📢  A big one  🔥🔥🔥🔥🔥
 
-🌟 🌟 🌟 🌟 🌟 
-
-Featured resources:
-
-[A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification](https://people.eecs.berkeley.edu/~angelopoulos/publications/downloads/gentle_intro_conformal_dfuq.pdf) [Colab](https://github.com/aangelopoulos/conformal-prediction) 🔥🔥🔥🔥🔥 TIME SERIES 🚀🚀🚀🚀🚀 
-
-This is newest version of the super-popular tutorial on Conformal Prediction (over 10K+ stars on YouTube) now significantly expanded (2x), including advanced techniques such as covariate shift conformal, as well as a super fun history and literature review in Section 7.
-
-[A Tutorial on Conformal Prediction](https://www.youtube.com/watch?v=nql000Lu_iE&t=1786s) by Anastasios Angelopoulos and Stephen Bates (2021) 🔥🔥🔥🔥🔥
-
-[A Tutorial on Conformal Prediction Part 2: Conditional Coverage and Diagnostics](https://www.youtube.com/watch?v=TRx4a2u-j7M) by Anastasios Angelopoulos and Stephen Bates (2022)
-
-⭐⭐️⭐️⭐️⭐️
-
 
 ![modrian](mondrian.jpg) 
 
