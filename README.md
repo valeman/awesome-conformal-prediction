@@ -5,11 +5,11 @@ Please reach out to rahul_vishwakarma@icloud.com if you have issues with Slack l
 
 The most comprehensive professionally curated resource on Conformal Prediction including the best tutorials, videos, books, papers, articles, courses, websites, conferences and open-source libraries code in Python, R and Julia.
 
-I have created this resource after completing my PhD in Machine Learning specialising in Conformal Prediction (supervised by the creator of Conformal Prediction Prof. Vladimir Vovk). The resources were meticulously collected since 2015 and after completing my PhD (thesis "Machine Learning for Probabilistic Prediction is available in the "Theses" section) I have decided to share them with the global machine learning community.
+I have created this resource after completing my PhD in Machine Learning specialising in Conformal Prediction supervised by the creator of Conformal Prediction Prof. Vladimir Vovk. The resources were meticulously collected since 2015 and after completing my PhD (thesis "Machine Learning for Probabilistic Prediction is available in the "Theses" section) I have decided to share them with the global machine learning community.
 
 Conformal Prediction goes back to Kolmogorov's notion of randomness described in two papers : 1) Andrei Kolmogorov (1968). "Logical basis for information theory and probability theory." IEEE Transactions on Information Theory IT-14:662-664 and 2) Andrei Kolmogorov (1983). "Combinatorial foundations of information theory and the calculus of probabilities." Russian Mathematical Surveys 38(4):29-4.  
 
-Conformal Prediction is no longer a niche area of research like it was just a few years ago, it has seen exponential growth during the last 2-3 years due to the work of amazing ambassadors of Conformal Prediction such as Prof. [Larry Wasserman](https://www.stat.cmu.edu/~larry/) and [Anastasious Angelopolous](https://people.eecs.berkeley.edu/~angelopoulos/) in academia. There has been two tracks dedicated to conformal prediction at [ICML2021](https://icml.cc/Conferences/2021/ScheduleMultitrack?event=8373) and [ICML2022](https://sites.google.com/berkeley.edu/dfuq-22/home) and key invited talk by Professor Emmanuel Candes 'Conformal Prediction in 2022' at [NeurIPS2022](https://slideslive.com/38996063/conformal-prediction-in-2022?ref=speaker-43789). The [main conference on Conformal Prediction (COPA)](https://copa-conference.com) has been running for over 11 years.
+Conformal Prediction is no longer a niche area of research like it was just a few years ago, it has seen exponential growth during the last 2-3 years due to the work of amazing ambassadors of Conformal Prediction such as Prof. [Larry Wasserman](https://www.stat.cmu.edu/~larry/) in academia. There has been two tracks dedicated to conformal prediction at [ICML2021](https://icml.cc/Conferences/2021/ScheduleMultitrack?event=8373) and [ICML2022](https://sites.google.com/berkeley.edu/dfuq-22/home) and key invited talk by Professor Emmanuel Candes 'Conformal Prediction in 2022' at [NeurIPS2022](https://slideslive.com/38996063/conformal-prediction-in-2022?ref=speaker-43789). The [main conference on Conformal Prediction (COPA)](https://copa-conference.com) has been running for over 11 years.
 
 Awesome Conformal Prediction has been cited in the best book on Machine Learning (aka the machine learning 'bible') ["Probabilistic Machine Learning: Advanced Topics"](https://github.com/probml/pml2-book) by the leading research scientist at Google (over 80K Google Scholar citations) and Bestselling Machine Learning Book Author Kevin Murphy (starting at page 555).
 
@@ -65,9 +65,9 @@ https://slideslive.com/icml-2021/workshop-on-distributionfree-uncertainty-quanti
 
 When prominent professors from the best research labs in the world say this about conformal prediction it is quite an endorsement.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
-What about the industry one might ask - well Conformal Prediction already for several years powers the main anomaly detection proposition in Microsoft Azure and Data Robot (AutoML) uses Conformal Prediction to generate robust [prediction intervals for its models](https://docs.datarobot.com/en/docs/release/public-preview/mlops-preview/prediction-intervals-regression.html#the-trumpet-chart)
+What about the industry one might ask - Conformal Prediction already for several years powers the main anomaly detection proposition in Microsoft Azure.
 
-In 2021 conformal prediction research experienced exponential growth in academia and with the availability of open-source libraries the industry is positioned to replicate this growth in the industry.
+In 2021-2022 conformal prediction research experienced exponential growth in academia and with the availability of open-source libraries the industry is positioned to replicate this growth in the industry.
 
 
 📢📢Industry take notice. The revolution in Uncertainty Quantification / Probabilistic Prediction / Forecasting is already here 📢📢  A big one  🔥🔥🔥🔥🔥
