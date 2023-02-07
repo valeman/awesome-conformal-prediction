@@ -477,7 +477,7 @@ Renukanandan Tumu, Lars Lindemann†, Truong Nghiem, Rahul Mangharam, (2023(
 Niccolo` Ajroldia, Jacopo Diquigiovannib, Matteo Fontanac, Simone Vantinia (2022)
 17. [Copula Conformal Prediction for Multi-step Time Series Forecasting](https://openreview.net/pdf?id=jCdoLxMZxf) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 18. [Conformal prediction set for time-series](Conformal prediction set for time-series)by Chen Xu, Yao Xie (Georgia Tech, 2022) [Code](https://github.com/hamrel-cxu/Ensemble-Regularized-Adaptive-Prediction-Set-ERAPS)
-
+19. [Amazon Fortuna](https://aws-fortuna.readthedocs.io/en/latest/examples/enbpi_ts_regression.html)
 
 ## Presentation_slides
 1. [Machine Learning for Probabilistic Prediction](https://github.com/valeman/awesome-conformal-prediction/blob/main/Machine%20Learning%20for%20Probabilistic%20Prediction.pdf) by Valery Manokhin, 2022
