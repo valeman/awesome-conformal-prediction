@@ -187,6 +187,7 @@ Jelle Van Miltenburg (KTH ROYAL INSTITUTE OF TECHNOLOGY, 2018)
 18. [Uncertainty estimation in NLP](https://sites.google.com/view/uncertainty-nlp#h.is5zc8lcnuki) by Tal Schuster, Adam Fisch (MIT, USC, 2022) 🔥🔥🔥🔥🔥
 19. [Regression prediction intervals with MAPIE on Kaggle](https://www.kaggle.com/code/carlmcbrideellis/regression-prediction-intervals-with-mapie) by Carl McBride Ellis, PhD
 20. [Distribution-free inference tutorial At the IFDS 2021 Summer School](https://rinafb.github.io/talks/) [Video 1](https://vimeo.com/581870072) [Video 2](https://vimeo.com/581870078)
+21. [Conformal Inference Tutorial](https://bkompa.github.io/2020/09/19/Conformal-Inference-Tutorial.html) by Ben Kompa (2020)
 
 ## Courses
 1. [Course on Conformal Prediction](https://mindfulmodeler.substack.com/p/e-mail-course-on-conformal-prediction) - 5 week course starts soon! 🔥🔥🔥🔥🔥
