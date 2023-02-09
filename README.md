@@ -559,6 +559,7 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 25. [Conformal Prediction: A Critic to Predictive Models](https://medium.com/@data-overload/conformal-prediction-a-critic-to-predictive-models-27501dcc76d4) (2023)
 26. [Multi-horizon Probabilistic Forecasting with Conformal Prediction and NeuralProphet](https://valeman.medium.com/multi-horizon-probabilistic-forecasting-with-conformal-prediction-and-neuralprophet-5ec5af3888c8) by Valery Manokhin TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 27. [Putting clear bounds on uncertainty](https://news.mit.edu/2023/putting-clear-bounds-uncertainty-0123) (MIT, 2023)
+28. [Conformal prediction theory explained](https://medium.com/low-code-for-advanced-data-science/conformal-prediction-theory-explained-14a35226df80) by Artem Ryasik (2023)
 
 ## Kaggle
 1. [Kaggle Notebook showcasing Conformal Predictive Distributions on Playground Series Season 3, Episode 1 (California Housing data) competition](https://www.kaggle.com/code/predaddict/conformal-predictive-distributions-pss3-e1) by Valeriy Manokhin (2022)
