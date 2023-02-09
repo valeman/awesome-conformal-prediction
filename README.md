@@ -456,7 +456,8 @@ Lars Lindemann, Matthew Cleaveland∗, Gihyun Shim, and George J. Pappas (Univer
 175. [Conformal inference is (almost) free for neural networks trained with early stopping](https://arxiv.org/pdf/2301.11556.pdf) by Ziyi Liang, Yanfei Zhou†, Matteo Sesia (University of Southern California, 2022)
 176. [PAC Prediction Sets for Large Language Models of Code](https://www.seas.upenn.edu/~akhakhar/pacsetllm.pdf) by Adam Khakhar, Stephen Mell, Osbert Bastani (University of Pennsylvania, 2023)
 178. [Physics Constrained Motion Prediction with Uncertainty Quantification](https://arxiv.org/pdf/2302.01060.pdf) by 
-Renukanandan Tumu, Lars Lindemann†, Truong Nghiem, Rahul Mangharam, (2023(
+Renukanandan Tumu, Lars Lindemann†, Truong Nghiem, Rahul Mangharam, (2023)
+179. [Accelerating difficulty estimation for conformal regression forests](https://link.springer.com/content/pdf/10.1007/s10472-017-9539-9.pdf) by Henrik Bostroem, Henrik Linusson, Tuve Loefstroem, Ulf Johansson (2017)
 
 ## Papers_Time_Series
 
