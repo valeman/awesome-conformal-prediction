@@ -458,7 +458,8 @@ Lars Lindemann, Matthew Cleaveland∗, Gihyun Shim, and George J. Pappas (Univer
 178. [Physics Constrained Motion Prediction with Uncertainty Quantification](https://arxiv.org/pdf/2302.01060.pdf) by 
 Renukanandan Tumu, Lars Lindemann†, Truong Nghiem, Rahul Mangharam, (2023)
 179. [Accelerating difficulty estimation for conformal regression forests](https://link.springer.com/content/pdf/10.1007/s10472-017-9539-9.pdf) by Henrik Bostroem, Henrik Linusson, Tuve Loefstroem, Ulf Johansson (2017)
-180. [Conformal prediction for exponential families and generalized linear models](https://arxiv.org/pdf/1905.03657v1.pdf) 
+180. [Conformal prediction for exponential families and generalized linear models](https://arxiv.org/pdf/1905.03657v1.pdf)
+190. [How to Trust Your Diffusion Model: A Convex Optimization Approach to Conformal Risk Control](https://arxiv.org/abs/2302.03791) by Jacopo Teneggi, Matt Tivnan, J Webster Stayman, Jeremias Sulam (John Hopkins University, 2023)
 
 ## Papers_Time_Series
 
