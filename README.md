@@ -460,6 +460,7 @@ Renukanandan Tumu, Lars Lindemann†, Truong Nghiem, Rahul Mangharam, (2023)
 179. [Accelerating difficulty estimation for conformal regression forests](https://link.springer.com/content/pdf/10.1007/s10472-017-9539-9.pdf) by Henrik Bostroem, Henrik Linusson, Tuve Loefstroem, Ulf Johansson (2017)
 180. [Conformal prediction for exponential families and generalized linear models](https://arxiv.org/pdf/1905.03657v1.pdf)
 190. [How to Trust Your Diffusion Model: A Convex Optimization Approach to Conformal Risk Control](https://arxiv.org/abs/2302.03791) by Jacopo Teneggi, Matt Tivnan, J Webster Stayman, Jeremias Sulam (John Hopkins University, 2023)
+191. [Localized Conformal Prediction: A Generalized Inference Framework to Conformal Prediction](https://arxiv.org/pdf/2106.08460.pdf) [Code](https://github.com/LeyingGuan/LCPexperiments) [R package](https://github.com/LeyingGuan/LCP)
 
 ## Papers_Time_Series
 
@@ -652,6 +653,7 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 11. [ClusTorus: An R Package for Prediction and Clustering on the Torus by Conformal Prediction](https://journal.r-project.org/articles/RJ-2022-032/RJ-2022-032.pdf) by by Seungki Hong and Sungkyu Jung (2022)
 12. [conformal glm - conformal prediction for generalized linear regression models] (Daniel Eck, 2019)
 13. [caretForecast - Conformal Time Series Forecasting Using State of Art Machine Learning Algorithms](https://github.com/Akai01/caretForecast)
+14. [Localized Conformal Prediction - LCP](https://github.com/LeyingGuan/LCP) 
 
 
 ## Code-Julia
