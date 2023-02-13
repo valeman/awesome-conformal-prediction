@@ -484,7 +484,7 @@ Renukanandan Tumu, Lars Lindemann†, Truong Nghiem, Rahul Mangharam, (2023)
 16. [Conformal Prediction Bands for Two-Dimensional Functional Time Series](https://arxiv.org/pdf/2207.13656.pdf) by 
 Niccolo` Ajroldia, Jacopo Diquigiovannib, Matteo Fontanac, Simone Vantinia (2022)
 17. [Copula Conformal Prediction for Multi-step Time Series Forecasting](https://openreview.net/pdf?id=jCdoLxMZxf) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
-18. [Conformal prediction set for time-series](Conformal prediction set for time-series)by Chen Xu, Yao Xie (Georgia Tech, 2022) [Code](https://github.com/hamrel-cxu/Ensemble-Regularized-Adaptive-Prediction-Set-ERAPS)
+18. [Conformal prediction set for time-series](Conformal prediction set for time-series) by Chen Xu, Yao Xie (Georgia Tech, 2022) [Code](https://github.com/hamrel-cxu/Ensemble-Regularized-Adaptive-Prediction-Set-ERAPS)
 19. [Amazon Fortuna](https://aws-fortuna.readthedocs.io/en/latest/examples/enbpi_ts_regression.html)
 
 ## Presentation_slides
