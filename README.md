@@ -506,6 +506,8 @@ Niccolo` Ajroldia, Jacopo Diquigiovannib, Matteo Fontanac, Simone Vantinia (2022
 16. [Copula Conformal Prediction for Multi-step Time Series Forecasting](https://arxiv.org/abs/2212.03281) by Sophia Sun, Rose Yu (University of California, San Diego, 2022)
 17. [Uncertainty estimation in NLP](https://sites.google.com/view/uncertainty-nlp#h.is5zc8lcnuki) by Tal Schuster, Adam Fisch (MIT, 2022)
 18. [Conformal Prediction: an Introduction](https://github.com/online-ml/river/files/10098389/Conformal_Prediction_Presentation.pdf) by Leo Andeol (2022)
+19. [Adaptive Conformal Predictions for Time Series](https://github.com/valeman/awesome-conformal-prediction/blob/main/Adaptive%20Conformal%20Predictions%20for%20Time%20Series.pdf) by Margaux Zaffran (ICML,2021)
+20. [EnbPI poster](https://github.com/valeman/awesome-conformal-prediction/blob/main/EnbPI_poster.pdf) by Chen Xu, Yao Xie (2021)
 
 
 ## Researchers
