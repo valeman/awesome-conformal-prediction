@@ -459,9 +459,11 @@ Lars Lindemann, Matthew Cleaveland∗, Gihyun Shim, and George J. Pappas (Univer
 Renukanandan Tumu, Lars Lindemann†, Truong Nghiem, Rahul Mangharam, (2023)
 179. [Accelerating difficulty estimation for conformal regression forests](https://link.springer.com/content/pdf/10.1007/s10472-017-9539-9.pdf) by Henrik Bostroem, Henrik Linusson, Tuve Loefstroem, Ulf Johansson (2017)
 180. [Conformal prediction for exponential families and generalized linear models](https://arxiv.org/pdf/1905.03657v1.pdf)
-190. [How to Trust Your Diffusion Model: A Convex Optimization Approach to Conformal Risk Control](https://arxiv.org/abs/2302.03791) by Jacopo Teneggi, Matt Tivnan, J Webster Stayman, Jeremias Sulam (John Hopkins University, 2023)
-191. [Localized Conformal Prediction: A Generalized Inference Framework to Conformal Prediction](https://arxiv.org/pdf/2106.08460.pdf) [Code](https://github.com/LeyingGuan/LCPexperiments) [R package](https://github.com/LeyingGuan/LCP)
-200. [From Group-Differences to Single-Subject Probability: Conformal Prediction-based Uncertainty Estimation for Brain-Age Modeling](https://arxiv.org/pdf/2302.05304.pdf) by Ernsting et.al. (2023)
+181. [How to Trust Your Diffusion Model: A Convex Optimization Approach to Conformal Risk Control](https://arxiv.org/abs/2302.03791) by Jacopo Teneggi, Matt Tivnan, J Webster Stayman, Jeremias Sulam (John Hopkins University, 2023)
+182. [Localized Conformal Prediction: A Generalized Inference Framework to Conformal Prediction](https://arxiv.org/pdf/2106.08460.pdf) [Code](https://github.com/LeyingGuan/LCPexperiments) [R package](https://github.com/LeyingGuan/LCP)
+183. [From Group-Differences to Single-Subject Probability: Conformal Prediction-based Uncertainty Estimation for Brain-Age Modeling](https://arxiv.org/pdf/2302.05304.pdf) by Ernsting et.al. (2023)
+184. [Conformal prediction for STL runtime verification](https://arxiv.org/pdf/2211.01539.pdf) by Lars Lindemann, Xin Qin, Jyotirmoy V. Deshmukh, George J. Pappas (University of Pennsylvania/University of Southern California, 2022)
+185. [Adaptive Conformal Prediction for Motion Planning among Dynamic Agents](https://arxiv.org/pdf/2212.00278.pdf) by Anushri Dixit, Lars Lindemann, Skylar Wei, Matthew Cleaveland, George J Pappas, Joel W Burdick (California Institute of Technology/University of Pennsylvania, 2022)
 
 ## Papers_Time_Series
 
@@ -679,9 +681,6 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 2. Rahul Vishwakarma, Analyzing Time Series Data for Sets of Devices Using Machine Learning Techniques. US 2021/0241929 A1 United States Patent and Trademark Office, Aug 2021
 3. Rahul Vishwakarma, System and method for prioritizing and preventing backup failures. US 2021/0374568 A1 United States Patent and Trademark Office, Dec 2021
 
-<!-- Fathom - beautiful, simple website analytics -->
-<script src="https://cdn.usefathom.com/script.js" data-site="LZMPYUKI" defer></script>
-<!-- / Fathom -->
 
 
     
