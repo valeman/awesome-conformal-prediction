@@ -464,7 +464,7 @@ Renukanandan Tumu, Lars Lindemann†, Truong Nghiem, Rahul Mangharam, (2023)
 183. [From Group-Differences to Single-Subject Probability: Conformal Prediction-based Uncertainty Estimation for Brain-Age Modeling](https://arxiv.org/pdf/2302.05304.pdf) by Ernsting et.al. (2023)
 184. [Conformal prediction for STL runtime verification](https://arxiv.org/pdf/2211.01539.pdf) by Lars Lindemann, Xin Qin, Jyotirmoy V. Deshmukh, George J. Pappas (University of Pennsylvania/University of Southern California, 2022)
 185. [Adaptive Conformal Prediction for Motion Planning among Dynamic Agents](https://arxiv.org/pdf/2212.00278.pdf) by Anushri Dixit, Lars Lindemann, Skylar Wei, Matthew Cleaveland, George J Pappas, Joel W Burdick (California Institute of Technology/University of Pennsylvania, 2022)
-186. [Classification with Valid and Adaptive Coverage](https://proceedings.neurips.cc/paper/2020/file/244edd7e85dc81602b7615cd705545f5-Paper.pdf) [Code](https://github.com/msesia/arc) by Yaniv Romano, Matteo Sesia, Emmanuel Candes (Neurips, 2000) 🔥🔥🔥🔥🔥
+186. [Classification with Valid and Adaptive Coverage](https://proceedings.neurips.cc/paper/2020/file/244edd7e85dc81602b7615cd705545f5-Paper.pdf) [Code](https://github.com/msesia/arc) by Yaniv Romano, Matteo Sesia, Emmanuel Candes (Neurips, 2020) 🔥🔥🔥🔥🔥
 
 ## Papers_Time_Series
 
