@@ -128,6 +128,8 @@ In 2021-2022 conformal prediction research experienced exponential growth in aca
 
 ## Events
 
+![COPA conformal prediction conference](https://github.com/valeman/awesome-conformal-prediction/blob/11c8de9264bca9decc57b61bc56364fe9b6f389f/D46EEBF2-C6B0-4040-8F6B-AEBA0E6DB430.jpeg)
+
 [The 12th Symposium on Conformal and Probabilistic Prediction with Applications](https://copa-conference.com) is the main conference on Conformal Prediction and takes place in Cyprus. PAPER SUBMISSIONS ARE OPEN.
 
 ## Books
