@@ -466,6 +466,7 @@ Renukanandan Tumu, Lars Lindemann†, Truong Nghiem, Rahul Mangharam, (2023)
 185. [Adaptive Conformal Prediction for Motion Planning among Dynamic Agents](https://arxiv.org/pdf/2212.00278.pdf) by Anushri Dixit, Lars Lindemann, Skylar Wei, Matthew Cleaveland, George J Pappas, Joel W Burdick (California Institute of Technology/University of Pennsylvania, 2022)
 186. [Classification with Valid and Adaptive Coverage](https://proceedings.neurips.cc/paper/2020/file/244edd7e85dc81602b7615cd705545f5-Paper.pdf) [Code](https://github.com/msesia/arc) by Yaniv Romano, Matteo Sesia, Emmanuel Candes (Neurips, 2020) 🔥🔥🔥🔥🔥
 187. [Risk Control for Online Learning Models](https://openreview.net/forum?id=uqLDy0HGPR7) by Shai Feldman, Liran Ringel, Stephen Bates, Yaniv Romano (2023)
+189. [Derandomized novelty detection with FDR control via conformal e-values]https://arxiv.org/pdf/2302.07294v1.pdf) by (Meshi Bashari, Amir Epstein, Yaniv Romano, and Matteo Sesia) 🔥🔥🔥🔥🔥 (2023)
 
 
 ## Papers_Time_Series
