@@ -472,6 +472,7 @@ Renukanandan Tumu, Lars Lindemann†, Truong Nghiem, Rahul Mangharam, (2023)
 189. [Derandomized novelty detection with FDR control via conformal e-values](https://arxiv.org/pdf/2302.07294v1.pdf) by Meshi Bashari, Amir Epstein, Yaniv Romano, and Matteo Sesia (2023)
 190. [Sensititivty analysis of individual treatment effects: A robust conformal inference approach](https://www.pnas.org/doi/epdf/10.1073/pnas.2214889120) [Code](https://github.com/ying531/cfsensitivity_paper) by Ying Jin, Zhimei Ren and Emmanual Candes (2023) 
 191. [Improving Adaptive Conformal Prediction Using Self-Supervised Learning](https://arxiv.org/abs/2302.12238) by Nabeel Seedat, Alan Jeffares, Fergus Imrie and Mihaela van der Schaar (Cambridge, 2023)
+192. [Learning by Transduction - of the of earliest conformal prediction papers](https://dl.acm.org/doi/10.5555/2074094.2074112#sec-comments) by Alex Gammerman, Vladimir Vovk and Vladimir Vapnik (Royal Holloway, University of London, 1998) 🔥🔥🔥🔥🔥
 
 ## Papers_Time_Series
 
