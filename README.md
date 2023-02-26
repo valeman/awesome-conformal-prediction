@@ -475,6 +475,7 @@ Renukanandan Tumu, Lars Lindemann†, Truong Nghiem, Rahul Mangharam, (2023)
 192. [Learning by Transduction - of the of earliest conformal prediction papers](https://dl.acm.org/doi/10.5555/2074094.2074112#sec-comments) by Alex Gammerman, Vladimir Vovk and Vladimir Vapnik (Royal Holloway, University of London, 1998) 🔥🔥🔥🔥🔥
 193. [Hedging Predictions in Machine Learning](https://arxiv.org/pdf/cs/0611011.pdf) by 
 Alexander Gammerman and Vladimir Vovk (2008) 🔥🔥🔥🔥🔥
+194. [Predicting Aromatic Amine Mutagenicity with Confidence: A Case Study Using Conformal Prediction](https://www.mdpi.com/2218-273X/8/3/85) by Ulf Norinder, Glenn Myatt and Ernst Ahlberg
 
 ## Papers_Time_Series
 
