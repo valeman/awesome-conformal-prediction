@@ -472,10 +472,13 @@ Renukanandan Tumu, Lars Lindemann†, Truong Nghiem, Rahul Mangharam, (2023)
 189. [Derandomized novelty detection with FDR control via conformal e-values](https://arxiv.org/pdf/2302.07294v1.pdf) by Meshi Bashari, Amir Epstein, Yaniv Romano, and Matteo Sesia (2023)
 190. [Sensititivty analysis of individual treatment effects: A robust conformal inference approach](https://www.pnas.org/doi/epdf/10.1073/pnas.2214889120) [Code](https://github.com/ying531/cfsensitivity_paper) by Ying Jin, Zhimei Ren and Emmanual Candes (2023) 
 191. [Improving Adaptive Conformal Prediction Using Self-Supervised Learning](https://arxiv.org/abs/2302.12238) by Nabeel Seedat, Alan Jeffares, Fergus Imrie and Mihaela van der Schaar (Cambridge, 2023)
-192. [Learning by Transduction - of the of earliest conformal prediction papers](https://dl.acm.org/doi/10.5555/2074094.2074112#sec-comments) by Alex Gammerman, Vladimir Vovk and Vladimir Vapnik (Royal Holloway, University of London, 1998) 🔥🔥🔥🔥🔥
+192. [Learning by Transduction - of the of earliest conformal prediction papers] (https://dl.acm.org/doi/10.5555/2074094.2074112#sec-comments) by Alex Gammerman, Vladimir Vovk and Vladimir Vapnik (Royal Holloway, University of London, 1998) 🔥🔥🔥🔥🔥
 193. [Hedging Predictions in Machine Learning](https://arxiv.org/pdf/cs/0611011.pdf) by 
 Alexander Gammerman and Vladimir Vovk (2008) 🔥🔥🔥🔥🔥
 194. [Predicting Aromatic Amine Mutagenicity with Confidence: A Case Study Using Conformal Prediction](https://www.mdpi.com/2218-273X/8/3/85) by Ulf Norinder, Glenn Myatt and Ernst Ahlberg
+195.  [Improved Online Conformal Prediction via Strongly Adaptive Online Learning](https://arxiv.org/abs/2302.07869) by Aadyot Bhatnagar, Huan Wang, Caiming Xiong, Yu Bai (2023) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+196. [Fortuna: A Library for Uncertainty Quantification in Deep Learning](https://arxiv.org/abs/2302.04019) by Gianluca Detommaso, Alberto Gasparin, Michele Donini, Matthias Seeger, Andrew Gordon Wilson, Cedric Archambeau (2023)
+197. [Conformal inference is (almost) free for neural networks trained with early stopping](https://arxiv.org/abs/2301.11556) by Ziyi Liang, Yanfei Zhou, Matteo Sesia (2023)
 
 ## Papers_Time_Series
 
