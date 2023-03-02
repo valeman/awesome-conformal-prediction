@@ -270,6 +270,7 @@ Jelle Van Miltenburg (KTH ROYAL INSTITUTE OF TECHNOLOGY, 2018)
 66. [Conformal prediction under feedback covariate shift for biomolecular design](https://www.youtube.com/watch?v=AOyDjBSQjhk) by Clara Wong-Fannjiang (Berkeley, 2022)
 67. [Conformal prediction in 2022](https://slideslive.com/38996063/conformal-prediction-in-2022?ref=speaker-43789) invited talk by Emmanuel Candes at NeurIPS2022 🔥🔥🔥🔥🔥
 68. [Broadening the Scope of Conformal Inference](https://slideslive.com/38988210/broadening-the-scope-of-conformal-inference?ref=search-presentations-Conformal+prediction) by Michael I. Jordan (University of Berkeley, 2022) 🔥🔥🔥🔥🔥
+69. [Paper Reading Group - Fortuna, a Library for Uncertainty Quantification](https://www.youtube.com/watch?app=desktop&v=S_QgP3jBCqw)
 
 ## Papers
 
