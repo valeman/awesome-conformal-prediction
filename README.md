@@ -138,7 +138,8 @@ In 2021-2022 conformal prediction research experienced exponential growth in aca
 2. [Conformal Prediction for Reliable Machine Learning](https://www.elsevier.com/books/conformal-prediction-for-reliable-machine-learning/balasubramanian/978-0-12-398537-8) by Vineeth Balasubramanian, Shen-Shyang Ho, Vladimir Vovk (2014) 🔥🔥🔥🔥🔥
 3. [Conformal predictive distributions with kernels](https://link.springer.com/chapter/10.1007/978-3-319-99492-5_4) by Vladimir Vovk, Ilia Nouretdinov, Valery Manokhin, Alex Gammerman (Chapter in 'Braverman Readings in Machine Learning. Key Ideas from Inception to Current State', Springer, 2018). 🔥🔥🔥🔥🔥
 4. [Confidence, Likelihood, Probability](https://www.cambridge.org/core/books/confidence-likelihood-probability/143A34F11FB3D6F611F78E27C6D2CA5A) by Tore Schweder and Nils Lid Hjort (University of Oslo, 2016). Not directly about Conformal Prediction but a great book about modern frequentist methods. 🔥🔥🔥🔥🔥
-5. [Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html#toc) by Kevin Murphy (2022) has a chapter on conformal prediction. 🔥🔥🔥🔥🔥
+5. [Introduction To Conformal Prediction With Python](https://christophmolnar.com/books/conformal-prediction/) by Christoph Molnar (2023). 🔥🔥🔥🔥🔥
+6. [Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html#toc) by Kevin Murphy (2022) has a chapter on conformal prediction. 🔥🔥🔥🔥🔥
 
 ## Theses
 1.  [Machine Learning for Probabilistic Prediction](https://www.researchgate.net/publication/361515440_Machine_Learning_for_Probabilistic_Prediction_PhD_thesis_VALERY_MANOKHIN), PhD Thesis, Valery Manokhin (Royal Holloway, UK, 2022)
@@ -194,7 +195,7 @@ Jelle Van Miltenburg (KTH ROYAL INSTITUTE OF TECHNOLOGY, 2018)
 22. [Prediction intervals for any machine learning model - How to construct prediction intervals with the Jackknife+ using the MAPIE package](https://www.valencekjell.com/posts/2022-09-14-prediction-intervals/) by Kjell Jorner (ETH, 2022)
 
 ## Courses
-1. [Course on Conformal Prediction](https://mindfulmodeler.substack.com/p/e-mail-course-on-conformal-prediction) - 5 week course starts soon! 🔥🔥🔥🔥🔥
+1. [Course on Conformal Prediction](https://mindfulmodeler.substack.com/p/e-mail-course-on-conformal-prediction) by Christoph Molnar (2022) 🔥🔥🔥🔥🔥
 2. [Uncertain: Modern topics in uncertainty estimation](https://uncertaintyclass.com) [YouTube](https://www.youtube.com/watch?app=desktop&v=M3tkM4dcIPA) [Course notes](https://www.cis.upenn.edu/~aaroth/uncertainty-notes.pdf) by Aaron Roth (University of Pennsylvania, 2022)
 3. [Topics in Modern Statistical Learning](https://github.com/dobriban/Topics-In-Modern-Statistical-Learning) by Edgar Dobriban (Wharton Business School, University of Pennsylvania, 2022)
 4. [Theory of Statistics](https://candes.su.domains/teaching/stats300c/) Stanford Statistics course by Prof Emmanuel Candes (2022)
