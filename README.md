@@ -666,8 +666,9 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 29. [NeuralProphet](https://github.com/ourownstory/neural_prophet/blob/main/tutorials/feature-use/uncertainty_conformal_prediction.ipynb) (2022) 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 30. [River](https://github.com/online-ml/river/blob/0506ad73e45403638f13d66c6b2d71920d307461/river/conf/jackknife.py#L9) 2022
 31. [TorchUQ](https://github.com/TorchUQ/torchuq/blob/5335c5948385c7b9bde4baefc9399d79a7cb07ef/docs/tutorials/1_c_1_conformal/1_c_1_conformal.rst#L17) (2022)
-32. [AWS Fortuna](https://aws-fortuna.readthedocs.io/en/latest/) [Paper](https://arxiv.org/pdf/2302.04019.pdf) by Amazon, (2022) 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
-33. [Nixtla mlforecast](https://nixtla.github.io/mlforecast/docs/prediction_intervals.html#references) 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+32. [AWS Fortuna](https://aws-fortuna.readthedocs.io/en/latest/) [Paper](https://arxiv.org/pdf/2302.04019.pdf) by Amazon, (2022) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+33. [Nixtla mlforecast](https://nixtla.github.io/mlforecast/docs/prediction_intervals.html#references) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+34. [https://github.com/mikekeith52/scalecast](https://github.com/mikekeith52/scalecast) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 
 ## R
 1. [Conformal Inference R Project](https://github.com/ryantibs/conformal) maintained by Ryan Tibshirani (2016) 🔥🔥🔥🔥🔥
