@@ -485,6 +485,8 @@ Alexander Gammerman and Vladimir Vovk (2008) 🔥🔥🔥🔥🔥
 197. [Conformal inference is (almost) free for neural networks trained with early stopping](https://arxiv.org/abs/2301.11556) by Ziyi Liang, Yanfei Zhou, Matteo Sesia (2023)
 198. [ntervening With Confidence: Conformal Prescriptive Monitoring of Business Processes](https://arxiv.org/pdf/2212.03710.pdf) by Mahmoud Shoush and Marlon Dumas (University of Tartu,2022) 
 199. [Machine-Learning Applications of Algorithmic Randomness](https://eprints.soton.ac.uk/258960/1/Random_ICML99.pdf) by Vladimir Vovk, Alex Gammerman and Craig Saunders (1999) 🔥🔥🔥🔥🔥
+200. [On the universal distribution of the coverage in split conformal prediction](https://arxiv.org/abs/2303.02770) by Paulo C. Marques F. (2023)
+201. [Lightweight, Uncertainty-Aware Conformalized Visual Odometry](https://arxiv.org/pdf/2303.02207.pdf) by Alex C. Stutts, Danilo Erricolo, Theja Tulabandhula, and Amit Ranjan Trivedi (University of Illinois Chicago, 2023)
 
 ## Papers_Time_Series
 
