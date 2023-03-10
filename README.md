@@ -432,7 +432,7 @@ Niccolo` Ajroldia, Jacopo Diquigiovannib, Matteo Fontanac, Simone Vantinia (2022
 Dengdeng Yu, Wulong Liu, Linglong Kong, Bei Jiang (University of Alberta, Noah Arc Huawei, 2022)
 148. [Test-time recalibration of conformal predictors under distribution shift based on unlabeled examples](https://arxiv.org/pdf/2210.04166.pdf) by Fatih Furkan Yilmaz, and Reinhard Heckel (Rice University / University of Munuch, 2022)
 149. [Extending Conformal Prediction to Hidden Markov Models with Exact Validity via de Finetti's Theorem for Markov Chains](https://arxiv.org/abs/2210.02271) by Buddhika Nettasinghe, Samrat Chatterjee, Ramakrishna Tipireddy, Mahantesh Halappanavar (2022)
-150. [Predictive inference with feature conformal prediction](https://openreview.net/pdf?id=0uRm1YmFTu) (2022) 🔥🔥🔥🔥🔥
+150. [Predictive inference with feature conformal prediction](https://arxiv.org/pdf/2210.00173.pdf) (2022) 🔥🔥🔥🔥🔥
 151. [Constructing Prediction Intervals with Neural Networks: An Empirical Evaluation of Bootstrapping and Conformal Inference Methods](https://arxiv.org/pdf/2210.05354.pdf) by Alex Contarino, Christine Schubert Kabban, Chancellor Johnstone and Fairul Mohd-Zaid (2022)
 152. [Spatio-Temporal Wildfire Prediction using Multi-Modal Data](https://arxiv.org/pdf/2207.13250.pdf) by Chen Xu1, Yao Xie,
 Daniel A. Zuniga Vazquez, Rui Yao, and Feng Qiu (2022)
@@ -487,6 +487,7 @@ Alexander Gammerman and Vladimir Vovk (2008) 🔥🔥🔥🔥🔥
 199. [Machine-Learning Applications of Algorithmic Randomness](https://eprints.soton.ac.uk/258960/1/Random_ICML99.pdf) by Vladimir Vovk, Alex Gammerman and Craig Saunders (1999) 🔥🔥🔥🔥🔥
 200. [On the universal distribution of the coverage in split conformal prediction](https://arxiv.org/abs/2303.02770) by Paulo C. Marques F. (2023)
 201. [Lightweight, Uncertainty-Aware Conformalized Visual Odometry](https://arxiv.org/pdf/2303.02207.pdf) by Alex C. Stutts, Danilo Erricolo, Theja Tulabandhula, and Amit Ranjan Trivedi (University of Illinois Chicago, 2023)
+202. [Group conditional validity via multi-group learning](https://arxiv.org/abs/2303.03995v1) by Samuel Deng, Navid Ardeshir, Daniel Hsu (2023)
 
 ## Papers_Time_Series
 
