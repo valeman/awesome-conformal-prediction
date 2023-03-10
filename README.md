@@ -487,8 +487,7 @@ Alexander Gammerman and Vladimir Vovk (2008) 🔥🔥🔥🔥🔥
 199. [Machine-Learning Applications of Algorithmic Randomness](https://eprints.soton.ac.uk/258960/1/Random_ICML99.pdf) by Vladimir Vovk, Alex Gammerman and Craig Saunders (1999) 🔥🔥🔥🔥🔥
 200. [On the universal distribution of the coverage in split conformal prediction](https://arxiv.org/abs/2303.02770) by Paulo C. Marques F. (2023)
 201. [Lightweight, Uncertainty-Aware Conformalized Visual Odometry](https://arxiv.org/pdf/2303.02207.pdf) by Alex C. Stutts, Danilo Erricolo, Theja Tulabandhula, and Amit Ranjan Trivedi (University of Illinois Chicago, 2023)
-202. [Group conditional validity via multi-group learning](https://arxiv.org/abs/2303.03995v1) by Samuel Deng, Navid Ardeshir, Daniel Hsu (2023)
-201. [Group conditional validity via multi-group learning](https://arxiv.org/pdf/2303.03995v1.pdf) by Samuel Deng, Navid Ardeshir, and Daniel Hsu (Columbia University, 2023)
+202. [Group conditional validity via multi-group learning](https://arxiv.org/abs/2303.03995v1) by Samuel Deng, Navid Ardeshir, Daniel Hsu (Columbia University, 2023)
 
 ## Papers_Time_Series
 
