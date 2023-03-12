@@ -596,6 +596,7 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 27. [Putting clear bounds on uncertainty](https://news.mit.edu/2023/putting-clear-bounds-uncertainty-0123) (MIT, 2023)
 28. [Conformal prediction theory explained](https://medium.com/low-code-for-advanced-data-science/conformal-prediction-theory-explained-14a35226df80) by Artem Ryasik (2023)
 29. [Easy Distribution-Free Conformal Intervals for Time Series](https://towardsdatascience.com/easy-distribution-free-conformal-intervals-for-time-series-665137e4d907) by Michael Keith (2023)
+30. [Another (Conformal) Way to Predict Probability Distributions](https://towardsdatascience.com/another-conformal-way-to-predict-probability-distributions-fcc63e78680d) by Harrison Hoffman (2023) 🔥🔥🔥🔥🔥
 
 ## Kaggle
 1. [Kaggle Notebook showcasing Conformal Predictive Distributions on Playground Series Season 3, Episode 1 (California Housing data) competition](https://www.kaggle.com/code/predaddict/conformal-predictive-distributions-pss3-e1) by Valeriy Manokhin (2022)
