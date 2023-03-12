@@ -164,7 +164,8 @@ In 2021-2022 conformal prediction research experienced exponential growth in aca
 21. [Conformal survival predictions at a user-controlled time point](https://kth.diva-portal.org/smash/get/diva2:1231989/FULLTEXT01.pdf) by 
 Jelle Van Miltenburg (KTH ROYAL INSTITUTE OF TECHNOLOGY, 2018)
 22. [Reliable Machine Learning with ConformalPrediction: A Review with Contributions](https://www.researchgate.net/publication/366205428_Reliable_Machine_Learning_with_Conformal_Prediction_A_Review_with_Contributions) by Martim Sousa (2022)
-
+23. [Nonconformity Measures and Ensemble Strategies - An Analysis of Conformal Predictor Efficiency and Validity](http://su.diva-portal.org/smash/get/diva2:1547120/FULLTEXT01.pdf), PhD thesis by Henrik Linusson (Stockholm University, 2021)
+  
 
 ## Tutorials
 
