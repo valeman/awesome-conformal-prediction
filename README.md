@@ -165,6 +165,7 @@ In 2021-2022 conformal prediction research experienced exponential growth in aca
 Jelle Van Miltenburg (KTH ROYAL INSTITUTE OF TECHNOLOGY, 2018)
 22. [Reliable Machine Learning with ConformalPrediction: A Review with Contributions](https://www.researchgate.net/publication/366205428_Reliable_Machine_Learning_with_Conformal_Prediction_A_Review_with_Contributions) by Martim Sousa (2022)
 23. [Nonconformity Measures and Ensemble Strategies - An Analysis of Conformal Predictor Efficiency and Validity](http://su.diva-portal.org/smash/get/diva2:1547120/FULLTEXT01.pdf), PhD thesis by Henrik Linusson (Stockholm University, 2021)
+24. [Determine and explain confidence in predicting violations on inland ships in the Netherlands](https://repository.tudelft.nl/islandora/object/uuid:e0a9bb58-98ab-4c00-96ae-8701046a8012) by Bakker, Paul (TU Delft, 2020)
   
 
 ## Tutorials
