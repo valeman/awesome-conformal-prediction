@@ -492,6 +492,9 @@ Alexander Gammerman and Vladimir Vovk (2008) 🔥🔥🔥🔥🔥
 201. [Lightweight, Uncertainty-Aware Conformalized Visual Odometry](https://arxiv.org/pdf/2303.02207.pdf) by Alex C. Stutts, Danilo Erricolo, Theja Tulabandhula, and Amit Ranjan Trivedi (University of Illinois Chicago, 2023)
 202. [Group conditional validity via multi-group learning](https://arxiv.org/abs/2303.03995v1) by Samuel Deng, Navid Ardeshir, Daniel Hsu (Columbia University, 2023)
 203. [Improving Uncertainty Quantification of Deep Classifiers via Neighborhood Conformal Prediction: Novel Algorithm and Theoretical Analysis](https://arxiv.org/pdf/2303.10694.pdf) by Subhankar Ghosh, Taha Belkhouj,  Yan Yan, Janardhan Rao Doppa (Washington State University, 2023)
+204. [Mondrian conformal regressors](https://proceedings.mlr.press/v128/bostrom20a.html) by Henrik Boström, Ulf Johansson (2020)
+205. [Mondrian Conformal Predictive Distributions](https://proceedings.mlr.press/v152/bostrom21a/bostrom21a.pdf) by Henrik Boström, Ulf Johansson, 
+Tuwe Löfström (2021) 🔥🔥🔥🔥🔥
 
 ## Papers_Time_Series
 
