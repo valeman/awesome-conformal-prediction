@@ -276,6 +276,7 @@ Jelle Van Miltenburg (KTH ROYAL INSTITUTE OF TECHNOLOGY, 2018)
 69. [Paper Reading Group - Fortuna, a Library for Uncertainty Quantification](https://www.youtube.com/watch?app=desktop&v=S_QgP3jBCqw)
 70. [CLIMB Evergreen talk with Emmanuel Candès: Conformal Inference when Data is not Exchangeable](https://www.youtube.com/watch?v=D60vtpnkhTU) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 71. [Algo Hour – Conformal Inference of Counterfactuals and Individual Treatment Effects | Lihua Lei](https://www.youtube.com/watch?v=COW2QNBmEMw&t=2s)
+72. ['MoroccoAI webinar - Dr. Soundouss Messoudi - 'Confidence learning using conformal prediction'](https://www.youtube.com/watch?v=SypbjiBrt3Q)
 
 ## Papers
 
