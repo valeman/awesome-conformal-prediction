@@ -496,6 +496,7 @@ Alexander Gammerman and Vladimir Vovk (2008) 🔥🔥🔥🔥🔥
 205. [Mondrian Conformal Predictive Distributions](https://proceedings.mlr.press/v152/bostrom21a/bostrom21a.pdf) by Henrik Boström, Ulf Johansson, 
 Tuwe Löfström (2021) 🔥🔥🔥🔥🔥
 206. [Adaptive Conformal Prediction by Reweighting Nonconformity Score](https://arxiv.org/pdf/2303.12695.pdf) by Salim I. Amoukou, Nicolas J.B Brunel (2023) [Code](https://github.com/salimamoukou/ACPI)
+207. [Object Pose Estimation with Statistical Guarantees: Conformal Keypoint Detection and Geometric Uncertainty Propagation](https://arxiv.org/pdf/2303.12246.pdf) by Heng Yang and Marco Pavone (NVIDIA, 2023)
 
 ## Papers_Time_Series
 
