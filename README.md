@@ -495,6 +495,7 @@ Alexander Gammerman and Vladimir Vovk (2008) 🔥🔥🔥🔥🔥
 204. [Mondrian conformal regressors](https://proceedings.mlr.press/v128/bostrom20a.html) by Henrik Boström, Ulf Johansson (2020)
 205. [Mondrian Conformal Predictive Distributions](https://proceedings.mlr.press/v152/bostrom21a/bostrom21a.pdf) by Henrik Boström, Ulf Johansson, 
 Tuwe Löfström (2021) 🔥🔥🔥🔥🔥
+206. [Adaptive Conformal Prediction by Reweighting Nonconformity Score](https://arxiv.org/pdf/2303.12695.pdf) by Salim I. Amoukou, Nicolas J.B Brunel (2023) [Code](https://github.com/salimamoukou/ACPI)
 
 ## Papers_Time_Series
 
