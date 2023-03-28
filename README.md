@@ -498,6 +498,8 @@ Alexander Gammerman and Vladimir Vovk (2008) 🔥🔥🔥🔥🔥
 Tuwe Löfström (2021) 🔥🔥🔥🔥🔥
 206. [Adaptive Conformal Prediction by Reweighting Nonconformity Score](https://arxiv.org/pdf/2303.12695.pdf) by Salim I. Amoukou, Nicolas J.B Brunel (2023) [Code](https://github.com/salimamoukou/ACPI)
 207. [Object Pose Estimation with Statistical Guarantees: Conformal Keypoint Detection and Geometric Uncertainty Propagation](https://arxiv.org/pdf/2303.12246.pdf) by Heng Yang and Marco Pavone (NVIDIA, 2023)
+208. [A Two-Sample Conditional Distribution Test Using Conformal
+Prediction and Weighted Rank Sum](https://arxiv.org/pdf/2010.07147.pdf) by Xiaoyu Hu and Jing Lei (Peking University and Carnegie Mellon University, 2023)
 
 ## Papers_Time_Series
 
