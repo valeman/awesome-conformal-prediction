@@ -500,6 +500,8 @@ Tuwe Löfström (2021) 🔥🔥🔥🔥🔥
 207. [Object Pose Estimation with Statistical Guarantees: Conformal Keypoint Detection and Geometric Uncertainty Propagation](https://arxiv.org/pdf/2303.12246.pdf) by Heng Yang and Marco Pavone (NVIDIA, 2023)
 208. [A Two-Sample Conditional Distribution Test Using Conformal
 Prediction and Weighted Rank Sum](https://arxiv.org/pdf/2010.07147.pdf) by Xiaoyu Hu and Jing Lei (Peking University and Carnegie Mellon University, 2023)
+209. [Conformalized Semi-Supervised Random Forest For Classification and Abnormality Detection](https://arxiv.org/abs/2302.02237) (2023)
+210. [How to Trust Your Diffusion Model: A Convex Optimization Approach to Conformal Risk Control](https://arxiv.org/abs/2302.03791) Jacopo Teneggi, Matt Tivnan, J Webster Stayman, Jeremias Sulam (John Hopkins University, 2023)
 
 ## Papers_Time_Series
 
