@@ -502,6 +502,10 @@ Tuwe Löfström (2021) 🔥🔥🔥🔥🔥
 Prediction and Weighted Rank Sum](https://arxiv.org/pdf/2010.07147.pdf) by Xiaoyu Hu and Jing Lei (Peking University and Carnegie Mellon University, 2023)
 209. [Conformalized Semi-Supervised Random Forest For Classification and Abnormality Detection](https://arxiv.org/abs/2302.02237) (2023)
 210. [How to Trust Your Diffusion Model: A Convex Optimization Approach to Conformal Risk Control](https://arxiv.org/abs/2302.03791) Jacopo Teneggi, Matt Tivnan, J Webster Stayman, Jeremias Sulam (John Hopkins University, 2023)
+211. [Safe Perception-Based Control under Stochastic Sensor
+Uncertainty using Conformal Prediction](https://arxiv.org/pdf/2304.00194.pdf) by Shuo Yang, George J. Pappas, Rahul Mangharam, and Lars Lindemann (University of Pennsylvania, 2023)
+212. [Conformal Prediction Regions for Time Series using Linear Complementarity Programming](https://arxiv.org/pdf/2304.01075.pdf) by Matthew Cleaveland, Insup Lee, George J. Pappas†, and Lars Lindemann (University of Pennsylvania, 2023)
+213. [Development and Evaluation of Conformal Prediction Methods for QSAR](https://arxiv.org/pdf/2304.00970.pdf) by Yuting Xua, Andy Liawa, Robert P. Sheridan (Merck, 2023)
 
 ## Papers_Time_Series
 
