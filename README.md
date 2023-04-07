@@ -508,6 +508,8 @@ Uncertainty using Conformal Prediction](https://arxiv.org/pdf/2304.00194.pdf) by
 213. [Development and Evaluation of Conformal Prediction Methods for QSAR](https://arxiv.org/pdf/2304.00970.pdf) by Yuting Xua, Andy Liawa, Robert P. Sheridan (Merck, 2023)
 214. [Multi-Agent Reachability Calibration with Conformal Prediction](https://arxiv.org/pdf/2304.00432v1.pdf) by Anish Muthali1, Haotian Shen, Sampada Deglurkar, Michael H. Lim, Rebecca Roelofs, Aleksandra Faust, Claire Tomlin (University of Berkeley, 2023)
 215. [Conformalized Unconditional Quantile Regression](https://arxiv.org/pdf/2304.01426.pdf) by Ahmed M. Alaa, Zeshan Hussain, David Sontag (Berkeley/MIT, 2023).
+216. [Conformal Off-Policy Evaluation in Markov Decision Processes](https://arxiv.org/pdf/2304.02574v1.pdf) by 
+Daniele Foffano, Alessio Russo and Alexandre Proutiere (KTH, 2023)  🔥🔥🔥🔥🔥
 
 ## Papers_Time_Series
 
