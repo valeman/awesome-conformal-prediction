@@ -510,6 +510,7 @@ Uncertainty using Conformal Prediction](https://arxiv.org/pdf/2304.00194.pdf) by
 215. [Conformalized Unconditional Quantile Regression](https://arxiv.org/pdf/2304.01426.pdf) by Ahmed M. Alaa, Zeshan Hussain, David Sontag (Berkeley/MIT, 2023).
 216. [Conformal Off-Policy Evaluation in Markov Decision Processes](https://arxiv.org/pdf/2304.02574v1.pdf) by 
 Daniele Foffano, Alessio Russo and Alexandre Proutiere (KTH, 2023)  🔥🔥🔥🔥🔥
+217. [Quantum Conformal Prediction for Reliable Uncertainty Quantification in Quantum Machine Learning](https://arxiv.org/pdf/2304.03398.pdf) by Sangwoo Park and Osvaldo Simeone (2023) [Code](https://github.com/kclip/quantum-CP) QuantumML 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 
 ## Papers_Time_Series
 
