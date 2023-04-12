@@ -511,6 +511,7 @@ Uncertainty using Conformal Prediction](https://arxiv.org/pdf/2304.00194.pdf) by
 216. [Conformal Off-Policy Evaluation in Markov Decision Processes](https://arxiv.org/pdf/2304.02574v1.pdf) by 
 Daniele Foffano, Alessio Russo and Alexandre Proutiere (KTH, 2023)  🔥🔥🔥🔥🔥
 217. [Quantum Conformal Prediction for Reliable Uncertainty Quantification in Quantum Machine Learning](https://arxiv.org/pdf/2304.03398.pdf) by Sangwoo Park and Osvaldo Simeone (2023) [Code](https://github.com/kclip/quantum-CP) QuantumML 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+218. [Probabilistic prediction with locally weighted jackknife predictive system](https://link.springer.com/content/pdf/10.1007/s40747-023-01044-0.pdf#page18) by Di Wang, Ping Wang, Pingping Wang, Cong Wang, Zhen He, Wei Zhang 🔥🔥🔥🔥🔥
 
 ## Papers_Time_Series
 
