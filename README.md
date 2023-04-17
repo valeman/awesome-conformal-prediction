@@ -628,6 +628,7 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 30. [Another (Conformal) Way to Predict Probability Distributions](https://towardsdatascience.com/another-conformal-way-to-predict-probability-distributions-fcc63e78680d) by Harrison Hoffman (2023) 🔥🔥🔥🔥🔥
 31. [How to use full (transductive) Conformal Prediction])(https://valeman.medium.com/how-to-use-full-transductive-conformal-prediction-7ed54dc6b72b) by Valery Manokhin (2023) 🔥🔥🔥🔥🔥
 32. [Conformal Prediction for Regression](https://medium.com/@artem_ryasik/conformal-prediction-for-regression-1ba24f1442df) (using KNIME) by Artem Ryasik (2023)
+33. [Dynamic Conformal Intervals for any Time Series Model](https://towardsdatascience.com/dynamic-conformal-intervals-for-any-time-series-model-d1638aa48527) by Michael Keith (2023) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 
 ## Kaggle
 1. [Kaggle Notebook showcasing Conformal Predictive Distributions on Playground Series Season 3, Episode 1 (California Housing data) competition](https://www.kaggle.com/code/predaddict/conformal-predictive-distributions-pss3-e1) by Valeriy Manokhin (2022)
@@ -660,7 +661,7 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 
 
 ## Conferences & Workshops
-1. [11th Symposium on Conformal and Probabilistic Prediction with Applications](http://copa-conference.com) 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥 
+1. [11th Symposium on Conformal and Probabilistic Prediction with Applications](http://copa-conference.com) 
 2. [IFDS Workshop on Conformal Prediction](https://ifds.info/ifds-madlab-workshop) 🔥🔥🔥🔥🔥 
 2. [Workshop on Distribution-Free Uncertainty Quantification at ICML 2022](https://sites.google.com/berkeley.edu/dfuq-22/home) 🔥🔥🔥🔥🔥 
 3. [Workshop on Distribution-Free Uncertainty Quantification at ICML 2021](https://icml.cc/Conferences/2021/ScheduleMultitrack?event=8373)🔥🔥🔥🔥🔥 
