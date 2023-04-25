@@ -134,12 +134,13 @@ In 2021-2022 conformal prediction research experienced exponential growth in aca
 
 ## Books
 
-1. [Algorithmic Learning in a Random World](https://link.springer.com/book/10.1007/b106715) by Vladimir Vovk and Alex Gammerman, also Glenn Shafer (2005). Second edition in progress. 🔥🔥🔥🔥🔥
-2. [Conformal Prediction for Reliable Machine Learning](https://www.elsevier.com/books/conformal-prediction-for-reliable-machine-learning/balasubramanian/978-0-12-398537-8) by Vineeth Balasubramanian, Shen-Shyang Ho, Vladimir Vovk (2014) 🔥🔥🔥🔥🔥
-3. [Conformal predictive distributions with kernels](https://link.springer.com/chapter/10.1007/978-3-319-99492-5_4) by Vladimir Vovk, Ilia Nouretdinov, Valery Manokhin, Alex Gammerman (Chapter in 'Braverman Readings in Machine Learning. Key Ideas from Inception to Current State', Springer, 2018). 🔥🔥🔥🔥🔥
-4. [Confidence, Likelihood, Probability](https://www.cambridge.org/core/books/confidence-likelihood-probability/143A34F11FB3D6F611F78E27C6D2CA5A) by Tore Schweder and Nils Lid Hjort (University of Oslo, 2016). Not directly about Conformal Prediction but a great book about modern frequentist methods. 🔥🔥🔥🔥🔥
-5. [Introduction To Conformal Prediction With Python](https://christophmolnar.com/books/conformal-prediction/) by Christoph Molnar (2023). 🔥🔥🔥🔥🔥
-6. [Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html#toc) by Kevin Murphy (2022) has a chapter on conformal prediction. 🔥🔥🔥🔥🔥
+1. [Practical Guide to Applied Conformal Prediction: Learn and apply the best uncertainty frameworks to your industry applications](https://a.co/d/9guwCTm) by Valeriy Manokhin (2024) 🔥🔥🔥🔥🔥
+2. [Algorithmic Learning in a Random World](https://link.springer.com/book/10.1007/b106715) by Vladimir Vovk and Alex Gammerman, also Glenn Shafer (2005). Second edition in progress. 🔥🔥🔥🔥🔥
+3. [Conformal Prediction for Reliable Machine Learning](https://www.elsevier.com/books/conformal-prediction-for-reliable-machine-learning/balasubramanian/978-0-12-398537-8) by Vineeth Balasubramanian, Shen-Shyang Ho, Vladimir Vovk (2014) 🔥🔥🔥🔥🔥
+4. [Conformal predictive distributions with kernels](https://link.springer.com/chapter/10.1007/978-3-319-99492-5_4) by Vladimir Vovk, Ilia Nouretdinov, Valery Manokhin, Alex Gammerman (Chapter in 'Braverman Readings in Machine Learning. Key Ideas from Inception to Current State', Springer, 2018). 🔥🔥🔥🔥🔥
+5. [Confidence, Likelihood, Probability](https://www.cambridge.org/core/books/confidence-likelihood-probability/143A34F11FB3D6F611F78E27C6D2CA5A) by Tore Schweder and Nils Lid Hjort (University of Oslo, 2016). Not directly about Conformal Prediction but a great book about modern frequentist methods. 🔥🔥🔥🔥🔥
+6. [Introduction To Conformal Prediction With Python](https://christophmolnar.com/books/conformal-prediction/) by Christoph Molnar (2023). 🔥🔥🔥🔥🔥
+7. [Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html#toc) by Kevin Murphy (2022) has a chapter on conformal prediction. 🔥🔥🔥🔥🔥
 
 ## Theses
 1.  [Machine Learning for Probabilistic Prediction](https://www.researchgate.net/publication/361515440_Machine_Learning_for_Probabilistic_Prediction_PhD_thesis_VALERY_MANOKHIN), PhD Thesis, Valery Manokhin (Royal Holloway, UK, 2022)
