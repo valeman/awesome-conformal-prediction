@@ -518,7 +518,7 @@ Daniele Foffano, Alessio Russo and Alexandre Proutiere (KTH, 2023)  🔥🔥🔥
 220. [Conformal Regression in Calorie Prediction for Team Jumbo-Visma](https://arxiv.org/abs/2304.03778) by Kristian van Kuijk, Mark Dirksen, Christof Seiler (2023) 🔥🔥🔥🔥🔥
 221. [Design-based conformal prediction](https://arxiv.org/pdf/2303.01422.pdf) by Jerzy Wieczorek (2023) 🌟🌟🌟🌟🌟
 222. [Inductive Confidence Machines for Regression](https://link.springer.com/content/pdf/10.1007/3-540-36755-1_29.pdf) by 
-Harris Papadopoulos, Kostas Proedrou, Volodya Vovk, and Alex Gammerman (2002) 🔥🔥🔥🔥🔥
+Harris Papadopoulos, Kostas Proedrou, Volodya Vovk, and Alex Gammerman (2002) 🔥🔥🔥🔥🔥📖📖📖📖📖
 
 ## Papers_Time_Series
 
