@@ -472,7 +472,7 @@ Lars Lindemann, Matthew Cleaveland∗, Gihyun Shim, and George J. Pappas (Univer
 Renukanandan Tumu, Lars Lindemann†, Truong Nghiem, Rahul Mangharam, (2023)
 179. [Accelerating difficulty estimation for conformal regression forests](https://link.springer.com/content/pdf/10.1007/s10472-017-9539-9.pdf) by Henrik Bostroem, Henrik Linusson, Tuve Loefstroem, Ulf Johansson (2017)
 180. [Conformal prediction for exponential families and generalized linear models](https://arxiv.org/pdf/1905.03657v1.pdf)
-181. [How to Trust Your Diffusion Model: A Convex Optimization Approach to Conformal Risk Control](https://arxiv.org/abs/2302.03791) by Jacopo Teneggi, Matt Tivnan, J Webster Stayman, Jeremias Sulam (John Hopkins University, 2023)
+181. [How to Trust Your Diffusion Model: A Convex Optimization Approach to Conformal Risk Control](https://arxiv.org/abs/2302.03791) by Jacopo Teneggi, Matt Tivnan, J Webster Stayman, Jeremias Sulam (John Hopkins University, 2023) [Code](https://github.com/Sulam-Group/k-rcps)
 182. [Localized Conformal Prediction: A Generalized Inference Framework to Conformal Prediction](https://arxiv.org/pdf/2106.08460.pdf) [Code](https://github.com/LeyingGuan/LCPexperiments) [R package](https://github.com/LeyingGuan/LCP)
 183. [From Group-Differences to Single-Subject Probability: Conformal Prediction-based Uncertainty Estimation for Brain-Age Modeling](https://arxiv.org/pdf/2302.05304.pdf) by Ernsting et.al. (2023)
 184. [Conformal prediction for STL runtime verification](https://arxiv.org/pdf/2211.01539.pdf) by Lars Lindemann, Xin Qin, Jyotirmoy V. Deshmukh, George J. Pappas (University of Pennsylvania/University of Southern California, 2022)
