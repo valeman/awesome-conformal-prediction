@@ -519,6 +519,7 @@ Daniele Foffano, Alessio Russo and Alexandre Proutiere (KTH, 2023)  🔥🔥🔥
 221. [Design-based conformal prediction](https://arxiv.org/pdf/2303.01422.pdf) by Jerzy Wieczorek (2023) 🌟🌟🌟🌟🌟
 222. [Inductive Confidence Machines for Regression](https://link.springer.com/content/pdf/10.1007/3-540-36755-1_29.pdf) by 
 Harris Papadopoulos, Kostas Proedrou, Volodya Vovk, and Alex Gammerman (2002) 🔥🔥🔥🔥🔥📚📚📚📚📚
+223. [Model-Agnostic Nonconformity Functionsfor Conformal Classification](https://ieeexplore.ieee.org/document/7966105) by Ulf Johansson, Henrik Linusson, Tuve Löfström, Henrik Boström (2017) 🔥🔥🔥🔥🔥📚📚📚📚📚
 
 ## Papers_Time_Series
 
