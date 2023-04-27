@@ -520,6 +520,7 @@ Daniele Foffano, Alessio Russo and Alexandre Proutiere (KTH, 2023)  🔥🔥🔥
 222. [Inductive Confidence Machines for Regression](https://link.springer.com/content/pdf/10.1007/3-540-36755-1_29.pdf) by 
 Harris Papadopoulos, Kostas Proedrou, Volodya Vovk, and Alex Gammerman (2002) 🔥🔥🔥🔥🔥📚📚📚📚📚
 223. [Model-Agnostic Nonconformity Functionsfor Conformal Classification](https://ieeexplore.ieee.org/document/7966105) by Ulf Johansson, Henrik Linusson, Tuve Löfström, Henrik Boström (2017) 🔥🔥🔥🔥🔥📚📚📚📚📚
+224. [Impact of model-agnostic nonconformity functions on efficiency of conformal classifiers: an extensive study](https://proceedings.mlr.press/v152/aleksandrova21a.html) by Marharyta Aleksandrova, Oleg Chertov (2021) 🔥🔥🔥🔥🔥📚📚📚📚📚
 
 ## Papers_Time_Series
 
