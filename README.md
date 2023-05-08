@@ -524,6 +524,7 @@ Harris Papadopoulos, Kostas Proedrou, Volodya Vovk, and Alex Gammerman (2002) �
 224. [Impact of model-agnostic nonconformity functions on efficiency of conformal classifiers: an extensive study](https://proceedings.mlr.press/v152/aleksandrova21a.html) by Marharyta Aleksandrova, Oleg Chertov (2021) 🔥🔥🔥🔥🔥📚📚📚📚📚
 225. [Inductive Conformal Prediciton: A Straightforward Introduction with examples in Python](https://arxiv.org/pdf/2206.11810.pdf) by Martim Sousa (2022) [Code](https://github.com/Quilograma/ConformalPredictionTutorial/blob/main/Conformal%20Prediction.ipynb) 🔥🔥🔥🔥🔥📚📚📚📚📚
 226. [Closing the Loop on Runtime Monitors with Fallback-Safe MPC](https://stanfordasl.github.io/wp-content/papercite-data/pdf/Sinha.Pavone.CDC23.pdf) by Rohan Sinha, Edward Schmerling, and Marco Pavone (Standord, 2023)
+227. [Calibrated Explanations: with Uncertainty Information and Counterfactuals](https://arxiv.org/pdf/2305.02305.pdf) by Helena Löfström, Tuwe Löfström, Ulf Johansson, Cecilia S ̈onstr ̈od (2023) [Code](https://github.com/Moffran/calibrated_explanations) 🔥🔥🔥🔥🔥
 
 ## Papers_Time_Series
 
