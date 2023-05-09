@@ -525,6 +525,7 @@ Harris Papadopoulos, Kostas Proedrou, Volodya Vovk, and Alex Gammerman (2002) �
 225. [Inductive Conformal Prediciton: A Straightforward Introduction with examples in Python](https://arxiv.org/pdf/2206.11810.pdf) by Martim Sousa (2022) [Code](https://github.com/Quilograma/ConformalPredictionTutorial/blob/main/Conformal%20Prediction.ipynb) 🔥🔥🔥🔥🔥📚📚📚📚📚
 226. [Closing the Loop on Runtime Monitors with Fallback-Safe MPC](https://stanfordasl.github.io/wp-content/papercite-data/pdf/Sinha.Pavone.CDC23.pdf) by Rohan Sinha, Edward Schmerling, and Marco Pavone (Standord, 2023)
 227. [Calibrated Explanations: with Uncertainty Information and Counterfactuals](https://arxiv.org/pdf/2305.02305.pdf) by Helena Löfström, Tuwe Löfström, Ulf Johansson, Cecilia S ̈onstr ̈od (2023) [Code](https://github.com/Moffran/calibrated_explanations) 🔥🔥🔥🔥🔥
+228. [Optimizing Hyperparameters with Conformal Quantile Regression](https://arxiv.org/pdf/2305.03623.pdf) by David Salinas, Jacek Golebiowski, Aaron Klein, Matthias Seeger, Cedric Archambeau (Amazon Science, 2023) 🔥🔥🔥🔥🔥
 
 ## Papers_Time_Series
 
