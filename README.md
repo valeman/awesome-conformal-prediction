@@ -526,6 +526,7 @@ Harris Papadopoulos, Kostas Proedrou, Volodya Vovk, and Alex Gammerman (2002) �
 226. [Closing the Loop on Runtime Monitors with Fallback-Safe MPC](https://stanfordasl.github.io/wp-content/papercite-data/pdf/Sinha.Pavone.CDC23.pdf) by Rohan Sinha, Edward Schmerling, and Marco Pavone (Standord, 2023)
 227. [Calibrated Explanations: with Uncertainty Information and Counterfactuals](https://arxiv.org/pdf/2305.02305.pdf) by Helena Löfström, Tuwe Löfström, Ulf Johansson, Cecilia S ̈onstr ̈od (2023) [Code](https://github.com/Moffran/calibrated_explanations) 🔥🔥🔥🔥🔥
 228. [Optimizing Hyperparameters with Conformal Quantile Regression](https://arxiv.org/pdf/2305.03623.pdf) by David Salinas, Jacek Golebiowski, Aaron Klein, Matthias Seeger, Cedric Archambeau (Amazon Science, 2023) 🔥🔥🔥🔥🔥
+229. [Rapid Traversal of Ultralarge Chemical Space using Machine Learning Guided Docking Screens](https://chemrxiv.org/engage/chemrxiv/article-details/6456778807c3f02937503688) by Andreas Luttens, Israel Cabeza de Vaca, Leonard Sparring, Ulf Norinder, Jens Carlsson (2023) [Code](https://github.com/carlssonlab/conformalpredictor) [Datasets](https://zenodo.org/record/7903161) 🔥🔥🔥🔥🔥
 
 ## Papers_Time_Series
 
