@@ -71,16 +71,14 @@ Prof. Emmanual Candes (Stanford) - Neurips 2022 key talk.
 
 https://slideslive.com/icml-2021/workshop-on-distributionfree-uncertainty-quantification
 
+**An Impressive Endorsement: Conformal Prediction's Growing Appeal in Academia and Industry**
 
-When prominent professors from the best research labs in the world say this about conformal prediction it is quite an endorsement.
-----------------------------------------------------------------------------------------------------------------------------------------------------------
+When highly respected professors from top research labs worldwide express their support for conformal prediction, it speaks volumes about its credibility and potential.
+
+As for its industry applications, Conformal Prediction has already been powering Microsoft Azure's primary anomaly detection offering for several years. With exponential growth in academia during 2021-2022 and the increasing availability of open-source libraries, it's clear that the industry is poised for a similar surge in adoption.
+
+📢📢 Attention, industry professionals: The revolution in Uncertainty Quantification, Probabilistic Prediction, and Forecasting is here, and it's making waves! 🔥🔥🔥🔥🔥 Embrace the future of machine learning with Conformal Prediction.
 What about the industry one might ask - Conformal Prediction already for several years powers the main anomaly detection proposition in Microsoft Azure.
-
-In 2021-2022 conformal prediction research experienced exponential growth in academia and with the availability of open-source libraries the industry is positioned to replicate this growth in the industry.
-
-
-📢📢Industry take notice. The revolution in Uncertainty Quantification / Probabilistic Prediction / Forecasting is already here 📢📢  A big one  🔥🔥🔥🔥🔥
-
 
 ![modrian](mondrian.jpg) 
 
