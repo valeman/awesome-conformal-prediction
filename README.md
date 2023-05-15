@@ -5,9 +5,7 @@ Please reach out to rahul_vishwakarma@icloud.com if you have issues with Slack l
 
 **Discover the Ultimate Conformal Prediction Resource: All-in-One and Expertly Curated** 🌟 🌟 🌟 🌟 🌟
 
-Explore the most extensive professionally curated collection on Conformal Prediction, featuring top-notch tutorials, videos, books, papers, articles, courses, websites, conferences, and open-source libraries in Python, R, and Julia. Uncover the hidden gems and master the art of Conformal Prediction with this all-encompassing guide.
-
-Experience the Pinnacle of Conformal Prediction Expertise: A Resource Crafted by a Pro
+Explore the most extensive professionally curated collection on Conformal Prediction, featuring top-notch tutorials, videos, books, papers, articles, courses, websites, conferences, and open-source libraries in Python, R, and Julia. Uncover the hidden gems and master the art of Conformal Prediction with this all-encompassing guide. Experience the Pinnacle of Conformal Prediction Expertise: A Resource Crafted by a Pro.
 
 This exceptional resource is the culmination of my PhD journey in Machine Learning, specializing in Conformal Prediction under the supervision of its creator, Prof. Vladimir Vovk. Since 2015, I have painstakingly gathered these invaluable resources, and upon completing my PhD (my thesis, "Machine Learning for Probabilistic Prediction," can be found in the "Theses" section), I am thrilled to share my expertise with the global machine learning community. Immerse yourself in a professionally curated collection that has been honed through years of dedication and experience.
 
