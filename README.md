@@ -21,11 +21,15 @@ Conformal Prediction has transcended its niche status in just a few years, exper
 
 ![Practical Guide to Applied Conformal Prediction: Learn and apply the best uncertainty frameworks to your industry applications](https://github.com/valeman/awesome-conformal-prediction/blob/main/Practical%20Guide%20to%20Applied%20Conformal%20Prediction%20Learn%20and%20apply%20the%20best%20uncertainty%20frameworks%20to%20your%20industry%20applications.jpg)
 
-I am actively promoting Conformal Prediction (because it is well Awesome) on social media incluidng [LinkedIn](https://www.linkedin.com/in/valeriy-manokhin-phd-mba-cqf-704731236/) and [Twitter](https://twitter.com/predict_addict). [ResearchGate](https://www.researchgate.net/profile/Valery-Manokhin) has all my research and I occasionally publish in [Medium](https://medium.com/@valeman) sharing insights from the data science trenches in the industry. Please feel free to connect and also help spread the word about Conformal Prediction.
+**Connect and Share the Excitement of Conformal Prediction**
+
+I'm enthusiastically promoting the wonderful world of Conformal Prediction (because it truly is awesome) across various social media platforms, including [LinkedIn](https://www.linkedin.com/in/valeriy-manokhin-phd-mba-cqf-704731236/) and [Twitter](https://twitter.com/predict_addict). You can find all my research on [ResearchGate](https://www.researchgate.net/profile/Valery-Manokhin), and I occasionally share insights from the data science trenches in the industry on [Medium](https://medium.com/@valeman). I warmly invite you to connect with me and help spread the word about the fascinating field of Conformal Prediction.
 
 [![Star History Chart](https://api.star-history.com/svg?repos=valeman/awesome-conformal-prediction&type=Date)](https://star-history.com/#valeman/awesome-conformal-prediction&Date)
 
-Please star 🌟 the repo and spread the word. If you use the repository in a scientific publication, please ensure citing Awesome Conformal Prediction to help promote this amazing framework in academia and industry:
+**A Warm Invitation to Support and Share: Star the Repo and Spread the Word**
+
+Please consider starring 🌟 the repo and sharing it with others who might be interested. If you utilize the repository in a scientific publication, kindly cite Awesome Conformal Prediction to further promote this incredible framework within both academia and industry. Your support is invaluable in advancing the awareness and appreciation of Conformal Prediction:
 
 Manokhin, Valery. (2022). Awesome Conformal Prediction (v1.0.0). Zenodo. https://zenodo.org/record/6467205 https://doi.org/10.5281/zenodo.6467205 
 
@@ -49,7 +53,6 @@ Bibtex entry export https://zenodo.org/record/6467205/export/hx
 Please reach out to rahul_vishwakarma@icloud.com if you have issues with Slack link and need invite to the Slack.
 
 <a href="https://www.buymeacoffee.com/valeman" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 Why Conformal Prediction?
