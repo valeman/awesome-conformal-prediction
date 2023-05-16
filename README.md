@@ -536,7 +536,7 @@ Harris Papadopoulos, Kostas Proedrou, Volodya Vovk, and Alex Gammerman (2002) �
 228. [Optimizing Hyperparameters with Conformal Quantile Regression](https://arxiv.org/pdf/2305.03623.pdf) by David Salinas, Jacek Golebiowski, Aaron Klein, Matthias Seeger, Cedric Archambeau (Amazon Science, 2023) 🔥🔥🔥🔥🔥
 229. [Rapid Traversal of Ultralarge Chemical Space using Machine Learning Guided Docking Screens](https://chemrxiv.org/engage/chemrxiv/article-details/6456778807c3f02937503688) by Andreas Luttens, Israel Cabeza de Vaca, Leonard Sparring, Ulf Norinder, Jens Carlsson (2023) [Code](https://github.com/carlssonlab/conformalpredictor) [Datasets](https://zenodo.org/record/7903161) 🔥🔥🔥🔥🔥
 230. [Predicting skin sensitizers with confidence — Using conformal prediction to determine applicability domain of GARD](https://www.sciencedirect.com/science/article/pii/S0887233318300237?via%3Dihub) by Andy Forreryd, Ulf Norinder,  Tim Lindberg, Malin Lindstedt (2018) 📚📚📚📚📚
-231. 
+231. [Confidence-based Prediction of Antibiotic Resistance at the Patient-level Using Transformers](https://www.biorxiv.org/content/10.1101/2023.05.09.539832v1.full.pdf) by J.S. Inda-Diaz, A. Johnning, M. Hessel, A. Sjo ̈berg, A. Lokrantz, L. Hellda, M. Jirstrand, L. Svensson and E. Kristiansson (Chalmers University of Technology and University of Gothenburg/Centre for Antibiotic Resistance Research (CARe), 2023)  🔥🔥🔥🔥🔥
 
 ## Papers_Time_Series
 
