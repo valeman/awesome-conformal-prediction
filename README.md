@@ -538,6 +538,7 @@ Harris Papadopoulos, Kostas Proedrou, Volodya Vovk, and Alex Gammerman (2002) �
 230. [Predicting skin sensitizers with confidence — Using conformal prediction to determine applicability domain of GARD](https://www.sciencedirect.com/science/article/pii/S0887233318300237?via%3Dihub) by Andy Forreryd, Ulf Norinder,  Tim Lindberg, Malin Lindstedt (2018) 📚📚📚📚📚
 231. [Confidence-based Prediction of Antibiotic Resistance at the Patient-level Using Transformers](https://www.biorxiv.org/content/10.1101/2023.05.09.539832v1.full.pdf) by J.S. Inda-Diaz, A. Johnning, M. Hessel, A. Sjo ̈berg, A. Lokrantz, L. Hellda, M. Jirstrand, L. Svensson and E. Kristiansson (Chalmers University of Technology and University of Gothenburg/Centre for Antibiotic Resistance Research (CARe), 2023)  🔥🔥🔥🔥🔥
 232. [Framework based on conformal predictors and power martingales for detection of fixed football matches](https://www.semanticscholar.org/paper/Framework-based-on-conformal-predictors-and-power-Zhuk-Chertov/9405c6a70f5ce211afa575b4bdc4cddb449e9594?utm_source=alert_email&utm_content=AuthorCitation&utm_campaign=AlertEmails_DAILY&utm_term=LibraryFolder+AuthorCitation&email_index=1-0-3&utm_medium=15942999) by I. Zhuk, O. Chertov (2023)
+233. [Principal Uncertainty Quantification with Spatial Correlation for Image Restoration Problems](https://arxiv.org/pdf/2305.10124.pdf) by Omer Belhasin, Yaniv Romano, Daniel Freedman, Ehud Rivlin, Michael Elad (2023) 🔥🔥🔥🔥🔥
 
 ## Papers_Time_Series
 
