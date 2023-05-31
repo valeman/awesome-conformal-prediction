@@ -540,6 +540,10 @@ Harris Papadopoulos, Kostas Proedrou, Volodya Vovk, and Alex Gammerman (2002) �
 234. [Conformalized matrix completion](https://arxiv.org/pdf/2305.10637.pdf) by Yu Gui, Rina Foygel Barber,  and Cong Ma (University of Chicago, 2023) 🔥🔥🔥🔥🔥
 235. [Conformal Prediction With Conditional Guarantees](https://arxiv.org/pdf/2305.12616.pdf) by Isaac Gibbs, John Cherian, Emmanuel Candes (Stanford, 2023) 🔥🔥🔥🔥🔥
 236. [Uncertainty Quantification over Graph with Conformalized Graph Neural Networks](https://arxiv.org/abs/2305.14535) by Kexin Huang, Ying Jin, Emmanuel Candes, Jure Leskovec (Stanford, 2023) 🔥🔥🔥🔥🔥
+237.  [Federated Conformal Predictors for Distributed Uncertainty Quantification](https://arxiv.org/pdf/2305.17564.pdf) by Charles Lu, Yaodong Yu, Sai Praneeth Karimireddy, Michael I. Jordan, Ramesh Raskar (MIT/Berkeley, 2023) 🔥🔥🔥🔥🔥
+240.  [Conformal Prediction with Large Language Models for Multi-Choice Question Answering](https://arxiv.org/pdf/2305.18404.pdf) by Bhawesh Kumar, Charlie Lu, Gauri Gupta, Anil Palepu, David Bellamy, Ramesh Raskar, Andrew Beam (Harvard/MIT, 2023) 🔥🔥🔥🔥🔥
+241.
+
 
 ## Papers_Time_Series
 
