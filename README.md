@@ -542,7 +542,7 @@ Harris Papadopoulos, Kostas Proedrou, Volodya Vovk, and Alex Gammerman (2002) �
 236. [Uncertainty Quantification over Graph with Conformalized Graph Neural Networks](https://arxiv.org/abs/2305.14535) by Kexin Huang, Ying Jin, Emmanuel Candes, Jure Leskovec (Stanford, 2023) 🔥🔥🔥🔥🔥
 237.  [Federated Conformal Predictors for Distributed Uncertainty Quantification](https://arxiv.org/pdf/2305.17564.pdf) by Charles Lu, Yaodong Yu, Sai Praneeth Karimireddy, Michael I. Jordan, Ramesh Raskar (MIT/Berkeley, 2023) 🔥🔥🔥🔥🔥
 240.  [Conformal Prediction with Large Language Models for Multi-Choice Question Answering](https://arxiv.org/pdf/2305.18404.pdf) by Bhawesh Kumar, Charlie Lu, Gauri Gupta, Anil Palepu, David Bellamy, Ramesh Raskar, Andrew Beam (Harvard/MIT, 2023) 🔥🔥🔥🔥🔥
-241.
+241. [Conformal Predictive Distribution Trees](https://link.springer.com/content/pdf/10.1007/s10472-023-09847-0.pdf) by Ulf Johansson, Tuwe Löfström, Henrik Boström (2023) 🔥🔥🔥🔥🔥
 
 
 ## Papers_Time_Series
