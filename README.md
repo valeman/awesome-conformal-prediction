@@ -545,6 +545,7 @@ Harris Papadopoulos, Kostas Proedrou, Volodya Vovk, and Alex Gammerman (2002) �
 241. [Conformal Predictive Distribution Trees](https://link.springer.com/content/pdf/10.1007/s10472-023-09847-0.pdf) by Ulf Johansson, Tuwe Löfström, Henrik Boström (2023) 🔥🔥🔥🔥🔥
 242. [CONFORMAL PREDICTION WITH PARTIALLY LABELED DATA](https://arxiv.org/pdf/2306.01191.pdf) by Alireza Javanmardi, Yusuf Sale, Paul Hofman, Eyke Hüllermeier (2023)
 243. [Conformal Prediction for Federated Uncertainty Quantification Under Label Shift](https://arxiv.org/pdf/2306.05131.pdf) by Vincent Plassie, Mehdi Makni, Aleksandr Rubashevskii, Eric Moulines, Maxim Panov (2023)
+244. [Conformalizing Machine Translation Evaluation](https://arxiv.org/pdf/2306.06221.pdfm) by Chrysoula Zerva, André F. T. Martins (2023)
 
 ## Papers_Time_Series
 
