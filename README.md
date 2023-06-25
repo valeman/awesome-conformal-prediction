@@ -286,6 +286,7 @@ Jelle Van Miltenburg (KTH ROYAL INSTITUTE OF TECHNOLOGY, 2018)
 71. [Algo Hour – Conformal Inference of Counterfactuals and Individual Treatment Effects | Lihua Lei](https://www.youtube.com/watch?v=COW2QNBmEMw&t=2s)
 72. ['MoroccoAI webinar - Dr. Soundouss Messoudi - 'Confidence learning using conformal prediction'](https://www.youtube.com/watch?v=SypbjiBrt3Q)
 73. [Emmanuel Candes - A Taste of Conformal Prediction](https://www.carmin.tv/en/video/a-taste-of-conformal-prediction) by Emmanuel Candes (2023)
+74. [Foundations of Conformal Prediction - Full Conformal Predictors](https://www.youtube.com/watch?v=R1dnPAYGwnk) by Mahdi Torabi Rad (2023) 🔥🔥🔥🔥🔥
 
 ## Papers
 
