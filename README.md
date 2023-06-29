@@ -662,6 +662,8 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 31. [How to use full (transductive) Conformal Prediction])(https://valeman.medium.com/how-to-use-full-transductive-conformal-prediction-7ed54dc6b72b) by Valery Manokhin (2023) 🔥🔥🔥🔥🔥
 32. [Conformal Prediction for Regression](https://medium.com/@artem_ryasik/conformal-prediction-for-regression-1ba24f1442df) (using KNIME) by Artem Ryasik (2023)
 33. [Dynamic Conformal Intervals for any Time Series Model](https://towardsdatascience.com/dynamic-conformal-intervals-for-any-time-series-model-d1638aa48527) by Michael Keith (2023) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+34. [Hitting Time Forecasting: The Other Way for Time Series Probabilistic Forecasting](https://towardsdatascience.com/hitting-time-forecasting-the-other-way-for-time-series-probabilistic-forecasting-6c3b6496c353) by Marco Cerliani (2023) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+
 
 ## Kaggle
 1. [Kaggle Notebook showcasing Conformal Predictive Distributions on Playground Series Season 3, Episode 1 (California Housing data) competition](https://www.kaggle.com/code/predaddict/conformal-predictive-distributions-pss3-e1) by Valeriy Manokhin (2022)
