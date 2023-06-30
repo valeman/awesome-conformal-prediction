@@ -288,6 +288,7 @@ Jelle Van Miltenburg (KTH ROYAL INSTITUTE OF TECHNOLOGY, 2018)
 73. [Emmanuel Candes - A Taste of Conformal Prediction](https://www.carmin.tv/en/video/a-taste-of-conformal-prediction) by Emmanuel Candes (2023)
 74. [Foundations of Conformal Prediction - Full Conformal Predictors](https://www.youtube.com/watch?v=R1dnPAYGwnk) by Mahdi Torabi Rad (2023) 🔥🔥🔥🔥🔥
 75. [Max Mergenthaler and Fede Garza - Quantifying Uncertainty in Time Series Forecasting](https://www.youtube.com/watch?v=Bj1U-Rrxk48) by Max Mergenthaler and Fede Garza (Nixtla, 2023) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+76. [Uncertainty Quantification with the Fortuna library by Gianluca Detommaso (AWS)](https://www.youtube.com/watch?v=FEtD6lnsI58) by Gianluca Detommaso (Amazon, 2023) 
 
 ## Papers
 
