@@ -291,7 +291,8 @@ Jelle Van Miltenburg (KTH ROYAL INSTITUTE OF TECHNOLOGY, 2018)
 73. [Emmanuel Candes - A Taste of Conformal Prediction](https://www.carmin.tv/en/video/a-taste-of-conformal-prediction) by Emmanuel Candes (2023)
 74. [Foundations of Conformal Prediction - Full Conformal Predictors](https://www.youtube.com/watch?v=R1dnPAYGwnk) by Mahdi Torabi Rad (2023) 🔥🔥🔥🔥🔥
 75. [Max Mergenthaler and Fede Garza - Quantifying Uncertainty in Time Series Forecasting](https://www.youtube.com/watch?v=Bj1U-Rrxk48) by Max Mergenthaler and Fede Garza (Nixtla, 2023) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
-76. [Uncertainty Quantification with the Fortuna library by Gianluca Detommaso (AWS)](https://www.youtube.com/watch?v=FEtD6lnsI58) by Gianluca Detommaso (Amazon, 2023) 
+76. [Uncertainty Quantification with the Fortuna library by Gianluca Detommaso (AWS)](https://www.youtube.com/watch?v=FEtD6lnsI58) by Gianluca Detommaso (Amazon, 2023)
+77. [Quantifying Uncertainty in Time Series Forecasting](https://www.youtube.com/watch?v=Bj1U-Rrxk48) by Max Mergenthaler and Fede Garza (Nixtla, 2023) 
 
 ## Papers
 
@@ -553,7 +554,11 @@ Harris Papadopoulos, Kostas Proedrou, Volodya Vovk, and Alex Gammerman (2002) �
 243. [Conformal Prediction for Federated Uncertainty Quantification Under Label Shift](https://arxiv.org/pdf/2306.05131.pdf) by Vincent Plassie, Mehdi Makni, Aleksandr Rubashevskii, Eric Moulines, Maxim Panov (2023)
 244. [Conformalizing Machine Translation Evaluation](https://arxiv.org/pdf/2306.06221.pdfm) by Chrysoula Zerva, André F. T. Martins (2023)
 245. [Class-Conditional Conformal Prediction With Many Classes](https://arxiv.org/pdf/2306.09335.pdf) by Tiffany Ding, Anastasios N. Angelopoulos, Stephen Bates, Michael I. Jordan, Ryan J. Tibshirani 🔥🔥🔥🔥🔥 (Berkeley, 2023)
-246. 
+246. [Conformal Prediction Sets for Graph Neural Networks](https://openreview.net/pdf/1915b7fb247001d17114b5908727ac0f7056abe8.pdf) by Soroush Zargarbashi, Simone Antonelli, Aleksandar Bojchevski [Code](https://github.com/bhaweshiitk/ConformalLLM)
+247. [Conformal link prediction to control the error rate](https://arxiv.org/pdf/2306.14693v1.pdf) by Ariane Marandon (2023)
+248. [JAWS-X: Addressing Efficiency Bottlenecks of Conformal Prediction
+Under Standard and Feedback Covariate Shift](https://openreview.net/pdf?id=ORxBEWMPAJ) Drew Prinster, Suchi Saria, Anqi Liu (John Hopkins University, 2023) [Code](https://github.com/drewprinster/jaws-x) 🔥🔥🔥🔥🔥
+249. [Bayesian Optimization with Formal Safety Guarantees via Online Conformal Prediction](https://arxiv.org/pdf/2306.17815.pdf) by Yunchuan Zhang, Sangwoo Park and Osvaldo Simeone (2023)
 
 ## Papers_Time_Series
 
@@ -669,6 +674,7 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 32. [Conformal Prediction for Regression](https://medium.com/@artem_ryasik/conformal-prediction-for-regression-1ba24f1442df) (using KNIME) by Artem Ryasik (2023)
 33. [Dynamic Conformal Intervals for any Time Series Model](https://towardsdatascience.com/dynamic-conformal-intervals-for-any-time-series-model-d1638aa48527) by Michael Keith (2023) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 34. [Hitting Time Forecasting: The Other Way for Time Series Probabilistic Forecasting](https://towardsdatascience.com/hitting-time-forecasting-the-other-way-for-time-series-probabilistic-forecasting-6c3b6496c353) by Marco Cerliani (2023) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+35. [Series of Medium articles about Conformal Prediciton (in Portuguese)](https://github.com/gusbruschi13/Conformal-Prediction) by Gustavo Bruschi (2023) 🔥🔥🔥🔥🔥
 
 
 ## Kaggle
@@ -747,6 +753,7 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 33. [Nixtla mlforecast](https://nixtla.github.io/mlforecast/docs/prediction_intervals.html#references) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 34. [https://github.com/mikekeith52/scalecast](https://github.com/mikekeith52/scalecast) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 35. [Puncc (Predictive uncertainty calibration and conformalization)](https://github.com/deel-ai/puncc) 🔥🔥🔥🔥🔥
+36. [plot_utils - Plotting library for conformal prediction metrics, intended to facilitate fast testing in e.g. notebooks](https://github.com/pharmbio/plot_utils) 🔥🔥🔥🔥🔥
 
 ## R
 1. [Conformal Inference R Project](https://github.com/ryantibs/conformal) maintained by Ryan Tibshirani (2016) 🔥🔥🔥🔥🔥
