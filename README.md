@@ -202,6 +202,9 @@ Jelle Van Miltenburg (KTH ROYAL INSTITUTE OF TECHNOLOGY, 2018)
 21. [Conformal Inference Tutorial](https://bkompa.github.io/2020/09/19/Conformal-Inference-Tutorial.html) by Ben Kompa (2020)
 22. [Prediction intervals for any machine learning model - How to construct prediction intervals with the Jackknife+ using the MAPIE package](https://www.valencekjell.com/posts/2022-09-14-prediction-intervals/) by Kjell Jorner (ETH, 2022)
 23. [Conformal Prediction: A Gentle Introduction](https://ieeexplore.ieee.org/document/10083030) by Anastasios N. Angelopoulos and Stephen Bates (2023)
+24. [Uncertainty Quantification (1): Enter Conformal Predictors](https://www.youtube.com/watch?v=xZbuFKWV5NA&t=25s) by Mahdi Torabi Rad (2023) 🔥🔥🔥🔥🔥
+25. [Uncertainty Quantification (2): Full Conformal Predictors](https://www.youtube.com/watch?v=R1dnPAYGwnk) by Mahdi Torabi Rad (2023) 🔥🔥🔥🔥🔥
+26. [Uncertainty Quantification (3): From Full to Split Conformal Methods](https://www.youtube.com/watch?v=YigGJfsCjDk) by Mahdi Torabi Rad (2023) 🔥🔥🔥🔥🔥
 
 ## Courses
 1. [Uncertain: Modern topics in uncertainty estimation](https://uncertaintyclass.com) [YouTube](https://www.youtube.com/watch?app=desktop&v=M3tkM4dcIPA) [Course notes](https://www.cis.upenn.edu/~aaroth/uncertainty-notes.pdf) by Aaron Roth (University of Pennsylvania, 2022) 🔥🔥🔥🔥🔥
@@ -550,6 +553,7 @@ Harris Papadopoulos, Kostas Proedrou, Volodya Vovk, and Alex Gammerman (2002) �
 243. [Conformal Prediction for Federated Uncertainty Quantification Under Label Shift](https://arxiv.org/pdf/2306.05131.pdf) by Vincent Plassie, Mehdi Makni, Aleksandr Rubashevskii, Eric Moulines, Maxim Panov (2023)
 244. [Conformalizing Machine Translation Evaluation](https://arxiv.org/pdf/2306.06221.pdfm) by Chrysoula Zerva, André F. T. Martins (2023)
 245. [Class-Conditional Conformal Prediction With Many Classes](https://arxiv.org/pdf/2306.09335.pdf) by Tiffany Ding, Anastasios N. Angelopoulos, Stephen Bates, Michael I. Jordan, Ryan J. Tibshirani 🔥🔥🔥🔥🔥 (Berkeley, 2023)
+246. 
 
 ## Papers_Time_Series
 
