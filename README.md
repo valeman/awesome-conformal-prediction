@@ -697,7 +697,7 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 5. [Machine learning sucks at uncertainty quantification. But there is a solution that almost sounds too good to be true: conformal prediction](https://threadreaderapp.com/thread/1572526084981129217.html) by Cristoph Molnar (2022).
 6. [How to correctly, yet efficiently model the uncertainty on predictions](https://threadreaderapp.com/thread/1584905067718647808.html) by Nico Wolf (2022)
 7. [Top 10 Github libraries for Conformal Prediction](https://threadreaderapp.com/thread/1609112769017552897.html) by Valeriy Manokhin (2022)
-
+8. [Robots That Ask For Help](https://threadreaderapp.com/thread/1677000811803443213.html) by Allen Z. Ren (2023) 🍾🍾🍾🍾🍾🔥🔥🔥🔥🔥
 
 ## TikTok 
 
