@@ -754,6 +754,7 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 34. [https://github.com/mikekeith52/scalecast](https://github.com/mikekeith52/scalecast) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 35. [Puncc (Predictive uncertainty calibration and conformalization)](https://github.com/deel-ai/puncc) 🔥🔥🔥🔥🔥
 36. [plot_utils - Plotting library for conformal prediction metrics, intended to facilitate fast testing in e.g. notebooks](https://github.com/pharmbio/plot_utils) 🔥🔥🔥🔥🔥
+37. [Conformers - Unofficial Conformal Language Modelling library](https://github.com/Bradley-Butcher/Conformers/) 🚀🚀🚀🚀🚀
 
 ## R
 1. [Conformal Inference R Project](https://github.com/ryantibs/conformal) maintained by Ryan Tibshirani (2016) 🔥🔥🔥🔥🔥
