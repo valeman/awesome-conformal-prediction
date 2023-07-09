@@ -775,7 +775,7 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 15. [conformalbayes - Jackknife(+) Predictive Intervals for Bayesian Models](https://github.com/CoryMcCartan/conformalbayes) (2022)
 16. [conformal.fd Conformal inference prediction regions for Multiple Functional response regression](https://github.com/paolo-vergo/conformal.fd) (2021)
 
-## Code-Julia
+## Julia
 
 1. [ConformalPrediction.jl](https://github.com/pat-alt/ConformalPrediction.jl) by Patrick Altmeyer (2022) [Article - Conformal Prediction in Julia, Part I - Introduction](https://towardsdatascience.com/conformal-prediction-in-julia-351b81309e30) [Article - Conformal Prediction in Julia, Part II - How to conformalize a deep image classifier](https://towardsdatascience.com/how-to-conformalize-a-deep-image-classifier-14ead4e1a5a0) [Article -  Conformal Prediction in Julia, Part III - Prediction intervals for any regression model](https://towardsdatascience.com/prediction-intervals-for-any-regression-model-306930d5ad9a) 
 2. [RandomForest](https://github.com/henrikbostrom/RandomForest) by Henrik Boström (2017) 🔥🔥🔥🔥🔥
