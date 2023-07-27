@@ -564,6 +564,7 @@ Under Standard and Feedback Covariate Shift](https://openreview.net/pdf?id=ORxBE
 250. [Robots That Ask For Help: Uncertainty Alignment for Large Language Model Planners](https://arxiv.org/abs/2307.01928) by Allen Z. Ren, Anushri Dixit, Alexandra Bodrova, Sumeet Singh, Stephen Tu, Noah Brown, Peng Xu, Leila Takayama, Fei Xia, Jake Varley, Zhenjia Xu, Dorsa Sadigh, Andy Zeng, Anirudha Majumdar (Princeton/DeepMind, 2023) [Website](https://robot-help.github.io) 🔥🔥🔥🔥🔥
 251. [Large scale comparison of QSAR and conformal prediction methods and their applications in drug discovery](https://jcheminf.biomedcentral.com/counter/pdf/10.1186/s13321-018-0325-4.pdf) by Nicolas Bosc, Francis Atkinson, Eloy Felix, Anna Gaulton, Anne Hersey and Andrew R. Leach (Cambridge, 2019) 🔥🔥🔥🔥🔥
 252. [Efficiency Comparison of Unstable Transductive and Inductive Conformal Classifiers](https://www.diva-portal.org/smash/get/diva2:1163353/FULLTEXT01.pdf) by Henrik Linusson, Ulf Johansson, Henrik Bostroem, and Tuve Loefstroem (2014)
+253. [How to Trust Your Diffusion Model: A Convex Optimization Approach to Conformal Risk Control](https://arxiv.org/pdf/2302.03791.pdf) [Code](https://github.com/Sulam-Group/k-rcps)
 
 
 ## Papers_Time_Series
