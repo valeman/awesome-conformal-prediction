@@ -569,6 +569,7 @@ Under Standard and Feedback Covariate Shift](https://openreview.net/pdf?id=ORxBE
 252. [Efficiency Comparison of Unstable Transductive and Inductive Conformal Classifiers](https://www.diva-portal.org/smash/get/diva2:1163353/FULLTEXT01.pdf) by Henrik Linusson, Ulf Johansson, Henrik Bostroem, and Tuve Loefstroem (2014)
 253. [How to Trust Your Diffusion Model: A Convex Optimization Approach to Conformal Risk Control](https://arxiv.org/pdf/2302.03791.pdf) [Code](https://github.com/Sulam-Group/k-rcps) (John Hopkins University, 2023) 🔥🔥🔥🔥🔥
 254. [Conformal Test Martingale-Based Change-Point Detection for Geospatial Object Detectors](https://mdpi-res.com/d_attachment/applsci/applsci-13-08647/article_deploy/applsci-13-08647.pdf?version=1690443630) by Gang Wang, Zhiying Lu,  Ping Wang, Shuo Zhuang and Di Wang (2023)
+255. [Plug-in martingales for testing exchangeability on-line](https://icml.cc/2012/papers/808.pdf) by Valentina Fedorova, Alex Gammerman, Ilia Nouretdinov, Vladimir Vovk (ICML 2012) 🔥🔥🔥🔥🔥
 
 
 ## Papers_Time_Series
