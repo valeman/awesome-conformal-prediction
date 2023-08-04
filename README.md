@@ -689,6 +689,7 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 34. [Hitting Time Forecasting: The Other Way for Time Series Probabilistic Forecasting](https://towardsdatascience.com/hitting-time-forecasting-the-other-way-for-time-series-probabilistic-forecasting-6c3b6496c353) by Marco Cerliani (2023) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 35. [Series of Medium articles about Conformal Prediciton (in Portuguese)](https://github.com/gusbruschi13/Conformal-Prediction) by Gustavo Bruschi (2023) 🔥🔥🔥🔥🔥
 36. [Stanford statisticians and Washington Post data scientists build more honest prediction models](https://news.stanford.edu/2021/03/19/honesty-statistical-models/) [Code](https://github.com/washingtonpost/elex-live-model) 🔥🔥🔥🔥🔥
+37. [Jackknife+ — a Swiss knife of Conformal Prediction for regression](https://medium.com/@valeman/jackknife-a-swiss-knife-of-conformal-prediction-for-regression-ce3b56432f4f) by Valeriy Manokhin (2023) 🔥🔥🔥🔥🔥
 
 
 ## Kaggle
