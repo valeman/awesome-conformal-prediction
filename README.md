@@ -571,7 +571,7 @@ Under Standard and Feedback Covariate Shift](https://openreview.net/pdf?id=ORxBE
 254. [Conformal Test Martingale-Based Change-Point Detection for Geospatial Object Detectors](https://mdpi-res.com/d_attachment/applsci/applsci-13-08647/article_deploy/applsci-13-08647.pdf?version=1690443630) by Gang Wang, Zhiying Lu,  Ping Wang, Shuo Zhuang and Di Wang (2023)
 255. [Plug-in martingales for testing exchangeability on-line](https://icml.cc/2012/papers/808.pdf) by Valentina Fedorova, Alex Gammerman, Ilia Nouretdinov, Vladimir Vovk (Royal Holloway, UK, ICML 2012) 🔥🔥🔥🔥🔥
 256. [Testing Exchangeability On-Line](https://aaai.org/papers/100-testing-exchangeability-on-line/) by Vladimir Vovk, Ilia Nouretdinov and Alex Gammerman (Royal Holloway, UK, ICML 2003) 🔥🔥🔥🔥🔥
-
+257. [Predictive Inference Is Free with the Jackknife+-after-Bootstrap](https://proceedings.neurips.cc/paper/2020/file/2b346a0aa375a07f5a90a344a61416c4-Paper.pdf) by Byol Kim, Chen Xu, Rina Foygel Barber (University of Chicago, 2020) 🔥🔥🔥🔥🔥
 
 ## Papers_Time_Series
 
