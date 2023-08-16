@@ -573,6 +573,9 @@ Under Standard and Feedback Covariate Shift](https://openreview.net/pdf?id=ORxBE
 256. [Testing Exchangeability On-Line](https://aaai.org/papers/100-testing-exchangeability-on-line/) by Vladimir Vovk, Ilia Nouretdinov and Alex Gammerman (Royal Holloway, UK, ICML 2003) 🔥🔥🔥🔥🔥
 257. [Predictive Inference Is Free with the Jackknife+-after-Bootstrap](https://proceedings.neurips.cc/paper/2020/file/2b346a0aa375a07f5a90a344a61416c4-Paper.pdf) by Byol Kim, Chen Xu, Rina Foygel Barber (University of Chicago, 2020) 🔥🔥🔥🔥🔥
 258. [Conformal Prediction with Large Language Models for Multi-Choice Question Answering](https://arxiv.org/abs/2305.18404) by Bhawesh Kumar, Charles Lu, Gauri Gupta, Anil Palepu, David Bellamy, Ramesh Raskar, Andrew Beam (MIT, 2023) [code](https://github.com/bhaweshiitk/ConformalLLM) 🔥🔥🔥🔥🔥
+259. [CONFORMAL PREDICTIONS ENHANCED EXPERT-GUIDED MESHING WITH GRAPH NEURAL NETWORKS](https://arxiv.org/pdf/2308.07358.pdf) [code](https://github.com/ahnobari/AutoSurf) by Amin Heyrani Nobari, Justin Rey, Suhas Kodali and Matthew Jones (MIT, 2023) 🔥🔥🔥🔥🔥
+
+
 
 ## Papers_Time_Series
 
