@@ -298,6 +298,7 @@ Jelle Van Miltenburg (KTH ROYAL INSTITUTE OF TECHNOLOGY, 2018)
 76. [Uncertainty Quantification with the Fortuna library by Gianluca Detommaso (AWS)](https://www.youtube.com/watch?v=FEtD6lnsI58) by Gianluca Detommaso (Amazon, 2023)
 77. [Quantifying Uncertainty in Time Series Forecasting](https://www.youtube.com/watch?v=Bj1U-Rrxk48) by Max Mergenthaler and Fede Garza (Nixtla, 2023)
 78. [NISS/Merck Meetup on Conformal Inference: Advancing the Boundaries of Machine Learning 4.19.2023](https://www.youtube.com/watch?v=SRbqUae9-_o&t=5631s) (2023) 🔥🔥🔥🔥🔥
+79. [Max Kuhn - The Post-Modeling Model to Fix the Model](https://www.youtube.com/watch?v=3omi4lm1da0) by Max Kuhn (2023)🔥🔥🔥🔥🔥
 
 ## Papers
 
@@ -777,7 +778,7 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 37. [plot_utils - Plotting library for conformal prediction metrics, intended to facilitate fast testing in e.g. notebooks](https://github.com/pharmbio/plot_utils) 🔥🔥🔥🔥🔥
 
 ## R
-1. [Conformal Prediction ih tidymodels](https://github.com/tidymodels/tidymodels.org/pull/23) by Max Kuhn (Posit/RStudio, 2023) 🔥🔥🔥🔥🔥
+1. [Conformal Prediction ih tidymodels](https://github.com/tidymodels/tidymodels.org/pull/23) by Max Kuhn (Posit/RStudio, 2023) [video](https://www.youtube.com/watch?v=3omi4lm1da0) 🔥🔥🔥🔥🔥
 2.  [Modeltime](https://github.com/business-science/modeltime/issues/173#issuecomment-1664681578) (2023) by Matt Dancho (Business Science, 2023) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥 
 3. [Conformal Inference R Project](https://github.com/ryantibs/conformal) maintained by Ryan Tibshirani (2016) 🔥🔥🔥🔥🔥
 4. [Prediction Bands](https://github.com/rizbicki/predictionBands) by Rafael Izbicki and Benjamin LeRoy (2019)
