@@ -84,15 +84,15 @@ What about the industry one might ask - Conformal Prediction already for several
 
 * [Events](#events)
 
-* [Books](#Books)
+* [Books](#books)
 
-* [PhD and MSc Theses](#Theses)
+* [PhD and MSc Theses](#theses)
 
-* [Videos](#Videos) 
+* [Videos](#videos) 
  
-* [Papers](#Papers)
+* [Papers](#papers)
 
-* [Papers Time Series](#Papers_Time_Series)
+* [Papers Time Series](#papers_time_series)
 
 * [Articles](#Articles)
 
