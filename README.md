@@ -94,41 +94,41 @@ What about the industry one might ask - Conformal Prediction already for several
 
 * [Papers Time Series](#papers_time_series)
 
-* [Articles](#Articles)
+* [Articles](#articles)
 
-* [Kaggle](#Kaggle)
+* [Kaggle](#kaggle)
 
-* [Tutorials](#Tutorials)
+* [Tutorials](#tutorials)
 
-* [Courses](#Courses)
+* [Courses](#courses)
 
-* [Presentation_slides](#Presentation_slides)
+* [Presentation_slides](#presentation_slides)
 
-* [Researchers](#Researchers)
+* [Researchers](#researchers)
 
-* [Websites](#Websites)
+* [Websites](#websites)
 
-* [Twitter](#Twitter)
+* [Twitter](#twitter)
 
-* [TikTok](#TikTok)
+* [TikTok](#tiktok)
 
-* [Conferences](#Conferences)
+* [Conferences](#conferences)
 
-* [Python](#Python)  
+* [Python](#Ppython)  
 
-* [R](#R)
+* [R](#r)
 
-* [Julia](#Julia) 
+* [Julia](#julia) 
 
-* [Code Other Languages](#Code-Other)
+* [Code Other Languages](#code-other)
 
-* [AI platforms](#AI-platforms)
+* [AI platforms](#ai-platforms)
 
-* [Patents](#Patents)
+* [Patents](patents)
 
-* [Miscellaneous](#Miscellaneous)
+* [Miscellaneous](#miscellaneous)
 
-* [Contributing](#Contributing) 
+* [Contributing](#contributing) 
 
 
 ## Events
@@ -579,7 +579,7 @@ Under Standard and Feedback Covariate Shift](https://openreview.net/pdf?id=ORxBE
 
 
 
-## Papers_Time_Series
+## Papers Time Series
 
 1. [Conformal prediction interval for dynamic time-series](https://proceedings.mlr.press/v139/xu21h.html) by Chen Xu, Yao Xie (Georgia Tech, 2021) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥 [Python Code](https://github.com/hamrel-cxu/EnbPI) [Video](https://vimeo.com/583595474) [Video ICML2021](https://papertalk.org/papertalks/32044)
 2. [Conformal prediction set for time-series](https://arxiv.org/abs/2206.07851) by Chen Xu, Yao Xie (Georgia Tech, 2022) [Python Code](https://github.com/hamrel-cxu/Ensemble-Regularized-Adaptive-Prediction-Set-ERAPS) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
@@ -603,7 +603,7 @@ Niccolo` Ajroldia, Jacopo Diquigiovannib, Matteo Fontanac, Simone Vantinia (2022
 20. [Improved Online Conformal Prediction via Strongly Adaptive Online Learning](https://arxiv.org/abs/2302.07869) by Aadyot Bhatnagar, Huan Wang, Caiming Xiong, Yu Bai (2023) [code](https://github.com/salesforce/online_conformal) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 21. [Conformal Prediction for Time Series with Modern Hopfield Networks](https://arxiv.org/pdf/2303.12783.pdf) by Andreas Auer, Martin Gauchl Daniel Klotz, Sepp Hochreiter (Johannes Kepler University, Linz, 2023) 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 
-## Presentation_slides
+## Presentation Slides
 1. [Machine Learning for Probabilistic Prediction](https://github.com/valeman/awesome-conformal-prediction/blob/main/Machine%20Learning%20for%20Probabilistic%20Prediction.pdf) by Valery Manokhin, 2022
 2. [Adaptive Conformal Anomaly Detection for Time-series](https://cml.rhul.ac.uk/copa2017/presentations/burnaev.pdf) by Evgeny Burnaev, Alexander Bernstein, Vlad Ishimtsev and Ivan Nazarov (Skoltech, Moscow, Russia, 2017)
 3. [Nonparametric predictive distributions based on conformal prediction](https://cml.rhul.ac.uk/copa2017/presentations/vovk.pdf) by Vladimir Vovk, Jieli Shen, Valery Manokhin, Min-ge Xie, Ilia Nouretdinov and Alex Gammerman (Royal Holloway, University of London Rutgers University, 2017)
@@ -803,13 +803,13 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 1. [ConformalPrediction.jl](https://github.com/pat-alt/ConformalPrediction.jl) by Patrick Altmeyer (2022) [Article - Conformal Prediction in Julia, Part I - Introduction](https://towardsdatascience.com/conformal-prediction-in-julia-351b81309e30) [Article - Conformal Prediction in Julia, Part II - How to conformalize a deep image classifier](https://towardsdatascience.com/how-to-conformalize-a-deep-image-classifier-14ead4e1a5a0) [Article -  Conformal Prediction in Julia, Part III - Prediction intervals for any regression model](https://towardsdatascience.com/prediction-intervals-for-any-regression-model-306930d5ad9a) 
 2. [RandomForest](https://github.com/henrikbostrom/RandomForest) by Henrik Boström (2017) 🔥🔥🔥🔥🔥
 
-## Code-Other
+## Code Other Languages
 1. [LibCP -- A Library for Conformal Prediction](https://github.com/fated/libcp) 🔥🔥🔥🔥🔥
 2. [An Implementation of Venn-ABERS predictor](https://github.com/fated/venn-abers-predictor) 🔥🔥🔥🔥🔥
 3. [LibVM -- A Library for Venn Machine](https://github.com/fated/libvm)
 4. [Scala-CP](https://github.com/mcapuccini/scala-cp) by Marco Capuccini (2017)' 🔥🔥🔥🔥🔥 (see tutorial section 'Conformal Prediction in Spark')
 
-## AI-platforms
+## AI platforms
 1. [Conformal Prediction in Knime](https://copa-conference.com/papers/COPA2022_paper_8.pdf) [Presentation](https://copa-conference.com/presentations/tuwe_presentation.pdf) 🔥🔥🔥🔥🔥
 2. [Data Robot](https://docs.datarobot.com/en/docs/release/public-preview/mlops-preview/prediction-intervals-regression.html/the-trumpet-chart)
 3. [AWS Fortuna](https://aws-fortuna.readthedocs.io/en/latest/) by Amazon, (2022) 🔥🔥🔥🔥🔥
