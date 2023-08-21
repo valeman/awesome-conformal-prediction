@@ -92,7 +92,7 @@ What about the industry one might ask - Conformal Prediction already for several
  
 * [Papers](#papers)
 
-* [Papers Time Series](#papers_time_series)
+* [Papers Time Series](#papers-time-series)
 
 * [Articles](#articles)
 
@@ -102,7 +102,7 @@ What about the industry one might ask - Conformal Prediction already for several
 
 * [Courses](#courses)
 
-* [Presentation_slides](#presentation_slides)
+* [Presentation_slides](#presentation-slides)
 
 * [Researchers](#researchers)
 
@@ -114,17 +114,17 @@ What about the industry one might ask - Conformal Prediction already for several
 
 * [Conferences](#conferences)
 
-* [Python](#Ppython)  
+* [Python](#python)  
 
 * [R](#r)
 
 * [Julia](#julia) 
 
-* [Code Other Languages](#code-other)
+* [Code Other Languages](#code-other-languages)
 
 * [AI platforms](#ai-platforms)
 
-* [Patents](patents)
+* [Patents](#patents)
 
 * [Miscellaneous](#miscellaneous)
 
