@@ -82,7 +82,7 @@ What about the industry one might ask - Conformal Prediction already for several
 
 ## [Table of Contents]()
 
-* [Events](#Events)
+* [Events](#events)
 
 * [Books](#Books)
 
