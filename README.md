@@ -574,8 +574,7 @@ Under Standard and Feedback Covariate Shift](https://openreview.net/pdf?id=ORxBE
 259. [CONFORMAL PREDICTIONS ENHANCED EXPERT-GUIDED MESHING WITH GRAPH NEURAL NETWORKS](https://arxiv.org/pdf/2308.07358.pdf) [code](https://github.com/ahnobari/AutoSurf) by Amin Heyrani Nobari, Justin Rey, Suhas Kodali and Matthew Jones (MIT, 2023) [website](https://decode.mit.edu/projects/autosurf/) 🔥🔥🔥🔥🔥
 260. [Approximating Full Conformal Prediction at Scale via Influence Functions](https://arxiv.org/pdf/2202.01315.pdf) by Javier Abad, Umang Bhatt, Adrian Weller, Giovanni Cherubin (Cambridge, Alan Turing Institute, ETH, Microsoft Research, 2023) [code](https://github.com/cambridge-mlg/acp) [video](https://www.youtube.com/watch?v=LRwm976poDE) 🔥🔥🔥🔥🔥
 261. [Robust Uncertainty Quantification using Conformalised Monte Carlo Prediction](https://arxiv.org/pdf/2308.09647.pdf) [Code](https://github.com/team-daniel/MC-CP) by Daniel Bethell, Simos Gerasimou, Radu Calinescu (University of York, 2023) 🔥🔥🔥🔥🔥
-
-
+262. [I do not know! but why?”– Local Model-Agnostic Example-based explanations of reject](https://www.sciencedirect.com/science/article/pii/S0925231223008457) [code](https://github.com/HammerLabML/LocalModelAgnosticExamplebasedExplanationsReject) by Andre Artelt, Roel Visser and Barbara Hammer (University of Bielefeld, 2023) 
 
 ## Papers Time Series
 
