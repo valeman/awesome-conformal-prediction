@@ -578,6 +578,7 @@ Under Standard and Feedback Covariate Shift](https://openreview.net/pdf?id=ORxBE
 261. [Robust Uncertainty Quantification using Conformalised Monte Carlo Prediction](https://arxiv.org/pdf/2308.09647.pdf) [Code](https://github.com/team-daniel/MC-CP) by Daniel Bethell, Simos Gerasimou, Radu Calinescu (University of York, 2023) 🔥🔥🔥🔥🔥
 262. [I do not know! but why?”– Local Model-Agnostic Example-based explanations of reject](https://www.sciencedirect.com/science/article/pii/S0925231223008457) [code](https://github.com/HammerLabML/LocalModelAgnosticExamplebasedExplanationsReject) by Andre Artelt, Roel Visser and Barbara Hammer (University of Bielefeld, 2023)
 263. [Approximating Score-based Explanation Techniques Using Conformal Regression](https://arxiv.org/pdf/2308.11975.pdf) by Amr Alkhatib, Henrik Bostroem, Sofiane Ennadir and Ulf Johansson (KTH/Joenkoeping University, 2023)  🔥🔥🔥🔥🔥
+264. [Quantile Risk Control: A Flexible Framework for Bounding the Probability of High-Loss Predictions](https://arxiv.org/pdf/2212.13629.pdf) by Jake C. Snell, Thomas P. Zollo, Zhun Deng, Toniann Pitassi, Richard Zemel (Princeton University, Columbia University, Harvard University, University of Toronto, 2023) 🔥🔥🔥🔥🔥
 
 ## Papers Time Series
 
