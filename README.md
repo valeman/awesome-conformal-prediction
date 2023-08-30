@@ -771,7 +771,7 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 25. [PySloth - Python package for Probabilistic Prediction](https://github.com/PySloth/pysloth) by Valery Manokhin 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 26. [Conformal Prediction in KNIME](https://hub.knime.com/tuwelofstrom/spaces/Predicting%20with%20Confidence/latest/~h8R_oa6iPRTssrYs/) by Tuwe Löfström and Redfield AB (2022) 
 27. [Nonconformist](https://github.com/donlnz/nonconformist) by Henrik Linusson (2015) 🔥🔥🔥🔥🔥
-28. [SKTime](https://www.sktime.org/en/stable/api_reference/auto_generated/sktime.forecasting.conformal.ConformalIntervals.html?highlight=Conformal#sktime.forecasting.conformal.ConformalIntervals) by Franz Kiraly (2022)
+28. [SKTime](https://www.sktime.net/en/latest/api_reference/auto_generated/sktime.forecasting.conformal.ConformalIntervals.html) by Franz Kiraly (2022)
 29. [NeuralProphet](https://github.com/ourownstory/neural_prophet/blob/main/tutorials/feature-use/uncertainty_conformal_prediction.ipynb) (2022) 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 30. [River](https://github.com/online-ml/river/blob/0506ad73e45403638f13d66c6b2d71920d307461/river/conf/jackknife.py#L9) 2022
 31. [TorchUQ](https://github.com/TorchUQ/torchuq/blob/5335c5948385c7b9bde4baefc9399d79a7cb07ef/docs/tutorials/1_c_1_conformal/1_c_1_conformal.rst#L17) (2022)
