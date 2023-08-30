@@ -769,7 +769,7 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 23. [Ensemble Conformalized Quantile Regression for Probabilistic Time Series Forecasting](https://github.com/FilippoMB/Ensemble-Conformalized-Quantile-Regression) Vilde Jensen, Filippo Maria Bianchi and Stian Norman Anfinsen (2022) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 24. [Conformalized Online Learning: Online Calibration Without a Holdout Set](https://github.com/Shai128/rci) by Shai Feldman, Stephen Bates and Yaniv Romano (2022). TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 25. [PySloth - Python package for Probabilistic Prediction](https://github.com/PySloth/pysloth) by Valery Manokhin 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
-26. [Conformal Prediction in KNIME](https://hub.knime.com/tuwelofstrom/spaces/Public/latest/Conformal%20Prediction~kFOgjfgw9wuw1ULw/) 
+26. [Conformal Prediction in KNIME](https://hub.knime.com/tuwelofstrom/spaces/Predicting%20with%20Confidence/latest/~h8R_oa6iPRTssrYs/) by Tuwe Löfström and Redfield AB (2022) 
 27. [Nonconformist](https://github.com/donlnz/nonconformist) by Henrik Linusson (2015) 🔥🔥🔥🔥🔥
 28. [SKTime](https://www.sktime.org/en/stable/api_reference/auto_generated/sktime.forecasting.conformal.ConformalIntervals.html?highlight=Conformal#sktime.forecasting.conformal.ConformalIntervals) by Franz Kiraly (2022)
 29. [NeuralProphet](https://github.com/ourownstory/neural_prophet/blob/main/tutorials/feature-use/uncertainty_conformal_prediction.ipynb) (2022) 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
@@ -781,6 +781,7 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 35. [https://github.com/mikekeith52/scalecast](https://github.com/mikekeith52/scalecast) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 36. [Puncc (Predictive uncertainty calibration and conformalization)](https://github.com/deel-ai/puncc) 🔥🔥🔥🔥🔥
 37. [plot_utils - Plotting library for conformal prediction metrics, intended to facilitate fast testing in e.g. notebooks](https://github.com/pharmbio/plot_utils) 🔥🔥🔥🔥🔥
+38. [calibrated-explanations - Calibrated Explanations for Machine Learning Models using Venn-Abers and Conformal Predictive Systems](https://github.com/Moffran/calibrated_explanations) by Helena Löfström (2023) 
 
 ## R
 1. [Conformal Prediction ih tidymodels](https://github.com/tidymodels/tidymodels.org/pull/23) by Max Kuhn (Posit/RStudio, 2023) [video](https://www.youtube.com/watch?v=3omi4lm1da0) 🔥🔥🔥🔥🔥
