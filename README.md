@@ -184,7 +184,7 @@ Jelle Van Miltenburg (KTH ROYAL INSTITUTE OF TECHNOLOGY, 2018)
 
 1. [A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification](https://arxiv.org/pdf/2107.07511.pdf) by Anastasios N. Angelopoulos and Stephen Bates (2021) [Video](https://www.youtube.com/watch?v=nql000Lu_iE&t=1786s) [Code](https://github.com/aangelopoulos/conformal-prediction) 🔥🔥🔥🔥
 2. [A Tutorial on Conformal Predictive Distributions](https://www.youtube.com/watch?v=FUi5jklGvvo&t=3s) by Paolo Toccaceli (2020) 🔥🔥🔥🔥
-3. [Conformal Predication Tutorial](https://www.youtube.com/watch?v=0MsGri8nmJQ) by Henrik Linusson (2021) 🔥🔥🔥🔥
+3. [Conformal Prediction Tutorial](https://www.youtube.com/watch?v=0MsGri8nmJQ) by Henrik Linusson (2021) 🔥🔥🔥🔥
 4. [Henrik Linusson: Conformal Prediction](https://www.youtube.com/watch?v=lQxH-zXrOwI&t=1522s) by Henrik Linusson (2020)  🔥🔥🔥🔥
 5. [Predicting with Confidence - Henrik Boström](https://www.youtube.com/watch?v=eXU-64dwHmA) by Henrik Boström (2016)  🔥🔥🔥🔥
 6. [Venn Predictors Tutorial](https://www.youtube.com/watch?v=KsQpkjl7u1w) by Ulf Johansson, Cecilia Sönströd, Tuve Löfström, and Henrik Boström (2021)  🔥🔥🔥🔥
