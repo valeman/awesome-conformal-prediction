@@ -177,9 +177,9 @@ Jelle Van Miltenburg (KTH ROYAL INSTITUTE OF TECHNOLOGY, 2018)
 23. [Nonconformity Measures and Ensemble Strategies - An Analysis of Conformal Predictor Efficiency and Validity](http://su.diva-portal.org/smash/get/diva2:1547120/FULLTEXT01.pdf), PhD thesis by Henrik Linusson (Stockholm University, 2021) 🔥🔥🔥🔥🔥
 24. [Determine and explain confidence in predicting violations on inland ships in the Netherlands](https://repository.tudelft.nl/islandora/object/uuid:e0a9bb58-98ab-4c00-96ae-8701046a8012) by Bakker, Paul (TU Delft, 2020)
 25. [Machine Learning with Conformal Prediction for Predictive Maintenance tasks in Industry 4.0](https://www.diva-portal.org/smash/get/diva2:1765779/FULLTEXT01.pdf) by Shuzhou Liu, Mulahuko Mpova (Jönköping University, 2023).
-26. [Benchmarking conformal prediction methods for time series regression](https://github.com/valeman/awesome-conformal-prediction/blob/main/BScThesis_DerckPrinzhorn.pdf) by Derck W.E. Prinzhorn (2023)
+26. [Benchmarking conformal prediction methods for time series regression](https://github.com/valeman/awesome-conformal-prediction/blob/main/BScThesis_DerckPrinzhorn.pdf) by Derck W.E. Prinzhorn (2023) [code](https://github.com/dweprinz/Benchmarking-conformal-prediction-methods-for-time-series-regression) 🔥🔥🔥🔥🔥
 27. [Conformal Prediction Methods in Finance](https://impa.br/wp-content/uploads/2022/11/Projeto_Final_Joao-Vitor-Romano.pdf) by Finance João Vitor Romano (Instituto de Matemática Pura e Aplicada, Brazil, 2022) 🔥🔥🔥🔥🔥
-28. [An Active Learning Approach for Reject Inference in Credit Scoring using Conformal Prediction Intervals on Real and Semi-Artificial Data] (https://github.com/MaximilianSuliga/Conformal-Active-Learning-for-Reject-Inference) by Maximilian Suliga (Humboldt University of Berlin, 2023). 🔥🔥🔥🔥🔥
+28. [An Active Learning Approach for Reject Inference in Credit Scoring using Conformal Prediction Intervals on Real and Semi-Artificial Data](https://github.com/MaximilianSuliga/Conformal-Active-Learning-for-Reject-Inference) by Maximilian Suliga (Humboldt University of Berlin, 2023). 🔥🔥🔥🔥🔥
 
 ## Tutorials
 
