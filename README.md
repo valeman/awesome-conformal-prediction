@@ -611,6 +611,7 @@ Niccolo` Ajroldia, Jacopo Diquigiovannib, Matteo Fontanac, Simone Vantinia (2022
 19. [Amazon Fortuna](https://aws-fortuna.readthedocs.io/en/latest/examples/enbpi_ts_regression.html)
 20. [Improved Online Conformal Prediction via Strongly Adaptive Online Learning](https://arxiv.org/abs/2302.07869) by Aadyot Bhatnagar, Huan Wang, Caiming Xiong, Yu Bai (2023) [code](https://github.com/salesforce/online_conformal) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 21. [Conformal Prediction for Time Series with Modern Hopfield Networks](https://arxiv.org/pdf/2303.12783.pdf) by Andreas Auer, Martin Gauch, Daniel Klotz, Sepp Hochreiter (Johannes Kepler University, Linz, 2023) 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+22. [Sequential Predictive Conformal Inference for Time Series](https://arxiv.org/abs/2212.03463) by Chen Xu, Yao Xie (Georgia Tech) [code](https://github.com/hamrel-cxu/SPCI-code/tree/main) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 
 ## Presentation Slides
 1. [Machine Learning for Probabilistic Prediction](https://github.com/valeman/awesome-conformal-prediction/blob/main/Machine%20Learning%20for%20Probabilistic%20Prediction.pdf) by Valery Manokhin, 2022
