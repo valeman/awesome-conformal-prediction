@@ -86,53 +86,30 @@ What about the industry one might ask - Conformal Prediction already for several
 
 ## [Table of Contents]()
 
-* [Events](#events)
-
-* [Books](#books)
-
-* [PhD and MSc Theses](#theses)
-
-* [Videos](#videos) 
- 
-* [Papers](#papers)
-
-* [Papers Time Series](#papers-time-series)
-
-* [Articles](#articles)
-
-* [Kaggle](#kaggle)
-
-* [Tutorials](#tutorials)
-
-* [Courses](#courses)
-
-* [Presentation_slides](#presentation-slides)
-
-* [Researchers](#researchers)
-
-* [Websites](#websites)
-
-* [Twitter](#twitter)
-
-* [TikTok](#tiktok)
-
-* [Conferences](#conferences)
-
-* [Python](#python)  
-
-* [R](#r)
-
-* [Julia](#julia) 
-
-* [Other Languages](#other-languages)
-
-* [AI platforms](#ai-platforms)
-
-* [Patents](#patents)
-
-* [Miscellaneous](#miscellaneous)
-
-* [Contributing](#contributing) 
+- [Awesome Conformal Prediction  ](#awesome-conformal-prediction--)
+  - [Table of Contents](#table-of-contents)
+  - [Events](#events)
+  - [Books](#books)
+  - [Theses](#theses)
+  - [Tutorials](#tutorials)
+  - [Courses](#courses)
+  - [Videos](#videos)
+  - [Papers](#papers)
+  - [Papers Time Series](#papers-time-series)
+  - [Presentation Slides](#presentation-slides)
+  - [Researchers](#researchers)
+  - [Articles](#articles)
+  - [Kaggle](#kaggle)
+  - [Websites](#websites)
+  - [Twitter](#twitter)
+  - [TikTok](#tiktok)
+  - [Conferences \& Workshops](#conferences--workshops)
+  - [Python](#python)
+  - [R](#r)
+  - [Julia](#julia)
+  - [Other Languages](#other-languages)
+  - [AI platforms](#ai-platforms)
+  - [Patents](#patents)
 
 
 ## Events
@@ -796,7 +773,7 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 
 ## R
 1. [Conformal Prediction ih tidymodels](https://github.com/tidymodels/tidymodels.org/pull/23) by Max Kuhn (Posit/RStudio, 2023) [video](https://www.youtube.com/watch?v=3omi4lm1da0) 🔥🔥🔥🔥🔥
-2.  [Modeltime](https://github.com/business-science/modeltime/issues/173#issuecomment-1664681578) (2023) by Matt Dancho (Business Science, 2023) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥 
+2. [Modeltime](https://github.com/business-science/modeltime/issues/173#issuecomment-1664681578) (2023) by Matt Dancho (Business Science, 2023) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥 
 3. [Conformal Inference R Project](https://github.com/ryantibs/conformal) maintained by Ryan Tibshirani (2016) 🔥🔥🔥🔥🔥
 4. [Prediction Bands](https://github.com/rizbicki/predictionBands) by Rafael Izbicki and Benjamin LeRoy (2019)
 5. [Conformal: an R package to calculate prediction errors in the conformal prediction framework](https://github.com/isidroc/conformal/) by Isidro Cortes, 2019
@@ -813,7 +790,7 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 16. [Localized Conformal Prediction - LCP](https://github.com/LeyingGuan/LCP) 
 17. [conformalbayes - Jackknife(+) Predictive Intervals for Bayesian Models](https://github.com/CoryMcCartan/conformalbayes) (2022)
 18. [conformal.fd Conformal inference prediction regions for Multiple Functional response regression](https://github.com/paolo-vergo/conformal.fd) (2021)
-19. [Prediction intervals by conformal inference with marginaleffects](https://arelbundock.com/marginaleffects_conformal.html) by Vincent Arel-Bundock (2023)
+19. [Conformal prediction for 80+ classes of `R` models with the `marginaleffects` package](https://marginaleffects.com/articles/conformal.html) by Vincent Arel-Bundock (2023)
 
 ## Julia
 
