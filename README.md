@@ -814,7 +814,7 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 16. [Localized Conformal Prediction - LCP](https://github.com/LeyingGuan/LCP) 
 17. [conformalbayes - Jackknife(+) Predictive Intervals for Bayesian Models](https://github.com/CoryMcCartan/conformalbayes) (2022)
 18. [conformal.fd Conformal inference prediction regions for Multiple Functional response regression](https://github.com/paolo-vergo/conformal.fd) (2021)
-19. [Prediction intervals by conformal inference with marginaleffects](https://arelbundock.com/marginaleffects_conformal.html) by Vincent Arel-Bundock (2023)
+19. [Conformal prediction for 80+ classes of `R` models with the `marginaleffects` package](https://marginaleffects.com/articles/conformal.html) by Vincent Arel-Bundock (2023)
 
 ## Julia
 
