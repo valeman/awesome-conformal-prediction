@@ -592,6 +592,7 @@ Under Standard and Feedback Covariate Shift](https://openreview.net/pdf?id=ORxBE
 266. [Adaptive Conformal Prediction by Reweighting Nonconformity Scores](https://arxiv.org/pdf/2303.12695.pdf) by Salim I. Amoukou and Nicolas J-B. Brunel and Nicolas J-B. Brunel (University Paris Saclay, Stellantis Paris, Quantmetry Paris, 2023) [code](https://github.com/salimamoukou/ACPI) 🔥🔥🔥🔥🔥
 267. [Copula-based conformal prediction for Multi-Target Regression](https://arxiv.org/abs/2101.12002) by Soundouss Messoudi, Sébastien Destercke, Sylvain Rousseau (2021) [code](https://github.com/M-Soundouss/CopulaConformalMTR) 🔥🔥🔥🔥🔥
 268. [Conformal Meta-learners for Predictive Inference of Individual Treatment Effects](https://arxiv.org/abs/2308.14895) by Ahmed Alaa, Zaid Ahmad, and Mark van der Laan (2023) [code](https://github.com/AlaaLab/conformal-metalearners) 🔥🔥🔥🔥🔥
+269. [Adaptive conformal classification with noisy labels](https://arxiv.org/pdf/2309.05092.pdf) by Matteo Sesia,  Y. X. Rachel Wang†, Xin Tong [code](https://github.com/msesia/conformal-label-noise) 🔥🔥🔥🔥🔥
 
 ## Papers Time Series
 
