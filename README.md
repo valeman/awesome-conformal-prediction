@@ -137,10 +137,6 @@ What about the industry one might ask - Conformal Prediction already for several
 
 ## Events
 
-![COPA conformal prediction conference](https://github.com/valeman/awesome-conformal-prediction/blob/11c8de9264bca9decc57b61bc56364fe9b6f389f/D46EEBF2-C6B0-4040-8F6B-AEBA0E6DB430.jpeg)
-
-[The 12th Symposium on Conformal and Probabilistic Prediction with Applications](https://copa-conference.com) is the main conference on Conformal Prediction and takes place in Cyprus. PAPER SUBMISSIONS ARE OPEN.
-
 ## Books
 
 1. [Practical Guide to Applied Conformal Prediction: Learn and apply the best uncertainty frameworks to your industry applications](https://a.co/d/9guwCTm) by Valeriy Manokhin (2024) 🔥🔥🔥🔥🔥
