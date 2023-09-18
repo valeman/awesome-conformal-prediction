@@ -589,6 +589,8 @@ Under Standard and Feedback Covariate Shift](https://openreview.net/pdf?id=ORxBE
 267. [Copula-based conformal prediction for Multi-Target Regression](https://arxiv.org/abs/2101.12002) by Soundouss Messoudi, Sébastien Destercke, Sylvain Rousseau (2021) [code](https://github.com/M-Soundouss/CopulaConformalMTR) 🔥🔥🔥🔥🔥
 268. [Conformal Meta-learners for Predictive Inference of Individual Treatment Effects](https://arxiv.org/abs/2308.14895) by Ahmed Alaa, Zaid Ahmad, and Mark van der Laan (2023) [code](https://github.com/AlaaLab/conformal-metalearners) 🔥🔥🔥🔥🔥
 269. [Adaptive conformal classification with noisy labels](https://arxiv.org/pdf/2309.05092.pdf) by Matteo Sesia,  Y. X. Rachel Wang†, Xin Tong [code](https://github.com/msesia/conformal-label-noise) 🔥🔥🔥🔥🔥
+270. [Heteroskedastic conformal regression](https://arxiv.org/pdf/2309.08313.pdf) by NICOLAS DEWOLF, BERNARD DE BAETS AND WILLEM WAEGEMAN (2023) 🔥🔥🔥🔥🔥 (UGent, 2023)
+271. [Closing the Loop on Runtime Monitors with Fallback-Safe MPC](https://arxiv.org/pdf/2309.08603.pdf) by Rohan Sinha, Edward Schmerling, and Marco Pavone (Stanford, 2023) 🔥🔥🔥🔥🔥
 
 ## Papers Time Series
 
