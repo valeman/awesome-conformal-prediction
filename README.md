@@ -400,7 +400,7 @@ Jiao Gu, Huaibo Liu, Chaoqun Ma, Lei Li, Chun Zhu, Christ Glorieux, Guoqing Chen
 89. [Conformal predictive decision making](http://proceedings.mlr.press/v91/vovk18b/vovk18b.pdf) by Vladimir Vovk and Claus Bendtsen (2018).
 90. [The Lifecycle of a Statistical Model: Model Failure Detection, Identification, and Refitting](https://arxiv.org/pdf/2202.04166.pdf) by Alnur Ali1, Maxime Cauchois and John C. Duchi (Stanford, 2022)
 91. [E-values: Calibration, combination, and applications](https://arxiv.org/pdf/1912.06116.pdf) by Vladimir Vovk (Royal Holloway) and Ruodu Wang (University of Waterloo) (2019)
-92. [Conformal Prediction Sets with Limited False Positives](https://arxiv.org/pdf/2202.07650.pdf) by Adam Fisch, Tal Schuster, Tommi Jaakkola and Regina Barzilay (MIT / Google Research, 2022)
+92. [Conformal Prediction Sets with Limited False Positives](https://arxiv.org/pdf/2202.07650.pdf) by Adam Fisch, Tal Schuster, Tommi Jaakkola and Regina Barzilay [code](https://github.com/ajfisch/conformal-fp) (MIT / Google Research, 2022) 🔥🔥🔥🔥🔥
 93. [Adaptive Conformal Predictions for Time Series](https://arxiv.org/pdf/2202.07282.pdf) by Margaux Zaffran, Aymeric Dieuleveut, Olivier Fe ́ron, Yannig Goude,  and Julie Josse (EDF / INRIA / CMAP, France, 2022) 🔥🔥🔥🔥🔥 [Code](https://github.com/mzaffran/AdaptiveConformalPredictionsTimeSeries)
 94. [Ensemble Conformalized Quantile Regression for
 Probabilistic Time Series Forecasting](https://arxiv.org/pdf/2202.08756v1.pdf) by Vilde Jensen, Filippo Maria Bianchi, Stian Norman Anfinsen (Arctic University of Norway, 2022) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥 [Python Code](https://github.com/FilippoMB/Ensemble-Conformalized-Quantile-Regression)
