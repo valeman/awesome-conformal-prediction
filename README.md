@@ -639,6 +639,7 @@ Niccolo` Ajroldia, Jacopo Diquigiovannib, Matteo Fontanac, Simone Vantinia (2022
 19. [Adaptive Conformal Predictions for Time Series](https://github.com/valeman/awesome-conformal-prediction/blob/main/Adaptive%20Conformal%20Predictions%20for%20Time%20Series.pdf) by Margaux Zaffran (ICML,2021)
 20. [EnbPI poster](https://github.com/valeman/awesome-conformal-prediction/blob/main/EnbPI_poster.pdf) by Chen Xu, Yao Xie (2021)
 21. [Machine Learning for Probabilistic Prediction](https://www.researchgate.net/publication/370012303_Machine_Learning_for_Probabilistic_Prediction) by Valery Manokhin (2023)
+22. [Conformal Inference with Tidymodels](https://topepo.github.io/posit-2023-conformal/#/title-slide) by Max Kuhn (posit conference 2023)
 
 
 ## Researchers
