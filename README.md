@@ -1,6 +1,6 @@
 # Awesome Conformal Prediction [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![DOI](https://zenodo.org/badge/436989758.svg)](https://zenodo.org/badge/latestdoi/436989758)
 
-Due to free tier limits of Slack, [Slack for Awesome Conformal Prediction](https://join.slack.com/t/awesomeconformalpred) is now invitation-only. If you are Conformal Prediction researcher or practitioner who have published papers, articles, blogposts etc about Conformal Prediction please reach out to rahul_vishwakarma@icloud.com 
+Due to free tier limits of Slack, [Slack for Awesome Conformal Prediction](https://join.slack.com/t/awesomeconformalpred) is now invitation-only. If you are Conformal Prediction researcher or practitioner who have published papers, articles, tutorials, code or made YouTube videos about Conformal Prediction please reach out to rahul_vishwakarma@icloud.com via email and link to the published materials to get invitation link.
 
 **Discover the Ultimate Conformal Prediction Resource: All-in-One and Expertly Curated** 🌟 🌟 🌟 🌟 🌟
 
