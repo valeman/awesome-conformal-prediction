@@ -591,6 +591,7 @@ Under Standard and Feedback Covariate Shift](https://openreview.net/pdf?id=ORxBE
 270. [Heteroskedastic conformal regression](https://arxiv.org/pdf/2309.08313.pdf) by NICOLAS DEWOLF, BERNARD DE BAETS AND WILLEM WAEGEMAN (2023) 🔥🔥🔥🔥🔥 (UGent, 2023)
 271. [Closing the Loop on Runtime Monitors with Fallback-Safe MPC](https://arxiv.org/pdf/2309.08603.pdf) by Rohan Sinha, Edward Schmerling, and Marco Pavone (Stanford, 2023) 🔥🔥🔥🔥🔥
 272. [Conformal Temporal Logic Planning using Large Language Models: Knowing When to Do What and When to Ask for Help](https://arxiv.org/abs/2309.10092) [project website](https://ltl-llm.github.io) by Jun Wang, Jiaming Tong, Kaiyuan Tan, Yevgeniy Vorobeychik, Yiannis Kantaros (Washington University in St.Louis and University of Zurich, 2023) 🔥🔥🔥🔥🔥
+273. [Simultaneous regression and classification for drug sensitivity prediction using an advanced random forest method](https://www.nature.com/articles/s41598-022-17609-x) [code](https://github.com/unisb-bioinf/Conformal-Drug-Sensitivity-Prediction) by Kerstin Lenhof, Lea Eckhart, Nico Gerstner, Tim Kehl & Hans-Peter Lenhof (Saarland University, 2022) 🔥🔥🔥🔥🔥
 
 ## Papers Time Series
 
