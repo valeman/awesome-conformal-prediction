@@ -176,6 +176,9 @@ Jelle Van Miltenburg (KTH ROYAL INSTITUTE OF TECHNOLOGY, 2018)
 27. [Conformal Prediction Methods in Finance](https://impa.br/wp-content/uploads/2022/11/Projeto_Final_Joao-Vitor-Romano.pdf) by Finance João Vitor Romano (Instituto de Matemática Pura e Aplicada, Brazil, 2022) 🔥🔥🔥🔥🔥
 28. [An Active Learning Approach for Reject Inference in Credit Scoring using Conformal Prediction Intervals on Real and Semi-Artificial Data](https://github.com/MaximilianSuliga/Conformal-Active-Learning-for-Reject-Inference) by Maximilian Suliga (Humboldt University of Berlin, 2023)
 29. [Confidence Predictions in Pharmaceutical Sciences](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1787351&dswid=-7234) by Staffan Arvidsson McShane (Uppsala University, Sweden, 2023) 🔥🔥🔥🔥🔥
+30. [Conform With the Wind Processing short-term ensemble forecasts with conformal based methods
+for probabilistic wind-speed forecasting](https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=9130213&fileOId=9130294), MSc thesis by Simon Althoff (Lund University, 2023) 
+
 
 ## Tutorials
 
