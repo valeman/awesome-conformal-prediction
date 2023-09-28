@@ -593,6 +593,7 @@ Under Standard and Feedback Covariate Shift](https://openreview.net/pdf?id=ORxBE
 271. [Closing the Loop on Runtime Monitors with Fallback-Safe MPC](https://arxiv.org/pdf/2309.08603.pdf) by Rohan Sinha, Edward Schmerling, and Marco Pavone (Stanford, 2023) 🔥🔥🔥🔥🔥
 272. [Conformal Temporal Logic Planning using Large Language Models: Knowing When to Do What and When to Ask for Help](https://arxiv.org/abs/2309.10092) [project website](https://ltl-llm.github.io) by Jun Wang, Jiaming Tong, Kaiyuan Tan, Yevgeniy Vorobeychik, Yiannis Kantaros (Washington University in St.Louis and University of Zurich, 2023) 🔥🔥🔥🔥🔥
 273. [Simultaneous regression and classification for drug sensitivity prediction using an advanced random forest method](https://www.nature.com/articles/s41598-022-17609-x) [code](https://github.com/unisb-bioinf/Conformal-Drug-Sensitivity-Prediction) by Kerstin Lenhof, Lea Eckhart, Nico Gerstner, Tim Kehl & Hans-Peter Lenhof (Saarland University, 2022) 🔥🔥🔥🔥🔥
+274. [Conformalized Quantile Regression](https://arxiv.org/abs/1905.03222) by Yaniv Romano, Evan Patterson, Emmanuel J. Candès (Stanford, 2019) [code](Conformalized Quantile Regression](https://github.com/yromano/cqr) [project](https://sites.google.com/view/cqr) 🔥🔥🔥🔥🔥
 
 ## Papers Time Series
 
@@ -644,6 +645,7 @@ Niccolo` Ajroldia, Jacopo Diquigiovannib, Matteo Fontanac, Simone Vantinia (2022
 22. [Machine Learning for Probabilistic Prediction](https://www.researchgate.net/publication/370012303_Machine_Learning_for_Probabilistic_Prediction) by Valery Manokhin (2023) 🔥🔥🔥🔥🔥
 23. [Conformal Inference with Tidymodels](https://topepo.github.io/posit-2023-conformal/#/title-slide) by Max Kuhn (posit conference 2023) 🔥🔥🔥🔥🔥
 24. [Graceful handling of large imbalanced datasets using Conformal Prediction](https://bigchem.eu/sites/default/files/AZ_school_Norinder_public.pdf) by Ulf Norinder and Fredrik Svensson 🔥🔥🔥🔥🔥
+25. [Conformalized Quantile Regression](https://arxiv.org/abs/1905.03222) by Yaniv Romano, Evan Patterson, Emmanuel J. Candès (Stanford, 2019)
 
 
 ## Researchers
