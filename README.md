@@ -597,6 +597,7 @@ Under Standard and Feedback Covariate Shift](https://openreview.net/pdf?id=ORxBE
 272. [Conformal Temporal Logic Planning using Large Language Models: Knowing When to Do What and When to Ask for Help](https://arxiv.org/abs/2309.10092) [project website](https://ltl-llm.github.io) by Jun Wang, Jiaming Tong, Kaiyuan Tan, Yevgeniy Vorobeychik, Yiannis Kantaros (Washington University in St.Louis and University of Zurich, 2023) 🔥🔥🔥🔥🔥
 273. [Simultaneous regression and classification for drug sensitivity prediction using an advanced random forest method](https://www.nature.com/articles/s41598-022-17609-x) [code](https://github.com/unisb-bioinf/Conformal-Drug-Sensitivity-Prediction) by Kerstin Lenhof, Lea Eckhart, Nico Gerstner, Tim Kehl & Hans-Peter Lenhof (Saarland University, 2022) 🔥🔥🔥🔥🔥
 274. [Conformalized Quantile Regression](https://arxiv.org/abs/1905.03222) by Yaniv Romano, Evan Patterson, Emmanuel J. Candès (Stanford, 2019) [code](Conformalized Quantile Regression](https://github.com/yromano/cqr) [project](https://sites.google.com/view/cqr) 🔥🔥🔥🔥🔥
+275. [Fast nonlinear vector quantile regression](https://arxiv.org/pdf/2205.14977.pdf) by Aviv A. Rosenberg, Sanketh Vedula, Yaniv Romano and Alex M. Bronstein (Technion, 2023) [code](https://github.com/vistalab-technion/vqr) 🔥🔥🔥🔥🔥
 
 ## Papers Time Series
 
