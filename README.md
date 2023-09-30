@@ -600,6 +600,7 @@ Under Standard and Feedback Covariate Shift](https://openreview.net/pdf?id=ORxBE
 275. [Fast nonlinear vector quantile regression](https://arxiv.org/pdf/2205.14977.pdf) by Aviv A. Rosenberg, Sanketh Vedula, Yaniv Romano and Alex M. Bronstein (Technion, 2023) [code](https://github.com/vistalab-technion/vqr) 🔥🔥🔥🔥🔥
 276. [Testing for Outliers with Conformal p-values](https://arxiv.org/abs/2104.08279) by Stephen Bates, Emmanuel Candes,Lihua Lei, Yaniv Romano,Matteo Sesia (Berkeley/Stanford/Technion, 2022) [code](https://github.com/msesia/conditional-conformal-pvalues) 🔥🔥🔥🔥🔥
 277. [Achieving Risk Control in Online Learning Settings](https://arxiv.org/abs/2205.09095) by Shai Feldman, Liran Ringel, Stephen Bates, Yaniv Romano (Technion/Berkeley, 2021) [code](https://github.com/Shai128/rrc)
+278. [Reliable assessment of uncertainty for appliance recognition in NILM using conformal prediction](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ell2.12860) by Lorin Werthen-Brabants, Tom Dhaene, Dirk Deschrijver (Ghent University, 2023) 🔥🔥🔥🔥🔥
 
 ## Papers Time Series
 
