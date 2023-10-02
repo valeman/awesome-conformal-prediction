@@ -542,7 +542,7 @@ Daniele Foffano, Alessio Russo and Alexandre Proutiere (KTH, 2023)  🔥🔥🔥
 217. [Quantum Conformal Prediction for Reliable Uncertainty Quantification in Quantum Machine Learning](https://arxiv.org/pdf/2304.03398.pdf) by Sangwoo Park and Osvaldo Simeone (2023) [Code](https://github.com/kclip/quantum-CP) QuantumML 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 218. [Probabilistic prediction with locally weighted jackknife predictive system](https://link.springer.com/content/pdf/10.1007/s40747-023-01044-0.pdf#page18) by Di Wang, Ping Wang, Pingping Wang, Cong Wang, Zhen He, Wei Zhang 🔥🔥🔥🔥🔥
 219. [Post-selection Inference for Conformal Prediction: Trading off Coverage for Precision](https://arxiv.org/abs/2304.06158) by Siddhaarth Sarkar, Arun Kumar Kuchibhotla (2023)
-220. [Conformal Regression in Calorie Prediction for Team Jumbo-Visma](https://arxiv.org/abs/2304.03778) by Kristian van Kuijk, Mark Dirksen, Christof Seiler (2023) 🔥🔥🔥🔥🔥
+220. [Conformal Regression in Calorie Prediction for Team Jumbo-Visma](https://arxiv.org/abs/2304.03778) by Kristian van Kuijk, Mark Dirksen, Christof Seiler (2023) 🔥🔥🔥🔥🔥[slides](https://copa-conference.com/presentations/Kristian.pdf)
 221. [Design-based conformal prediction](https://arxiv.org/pdf/2303.01422.pdf) by Jerzy Wieczorek (2023) [code](https://github.com/ColbyStatSvyRsch/surveyConformal-paper-code) 🌟🌟🌟🌟🌟
 222. [Inductive Confidence Machines for Regression](https://link.springer.com/content/pdf/10.1007/3-540-36755-1_29.pdf) by 
 Harris Papadopoulos, Kostas Proedrou, Volodya Vovk, and Alex Gammerman (2002) 🔥🔥🔥🔥🔥📚📚📚📚📚
