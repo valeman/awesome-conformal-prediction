@@ -604,6 +604,7 @@ Under Standard and Feedback Covariate Shift](https://openreview.net/pdf?id=ORxBE
 279. [Online NoVaS Conformal Volatility Prediction](https://proceedings.mlr.press/v204/canete23b/canete23b.pdf) [slides](https://copa-conference.com/presentations/3%20-%20COPA-2023.NoVas.v005.pptx) by Alejandro Canete (University of Chicago) 🔥🔥🔥🔥🔥 (2023)
 280. [Market Implied Conformal Volatility Intervals](https://proceedings.mlr.press/v204/canete23a/canete23a.pdf) [slides](https://copa-conference.com/presentations/COPA-2023.ImpliedIntervals.v005.pptx) by Alejandro Canete (University of Chicago) 🔥🔥🔥🔥🔥 (2023)
 281. [PUNCC: a Python Library for Predictive Uncertainty Calibration and Conformalization](https://proceedings.mlr.press/v204/mendil23a/mendil23a.pdf) [slides](https://copa-conference.com/presentations/COPA_2023_mouhcine_mendil_puncc.pdf) [code](https://github.com/deel-ai/puncc)  🔥🔥🔥🔥🔥
+282. [The Venn-ABERS Testing for Change-Point Detection](https://proceedings.mlr.press/v204/nouretdinov23b/nouretdinov23b.pdf) [slides](https://copa-conference.com/presentations/Nouretdinov_poster_slides.pdf) by Ilia Nouretdinov and Alex Gammerman (Royal Holloway, 2023) 🔥🔥🔥🔥🔥 
 
 ## Papers Time Series
 
