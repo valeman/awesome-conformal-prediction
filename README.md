@@ -303,7 +303,8 @@ for probabilistic wind-speed forecasting](https://lup.lub.lu.se/luur/download?fu
 77. [Quantifying Uncertainty in Time Series Forecasting](https://www.youtube.com/watch?v=Bj1U-Rrxk48) by Max Mergenthaler and Fede Garza (Nixtla, 2023)
 78. [NISS/Merck Meetup on Conformal Inference: Advancing the Boundaries of Machine Learning 4.19.2023](https://www.youtube.com/watch?v=SRbqUae9-_o&t=5631s) (2023) 🔥🔥🔥🔥🔥
 79. [Max Kuhn - The Post-Modeling Model to Fix the Model](https://www.youtube.com/watch?v=3omi4lm1da0) by Max Kuhn (2023)🔥🔥🔥🔥🔥
-80. [ISDFS Talk: Robots that ask for help: Conformal Prediction for LLM Planners](https://www.youtube.com/watch?v=WnQopZKJsTw) by Anirudha Majumdar (Princeton/DeepMind) 🔥🔥🔥🔥🔥(2023) 
+80. [ISDFS Talk: Robots that ask for help: Conformal Prediction for LLM Planners](https://www.youtube.com/watch?v=WnQopZKJsTw) by Anirudha Majumdar (Princeton/DeepMind) 🔥🔥🔥🔥🔥(2023)
+81. [Robots That Ask For Help: Uncertainty Alignment for Large Language Model Planners](https://www.youtube.com/watch?v=xvXrPdPb3Ko) by Allen Z Ren (2023) 🔥🔥🔥🔥🔥
 
 
 ## Papers
