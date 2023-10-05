@@ -609,6 +609,9 @@ Under Standard and Feedback Covariate Shift](https://openreview.net/pdf?id=ORxBE
 284. [Approximating Score-based Explanation Techniques Using Conformal Regression](https://proceedings.mlr.press/v204/alkhatib23a/alkhatib23a.pdf) [slides](https://copa-conference.com/presentations/Amr-Alkhatib.pdf) by Amr Alkhatib, Henrik Bostroem, Sofiane Ennadir, Ulf Johansson (KTH, Joenkoeping University, 2023).
 285. [Mondrian Predictive Systems for Censored Data](https://proceedings.mlr.press/v204/bostrom23a/bostrom23a.pdf) [slides](https://copa-conference.com/presentations/Bostrom.pdf) by Henrik Bostroem, Henrik Linusson, Anders Vesterberg (KTH, Ekkono Solutions AB, Scania CV AB, Sweden 2023).
 286. [Evaluating Machine Translation Quality with Conformal Predictive Distributions](https://proceedings.mlr.press/v204/giovannotti23a/giovannotti23a.pdf) [slides](https://copa-conference.com/presentations/MTpres.pdf) by Patrizio Giovannotti (Royal Holloway, UK) 🔥🔥🔥🔥🔥
+287. [Confidence Calibration for Systems with Cascaded Predictive Modules](https://arxiv.org/pdf/2309.12510.pdf) by Yunye Gong, Yi Yao, Xiao Lin, Ajay Divakaran, Melinda Gervasio (SRI International, 2023)
+288. [TriadNet: Sampling-free predictive intervals for lesional volume in 3D brain MR images](https://arxiv.org/pdf/2307.15638.pdf) by Benjamin Lambert, Florence Forbes, Senan Doyle, and Michel Dojat (Grenoble Institut Neurosciences / Univ. Grenoble Alpes, Pixyl, 2023) 🔥🔥🔥🔥🔥
+289. [Conformal Predictions for longitudinal data](https://arxiv.org/pdf/2310.02863.pdf) by Devesh Batra, Salvatore Mercuri and Raad Khraishi (Data Science & Innovation - NatWest Group, Institute of Finance and Technology, UCL, UK, 2023) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 
 ## Papers Time Series
 
@@ -634,6 +637,7 @@ Niccolo` Ajroldia, Jacopo Diquigiovannib, Matteo Fontanac, Simone Vantinia (2022
 20. [Improved Online Conformal Prediction via Strongly Adaptive Online Learning](https://arxiv.org/abs/2302.07869) by Aadyot Bhatnagar, Huan Wang, Caiming Xiong, Yu Bai (2023) [code](https://github.com/salesforce/online_conformal) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 21. [Conformal Prediction for Time Series with Modern Hopfield Networks](https://arxiv.org/pdf/2303.12783.pdf) by Andreas Auer, Martin Gauch, Daniel Klotz, Sepp Hochreiter (Johannes Kepler University, Linz, 2023) [code](https://github.com/ml-jku/HopCPT) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 22. [Sequential Predictive Conformal Inference for Time Series](https://arxiv.org/abs/2212.03463) by Chen Xu, Yao Xie (Georgia Tech) [code](https://github.com/hamrel-cxu/SPCI-code/tree/main) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+23. [Conformal Predictions for longitudinal data](https://arxiv.org/pdf/2310.02863.pdf) by Devesh Batra, Salvatore Mercuri and Raad Khraishi (Data Science & Innovation - NatWest Group, Institute of Finance and Technology, UCL, UK, 2023) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 
 ## Presentation Slides
 1. [Machine Learning for Probabilistic Prediction, Seattle Artificial Intelligence Workshops Meetup](https://www.researchgate.net/publication/371566526_Machine_Learning_for_Probabilistic_Prediction) by Valery Manokhin, 2023 🔥🔥🔥🔥🔥
