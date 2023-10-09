@@ -139,7 +139,7 @@ What about the industry one might ask - Conformal Prediction already for several
 ## Books
 
 1. [Practical Guide to Applied Conformal Prediction: Learn and apply the best uncertainty frameworks to your industry applications](https://a.co/d/9guwCTm) by Valeriy Manokhin (2024) 🔥🔥🔥🔥🔥
-2. [Algorithmic Learning in a Random World](https://link.springer.com/book/10.1007/b106715) by Vladimir Vovk and Alex Gammerman, also Glenn Shafer (2005). Second edition. 🔥🔥🔥🔥🔥
+2. [Algorithmic Learning in a Random World](https://link.springer.com/book/10.1007/b106715) by Vladimir Vovk and Alex Gammerman, also Glenn Shafer (2022). Second edition. 🔥🔥🔥🔥🔥
 3. [Conformal Prediction for Reliable Machine Learning](https://www.elsevier.com/books/conformal-prediction-for-reliable-machine-learning/balasubramanian/978-0-12-398537-8) by Vineeth Balasubramanian, Shen-Shyang Ho, Vladimir Vovk (2014) 🔥🔥🔥🔥🔥
 4. [Conformal predictive distributions with kernels](https://link.springer.com/chapter/10.1007/978-3-319-99492-5_4) by Vladimir Vovk, Ilia Nouretdinov, Valery Manokhin, Alex Gammerman (Chapter in 'Braverman Readings in Machine Learning. Key Ideas from Inception to Current State', Springer, 2018). 🔥🔥🔥🔥🔥
 5. [Confidence, Likelihood, Probability](https://www.cambridge.org/core/books/confidence-likelihood-probability/143A34F11FB3D6F611F78E27C6D2CA5A) by Tore Schweder and Nils Lid Hjort (University of Oslo, 2016). Not directly about Conformal Prediction but a great book about modern frequentist methods. 🔥🔥🔥🔥🔥
@@ -217,7 +217,7 @@ for probabilistic wind-speed forecasting](https://lup.lub.lu.se/luur/download?fu
     
 ## Courses
 1. [Uncertain: Modern topics in uncertainty estimation](https://uncertaintyclass.com) [YouTube](https://www.youtube.com/watch?app=desktop&v=M3tkM4dcIPA) [Course notes](https://www.cis.upenn.edu/~aaroth/uncertainty-notes.pdf) by Aaron Roth (University of Pennsylvania, 2022) 🔥🔥🔥🔥🔥
-2. [Topics in Modern Statistical Learning](https://github.com/dobriban/Topics-In-Modern-Statistical-Learning) by Edgar Dobriban (Wharton Business School, University of Pennsylvania, 2022) 🔥🔥🔥🔥🔥
+2. [Topics in Modern Statistical Learning](https://github.com/dobriban/Topics-In-Modern-Statistical-Learning) by Edgar Dobriban (Wharton School, University of Pennsylvania, 2022) 🔥🔥🔥🔥🔥
 3. [Theory of Statistics](https://candes.su.domains/teaching/stats300c/) Stanford Statistics course by Prof Emmanuel Candes (2022) 🔥🔥🔥🔥🔥
 4. [36-708 Statistical Methods for Machine Learning](https://www.stat.cmu.edu/~larry/=sml/) Carnegie-Mellon course by Prof Larry Wasserman (2022)
 5. [Course on Conformal Prediction](https://mindfulmodeler.substack.com/p/e-mail-course-on-conformal-prediction) by Christoph Molnar (2022) 
@@ -306,6 +306,7 @@ for probabilistic wind-speed forecasting](https://lup.lub.lu.se/luur/download?fu
 79. [Max Kuhn - The Post-Modeling Model to Fix the Model](https://www.youtube.com/watch?v=3omi4lm1da0) by Max Kuhn (2023)🔥🔥🔥🔥🔥
 80. [ISDFS Talk: Robots that ask for help: Conformal Prediction for LLM Planners](https://www.youtube.com/watch?v=WnQopZKJsTw) by Anirudha Majumdar (Princeton/DeepMind) 🔥🔥🔥🔥🔥(2023)
 81. [Robots That Ask For Help: Uncertainty Alignment for Large Language Model Planners](https://www.youtube.com/watch?v=xvXrPdPb3Ko) by Allen Z Ren (2023) 🔥🔥🔥🔥🔥
+82. [Conformal Prediction & Complex Data Analytics] (https://www.youtube.com/watch?v=PbHsmPupFak) by Matteo Fontana (2023) 🔥🔥🔥🔥🔥
 
 
 ## Papers
@@ -693,12 +694,13 @@ Niccolo` Ajroldia, Jacopo Diquigiovannib, Matteo Fontanac, Simone Vantinia (2022
 20. [Ulf Norinder](https://scholar.google.com/citations?user=i5hUEFwAAAAJ&hl=en), Stockholm University, Sweden
 21. [Ola Spjuth](https://pharmb.io), Uppsala University, Sweden
 22. [Ilia Nouretdinov](https://cml.rhul.ac.uk/people/nouretdinov/index.htm), Royal Holloway, United Kingdom
-23. [Matteo Fontana](https://scholar.google.com/citations?user=U7jODH8AAAAJ&hl=it), Joint Research Centre - European Commission
+23. [Matteo Fontana](https://scholar.google.com/citations?user=U7jODH8AAAAJ&hl=it), Royal Holloway, University of London, United Kingdom
 24. [Yao Xie](https://www2.isye.gatech.edu/~yxie77/), Georgia Institute of Technology
 25. [Zhimeo Ren](https://zhimeir.github.io), University of Chicago
 26. [Rafael Izbicki](http://www.rizbicki.ufscar.br), Federal University of São Carlos (UFSCar) Brazil
 27. [Rina Foygel Barber](https://rinafb.github.io) University of Chicago
 28. [Matteo Sesia](https://msesia.github.io)  University of Southern California, Marshall School of Business
+29. [Simone Vantini](https://scholar.google.it/citations?user=Cy2mv3YAAAAJ&hl=it) MOX - Department of Mathematics, Politecnico di Milano
 
 ## Articles
 1. [Measuring Models' Uncertainty: Conformal Prediction](https://blog.dataiku.com/measuring-models-uncertainty-conformal-prediction) by 
