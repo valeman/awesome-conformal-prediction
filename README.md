@@ -614,6 +614,7 @@ Under Standard and Feedback Covariate Shift](https://openreview.net/pdf?id=ORxBE
 287. [Confidence Calibration for Systems with Cascaded Predictive Modules](https://arxiv.org/pdf/2309.12510.pdf) by Yunye Gong, Yi Yao, Xiao Lin, Ajay Divakaran, Melinda Gervasio (SRI International, 2023)
 288. [TriadNet: Sampling-free predictive intervals for lesional volume in 3D brain MR images](https://arxiv.org/pdf/2307.15638.pdf) by Benjamin Lambert, Florence Forbes, Senan Doyle, and Michel Dojat (Grenoble Institut Neurosciences / Univ. Grenoble Alpes, Pixyl, 2023) 🔥🔥🔥🔥🔥
 289. [Conformal Predictions for longitudinal data](https://arxiv.org/pdf/2310.02863.pdf) by Devesh Batra, Salvatore Mercuri and Raad Khraishi (Data Science & Innovation - NatWest Group, Institute of Finance and Technology, UCL, UK, 2023) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+290. [Distribution-free risk assessment of regression-based machine learning algorithms](https://arxiv.org/pdf/2310.03545.pdf) by Sukrita Singh, Neeraj Sarna, Yuanyuan Li, Yang Lin, Agni Orfanoudaki (University of Oxford / MunichRe, 2023).
 
 ## Papers Time Series
 
