@@ -616,7 +616,8 @@ Under Standard and Feedback Covariate Shift](https://openreview.net/pdf?id=ORxBE
 288. [TriadNet: Sampling-free predictive intervals for lesional volume in 3D brain MR images](https://arxiv.org/pdf/2307.15638.pdf) by Benjamin Lambert, Florence Forbes, Senan Doyle, and Michel Dojat (Grenoble Institut Neurosciences / Univ. Grenoble Alpes, Pixyl, 2023) 🔥🔥🔥🔥🔥
 289. [Conformal Predictions for longitudinal data](https://arxiv.org/pdf/2310.02863.pdf) by Devesh Batra, Salvatore Mercuri and Raad Khraishi (Data Science & Innovation - NatWest Group, Institute of Finance and Technology, UCL, UK, 2023) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 290. [Distribution-free risk assessment of regression-based machine learning algorithms](https://arxiv.org/pdf/2310.03545.pdf) by Sukrita Singh, Neeraj Sarna, Yuanyuan Li, Yang Lin, Agni Orfanoudaki (University of Oxford / MunichRe, 2023).
-
+291. [CONFORMAL PREDICTION FOR DEEP CLASSIFIER VIA LABEL RANKING](https://arxiv.org/pdf/2310.06430.pdf) by Jianguo Huang, Huajun Xi, Linjun Zhang, Huaxiu Yao, Yue Qiu, Hongxin Wei (Southern University of Science and Technology, ShanghaiTech University, Rutgers University, University of North Carolina at Chapel Hill, Chongqing University) 🔥🔥🔥🔥🔥
+ 
 ## Papers Time Series
 
 1. [Conformal prediction interval for dynamic time-series](https://proceedings.mlr.press/v139/xu21h.html) by Chen Xu, Yao Xie (Georgia Tech, 2021) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥 [Python Code](https://github.com/hamrel-cxu/EnbPI) [Video](https://vimeo.com/583595474) [Video ICML2021](https://papertalk.org/papertalks/32044)
