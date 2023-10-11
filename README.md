@@ -617,6 +617,7 @@ Under Standard and Feedback Covariate Shift](https://openreview.net/pdf?id=ORxBE
 289. [Conformal Predictions for longitudinal data](https://arxiv.org/pdf/2310.02863.pdf) by Devesh Batra, Salvatore Mercuri and Raad Khraishi (Data Science & Innovation - NatWest Group, Institute of Finance and Technology, UCL, UK, 2023) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 290. [Distribution-free risk assessment of regression-based machine learning algorithms](https://arxiv.org/pdf/2310.03545.pdf) by Sukrita Singh, Neeraj Sarna, Yuanyuan Li, Yang Lin, Agni Orfanoudaki (University of Oxford / MunichRe, 2023).
 291. [CONFORMAL PREDICTION FOR DEEP CLASSIFIER VIA LABEL RANKING](https://arxiv.org/pdf/2310.06430.pdf) by Jianguo Huang, Huajun Xi, Linjun Zhang, Huaxiu Yao, Yue Qiu, Hongxin Wei (Southern University of Science and Technology, ShanghaiTech University, Rutgers University, University of North Carolina at Chapel Hill, Chongqing University) 🔥🔥🔥🔥🔥
+292. [On the Expected Size of Conformal Prediction Sets](https://arxiv.org/abs/2306.07254) by Guneet S. Dhillon, George Deligiannidis, Tom Rainforth  (University of Oxford, 2023) [code](https://github.com/Guneet-Dhillon/expected-conformal-prediction-set-size)🔥🔥🔥🔥🔥
  
 ## Papers Time Series
 
