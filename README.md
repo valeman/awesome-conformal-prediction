@@ -4,7 +4,7 @@ Due to free tier limits of Slack, [Slack for Awesome Conformal Prediction](https
 
 Fill the form to be considered for access. https://docs.google.com/forms/d/e/1FAIpQLScuNkOz1jq-Qt1OJ8oxsDCLZMdn8TkQluHllxk_GodPC8-w_w/viewform
 
-Preference is given to Conformal Prediction researchrs or practitioners who have published papers, articles, tutorials, code or made YouTube videos about Conformal Prediction.
+Preference is given to Conformal Prediction researchers or practitioners who have published papers, articles, tutorials, code or made YouTube videos about Conformal Prediction.
 
 **Discover the Ultimate Conformal Prediction Resource: All-in-One and Expertly Curated** 🌟 🌟 🌟 🌟 🌟
 
