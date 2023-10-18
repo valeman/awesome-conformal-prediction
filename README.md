@@ -622,6 +622,7 @@ Under Standard and Feedback Covariate Shift](https://openreview.net/pdf?id=ORxBE
 290. [Distribution-free risk assessment of regression-based machine learning algorithms](https://arxiv.org/pdf/2310.03545.pdf) by Sukrita Singh, Neeraj Sarna, Yuanyuan Li, Yang Lin, Agni Orfanoudaki (University of Oxford / MunichRe, 2023).
 291. [CONFORMAL PREDICTION FOR DEEP CLASSIFIER VIA LABEL RANKING](https://arxiv.org/pdf/2310.06430.pdf) by Jianguo Huang, Huajun Xi, Linjun Zhang, Huaxiu Yao, Yue Qiu, Hongxin Wei (Southern University of Science and Technology, ShanghaiTech University, Rutgers University, University of North Carolina at Chapel Hill, Chongqing University) 🔥🔥🔥🔥🔥 [code](https://github.com/ml-stat-Sustech/conformal_prediction_via_label_ranking)
 292. [On the Expected Size of Conformal Prediction Sets](https://arxiv.org/abs/2306.07254) by Guneet S. Dhillon, George Deligiannidis, Tom Rainforth  (University of Oxford, 2023) [code](https://github.com/Guneet-Dhillon/expected-conformal-prediction-set-size)🔥🔥🔥🔥🔥
+293. [Clinical AI tools must convey predictive uncertainty for each individual patient](https://www.nature.com/articles/s41591-023-02562-7) (2023)🔥🔥🔥🔥🔥
  
 ## Papers Time Series
 
@@ -747,6 +748,7 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 35. [Series of Medium articles about Conformal Prediciton (in Portuguese)](https://github.com/gusbruschi13/Conformal-Prediction) by Gustavo Bruschi (2023) 🔥🔥🔥🔥🔥
 36. [Stanford statisticians and Washington Post data scientists build more honest prediction models](https://news.stanford.edu/2021/03/19/honesty-statistical-models/) [Code](https://github.com/washingtonpost/elex-live-model) 🔥🔥🔥🔥🔥
 37. [Jackknife+ — a Swiss knife of Conformal Prediction for regression](https://medium.com/@valeman/jackknife-a-swiss-knife-of-conformal-prediction-for-regression-ce3b56432f4f) by Valeriy Manokhin (2023) 🔥🔥🔥🔥🔥
+38. [Clinical AI tools must convey predictive uncertainty for each individual patient](https://www.nature.com/articles/s41591-023-02562-7) (2023)🔥🔥🔥🔥🔥
 
 
 ## Kaggle
