@@ -623,6 +623,7 @@ Under Standard and Feedback Covariate Shift](https://openreview.net/pdf?id=ORxBE
 291. [CONFORMAL PREDICTION FOR DEEP CLASSIFIER VIA LABEL RANKING](https://arxiv.org/pdf/2310.06430.pdf) by Jianguo Huang, Huajun Xi, Linjun Zhang, Huaxiu Yao, Yue Qiu, Hongxin Wei (Southern University of Science and Technology, ShanghaiTech University, Rutgers University, University of North Carolina at Chapel Hill, Chongqing University) 🔥🔥🔥🔥🔥 [code](https://github.com/ml-stat-Sustech/conformal_prediction_via_label_ranking)
 292. [On the Expected Size of Conformal Prediction Sets](https://arxiv.org/abs/2306.07254) by Guneet S. Dhillon, George Deligiannidis, Tom Rainforth  (University of Oxford, 2023) [code](https://github.com/Guneet-Dhillon/expected-conformal-prediction-set-size)🔥🔥🔥🔥🔥
 293. [Clinical AI tools must convey predictive uncertainty for each individual patient](https://www.nature.com/articles/s41591-023-02562-7) (2023)🔥🔥🔥🔥🔥
+294. [Group-Conditional Conformal Prediction via Quantile Regression Calibration for Crop and Weed Classification](https://openaccess.thecvf.com/content/ICCV2023W/CVPPA/html/Melki_Group-Conditional_Conformal_Prediction_via_Quantile_Regression_Calibration_for_Crop_and_ICCVW_2023_paper.html) by Paul Melki, Lionel Bombrun, Boubacar Diallo, Jérôme Dias, Jean-Pierre Da Costa by EXXACT Robotics (2023) 🔥🔥🔥🔥🔥
  
 ## Papers Time Series
 
