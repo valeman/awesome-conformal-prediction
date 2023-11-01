@@ -461,7 +461,7 @@ Niccolo` Ajroldia, Jacopo Diquigiovannib, Matteo Fontanac, Simone Vantinia (2022
 142. [Conformal Prediction is Robust to Label Noise](https://arxiv.org/pdf/2209.14295.pdf) by Bat-Sheva Einbinder, Stephen Bates, Anastasios N. Angelopoulos, Asaf Gendler, Yaniv Romano (2022)
 143. [Copula Conformal Prediction for Multi-step Time Series Forecasting](https://openreview.net/pdf?id=jCdoLxMZxf) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 144. [Batch Multivalid Conformal Prediction](https://arxiv.org/abs/2209.15145) by Christopher Jung, Georgy Noarov, Ramya Ramalingam, Aaron Roth (Stanford, university of Pensylvania, 2022)
-145. [Selection by Prediction with Conformal p-values](https://arxiv.org/pdf/2210.01408.pdf) by Ying Jin1 and Emmanuel J. Candes, (Stanford, 2022) [Video](https://www.youtube.com/watch?v=YEpvHsHCCvQ)
+145. [Selection by Prediction with Conformal p-values](https://arxiv.org/pdf/2210.01408.pdf) by Ying Jin1 and Emmanuel J. Candes, (Stanford, 2022) [Video](https://www.youtube.com/watch?v=YEpvHsHCCvQ) [code](https://github.com/ying531/selcf_paper)
 146. [Few-Shot Calibration of Set Predictors via Meta-Learned Cross-Validation-Based Conformal Prediction](https://arxiv.org/pdf/2210.03067v1.pdf) by Sangwoo Park, Kfir M. Cohen, Osvaldo Simeone (2022)
 147. [Conformalized Fairness via Quantile Regression](https://web7.arxiv.org/pdf/2210.02015.pdf) by Meichen Liu, Lei Ding,
 Dengdeng Yu, Wulong Liu, Linglong Kong, Bei Jiang (University of Alberta, Noah Arc Huawei, 2022)
