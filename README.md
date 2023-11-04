@@ -749,6 +749,7 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 37. [Jackknife+ — a Swiss knife of Conformal Prediction for regression](https://medium.com/@valeman/jackknife-a-swiss-knife-of-conformal-prediction-for-regression-ce3b56432f4f) by Valeriy Manokhin (2023) 🔥🔥🔥🔥🔥
 38. [Clinical AI tools must convey predictive uncertainty for each individual patient](https://www.nature.com/articles/s41591-023-02562-7) (2023)🔥🔥🔥🔥🔥
 39. [How to use Conformal Prediction](https://kiel.ai/conformal-prediction/) by Yannick Kälber (2023) 🔥🔥🔥🔥🔥
+40. [Model Diagnostics: Prediction Uncertainty](https://piml.medium.com/model-diagnostics-prediction-uncertainty-990ff0bd2c4e) by PiML team, Wells Fargo (2023). 
 
 
 ## Kaggle
