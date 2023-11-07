@@ -622,7 +622,9 @@ Under Standard and Feedback Covariate Shift](https://openreview.net/pdf?id=ORxBE
 294. [Group-Conditional Conformal Prediction via Quantile Regression Calibration for Crop and Weed Classification](https://openaccess.thecvf.com/content/ICCV2023W/CVPPA/html/Melki_Group-Conditional_Conformal_Prediction_via_Quantile_Regression_Calibration_for_Crop_and_ICCVW_2023_paper.html) by Paul Melki, Lionel Bombrun, Boubacar Diallo, Jérôme Dias, Jean-Pierre Da Costa by EXXACT Robotics (2023) 🔥🔥🔥🔥🔥
 295. [Guaranteed Coverage Prediction Intervals with Gaussian Process Regression](https://arxiv.org/abs/2310.15641) by Harris Papadopoulos (2023) 🔥🔥🔥🔥🔥
 296. [Conformal prediction with missing values](https://arxiv.org/abs/2306.02732) by Margaux Zaffran, Aymeric Dieuleveut, Julie Joss, Yaniv Romano (2023) [Video](https://icml.cc/virtual/2023/poster/23530) [summary](https://mzaffran.github.io/assets/files/Posters/cp_na_summary.pdf) [code](https://github.com/mzaffran/ConformalPredictionMissingValues) 🔥🔥🔥🔥🔥
-297. 
+297. [TRIAGE: Characterizing and auditing training data for improved regression](https://arxiv.org/pdf/2310.18970.pdf) by Nabeel Seedat, Jonathan Crabbé, Zhaozhi Qian, Mihaela van der Schaar (University of Cambridge, 2023) [code](https://github.com/vanderschaarlab/Datagnosis) 🔥🔥🔥🔥🔥
+
+
 ## Papers Time Series
 
 1. [Conformal prediction interval for dynamic time-series](https://proceedings.mlr.press/v139/xu21h.html) by Chen Xu, Yao Xie (Georgia Tech, 2021) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥 [Python Code](https://github.com/hamrel-cxu/EnbPI) [Video](https://vimeo.com/583595474) [Video ICML2021](https://papertalk.org/papertalks/32044)
