@@ -307,6 +307,7 @@ for probabilistic wind-speed forecasting](https://lup.lub.lu.se/luur/download?fu
 80. [ISDFS Talk: Robots that ask for help: Conformal Prediction for LLM Planners](https://www.youtube.com/watch?v=WnQopZKJsTw) by Anirudha Majumdar (Princeton/DeepMind) 🔥🔥🔥🔥🔥(2023)
 81. [Robots That Ask For Help: Uncertainty Alignment for Large Language Model Planners](https://www.youtube.com/watch?v=xvXrPdPb3Ko) by Allen Z Ren (2023) 🔥🔥🔥🔥🔥
 82. [Conformal Prediction & Complex Data Analytics] (https://www.youtube.com/watch?v=PbHsmPupFak) by Matteo Fontana (2023) 🔥🔥🔥🔥🔥
+83. [Three Easy Steps to Understand Conformal Prediction (CP), Conformity Score, Python Implementation](https://www.youtube.com/watch?v=oqK6rM8fbkk) by (Dr. Data Science 2023) 🔥🔥🔥🔥🔥
 
 
 ## Papers
