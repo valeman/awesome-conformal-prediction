@@ -309,6 +309,8 @@ for probabilistic wind-speed forecasting](https://lup.lub.lu.se/luur/download?fu
 81. [Robots That Ask For Help: Uncertainty Alignment for Large Language Model Planners](https://www.youtube.com/watch?v=xvXrPdPb3Ko) by Allen Z Ren (2023) 🔥🔥🔥🔥🔥
 82. [Conformal Prediction & Complex Data Analytics] (https://www.youtube.com/watch?v=PbHsmPupFak) by Matteo Fontana (2023) 🔥🔥🔥🔥🔥
 83. [Three Easy Steps to Understand Conformal Prediction (CP), Conformity Score, Python Implementation](https://www.youtube.com/watch?v=oqK6rM8fbkk) by (Dr. Data Science 2023) 🔥🔥🔥🔥🔥
+84. [Rising Stars #8: Clara Wong-Fannjiang (Genentech) - Prediction-Powered Inference](https://www.youtube.com/watch?v=TlFpVpFx7JY)
+85. [Rising Stars #10 - Special Series on Conformal Prediction: Isaac Gibbs (Stanford University) Conformal Inference with Conditional Guarantees](https://www.youtube.com/watch?v=rvYnR0FGxM4)
 
 
 ## Papers
