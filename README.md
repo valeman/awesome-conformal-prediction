@@ -629,6 +629,7 @@ Under Standard and Feedback Covariate Shift](https://openreview.net/pdf?id=ORxBE
 299. [Conformal Prediction for Uncertainty-Aware Planning with Diffusion Dynamics Model](https://openreview.net/pdf?id=VeO03T59Sh) by Jiankai Sun, Jiankai_Sun, Yiqi Jiang, Jianing Qiu, Parth Talpur Nobel, Mykel Kochenderfer, Mac Schwager (Staford, Imperial College, 2023)
 300. [CoDrug: Conformal Drug Property Prediction with Density Estimation under Covariate Shift](https://openreview.net/pdf?id=GgdFLb94Ld) by Siddhartha Laghuvarapu, Zhen Lin, Jimeng Sun (University of Illinois Urbana-Champaign, 2023)
 301. [PAC-Bayes Generalization Certificates for Learned Inductive Conformal Prediction](https://openreview.net/forum?id=URrUpcp6Qh) Apoorva Sharma, Sushant Veer, Asher Hancock, Heng Yang, Marco Pavone, Anirudha Majumdar (NVIDIA Research, Harvard, Princeton, Stanford 2023) 🔥🔥🔥🔥🔥
+302. [Conformal Prediction Sets for Ordinal Classification](https://openreview.net/pdf?id=YI4bn6aAmz) by Prasenjit Dey, Srujana Merugu, Sivaramakrishnan Kaveri (Amazon, 2023) 🔥🔥🔥🔥🔥
 
 
 ## Papers Time Series
