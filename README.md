@@ -20,7 +20,7 @@ Awesome Conformal Prediction takes pride in being cited within the highly acclai
 
 [**Check out my book that can now be preordered on Amazon **](https://a.co/d/fsrQkcY)
 
-![Practical Guide to Applied Conformal Prediction: Learn and apply the best uncertainty frameworks to your industry applications](https://github.com/valeman/awesome-conformal-prediction/blob/main/Practical%20Guide%20to%20Applied%20Conformal%20Prediction%20Learn%20and%20apply%20the%20best%20uncertainty%20frameworks%20to%20your%20industry%20applications.jpg)
+![Practical Guide to Applied Conformal Prediction: Learn and apply the best uncertainty frameworks to your industry applications](https://github.com/valeman/awesome-conformal-prediction/blob/main/Practical%20Guide%20to%20Applied%20Conformal%20Prediction%20Learn%20and%20apply%20the%20best%20uncertainty%20frameworks%20to%20your%20industry%20applications.jpg) Publication date 21 December 2023!
 
 **Connect and Share the Excitement of Conformal Prediction**
 
