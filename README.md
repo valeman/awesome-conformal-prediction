@@ -214,7 +214,8 @@ for probabilistic wind-speed forecasting](https://lup.lub.lu.se/luur/download?fu
 29. [Conformal Prediction: How to quantify uncertainty of machine learning models? ECAS-ENBIS course– ENBIS 2023 Annual conference](https://mzaffran.github.io/assets/files/Talks/Tuto_CP_ENBIS_ECAS.pdf) by Margaux Zaffran 🔥🔥🔥🔥🔥 (2023)
 30. [Conformal Prediction in Genomics](https://github.com/BiolApps/ConformalPrediction/tree/main) by BiolApps (2023)
 31. [Conformal Prediction: A Visual Introduction](https://conformal-prediction.streamlit.app/) in [VISxAI](https://visxai.io/) by Mihir Agarwal, Lalit Chandra Routhu, Zeel B Patel and Nipun Batra (IIT Gandhinagar, IIT Patna, 2023)
-    
+32. [A Conformal Prediction tutorial, an introductive review of the basics](https://conformalpredictionintro.github.io) by Margaux Zaffran (2023)
+        
 ## Courses
 1. [Uncertain: Modern topics in uncertainty estimation](https://uncertaintyclass.com) [YouTube](https://www.youtube.com/watch?app=desktop&v=M3tkM4dcIPA) [Course notes](https://www.cis.upenn.edu/~aaroth/uncertainty-notes.pdf) by Aaron Roth (University of Pennsylvania, 2022) 🔥🔥🔥🔥🔥
 2. [Topics in Modern Statistical Learning](https://github.com/dobriban/Topics-In-Modern-Statistical-Learning) by Edgar Dobriban (Wharton School, University of Pennsylvania, 2022) 🔥🔥🔥🔥🔥
