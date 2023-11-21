@@ -18,7 +18,7 @@ Conformal Prediction has transcended its niche status in just a few years, exper
 
 Awesome Conformal Prediction takes pride in being cited within the highly acclaimed book on Machine Learning, "Probabilistic Machine Learning: Advanced Topics" by leading Google research scientist and best-selling Machine Learning author Kevin Murphy (boasting over 80K Google Scholar citations). Discover the exceptional quality of our resources, as acknowledged within the pages of the machine learning 'bible'.
 
-[**My book 'Practical Guide to Applied Conformal Prediction: Learn and apply the best uncertainty frameworks to your industry applications' can be ordered on Amazon **]
+**My book 'Practical Guide to Applied Conformal Prediction: Learn and apply the best uncertainty frameworks to your industry applications' can be ordered on Amazon **
 
 [**Amazon USA 🇺🇸**](https://www.amazon.com/gp/aw/d/1805122762)
 
