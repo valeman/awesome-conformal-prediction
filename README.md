@@ -630,6 +630,8 @@ Under Standard and Feedback Covariate Shift](https://openreview.net/pdf?id=ORxBE
 301. [PAC-Bayes Generalization Certificates for Learned Inductive Conformal Prediction](https://openreview.net/forum?id=URrUpcp6Qh) Apoorva Sharma, Sushant Veer, Asher Hancock, Heng Yang, Marco Pavone, Anirudha Majumdar (NVIDIA Research, Harvard, Princeton, Stanford 2023) 🔥🔥🔥🔥🔥
 302. [Conformal Prediction Sets for Ordinal Classification](https://openreview.net/pdf?id=YI4bn6aAmz) by Prasenjit Dey, Srujana Merugu, Sivaramakrishnan Kaveri (Amazon, 2023) 🔥🔥🔥🔥🔥
 303. [Beyond Confidence: Reliable Models Should Also Consider Atypicality](https://openreview.net/pdf?id=xDCmlkSavR) by Mert Yuksekgonul, Linjun Zhang, James Zou, Carlos Guestrin (Stanford/Rutgers) [code](https://github.com/mertyg/beyond-confidence-atypicality) 🔥🔥🔥🔥🔥
+304. [On the Out-of-Distribution Coverage of Combining Split Conformal Prediction and Bayesian Deep Learning](https://arxiv.org/abs/2311.12688) by Paul Scemama, Ariel Kapusta (The Mitre Corporation, 2023)
+305. [A powerful rank-based correction to multiple testing under positive dependency](https://arxiv.org/pdf/2311.10900.pdf) by Alexander Timans, Christoph-Nikolas Straehle, Kaspar Sakmann, Eric Nalisnick (Bosch AI, 2023)
 
 
 ## Papers Time Series
