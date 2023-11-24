@@ -143,7 +143,7 @@ What about the industry one might ask - Conformal Prediction already for several
 3. [Conformal Prediction for Reliable Machine Learning](https://www.elsevier.com/books/conformal-prediction-for-reliable-machine-learning/balasubramanian/978-0-12-398537-8) by Vineeth Balasubramanian, Shen-Shyang Ho, Vladimir Vovk (2014) OLD BOOK, largely out of date, no code
 
 ## Theses
-1.  [Machine Learning for Probabilistic Prediction](https://www.researchgate.net/publication/361515440_Machine_Learning_for_Probabilistic_Prediction_PhD_thesis_VALERY_MANOKHIN), PhD Thesis, Valery Manokhin (Royal Holloway, UK, 2022) 🔥🔥🔥🔥🔥 (over 5K reads on Researchgate alone)
+1.  [Machine Learning for Probabilistic Prediction](https://www.researchgate.net/publication/361515440_Machine_Learning_for_Probabilistic_Prediction_PhD_thesis_VALERY_MANOKHIN), PhD Thesis, Valery Manokhin (Royal Holloway, UK, 2022) 🔥🔥🔥🔥🔥 (over 6K reads on Researchgate alone)
 2. [Conformal and Venn Predictors for large, imbalanced and sparse chemoinformatics data](https://pure.royalholloway.ac.uk/portal/files/41316291/2021toccacelipphd.pdf), PhD Thesis, Paolo Toccaceli (Royal Holloway, UK, 2021)
 3. [Competitive online algorithms for probabilistic prediction](https://pure.royalholloway.ac.uk/portal/files/36216771/Thesis_Raisa.pdf), PhD Thesis, Raisa Dzhamtyrova (Royal Holloway, UK, 2020)
 4. [Conformal Prediction and Testing under On-line Compression Models](https://pure.royalholloway.ac.uk/portal/files/20318074/2014fedorovavphd.pdf), PhD Thesis, Valentina Fedorova (Royal Holloway, UK, 2014) 🔥🔥🔥🔥🔥
