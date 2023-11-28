@@ -310,6 +310,7 @@ for probabilistic wind-speed forecasting](https://lup.lub.lu.se/luur/download?fu
 83. [Three Easy Steps to Understand Conformal Prediction (CP), Conformity Score, Python Implementation](https://www.youtube.com/watch?v=oqK6rM8fbkk) by (Dr. Data Science 2023) 🔥🔥🔥🔥🔥
 84. [Rising Stars #8: Clara Wong-Fannjiang (Genentech) - Prediction-Powered Inference](https://www.youtube.com/watch?v=TlFpVpFx7JY)
 85. [Rising Stars #10 - Special Series on Conformal Prediction: Isaac Gibbs (Stanford University) Conformal Inference with Conditional Guarantees](https://www.youtube.com/watch?v=rvYnR0FGxM4)
+86. [Conformal Prediction for Time Series with Modern Hopfield Networks](https://www.youtube.com/watch?v=QhvLaZ1aS6A) by Andreas Auer TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 
 
 ## Papers
