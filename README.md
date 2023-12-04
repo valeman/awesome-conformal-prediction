@@ -138,6 +138,8 @@ What about the industry one might ask - Conformal Prediction already for several
 
 ## Events
 
+Kaggle competition ["Prediction interval competition I: Birth weight."](https://www.kaggle.com/competitions/prediction-interval-competition-i-birth-weight/discussion/459133) an opportunity to learn about and practice conformal prediction 🔥🔥🔥🔥🔥
+
 ## Books
 
 1. [Practical Guide to Applied Conformal Prediction: Learn and apply the best uncertainty frameworks to your industry applications](https://a.co/d/9guwCTm) by Valeriy Manokhin (2024) 🔥🔥🔥🔥🔥 [**Amazon USA 🇺🇸**](https://www.amazon.com/gp/aw/d/1805122762), [**Amazon UK 🇬🇧**](https://www.amazon.co.uk/Practical-Guide-Applied-Conformal-Prediction/dp/1805122762), [**Amazon India 🇮🇳**](https://www.amazon.in/Practical-Guide-Applied-Conformal-Prediction-ebook/dp/B0C2VLR5KS), [**Amazon Germany 🇩🇪**](https://www.amazon.de/Valeriy-Manokhin-ebook/dp/B0C2VLR5KS/), [**Amazon France 🇫🇷**](https://www.amazon.fr/Practical-Guide-Applied-Conformal-Prediction-ebook/dp/B0C2VLR5KS/), [**Amazon Spain 🇪🇸**](https://www.amazon.es/Practical-Guide-Applied-Conformal-Prediction/dp/1805122762), [**Amazon Canada 🇨🇦**](https://www.amazon.ca/Practical-Guide-Applied-Conformal-Prediction-ebook/dp/B0C2VLR5KS/), [**Amazon Japan 🇯🇵**](https://www.amazon.co.jp/Valeriy-Manokhin-ebook/dp/B0C2VLR5KS/) 🔥🔥🔥🔥🔥🚀🚀🚀🚀🚀
