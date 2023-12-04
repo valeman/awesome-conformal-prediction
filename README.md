@@ -138,7 +138,7 @@ What about the industry one might ask - Conformal Prediction already for several
 
 ## Events
 
-Kaggle competition ["Prediction interval competition I: Birth weight."](https://www.kaggle.com/competitions/prediction-interval-competition-i-birth-weight/discussion/459133) an opportunity to learn about and practice conformal prediction 🔥🔥🔥🔥🔥
+1. Kaggle competition ["Prediction interval competition I: Birth weight."](https://www.kaggle.com/competitions/prediction-interval-competition-i-birth-weight/discussion/459133) an opportunity to learn about and practice conformal prediction 🔥🔥🔥🔥🔥
 
 ## Books
 
