@@ -860,7 +860,7 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 1. [Conformal Prediction ih tidymodels](https://github.com/tidymodels/tidymodels.org/pull/23) by Max Kuhn (Posit/RStudio, 2023) [video](https://www.youtube.com/watch?v=3omi4lm1da0) 🔥🔥🔥🔥🔥
 2.  [Modeltime](https://github.com/business-science/modeltime/issues/173#issuecomment-1664681578) (2023) by Matt Dancho (Business Science, 2023) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 3.  [Conformal prediction for 80+ classes of `R` models with the `marginaleffects` package](https://marginaleffects.com/articles/conformal.html) by Vincent Arel-Bundock (2023)  🔥🔥🔥🔥🔥
-4. [AdaptiveConformal](https://github.com/herbps10/AdaptiveConformal) (2023) 🔥🔥🔥🔥🔥
+4. [AdaptiveConformal](https://github.com/herbps10/AdaptiveConformal) (2023) [paper](https://hal.science/hal-04316544/) 🔥🔥🔥🔥🔥
 5. [Conformal Inference R Project](https://github.com/ryantibs/conformal) maintained by Ryan Tibshirani (2016) 🔥🔥🔥🔥🔥
 6. [Prediction Bands](https://github.com/rizbicki/predictionBands) by Rafael Izbicki and Benjamin LeRoy (2019)
 7. [Conformal: an R package to calculate prediction errors in the conformal prediction framework](https://github.com/isidroc/conformal/) by Isidro Cortes, 2019
