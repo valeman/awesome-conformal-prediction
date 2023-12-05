@@ -638,6 +638,7 @@ Under Standard and Feedback Covariate Shift](https://openreview.net/pdf?id=ORxBE
 304. [On the Out-of-Distribution Coverage of Combining Split Conformal Prediction and Bayesian Deep Learning](https://arxiv.org/abs/2311.12688) by Paul Scemama, Ariel Kapusta (The Mitre Corporation, 2023)
 305. [A powerful rank-based correction to multiple testing under positive dependency](https://arxiv.org/pdf/2311.10900.pdf) by Alexander Timans, Christoph-Nikolas Straehle, Kaspar Sakmann, Eric Nalisnick (Bosch AI, 2023)
 306. [Prompt Risk Control: A Rigorous Framework for Responsible Deployment of Large Language Models](https://arxiv.org/pdf/2311.13628.pdf) by Thomas P. Zollo, Todd Morrill, Zhun Deng, Jake C. Snell, Toniann Pitassi, Richard Zemel (Columbia University, 2023) 🔥🔥🔥🔥🔥
+307. [Risk-Aware and Explainable Framework for Ensuring Guaranteed Coverage in Evolving Hardware Trojan Detection](https://arxiv.org/abs/2312.00009) by Rahul Vishwakarma, Amin Rezaei (California State University, 2023) 🔥🔥🔥🔥🔥
 
 
 ## Papers Time Series
