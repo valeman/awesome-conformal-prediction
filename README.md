@@ -771,6 +771,8 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 39. [How to use Conformal Prediction](https://kiel.ai/conformal-prediction/) by Yannick Kälber (2023) 🔥🔥🔥🔥🔥
 40. [Model Diagnostics: Prediction Uncertainty](https://piml.medium.com/model-diagnostics-prediction-uncertainty-990ff0bd2c4e) by PiML team, Wells Fargo (2023).
 41. [Make any predictor uncertainty-aware via conformal prediction](https://mlwithouttears.com/2023/11/15/make-any-predictor-uncertainty-aware-via-conformal-prediction/) by Lorenzo Maggi (2023)
+42. [Conformal predictive systems - A hands-on codeless example with KNIME](https://medium.com/low-code-for-advanced-data-science/conformal-predictive-systems-895c40bac2ca) by Artem Ryasik  (2023) 🔥🔥🔥🔥🔥
+43. [Conformal prediction for classification - A hands-on codeless example with KNIME](https://medium.com/low-code-for-advanced-data-science/conformal-prediction-for-classification-6bf152abb491) by Artem Ryasik  (2023) 🔥🔥🔥🔥🔥
 
 
 ## Kaggle
