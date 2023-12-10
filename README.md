@@ -224,6 +224,7 @@ for probabilistic wind-speed forecasting](https://lup.lub.lu.se/luur/download?fu
 5. [Course on Conformal Prediction](https://mindfulmodeler.substack.com/p/e-mail-course-on-conformal-prediction) by Christoph Molnar (2022) 
 6. [Conformal Prediction - Advanced Topics in Statistical Learning, Spring 2023](https://www.stat.berkeley.edu/~ryantibs/statlearn-s23/lectures/conformal.pdf) by Ryan Tibshirani (2023) 🔥🔥🔥🔥🔥
 7. [Conformal Methods for Efficient and Reliable Deep Learning](https://dspace.mit.edu/handle/1721.1/152788) by Adam, Fisch (MIT, 2023) 🔥🔥🔥🔥🔥
+8. [Conformal Prediction 101 - in Portuguese 🇵🇹](https://github.com/gusbruschi13/Conformal-Prediction/tree/main/cp-101) by Gustavo Bruschi (2023) 🔥🔥🔥🔥🔥
 
 ## Videos 
 
