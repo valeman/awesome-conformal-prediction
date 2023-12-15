@@ -177,7 +177,8 @@ Jelle Van Miltenburg (KTH ROYAL INSTITUTE OF TECHNOLOGY, 2018)
 28. [An Active Learning Approach for Reject Inference in Credit Scoring using Conformal Prediction Intervals on Real and Semi-Artificial Data](https://github.com/MaximilianSuliga/Conformal-Active-Learning-for-Reject-Inference) by Maximilian Suliga (Humboldt University of Berlin, 2023)
 29. [Confidence Predictions in Pharmaceutical Sciences](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1787351&dswid=-7234) by Staffan Arvidsson McShane (Uppsala University, Sweden, 2023) 🔥🔥🔥🔥🔥
 30. [Conform With the Wind Processing short-term ensemble forecasts with conformal based methods
-for probabilistic wind-speed forecasting](https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=9130213&fileOId=9130294), MSc thesis by Simon Althoff (Lund University, 2023) 
+for probabilistic wind-speed forecasting](https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=9130213&fileOId=9130294), MSc thesis by Simon Althoff (Lund University, 2023)
+31. [Trustworthy explanations: Improved decision support through well-calibrated uncertainty quantification](https://hj.diva-portal.org/smash/record.jsf?aq2=%5B%5B%5D%5D&c=4&af=%5B%5D&searchType=SIMPLE&sortOrder2=title_sort_asc&query=Helena+Löfström&language=en&pid=diva2%3A1810440&aq=%5B%5B%5D%5D&sf=all&aqe=%5B%5D&sortOrder=author_sort_asc&onlyFullText=false&noOfRows=50&dswid=-3088), PhD thesis by Helena Löfström (Jönköping Universitu, 2023) 🔥🔥🔥🔥🔥
 
 
 ## Tutorials
