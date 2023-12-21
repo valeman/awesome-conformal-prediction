@@ -318,6 +318,7 @@ for probabilistic wind-speed forecasting](https://lup.lub.lu.se/luur/download?fu
 87. [Introducing Sequential Predictive Conformal Inference (SPCI)](https://www.youtube.com/watch?v=NQHrTMZ2-XA&t=346) by Chen Xu (2023) IME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 88. [Conformal Prediction Intervals: Empowering Executives for Informed Decision](https://www.youtube.com/watch?v=3StianQJZTk&t=26s) by Matthew Kolakowski (2023) 🔥🔥🔥🔥🔥
 89. [Conformal Inference with Tidymodels - posit::conf(2023)](https://www.youtube.com/watch?v=vJ4BYJSg734) by Max Kuhn (2023)
+90. [ACon^2: Adaptive Conformal Consensus for Provable Blockchain Oracles](https://www.youtube.com/watch?v=8PwDHAITuwU) by Sangdon Park (2023)
 
 
 ## Papers
