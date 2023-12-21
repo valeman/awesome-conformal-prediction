@@ -648,6 +648,7 @@ Under Standard and Feedback Covariate Shift](https://openreview.net/pdf?id=ORxBE
 308. [Uncertainty quantification in automated valuation models with locally weighted conformal prediction](https://arxiv.org/abs/2312.06531) by Anders Hjort, Gudmund Horn Hermansen, Johan Pensar, Jonathan P. Williams (University of Oslo, North Carolina State University, 2023) 🔥🔥🔥🔥🔥
 309. [Multi-Modal Conformal Prediction Regions by Optimizing Convex Shape Templates](https://arxiv.org/abs/2312.07434) by Renukanandan Tumu, Matthew Cleaveland, Rahul Mangharam, George J. Pappas, Lars Lindemann [code](https://github.com/nandantumu/conformal_region_designer) (University of Pennsylvania, 2023) 🔥🔥🔥🔥🔥
 310. [Verification of Neural Reachable Tubes via Scenario Optimization and Conformal Prediction](https://arxiv.org/abs/2312.08604) by Albert Lin, Somil Bansal (University of Southern California, 2023) 🔥🔥🔥🔥🔥
+311. [Kandinsky Conformal Prediction: Efficient Calibration of Image Segmentation Algorithms](https://arxiv.org/abs/2311.11837) [code](https://github.com/NKI-AI/kandinsky-calibration) by Joren Brunekreef, Eric Marcus, Ray Sheombarsing, Jan-Jakob Sonke, Jonas Teuwen (The Netherlands Cancer Institute, University of Amsterdam) (2023)
 
 
 ## Papers Time Series
