@@ -317,10 +317,11 @@ for probabilistic wind-speed forecasting](https://lup.lub.lu.se/luur/download?fu
 84. [Rising Stars #8: Clara Wong-Fannjiang (Genentech) - Prediction-Powered Inference](https://www.youtube.com/watch?v=TlFpVpFx7JY)
 85. [Rising Stars #10 - Special Series on Conformal Prediction: Isaac Gibbs (Stanford University) Conformal Inference with Conditional Guarantees](https://www.youtube.com/watch?v=rvYnR0FGxM4)
 86. [Conformal Prediction for Time Series with Modern Hopfield Networks](https://www.youtube.com/watch?v=QhvLaZ1aS6A) by Andreas Auer TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
-87. [Introducing Sequential Predictive Conformal Inference (SPCI)](https://www.youtube.com/watch?v=NQHrTMZ2-XA&t=346) by Chen Xu (2023) IME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+87. [Introducing Sequential Predictive Conformal Inference (SPCI)](https://www.youtube.com/watch?v=NQHrTMZ2-XA&t=346) by Chen Xu (2023) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 88. [Conformal Prediction Intervals: Empowering Executives for Informed Decision](https://www.youtube.com/watch?v=3StianQJZTk&t=26s) by Matthew Kolakowski (2023) 🔥🔥🔥🔥🔥
 89. [Conformal Inference with Tidymodels - posit::conf(2023)](https://www.youtube.com/watch?v=vJ4BYJSg734) by Max Kuhn (2023)
 90. [ACon^2: Adaptive Conformal Consensus for Provable Blockchain Oracles](https://www.youtube.com/watch?v=8PwDHAITuwU) by Sangdon Park (2023)
+91. [Leveraging conformal prediction for calibrated probabilistic time series forecast](https://www.youtube.com/watch?v=--WcrDRtrYk) by Inge van den Ende (Dexter Energy, 2023) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 
 
 ## Papers
