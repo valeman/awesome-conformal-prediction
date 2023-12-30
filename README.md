@@ -218,6 +218,7 @@ for probabilistic wind-speed forecasting](https://lup.lub.lu.se/luur/download?fu
 30. [Conformal Prediction in Genomics](https://github.com/BiolApps/ConformalPrediction/tree/main) by BiolApps (2023)
 31. [Conformal Prediction: A Visual Introduction](https://conformal-prediction.streamlit.app/) in [VISxAI](https://visxai.io/) by Mihir Agarwal, Lalit Chandra Routhu, Zeel B Patel and Nipun Batra (IIT Gandhinagar, IIT Patna, 2023)
 32. [A Conformal Prediction tutorial, an introductive review of the basics](https://conformalpredictionintro.github.io) by Margaux Zaffran (2023)
+33. [Conformal Predictions from Scratch in Numpy](https://github.com/joneswack/conformal-predictions-from-scratch) by Jones Wacker (2023) 🔥🔥🔥🔥🔥 
         
 ## Courses
 1. [Uncertain: Modern topics in uncertainty estimation](https://uncertaintyclass.com) [YouTube](https://www.youtube.com/watch?app=desktop&v=M3tkM4dcIPA) [Course notes](https://www.cis.upenn.edu/~aaroth/uncertainty-notes.pdf) by Aaron Roth (University of Pennsylvania, 2022) 🔥🔥🔥🔥🔥
@@ -872,6 +873,7 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 39. [calibrated-explanations - Calibrated Explanations for Machine Learning Models using Venn-Abers and Conformal Predictive Systems](https://github.com/Moffran/calibrated_explanations) by Helena Löfström (2023)
 40. [Conformers - Unofficial Conformal Language Modelling library](https://github.com/Bradley-Butcher/Conformers/) 🚀🚀🚀🚀🚀
 41. [Multi-class probabilistic classification using Venn-ABERS (Conformal) prediction](https://github.com/valeman/Multi-class-probabilistic-classification) by Valery Manokhin (2022) 🔥🔥🔥🔥🔥
+42.  [Conformal Predictions from Scratch in Numpy](https://github.com/joneswack/conformal-predictions-from-scratch) by Jones Wacker (2023) 🔥🔥🔥🔥🔥 
 
 ## R
 1. [Conformal Prediction ih tidymodels](https://github.com/tidymodels/tidymodels.org/pull/23) by Max Kuhn (Posit/RStudio, 2023) [video](https://www.youtube.com/watch?v=3omi4lm1da0) 🔥🔥🔥🔥🔥
