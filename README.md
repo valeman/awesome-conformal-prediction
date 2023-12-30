@@ -10,7 +10,7 @@ Due to free tier limits of Slack, [Slack for Awesome Conformal Prediction](https
 
 Fill the form to be considered for access. https://docs.google.com/forms/d/e/1FAIpQLScuNkOz1jq-Qt1OJ8oxsDCLZMdn8TkQluHllxk_GodPC8-w_w/viewform
 
-[25-Nov-2023 update: Slack has been reopened temporarily for 30-days in the lead to Christmas (link valid for 30 days only)] (https://join.slack.com/t/awesomeconformalpred/shared_invite/zt-27oo25syt-EgGJevAl6KY_cxydk0yDFQ)
+[30-Dec-2023 update: Slack has been reopened temporarily (link valid for 30 days only, real names only as per LinkedIn)](https://join.slack.com/t/awesomeconformalpred/shared_invite/zt-29smwlkfo-Phcps2_FOe0GWE0PsVLLjQ) 
 
 Preference is given to Conformal Prediction researchers or practitioners who have published papers, articles, tutorials, code or made YouTube videos about Conformal Prediction.
 
