@@ -873,7 +873,8 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 39. [calibrated-explanations - Calibrated Explanations for Machine Learning Models using Venn-Abers and Conformal Predictive Systems](https://github.com/Moffran/calibrated_explanations) by Helena Löfström (2023)
 40. [Conformers - Unofficial Conformal Language Modelling library](https://github.com/Bradley-Butcher/Conformers/) 🚀🚀🚀🚀🚀
 41. [Multi-class probabilistic classification using Venn-ABERS (Conformal) prediction](https://github.com/valeman/Multi-class-probabilistic-classification) by Valery Manokhin (2022) 🔥🔥🔥🔥🔥
-42.  [Conformal Predictions from Scratch in Numpy](https://github.com/joneswack/conformal-predictions-from-scratch) by Jones Wacker (2023) 🔥🔥🔥🔥🔥 
+42.  [Conformal Predictions from Scratch in Numpy](https://github.com/joneswack/conformal-predictions-from-scratch) by Jones Wacker (2023) 🔥🔥🔥🔥🔥
+43.  [Radiology Mondrian Conformal Prediction Toolkit](https://github.com/c-gamble/radiology-mcp-toolkit) by Mayo Clinic AI Lab (2024) 🔥🔥🔥🔥🔥
 
 ## R
 1. [Conformal Prediction ih tidymodels](https://github.com/tidymodels/tidymodels.org/pull/23) by Max Kuhn (Posit/RStudio, 2023) [video](https://www.youtube.com/watch?v=3omi4lm1da0) 🔥🔥🔥🔥🔥
