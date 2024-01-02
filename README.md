@@ -179,6 +179,7 @@ Jelle Van Miltenburg (KTH ROYAL INSTITUTE OF TECHNOLOGY, 2018)
 30. [Conform With the Wind Processing short-term ensemble forecasts with conformal based methods
 for probabilistic wind-speed forecasting](https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=9130213&fileOId=9130294), MSc thesis by Simon Althoff (Lund University, 2023) 
 
+31. [Conformal prediction and copula based methods for profile monitioring](https://www.politesi.polimi.it/handle/10589/214268), MSc Thesis by Niccolo' Donadini (Politecnico di Milano, 2023)
 
 ## Tutorials
 
