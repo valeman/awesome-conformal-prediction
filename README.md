@@ -183,6 +183,8 @@ for probabilistic wind-speed forecasting](https://lup.lub.lu.se/luur/download?fu
 31. [Trustworthy explanations: Improved decision support through well-calibrated uncertainty quantification](https://hj.diva-portal.org/smash/record.jsf?aq2=%5B%5B%5D%5D&c=4&af=%5B%5D&searchType=SIMPLE&sortOrder2=title_sort_asc&query=Helena+Löfström&language=en&pid=diva2%3A1810440&aq=%5B%5B%5D%5D&sf=all&aqe=%5B%5D&sortOrder=author_sort_asc&onlyFullText=false&noOfRows=50&dswid=-3088), PhD thesis by Helena Löfström (Jönköping Universitu, 2023) 🔥🔥🔥🔥🔥
 32. [Data Augmentation and Conformal Prediction](https://dspace.mit.edu/handle/1721.1/151275), MSc thesis by Helen Lu (MIT, 2023)
 
+33. [Conformal prediction and copula based methods for profile monitioring](https://www.politesi.polimi.it/handle/10589/214268), MSc Thesis by Niccolo' Donadini (Politecnico di Milano, 2023)
+
 ## Tutorials
 
 1. [A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification](https://arxiv.org/pdf/2107.07511.pdf) by Anastasios N. Angelopoulos and Stephen Bates (2021) [Video](https://www.youtube.com/watch?v=nql000Lu_iE&t=1786s) [Code](https://github.com/aangelopoulos/conformal-prediction) 🔥🔥🔥🔥
