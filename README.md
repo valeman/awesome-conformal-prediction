@@ -655,6 +655,7 @@ Under Standard and Feedback Covariate Shift](https://openreview.net/pdf?id=ORxBE
 311. [Kandinsky Conformal Prediction: Efficient Calibration of Image Segmentation Algorithms](https://arxiv.org/abs/2311.11837) [code](https://github.com/NKI-AI/kandinsky-calibration) by Joren Brunekreef, Eric Marcus, Ray Sheombarsing, Jan-Jakob Sonke, Jonas Teuwen (The Netherlands Cancer Institute, University of Amsterdam) (2023)
 312. [Forecasting CPI inflation under economic policy and geo-political uncertainties](https://arxiv.org/abs/2401.00249) by Shovon Sengupta, Tanujit Chakraborty, Sunny Kumar Singh (Fidelity Investments, Sorbonne University, BITS Pilani Hyderabad). (2023) 🔥🔥🔥🔥🔥
 313. [Conformal prediction of option prices](https://www.repository.utl.pt/handle/10400.5/29690) by Bastas Joao (University of Lisbon, 2023) 🔥🔥🔥🔥🔥
+314. [Towards Modeling Uncertainties of Self-explaining Neural Networks via Conformal Prediction](https://arxiv.org/abs/2401.01549) by Wei Qian, Chenxu Zhao, Yangyi Li, Fenglong Ma, Chao Zhang, Mengdi Huai (Iowa University, Pennsylvania State University, Georgia Institute of Technology (2024)
 
 
 ## Papers Time Series
