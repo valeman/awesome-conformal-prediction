@@ -218,7 +218,8 @@ for probabilistic wind-speed forecasting](https://lup.lub.lu.se/luur/download?fu
 30. [Conformal Prediction in Genomics](https://github.com/BiolApps/ConformalPrediction/tree/main) by BiolApps (2023)
 31. [Conformal Prediction: A Visual Introduction](https://conformal-prediction.streamlit.app/) in [VISxAI](https://visxai.io/) by Mihir Agarwal, Lalit Chandra Routhu, Zeel B Patel and Nipun Batra (IIT Gandhinagar, IIT Patna, 2023)
 32. [A Conformal Prediction tutorial, an introductive review of the basics](https://conformalpredictionintro.github.io) by Margaux Zaffran (2023)
-33. [Conformal Predictions from Scratch in Numpy](https://github.com/joneswack/conformal-predictions-from-scratch) by Jones Wacker (2023) 🔥🔥🔥🔥🔥 
+33. [Conformal Predictions from Scratch in Numpy](https://github.com/joneswack/conformal-predictions-from-scratch) by Jones Wacker (2023) 🔥🔥🔥🔥🔥
+34. [Conformal Inference with Tidymodels - posit::conf(2023)](https://www.youtube.com/watch?v=vJ4BYJSg734) by Max Khun (2023)
         
 ## Courses
 1. [Uncertain: Modern topics in uncertainty estimation](https://uncertaintyclass.com) [YouTube](https://www.youtube.com/watch?app=desktop&v=M3tkM4dcIPA) [Course notes](https://www.cis.upenn.edu/~aaroth/uncertainty-notes.pdf) by Aaron Roth (University of Pennsylvania, 2022) 🔥🔥🔥🔥🔥
@@ -900,6 +901,7 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 18. [Localized Conformal Prediction - LCP](https://github.com/LeyingGuan/LCP) 
 19. [conformalbayes - Jackknife(+) Predictive Intervals for Bayesian Models](https://github.com/CoryMcCartan/conformalbayes) (2022)
 20. [conformal.fd Conformal inference prediction regions for Multiple Functional response regression](https://github.com/paolo-vergo/conformal.fd) (2021)
+21. [probably](https://github.com/tidymodels/probably)(2023)
 
 ## Julia
 
