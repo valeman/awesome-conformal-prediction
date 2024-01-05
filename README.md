@@ -325,6 +325,7 @@ for probabilistic wind-speed forecasting](https://lup.lub.lu.se/luur/download?fu
 89. [Conformal Inference with Tidymodels - posit::conf(2023)](https://www.youtube.com/watch?v=vJ4BYJSg734) by Max Kuhn (2023)
 90. [ACon^2: Adaptive Conformal Consensus for Provable Blockchain Oracles](https://www.youtube.com/watch?v=8PwDHAITuwU) by Sangdon Park (2023)
 91. [Leveraging conformal prediction for calibrated probabilistic time series forecast](https://www.youtube.com/watch?v=--WcrDRtrYk) by Inge van den Ende (Dexter Energy, 2023) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+92. [Uncertainty Quantification over Graph with Conformalized Graph Neural Networks](https://www.youtube.com/watch?v=Yq9cvqEk2K8&t=8s) by Kexin Huang (Stanford, 2023)  🔥🔥🔥🔥🔥
 
 
 ## Papers
