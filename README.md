@@ -328,7 +328,7 @@ for probabilistic wind-speed forecasting](https://lup.lub.lu.se/luur/download?fu
 92. [Uncertainty Quantification over Graph with Conformalized Graph Neural Networks](https://www.youtube.com/watch?v=Yq9cvqEk2K8&t=8s) by Kexin Huang (Stanford, 2023)  🔥🔥🔥🔥🔥
 93. [Selection by Prediction with Conformal p-values](https://www.youtube.com/watch?v=VHcCmkChwTk&t=5s) by Ying Jin (Stanford, 2023)
 94. [Trustworthy Retrieval Augmented Chatbots Utilizing Conformal Predictors](https://www.youtube.com/watch?v=JnWXebWUEg4) by Shuo Li (UPenn, 2023)
-
+95. [Radiology Mondrian Conformal Prediction Toolkit Tutorial](https://www.youtube.com/watch?v=tccprwxq74Q) by Cooper Gamble (Mayo Clinic AI, 2024) 
 
 ## Papers
 
