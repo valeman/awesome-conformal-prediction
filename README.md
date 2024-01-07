@@ -661,6 +661,7 @@ Under Standard and Feedback Covariate Shift](https://openreview.net/pdf?id=ORxBE
 313. [Conformal prediction of option prices](https://www.repository.utl.pt/handle/10400.5/29690) by Bastas Joao (University of Lisbon, 2023) 🔥🔥🔥🔥🔥
 314. [Towards Modeling Uncertainties of Self-explaining Neural Networks via Conformal Prediction](https://arxiv.org/abs/2401.01549) by Wei Qian, Chenxu Zhao, Yangyi Li, Fenglong Ma, Chao Zhang, Mengdi Huai (Iowa University, Pennsylvania State University, Georgia Institute of Technology (2024).
 315. [Greek Proverbs: Computational Spatial Attribution](https://www.researchsquare.com/article/rs-3360387/v2) by  John Pavlopoulos and Panos Louridas, Athens University of Economics and Business, Greece (2024)
+316. [Conformal causal inference for cluster randomized trials: model-robust inference without asymptotic approximations](https://arxiv.org/pdf/2401.01977.pdf) by Bingkai Wang, Fan Li and Mengxin (University of Michigan, Yale, University of Pennsylvania)
 
 
 ## Papers Time Series
