@@ -662,6 +662,7 @@ Under Standard and Feedback Covariate Shift](https://openreview.net/pdf?id=ORxBE
 314. [Towards Modeling Uncertainties of Self-explaining Neural Networks via Conformal Prediction](https://arxiv.org/abs/2401.01549) by Wei Qian, Chenxu Zhao, Yangyi Li, Fenglong Ma, Chao Zhang, Mengdi Huai (Iowa University, Pennsylvania State University, Georgia Institute of Technology (2024).
 315. [Greek Proverbs: Computational Spatial Attribution](https://www.researchsquare.com/article/rs-3360387/v2) by  John Pavlopoulos and Panos Louridas, Athens University of Economics and Business, Greece (2024)
 316. [Conformal causal inference for cluster randomized trials: model-robust inference without asymptotic approximations](https://arxiv.org/pdf/2401.01977.pdf) by Bingkai Wang, Fan Li and Mengxin (University of Michigan, Yale, University of Pennsylvania)
+317. [Distribution-Free Conformal Joint Prediction Regions for Neural Marked Temporal Point Processes](https://arxiv.org/abs/2401.04612) by Victor Dheur, Tanguy Bosser, Rafael Izbicki, Souhaib Ben Taieb (Universidade Federal de Sao Carlos, Brazil and University of Mons, Belgium, 2024) [code](https://github.com/valeman/conf_tpp) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 
 
 ## Papers Time Series
@@ -690,6 +691,7 @@ Niccolo` Ajroldia, Jacopo Diquigiovannib, Matteo Fontanac, Simone Vantinia (2022
 22. [Sequential Predictive Conformal Inference for Time Series](https://arxiv.org/abs/2212.03463) by Chen Xu, Yao Xie (Georgia Tech) [code](https://github.com/hamrel-cxu/SPCI-code/tree/main) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 23. [Conformal Predictions for longitudinal data](https://arxiv.org/pdf/2310.02863.pdf) by Devesh Batra, Salvatore Mercuri and Raad Khraishi (Data Science & Innovation - NatWest Group, Institute of Finance and Technology, UCL, UK, 2023) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 24. [Conformal PID Control for Time Series Prediction](https://arxiv.org/abs/2307.16895) by Anastasios N. Angelopoulos, Emmanuel J. Candes, Ryan J. Tibshirani (Berkeley/Stanford, NeurIPS2023) [code](https://github.com/aangelopoulos/conformal-time-series) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+25. [Distribution-Free Conformal Joint Prediction Regions for Neural Marked Temporal Point Processes](https://arxiv.org/abs/2401.04612) by Victor Dheur, Tanguy Bosser, Rafael Izbicki, Souhaib Ben Taieb (Universidade Federal de Sao Carlos, Brazil and University of Mons, Belgium, 2024) [code](https://github.com/valeman/conf_tpp) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 
 ## Presentation Slides
 1. [Machine Learning for Probabilistic Prediction, Seattle Artificial Intelligence Workshops Meetup](https://www.researchgate.net/publication/371566526_Machine_Learning_for_Probabilistic_Prediction) by Valery Manokhin, 2023 🔥🔥🔥🔥🔥
