@@ -663,7 +663,7 @@ Under Standard and Feedback Covariate Shift](https://openreview.net/pdf?id=ORxBE
 315. [Greek Proverbs: Computational Spatial Attribution](https://www.researchsquare.com/article/rs-3360387/v2) by  John Pavlopoulos and Panos Louridas, Athens University of Economics and Business, Greece (2024)
 316. [Conformal causal inference for cluster randomized trials: model-robust inference without asymptotic approximations](https://arxiv.org/pdf/2401.01977.pdf) by Bingkai Wang, Fan Li and Mengxin (University of Michigan, Yale, University of Pennsylvania)
 317. [Distribution-Free Conformal Joint Prediction Regions for Neural Marked Temporal Point Processes](https://arxiv.org/abs/2401.04612) by Victor Dheur, Tanguy Bosser, Rafael Izbicki, Souhaib Ben Taieb (Universidade Federal de Sao Carlos, Brazil and University of Mons, Belgium, 2024) [code](https://github.com/valeman/conf_tpp) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
-
+318. [Predicting Random Walks and a Data-Splitting Prediction Region](https://www.mdpi.com/2571-905X/7/1/2) by Mulubrhan G. Haile, Lingling Zhang, and David J. Olive (Westminster College, University of Albany, Southern Illinois University) 
 
 ## Papers Time Series
 
