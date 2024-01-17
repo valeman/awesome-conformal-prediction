@@ -804,9 +804,9 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 
 ## Kaggle
 1. [Kaggle Notebook showcasing Conformal Predictive Distributions on Playground Series Season 3, Episode 1 (California Housing data) competition](https://www.kaggle.com/code/predaddict/conformal-predictive-distributions-pss3-e1) by Valeriy Manokhin (2022)
-2. [Kaggle Notebook showcasing Venn-ABERs Conformal Prediction on Playground Series Season 3, Episode 2 (Stroke prediction) competition](https://www.kaggle.com/predaddict/pss-3-episode-2-jan-2023-stroke-prediction/)
+2. [Kaggle Notebook showcasing Venn-ABERs Conformal Prediction on Playground Series Season 3, Episode 2 (Stroke prediction) competition](https://www.kaggle.com/predaddict/pss-3-episode-2-jan-2023-stroke-prediction/) by Valeriy Manokhin (2022)
 2. [Regression prediction intervals with MAPIE](https://www.kaggle.com/code/predaddict/regression-prediction-intervals-with-mapie/edit) by Carl McBride Ellis (2022)
-3. [Lgbm & Mapie & birth weight, oh my!](https://www.kaggle.com/code/paddykb/lgbm-mapie-birth-weight-oh-my) by Patrick Blackwill (2023)
+3. [Lgbm & Mapie & birth weight, oh my!](https://www.kaggle.com/code/paddykb/lgbm-mapie-birth-weight-oh-my) by Patrick Blackwill (2023) 🔥🔥🔥🔥🔥
 4. [Classifier calibration using Venn-ABERS](https://www.kaggle.com/code/paddykb/lgbm-mapie-birth-weight-oh-my) by by Carl McBride Ellis (2024) 🔥🔥🔥🔥🔥
  
 
