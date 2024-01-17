@@ -799,12 +799,16 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 41. [Make any predictor uncertainty-aware via conformal prediction](https://mlwithouttears.com/2023/11/15/make-any-predictor-uncertainty-aware-via-conformal-prediction/) by Lorenzo Maggi (2023)
 42. [Conformal predictive systems - A hands-on codeless example with KNIME](https://medium.com/low-code-for-advanced-data-science/conformal-predictive-systems-895c40bac2ca) by Artem Ryasik  (2023) 🔥🔥🔥🔥🔥
 43. [Conformal prediction for classification - A hands-on codeless example with KNIME](https://medium.com/low-code-for-advanced-data-science/conformal-prediction-for-classification-6bf152abb491) by Artem Ryasik  (2023) 🔥🔥🔥🔥🔥
+44. [Conformalized quantile regression](https://mlwithouttears.com/2024/01/17/conformalized-quantile-regression/) by Lorenzo Maggi (2024)
 
 
 ## Kaggle
 1. [Kaggle Notebook showcasing Conformal Predictive Distributions on Playground Series Season 3, Episode 1 (California Housing data) competition](https://www.kaggle.com/code/predaddict/conformal-predictive-distributions-pss3-e1) by Valeriy Manokhin (2022)
 2. [Kaggle Notebook showcasing Venn-ABERs Conformal Prediction on Playground Series Season 3, Episode 2 (Stroke prediction) competition](https://www.kaggle.com/predaddict/pss-3-episode-2-jan-2023-stroke-prediction/)
 2. [Regression prediction intervals with MAPIE](https://www.kaggle.com/code/predaddict/regression-prediction-intervals-with-mapie/edit) by Carl McBride Ellis (2022)
+3. [Lgbm & Mapie & birth weight, oh my!](https://www.kaggle.com/code/paddykb/lgbm-mapie-birth-weight-oh-my) by Patrick Blackwill (2023)
+4. [Classifier calibration using Venn-ABERS](https://www.kaggle.com/code/paddykb/lgbm-mapie-birth-weight-oh-my) by by Carl McBride Ellis (2024) 🔥🔥🔥🔥🔥
+ 
 
 
 ## Websites
