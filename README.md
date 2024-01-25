@@ -327,7 +327,7 @@ for probabilistic wind-speed forecasting](https://lup.lub.lu.se/luur/download?fu
 92. [Uncertainty Quantification over Graph with Conformalized Graph Neural Networks](https://www.youtube.com/watch?v=Yq9cvqEk2K8&t=8s) by Kexin Huang (Stanford, 2023)  🔥🔥🔥🔥🔥
 93. [Selection by Prediction with Conformal p-values](https://www.youtube.com/watch?v=VHcCmkChwTk&t=5s) by Ying Jin (Stanford, 2023)
 94. [Trustworthy Retrieval Augmented Chatbots Utilizing Conformal Predictors](https://www.youtube.com/watch?v=JnWXebWUEg4) by Shuo Li (UPenn, 2023).
-95. [An introduction to conformal prediction - PyLadies Amsterdam](https://www.youtube.com/watch?v=QFtdTyIWrz8) by Inge van den Ende (2024) 🔥🔥🔥🔥🔥
+95. [An introduction to conformal prediction - PyLadies Amsterdam](https://www.youtube.com/watch?v=QFtdTyIWrz8) by Inge van den Ende (2024) 🔥🔥🔥🔥🔥[code](https://github.com/pyladiesams/conformal-prediction-jan2024)
 
 ## Papers
 
@@ -894,6 +894,8 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 41. [Multi-class probabilistic classification using Venn-ABERS (Conformal) prediction](https://github.com/valeman/Multi-class-probabilistic-classification) by Valery Manokhin (2022) 🔥🔥🔥🔥🔥
 42.  [Conformal Predictions from Scratch in Numpy](https://github.com/joneswack/conformal-predictions-from-scratch) by Jones Wacker (2023) 🔥🔥🔥🔥🔥
 43.  [Conformal Prediction for Digital Soil Mapping](https://github.com/nafisehkakhani/Conformal_Prediction_DSM) by Nafiseh Kakhani (2023)
+44.  [conformal-prediction-jan2024 - PyLadies Amsterdam](https://github.com/pyladiesams/conformal-prediction-jan2024) by Inge van den Ende (2024) 🔥🔥🔥🔥🔥
+
 
 ## R
 1. [Conformal Prediction ih tidymodels](https://github.com/tidymodels/tidymodels.org/pull/23) by Max Kuhn (Posit/RStudio, 2023) [video](https://www.youtube.com/watch?v=3omi4lm1da0) 🔥🔥🔥🔥🔥
