@@ -668,6 +668,7 @@ Under Standard and Feedback Covariate Shift](https://openreview.net/pdf?id=ORxBE
 320. [Conformal Approach To Gaussian Process Surrogate Evaluation With Coverage Guarantees](https://hal.science/hal-04389163/document) by Edgar Jaber, Vincent Blot, Nicolas Brunel, Vincent Chabridon, Emmanuel Remy, Bertrand Iooss, Didier Lucor, Mathilde Mougeot, Alessandro Leite (EDF R&D, Quantmetry, Paris-Saclay University, ENSIIE, Institut de Math ́ematiques de Toulouse, TAU, INRIA, 2024) [code](https://github.com/vincentblot28/conformalized_gp) 🔥🔥🔥🔥🔥
 321. [Integrating Uncertainty Awareness into Conformalized Quantile Regression](https://arxiv.org/abs/2306.08693) [code](https://github.com/rrross/UACQR) by Raphael Rossellini, Rina Foygel Barber and Rebecca Willett (University of Chicago, 2023) 🔥🔥🔥🔥🔥
 322. [Conformal Prediction Sets Improve Human Decision Making](https://arxiv.org/abs/2401.13744) by Jesse C. Cresswell, Yi Sui, Bhargava Kumar, Noel Vouitsis (Layer 6 AI, TD Securities, 2024)
+323. [Benchmarking LLMs via Uncertainty Quantification](https://arxiv.org/abs/2401.12794) by Fanghua Ye, Mingming Yang, Jianhui Pang, Longyue Wang, Derek F. Wong, Emine Yilmaz, Shuming Shi, Zhaopeng Tu (Tencent AI Lab, University College London, University of Macau 2024).
 
 
 ## Papers Time Series
