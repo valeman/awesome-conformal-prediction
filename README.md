@@ -888,6 +888,7 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 33. [Conformal Predictions from Scratch in Numpy](https://github.com/joneswack/conformal-predictions-from-scratch) by Jones Wacker (2023) 🔥🔥🔥🔥🔥
 34. [Conformal Prediction for Digital Soil Mapping](https://github.com/nafisehkakhani/Conformal_Prediction_DSM) by Nafiseh Kakhani (2023)
 35. [conformal-prediction-jan2024 - PyLadies Amsterdam](https://github.com/pyladiesams/conformal-prediction-jan2024) by Inge van den Ende (2024) 🔥🔥🔥🔥🔥
+36. [MFLES - Gradient Boosted Decomposition for time series forecasting](https://github.com/tblume1992/MFLES) by Tyler Blume (2024) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 
 
 ## R
