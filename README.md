@@ -669,6 +669,7 @@ Under Standard and Feedback Covariate Shift](https://openreview.net/pdf?id=ORxBE
 321. [Integrating Uncertainty Awareness into Conformalized Quantile Regression](https://arxiv.org/abs/2306.08693) [code](https://github.com/rrross/UACQR) by Raphael Rossellini, Rina Foygel Barber and Rebecca Willett (University of Chicago, 2023) 🔥🔥🔥🔥🔥
 322. [Conformal Prediction Sets Improve Human Decision Making](https://arxiv.org/abs/2401.13744) by Jesse C. Cresswell, Yi Sui, Bhargava Kumar, Noel Vouitsis (Layer 6 AI, TD Securities, 2024)
 323. [Benchmarking LLMs via Uncertainty Quantification](https://arxiv.org/abs/2401.12794) by Fanghua Ye, Mingming Yang, Jianhui Pang, Longyue Wang, Derek F. Wong, Emine Yilmaz, Shuming Shi, Zhaopeng Tu (Tencent AI Lab, University College London, University of Macau 2024).
+324. [ACHO: Adaptive Conformal Hyperparameter Optimization](https://arxiv.org/abs/2207.03017) by Ricardo Doyle (2023) 🔥🔥🔥🔥🔥 [code](https://github.com/rick12000/confopt) 
 
 
 ## Papers Time Series
