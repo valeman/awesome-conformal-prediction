@@ -669,7 +669,7 @@ Under Standard and Feedback Covariate Shift](https://openreview.net/pdf?id=ORxBE
 323. [Benchmarking LLMs via Uncertainty Quantification](https://arxiv.org/abs/2401.12794) by Fanghua Ye, Mingming Yang, Jianhui Pang, Longyue Wang, Derek F. Wong, Emine Yilmaz, Shuming Shi, Zhaopeng Tu (Tencent AI Lab, University College London, University of Macau 2024).
 324. [ACHO: Adaptive Conformal Hyperparameter Optimization](https://arxiv.org/abs/2207.03017) by Ricardo Doyle (2023) 🔥🔥🔥🔥🔥 [code](https://github.com/rick12000/confopt)
 325. [Characterizing Water Composition with an Autonomous Robotic Team Employing Comprehensive In-Situ Sensing, Hyperspectral Imaging, Machine Learning, and Conformal Prediction](https://www.preprints.org/manuscript/202401.2041/v1) by John Waczak, Adam Aker, Lakitha O. H. Wijeratne, Shawhin Talebi,  Bharana Fernando, Prabuddha Hathurusinghe, Mazhar Iqbal,  David Schaefer,  David J. Lary (University of Texas Dallas, 2024)
-326. [Non-Exchangeable Conformal Language Generation with Nearest Neighbors](https://arxiv.org/abs/2402.00707) by Dennis Ulmer, Chrysoula Zerva, André F.T. Martins (IT University of Copenhagen,  Instituto Superior Técnico, Universidade de Lisboa, 2024) 🔥🔥🔥🔥🔥
+326. [Non-Exchangeable Conformal Language Generation with Nearest Neighbors](https://arxiv.org/abs/2402.00707) by Dennis Ulmer, Chrysoula Zerva, André F.T. Martins (IT University of Copenhagen,  Instituto Superior Técnico, Universidade de Lisboa, 2024) [code](https://github.com/Kaleidophon/non-exchangeable-conformal-language-generation) 🔥🔥🔥🔥🔥
 327. [Group-Weighted Conformal Prediction](https://arxiv.org/abs/2401.17452) by Aabesh Bhattacharyya, Rina Foygel Barber (University of Chicago, 2024)
 
 
