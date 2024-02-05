@@ -808,6 +808,7 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 43. [Conformal prediction for classification - A hands-on codeless example with KNIME](https://medium.com/low-code-for-advanced-data-science/conformal-prediction-for-classification-6bf152abb491) by Artem Ryasik  (2023) 🔥🔥🔥🔥🔥
 44. [Conformalized quantile regression](https://mlwithouttears.com/2024/01/17/conformalized-quantile-regression/) by Lorenzo Maggi (2024)
 45. [Leveraging conformal prediction in Python to accelerate the renewable energy transition](https://medium.com/@icvandenende/leveraging-conformal-prediction-in-python-to-accelerate-the-renewable-energy-transition-09b5c855f69d) by Inge van den Ende (2024)
+46. [Fifty (four, actually) shades of conformal prediction](https://mlwithouttears.com/2024/02/04/fifty-four-actually-shades-of-conformal-prediction/) by Lorenzo Maggi (2024)
 
 
 ## Kaggle
