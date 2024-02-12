@@ -673,6 +673,8 @@ Under Standard and Feedback Covariate Shift](https://openreview.net/pdf?id=ORxBE
 327. [Group-Weighted Conformal Prediction](https://arxiv.org/abs/2401.17452) by Aabesh Bhattacharyya, Rina Foygel Barber (University of Chicago, 2024)
 328. [Conformal Monte Carlo Meta-learners for Predictive Inference of Individual Treatment Effects](https://arxiv.org/abs/2402.04906v1) by Jef Jonkers, Jarne Verhaeghe, Glenn Van Wallendael, Luc Duchateau, Sofie Van Hoecke (Ghent University, 2024)
 329. [Bellman Conformal Inference: Calibrating Prediction Intervals For Time Series](https://arxiv.org/abs/2402.05203) by Zitong Yang, Emmanuel Candès, Lihua Lei (Stanford, 2024)  TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+330. [TISSUE (Transcript Imputation with Spatial Single-cell Uncertainty Estimation)](https://www.nature.com/articles/s41592-024-02184-y.epdf) by James Zou, Eric Sun, Rong Ma, Anne Brunet, and Paloma Navarro Negredo (Stanford, Harvard, 2024) [code](https://github.com/sunericd/TISSUE)
+
 
 
 ## Papers Time Series
