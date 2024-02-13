@@ -677,6 +677,7 @@ Under Standard and Feedback Covariate Shift](https://openreview.net/pdf?id=ORxBE
 331. [Conformal Predictive Programming for Chance Constrained Optimization](https://arxiv.org/pdf/2402.07407.pdf) by Yiqi Zhao, Xinyi Yu, Jyotirmoy V. Deshmukh and Lars Lindemann (University of Southern California. 2024) 🔥🔥🔥🔥🔥
 332. [Introspective Planning: Guiding Language-Enabled Agents to Refine Their Own Uncertainty](https://arxiv.org/pdf/2402.06529.pdf) by Kaiqu Liang, Zixu Zhang, Jaime Fernandez Fisac(Princeton, 2024) 🔥🔥🔥🔥🔥
 333. [Regression Trees for Fast and Adaptive Prediction Intervals](https://arxiv.org/abs/2402.07357) by Luben M. C. Cabezasa, Mateus P. Ottoa, Rafael Izbicki, Rafael B. Sternc (Federal University of São Carlos, University of São Paulo,2024) 🔥🔥🔥🔥🔥
+334. [Self-Consistent Conformal Prediction](https://arxiv.org/abs/2402.07307) by Lars van der Laan, Ahmed M. Alaa (University of Southern California, 2024) 🔥🔥🔥🔥🔥
 
 
 
