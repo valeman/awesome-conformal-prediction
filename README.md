@@ -674,6 +674,9 @@ Under Standard and Feedback Covariate Shift](https://openreview.net/pdf?id=ORxBE
 328. [Conformal Monte Carlo Meta-learners for Predictive Inference of Individual Treatment Effects](https://arxiv.org/abs/2402.04906v1) by Jef Jonkers, Jarne Verhaeghe, Glenn Van Wallendael, Luc Duchateau, Sofie Van Hoecke (Ghent University, 2024)
 329. [Bellman Conformal Inference: Calibrating Prediction Intervals For Time Series](https://arxiv.org/abs/2402.05203) by Zitong Yang, Emmanuel Candès, Lihua Lei (Stanford, 2024)  TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 330. [TISSUE (Transcript Imputation with Spatial Single-cell Uncertainty Estimation)](https://www.nature.com/articles/s41592-024-02184-y.epdf) by James Zou, Eric Sun, Rong Ma, Anne Brunet, and Paloma Navarro Negredo (Stanford, Harvard, 2024) [code](https://github.com/sunericd/TISSUE)
+331. [Conformal Predictive Programming for Chance Constrained Optimization](https://arxiv.org/pdf/2402.07407.pdf) by Yiqi Zhao, Xinyi Yu, Jyotirmoy V. Deshmukh and Lars Lindemann (University of Southern California. 2024) 🔥🔥🔥🔥🔥
+332. [Introspective Planning: Guiding Language-Enabled Agents to Refine Their Own Uncertainty](https://arxiv.org/pdf/2402.06529.pdf) by Kaiqu Liang, Zixu Zhang, Jaime Fernandez Fisac(Princeton, 2024) 🔥🔥🔥🔥🔥
+333. [Regression Trees for Fast and Adaptive Prediction Intervals](https://arxiv.org/abs/2402.07357) by Luben M. C. Cabezasa, Mateus P. Ottoa, Rafael Izbicki, Rafael B. Sternc (Federal University of São Carlos, University of São Paulo,2024) 🔥🔥🔥🔥🔥
 
 
 
