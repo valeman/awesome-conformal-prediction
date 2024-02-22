@@ -186,40 +186,38 @@ for probabilistic wind-speed forecasting](https://lup.lub.lu.se/luur/download?fu
 
 ## Tutorials
 
-1. [A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification](https://arxiv.org/pdf/2107.07511.pdf) by Anastasios N. Angelopoulos and Stephen Bates (2021) [Video](https://www.youtube.com/watch?v=nql000Lu_iE&t=1786s) [Code](https://github.com/aangelopoulos/conformal-prediction) 🔥🔥🔥🔥
-2. [A Tutorial on Conformal Predictive Distributions](https://www.youtube.com/watch?v=FUi5jklGvvo&t=3s) by Paolo Toccaceli (2020) 🔥🔥🔥🔥
-3. [Conformal Prediction Tutorial](https://www.youtube.com/watch?v=0MsGri8nmJQ) by Henrik Linusson (2021) 🔥🔥🔥🔥
+1. [A Conformal Prediction tutorial, an introductive review of the basics](https://conformalpredictionintro.github.io) by Margaux Zaffran 🔥🔥🔥🔥 (2024)
+2. [Conformal Prediction Tutorial](https://www.youtube.com/watch?v=0MsGri8nmJQ) by Henrik Linusson (2021) 🔥🔥🔥🔥
+3. [Predicting with Confidence - Henrik Boström](https://www.youtube.com/watch?v=eXU-64dwHmA) by Henrik Boström (2016)  🔥🔥🔥🔥
 4. [Henrik Linusson: Conformal Prediction](https://www.youtube.com/watch?v=lQxH-zXrOwI&t=1522s) by Henrik Linusson (2020)  🔥🔥🔥🔥
-5. [Predicting with Confidence - Henrik Boström](https://www.youtube.com/watch?v=eXU-64dwHmA) by Henrik Boström (2016)  🔥🔥🔥🔥
-6. [Venn Predictors Tutorial](https://www.youtube.com/watch?v=KsQpkjl7u1w) by Ulf Johansson, Cecilia Sönströd, Tuve Löfström, and Henrik Boström (2021)  🔥🔥🔥🔥
-7. [Ulf Johansson: Venn Predictors](https://www.youtube.com/watch?v=xxZOLo8wxe0&t=98s) by Ulf Johansson (2020)  🔥🔥🔥🔥
-8. [A Tutorial on Conformal Prediction](https://jmlr.org/papers/v9/shafer08a.html) by Glenn Shafer and Vladimir Vovk (2008) 🔥🔥🔥🔥🔥
-9.  [Conformal Prediction: a Unified Review of Theory and New Challenges](https://www.e-publications.org/ims/submission/BEJ/user/submissionFile/46245?confirm=193b4e5b) by Gianluca Zeni, Matteo Fontana1 and Simone Vantini (Politecnico di Milano, Italy, 2021) 🔥🔥🔥🔥🔥
-10. [Conformal Prediction in Spark](https://docs.google.com/presentation/d/1eD1vUJVR3nejyJZsOMfxL-NxrLy7K2UUMSAEMHYLfek/edit#slide=id.g2276269343_0_129) by Marco Capuccini (Uppsala University, 2017)
-11. [Tutorial on Venn-ABERS prediction](https://cml.rhul.ac.uk/people/ptocca/HomePage/Toccaceli_CP___Venn_Tutorial.pdf) by Paolo Toccaceli (Royal Holloway, UK, 2019) 🔥🔥🔥🔥🔥
-12. [An Introduction to Conformal Prediction](https://cml.rhul.ac.uk/copa2017/presentations/CP_Tutorial_2017.pdf) by Henrik Linusson (2017) 
-🔥🔥🔥🔥🔥
-13. [Introduction to Conformal Prediction](https://www.iith.ac.in/~vineethnb/indoukworkshop2015/assets/files/IntroToCP.pdf) by Vineeth N Balasubramanian (Indian Institue of Technology, Hyderabad, 2015)
-14. [Conformal prediction A Tiny Tutorial on Predicting with Confidence](https://people.dsv.su.se/~henke/DSWS/johansson.pdf) by Henrik Linusson and Ulf Johansson (2014)
-15. [Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification](https://www.youtube.com/watch?v=usaHyuu2TzY) by Anastasios Angelopoulos (Berkeley, 2022)
-16. [A Tutorial on Conformal Prediction Part 2: Conditional Coverage and Diagnostics](https://www.youtube.com/watch?v=TRx4a2u-j7M&t=529s) by Anastasios Angelopoulos and Stephen Bates (2022) 🔥🔥🔥🔥🔥
-17. [Beyond Conformal Prediction: Tutorial on Conformal Part 3](https://www.youtube.com/watch?v=37HKrmA5gJE) by Anastasios Angelopoulos and Stephen Bates (2022) 🔥🔥🔥🔥🔥
-18. [Getting predictions intervals with conformal inference](http://projects.rajivshah.com/blog/2022/09/24/conformal_predictions) by Rajiv Shah (2022) [YouTube](https://www.youtube.com/watch?v=ZUK4zR0IeLU) [Code](https://colab.research.google.com/drive/1bA_TrrmRpgJ0jasWBZCxkXSLePi8uWBx) 🔥🔥🔥🔥🔥
-19. [Uncertainty estimation in NLP](https://sites.google.com/view/uncertainty-nlp#h.is5zc8lcnuki) by Tal Schuster, Adam Fisch (MIT, USC, 2022) 🔥🔥🔥🔥🔥
-20. [Regression prediction intervals with MAPIE on Kaggle](https://www.kaggle.com/code/carlmcbrideellis/regression-prediction-intervals-with-mapie) by Carl McBride Ellis, PhD
-21. [Distribution-free inference tutorial At the IFDS 2021 Summer School](https://rinafb.github.io/talks/) [Video 1](https://vimeo.com/581870072) [Video 2](https://vimeo.com/581870078)
-22. [Conformal Inference Tutorial](https://bkompa.github.io/2020/09/19/Conformal-Inference-Tutorial.html) by Ben Kompa (2020)
-23. [Prediction intervals for any machine learning model - How to construct prediction intervals with the Jackknife+ using the MAPIE package](https://www.valencekjell.com/posts/2022-09-14-prediction-intervals/) by Kjell Jorner (ETH, 2022)
-24. [Uncertainty Quantification (1): Enter Conformal Predictors](https://www.youtube.com/watch?v=xZbuFKWV5NA&t=25s) by Mahdi Torabi Rad (2023) 🔥🔥🔥🔥🔥
-25. [Uncertainty Quantification (2): Full Conformal Predictors](https://www.youtube.com/watch?v=R1dnPAYGwnk) by Mahdi Torabi Rad (2023) 🔥🔥🔥🔥🔥
-26. [Uncertainty Quantification (3): From Full to Split Conformal Methods](https://www.youtube.com/watch?v=YigGJfsCjDk) by Mahdi Torabi Rad (2023) 🔥🔥🔥🔥🔥
-27. [Conformal Prediction and Venn Predictors A Tutorial on Predicting with Confidence](https://icdatascience.org/wp-content/uploads/2019/07/ICDATA_tutorial_2019_Johansson_U.pdf) by Ulf Johansson, Henrik Linusson, Tuve Löfström, Henrik Boström, Alex Gammerman (2019) 🔥🔥🔥🔥🔥
-28. [Tutorial on Conformal Prediction Claire Boyer Assistant Professor, LPSM, Paris Sorbonne Université ; Margaux Zaffran PhD Candidate, EDF, Inria, CMAP, École Polytechnique](https://claireboyer.github.io/tutorial-conformal-prediction/) 🔥🔥🔥🔥🔥
-29. [Conformal Prediction: How to quantify uncertainty of machine learning models? ECAS-ENBIS course– ENBIS 2023 Annual conference](https://mzaffran.github.io/assets/files/Talks/Tuto_CP_ENBIS_ECAS.pdf) by Margaux Zaffran 🔥🔥🔥🔥🔥 (2023)
-30. [Conformal Prediction in Genomics](https://github.com/BiolApps/ConformalPrediction/tree/main) by BiolApps (2023)
-31. [Conformal Prediction: A Visual Introduction](https://conformal-prediction.streamlit.app/) in [VISxAI](https://visxai.io/) by Mihir Agarwal, Lalit Chandra Routhu, Zeel B Patel and Nipun Batra (IIT Gandhinagar, IIT Patna, 2023)
-32. [A Conformal Prediction tutorial, an introductive review of the basics](https://conformalpredictionintro.github.io) by Margaux Zaffran (2023)
-33. [Conformal Predictions from Scratch in Numpy](https://github.com/joneswack/conformal-predictions-from-scratch) by Jones Wacker (2023) 🔥🔥🔥🔥🔥 
+5. [Conformal Prediction: a Unified Review of Theory and New Challenges](https://www.e-publications.org/ims/submission/BEJ/user/submissionFile/46245?confirm=193b4e5b) by Gianluca Zeni, Matteo Fontana1 and Simone Vantini (Politecnico di Milano, Italy, 2021) 🔥🔥🔥🔥🔥
+6.  [Conformal Prediction: How to quantify uncertainty of machine learning models? ECAS-ENBIS course– ENBIS 2023 Annual conference](https://mzaffran.github.io/assets/files/Talks/Tuto_CP_ENBIS_ECAS.pdf) by Margaux Zaffran 🔥🔥🔥🔥🔥 (2023)
+7. [A Tutorial on Conformal Prediction](https://jmlr.org/papers/v9/shafer08a.html) by Glenn Shafer and Vladimir Vovk (2008) 🔥🔥🔥🔥🔥
+8. [Tutorial on Venn-ABERS prediction](https://cml.rhul.ac.uk/people/ptocca/HomePage/Toccaceli_CP___Venn_Tutorial.pdf) by Paolo Toccaceli (Royal Holloway, UK, 2019) 🔥🔥🔥🔥🔥
+9. [An Introduction to Conformal Prediction](https://cml.rhul.ac.uk/copa2017/presentations/CP_Tutorial_2017.pdf) by Henrik Linusson (2017) 
+🔥🔥🔥🔥
+10. [Conformal prediction A Tiny Tutorial on Predicting with Confidence](https://people.dsv.su.se/~henke/DSWS/johansson.pdf) by Henrik Linusson and Ulf Johansson (2014) 🔥🔥🔥🔥
+11.  [Tutorial on Conformal Prediction Claire Boyer Assistant Professor, LPSM, Paris Sorbonne Université ; Margaux Zaffran PhD Candidate, EDF, Inria, CMAP, École Polytechnique](https://claireboyer.github.io/tutorial-conformal-prediction/) 🔥🔥🔥🔥🔥
+12. [A Tutorial on Conformal Predictive Distributions](https://www.youtube.com/watch?v=FUi5jklGvvo&t=3s) by Paolo Toccaceli (2020) 🔥🔥🔥
+13. [Venn Predictors Tutorial](https://www.youtube.com/watch?v=KsQpkjl7u1w) by Ulf Johansson, Cecilia Sönströd, Tuve Löfström, and Henrik Boström (2021)  🔥🔥🔥🔥
+14.   Ulf Johansson: Venn Predictors](https://www.youtube.com/watch?v=xxZOLo8wxe0&t=98s) by Ulf Johansson (2020)  🔥🔥🔥🔥
+15.   [Conformal prediction A Tiny Tutorial on Predicting with Confidence](https://people.dsv.su.se/~henke/DSWS/johansson.pdf) by Henrik Linusson and Ulf Johansson (2014)
+16.   [Conformal Prediction and Venn Predictors A Tutorial on Predicting with Confidence](https://icdatascience.org/wp-content/uploads/2019/07/ICDATA_tutorial_2019_Johansson_U.pdf) by Ulf Johansson, Henrik Linusson, Tuve Löfström, Henrik Boström, Alex Gammerman (2019) 🔥🔥🔥🔥🔥
+17.   [A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification](https://arxiv.org/pdf/2107.07511.pdf) by Anastasios N. Angelopoulos and Stephen Bates (2021) [Video](https://www.youtube.com/watch?v=nql000Lu_iE&t=1786s) [Code](https://github.com/aangelopoulos/conformal-prediction) 🔥🔥🔥🔥
+18.   [Introduction to Conformal Prediction](https://www.iith.ac.in/~vineethnb/indoukworkshop2015/assets/files/IntroToCP.pdf) by Vineeth N Balasubramanian (Indian Institue of Technology, Hyderabad, 2015)
+19. [Conformal Prediction in Spark](https://docs.google.com/presentation/d/1eD1vUJVR3nejyJZsOMfxL-NxrLy7K2UUMSAEMHYLfek/edit#slide=id.g2276269343_0_129) by Marco Capuccini (Uppsala University, 2017)
+20. [Getting predictions intervals with conformal inference](http://projects.rajivshah.com/blog/2022/09/24/conformal_predictions) by Rajiv Shah (2022) [YouTube](https://www.youtube.com/watch?v=ZUK4zR0IeLU) [Code](https://colab.research.google.com/drive/1bA_TrrmRpgJ0jasWBZCxkXSLePi8uWBx) 🔥🔥🔥🔥🔥
+21. [Uncertainty estimation in NLP](https://sites.google.com/view/uncertainty-nlp#h.is5zc8lcnuki) by Tal Schuster, Adam Fisch (MIT, USC, 2022) 🔥🔥🔥🔥🔥
+22. [Regression prediction intervals with MAPIE on Kaggle](https://www.kaggle.com/code/carlmcbrideellis/regression-prediction-intervals-with-mapie) by Carl McBride Ellis, PhD
+23. [Distribution-free inference tutorial At the IFDS 2021 Summer School](https://rinafb.github.io/talks/) [Video 1](https://vimeo.com/581870072) [Video 2](https://vimeo.com/581870078)
+24. [Conformal Inference Tutorial](https://bkompa.github.io/2020/09/19/Conformal-Inference-Tutorial.html) by Ben Kompa (2020)
+25. [Prediction intervals for any machine learning model - How to construct prediction intervals with the Jackknife+ using the MAPIE package](https://www.valencekjell.com/posts/2022-09-14-prediction-intervals/) by Kjell Jorner (ETH, 2022)
+26. [Uncertainty Quantification (1): Enter Conformal Predictors](https://www.youtube.com/watch?v=xZbuFKWV5NA&t=25s) by Mahdi Torabi Rad (2023) 🔥🔥🔥
+27. [Uncertainty Quantification (2): Full Conformal Predictors](https://www.youtube.com/watch?v=R1dnPAYGwnk) by Mahdi Torabi Rad (2023) 🔥🔥🔥🔥
+28. [Uncertainty Quantification (3): From Full to Split Conformal Methods](https://www.youtube.com/watch?v=YigGJfsCjDk) by Mahdi Torabi Rad (2023) 🔥🔥🔥🔥🔥
+29. [Conformal Prediction in Genomics](https://github.com/BiolApps/ConformalPrediction/tree/main) by BiolApps (2023)
+30. [Conformal Prediction: A Visual Introduction](https://conformal-prediction.streamlit.app/) in [VISxAI](https://visxai.io/) by Mihir Agarwal, Lalit Chandra Routhu, Zeel B Patel and Nipun Batra (IIT Gandhinagar, IIT Patna, 2023)
+31. [Conformal Predictions from Scratch in Numpy](https://github.com/joneswack/conformal-predictions-from-scratch) by Jones Wacker (2023) 🔥🔥🔥🔥🔥 
         
 ## Courses
 1. [Uncertain: Modern topics in uncertainty estimation](https://uncertaintyclass.com) [YouTube](https://www.youtube.com/watch?app=desktop&v=M3tkM4dcIPA) [Course notes](https://www.cis.upenn.edu/~aaroth/uncertainty-notes.pdf) by Aaron Roth (University of Pennsylvania, 2022) 🔥🔥🔥🔥🔥
