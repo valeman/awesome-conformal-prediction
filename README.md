@@ -677,6 +677,8 @@ Under Standard and Feedback Covariate Shift](https://openreview.net/pdf?id=ORxBE
 333. [Regression Trees for Fast and Adaptive Prediction Intervals](https://arxiv.org/abs/2402.07357) by Luben M. C. Cabezasa, Mateus P. Ottoa, Rafael Izbicki, Rafael B. Sternc (Federal University of São Carlos, University of São Paulo,2024) [code](https://github.com/Monoxido45/clover) 🔥🔥🔥🔥🔥
 334. [Self-Consistent Conformal Prediction](https://arxiv.org/abs/2402.07307) by Lars van der Laan, Ahmed M. Alaa (University of Southern California, 2024) 🔥🔥🔥🔥🔥
 335. [Conformal Prediction via Regression-as-Classification](https://openreview.net/forum?id=eKrYMGpXVY) by Etash Guha, Shlok Natarajan, Thomas Möllenhoff, Mohammad Emtiyaz Khan, Eugene Ndiaye (RIKEN AIP, Salesforce, Apple, SambaNova Systems, 2023) [code](https://github.com/EtashGuha/R2CCP) 🔥🔥🔥🔥🔥
+336. [Safe Task Planning for Language-Instructed Multi-Robot Systems using Conformal Prediction](https://arxiv.org/abs/2402.15368) by Jun Wang, Guocheng He, and Yiannis Kantaros (Washington University in St Louis, 2024).
+337. [Conformalized-DeepONet: A Distribution-Free Framework for Uncertainty Quantification in Deep Operator Networks](https://arxiv.org/abs/2402.15406) by Christian Moya, Amirhossein Mollaali, Zecheng Zhang, Lu Lu, Guang Lin (Purdue University, Florida State University, Yale, 2024) 🔥🔥🔥🔥🔥
 
 
 
