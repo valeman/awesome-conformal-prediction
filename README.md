@@ -181,7 +181,6 @@ Jelle Van Miltenburg (KTH ROYAL INSTITUTE OF TECHNOLOGY, 2018)
 for probabilistic wind-speed forecasting](https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=9130213&fileOId=9130294), MSc thesis by Simon Althoff (Lund University, 2023)
 31. [Trustworthy explanations: Improved decision support through well-calibrated uncertainty quantification](https://hj.diva-portal.org/smash/record.jsf?aq2=%5B%5B%5D%5D&c=4&af=%5B%5D&searchType=SIMPLE&sortOrder2=title_sort_asc&query=Helena+Löfström&language=en&pid=diva2%3A1810440&aq=%5B%5B%5D%5D&sf=all&aqe=%5B%5D&sortOrder=author_sort_asc&onlyFullText=false&noOfRows=50&dswid=-3088), PhD thesis by Helena Löfström (Jönköping Universitu, 2023) 🔥🔥🔥🔥🔥
 32. [Data Augmentation and Conformal Prediction](https://dspace.mit.edu/handle/1721.1/151275), MSc thesis by Helen Lu (MIT, 2023)
-
 33. [Conformal prediction and copula based methods for profile monitioring](https://www.politesi.polimi.it/handle/10589/214268), MSc Thesis by Niccolo' Donadini (Politecnico di Milano, 2023)
 
 ## Tutorials
@@ -324,6 +323,7 @@ for probabilistic wind-speed forecasting](https://lup.lub.lu.se/luur/download?fu
 93. [Selection by Prediction with Conformal p-values](https://www.youtube.com/watch?v=VHcCmkChwTk&t=5s) by Ying Jin (Stanford, 2023)
 94. [Trustworthy Retrieval Augmented Chatbots Utilizing Conformal Predictors](https://www.youtube.com/watch?v=JnWXebWUEg4) by Shuo Li (UPenn, 2023).
 95. [An introduction to conformal prediction - PyLadies Amsterdam](https://www.youtube.com/watch?v=QFtdTyIWrz8) by Inge van den Ende (2024) 🔥🔥🔥🔥🔥[code](https://github.com/pyladiesams/conformal-prediction-jan2024)
+96. [Anushri Dixit - Planning with Confidence: Uncertainty Quantification for Safety-Critical Tasks](https://www.youtube.com/watch?v=hhSejSXde6U) (2024) 🔥🔥🔥🔥🔥
 
 ## Papers
 
