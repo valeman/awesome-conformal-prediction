@@ -872,7 +872,6 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 3. [TorchCP - A library for conformal prediction](https://github.com/ml-stat-Sustech/TorchCP) 🔥🔥🔥🔥🔥
 4. [Puncc (Predictive uncertainty calibration and conformalization)](https://github.com/deel-ai/puncc) [paper](https://proceedings.mlr.press/v204/mendil23a/mendil23a.pdf) [slides](https://copa-conference.com/presentations/COPA_2023_mouhcine_mendil_puncc.pdf) 🔥🔥🔥🔥🔥
 5. [Nonconformist](https://github.com/donlnz/nonconformist) by Henrik Linusson (2015) 🔥🔥🔥🔥🔥
-6. [AWS Fortuna](https://aws-fortuna.readthedocs.io/en/latest/) [Paper](https://arxiv.org/pdf/2302.04019.pdf) by Amazon, (2022) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 7. [Nixtla mlforecast](https://nixtla.github.io/mlforecast/docs/prediction_intervals.html#references) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 8. [Nixtla statsforecast](https://nixtla.github.io/statsforecast/docs/tutorials/conformalprediction.html#introduction) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 9. [MAPIE - Model Agnostic Prediction Interval Estimator](https://github.com/scikit-learn-contrib/MAPIE) by Quantmetry team (2021) [Paper](https://arxiv.org/pdf/2207.12274.pdf) [slides](https://arxiv.org/pdf/2207.12274.pdf) MAPIE has serious gaps in binary classifications and not recommended for binary classification problems.
