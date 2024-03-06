@@ -680,6 +680,7 @@ Under Standard and Feedback Covariate Shift](https://openreview.net/pdf?id=ORxBE
 336. [Safe Task Planning for Language-Instructed Multi-Robot Systems using Conformal Prediction](https://arxiv.org/abs/2402.15368) by Jun Wang, Guocheng He, and Yiannis Kantaros (Washington University in St Louis, 2024).
 337. [Conformalized-DeepONet: A Distribution-Free Framework for Uncertainty Quantification in Deep Operator Networks](https://arxiv.org/abs/2402.15406) by Christian Moya, Amirhossein Mollaali, Zecheng Zhang, Lu Lu, Guang Lin (Purdue University, Florida State University, Yale, 2024) 🔥🔥🔥🔥🔥
 338. [API Is Enough: Conformal Prediction for Large Language Models Without Logit-Access](API Is Enough: Conformal Prediction for Large Language Models Without Logit-Access) by Jiayuan Su, Jing Luo, Hongwei Wang, Lu Cheng (Zhejiang University, University of Illinois Urbana-Champaign Institute, University of Illinois Chicago, 2024) 🔥🔥🔥🔥🔥
+339. [Conformal Language Modeling](Victor Quach, Adam Fisch, Tal Schuster, Adam Yala, Jae Ho Sohn, Tommi S. Jaakkola, Regina Barzilay) (MIT, Berkeley, Google Research, UC San Francisco, 2023) 🔥🔥🔥🔥🔥
 
 
 
