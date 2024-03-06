@@ -681,6 +681,7 @@ Under Standard and Feedback Covariate Shift](https://openreview.net/pdf?id=ORxBE
 337. [Conformalized-DeepONet: A Distribution-Free Framework for Uncertainty Quantification in Deep Operator Networks](https://arxiv.org/abs/2402.15406) by Christian Moya, Amirhossein Mollaali, Zecheng Zhang, Lu Lu, Guang Lin (Purdue University, Florida State University, Yale, 2024) 🔥🔥🔥🔥🔥
 338. [API Is Enough: Conformal Prediction for Large Language Models Without Logit-Access](API Is Enough: Conformal Prediction for Large Language Models Without Logit-Access) by Jiayuan Su, Jing Luo, Hongwei Wang, Lu Cheng (Zhejiang University, University of Illinois Urbana-Champaign Institute, University of Illinois Chicago, 2024) 🔥🔥🔥🔥🔥
 339. [Conformal Language Modeling](Victor Quach, Adam Fisch, Tal Schuster, Adam Yala, Jae Ho Sohn, Tommi S. Jaakkola, Regina Barzilay) (MIT, Berkeley, Google Research, UC San Francisco, 2023) 🔥🔥🔥🔥🔥
+340. [A Safety-Critical Framework for UGVs in Complex Environments: A Data-Driven Discrepancy-Aware Approach](https://arxiv.org/abs/2403.03215) by Skylar X. Wei, Lu Gan, Joel W. Burdick (California Institute of Technology,Georgia Institute of Technology, 2024) 🔥🔥🔥🔥🔥
 
 
 
