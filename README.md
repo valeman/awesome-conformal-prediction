@@ -682,7 +682,7 @@ Under Standard and Feedback Covariate Shift](https://openreview.net/pdf?id=ORxBE
 338. [API Is Enough: Conformal Prediction for Large Language Models Without Logit-Access](API Is Enough: Conformal Prediction for Large Language Models Without Logit-Access) by Jiayuan Su, Jing Luo, Hongwei Wang, Lu Cheng (Zhejiang University, University of Illinois Urbana-Champaign Institute, University of Illinois Chicago, 2024) 🔥🔥🔥🔥🔥
 339. [Conformal Language Modeling](Victor Quach, Adam Fisch, Tal Schuster, Adam Yala, Jae Ho Sohn, Tommi S. Jaakkola, Regina Barzilay) (MIT, Berkeley, Google Research, UC San Francisco, 2023) 🔥🔥🔥🔥🔥
 340. [A Safety-Critical Framework for UGVs in Complex Environments: A Data-Driven Discrepancy-Aware Approach](https://arxiv.org/abs/2403.03215) by Skylar X. Wei, Lu Gan, Joel W. Burdick (California Institute of Technology,Georgia Institute of Technology, 2024) 🔥🔥🔥🔥🔥
-
+341. [Conformal prediction for multi-dimensional time series by ellipsoidal sets](https://arxiv.org/abs/2403.03850) by Chen Xu, Hanyang Jiang, and Yao Xie (Georgia Tech, 2024) [code](https://github.com/hamrel-cxu/MultiDimSPCI) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 
 
 ## Papers Time Series
@@ -713,6 +713,7 @@ Niccolo` Ajroldia, Jacopo Diquigiovannib, Matteo Fontanac, Simone Vantinia (2022
 24. [Conformal PID Control for Time Series Prediction](https://arxiv.org/abs/2307.16895) by Anastasios N. Angelopoulos, Emmanuel J. Candes, Ryan J. Tibshirani (Berkeley/Stanford, NeurIPS2023) [code](https://github.com/aangelopoulos/conformal-time-series) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 25. [Distribution-Free Conformal Joint Prediction Regions for Neural Marked Temporal Point Processes](https://arxiv.org/abs/2401.04612) by Victor Dheur, Tanguy Bosser, Rafael Izbicki, Souhaib Ben Taieb (Universidade Federal de Sao Carlos, Brazil and University of Mons, Belgium, 2024) [code](https://github.com/valeman/conf_tpp) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 26. [Bellman Conformal Inference: Calibrating Prediction Intervals For Time Series](https://arxiv.org/abs/2402.05203) by Zitong Yang, Emmanuel Candès, Lihua Lei (Stanford, 2024)  TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+27. [Conformal prediction for multi-dimensional time series by ellipsoidal sets](https://arxiv.org/abs/2403.03850) by Chen Xu, Hanyang Jiang, and Yao Xie (Georgia Tech, 2024) [code](https://github.com/hamrel-cxu/MultiDimSPCI) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 
 ## Presentation Slides
 1. [Machine Learning for Probabilistic Prediction, Seattle Artificial Intelligence Workshops Meetup](https://www.researchgate.net/publication/371566526_Machine_Learning_for_Probabilistic_Prediction) by Valery Manokhin, 2023 🔥🔥🔥🔥🔥
