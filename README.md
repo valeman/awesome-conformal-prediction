@@ -199,7 +199,7 @@ for probabilistic wind-speed forecasting](https://lup.lub.lu.se/luur/download?fu
 11.  [Tutorial on Conformal Prediction Claire Boyer Assistant Professor, LPSM, Paris Sorbonne Université ; Margaux Zaffran PhD Candidate, EDF, Inria, CMAP, École Polytechnique](https://claireboyer.github.io/tutorial-conformal-prediction/) 🔥🔥🔥🔥🔥
 12. [A Tutorial on Conformal Predictive Distributions](https://www.youtube.com/watch?v=FUi5jklGvvo&t=3s) by Paolo Toccaceli (2020) 🔥🔥🔥
 13. [Venn Predictors Tutorial](https://www.youtube.com/watch?v=KsQpkjl7u1w) by Ulf Johansson, Cecilia Sönströd, Tuve Löfström, and Henrik Boström (2021)  🔥🔥🔥🔥
-14.   Ulf Johansson: Venn Predictors](https://www.youtube.com/watch?v=xxZOLo8wxe0&t=98s) by Ulf Johansson (2020)  🔥🔥🔥🔥
+14. [Ulf Johansson: Venn Predictors](https://www.youtube.com/watch?v=xxZOLo8wxe0&t=98s) by Ulf Johansson (2020)  🔥🔥🔥🔥
 15.   [Conformal prediction A Tiny Tutorial on Predicting with Confidence](https://people.dsv.su.se/~henke/DSWS/johansson.pdf) by Henrik Linusson and Ulf Johansson (2014)
 16.   [Conformal Prediction and Venn Predictors A Tutorial on Predicting with Confidence](https://icdatascience.org/wp-content/uploads/2019/07/ICDATA_tutorial_2019_Johansson_U.pdf) by Ulf Johansson, Henrik Linusson, Tuve Löfström, Henrik Boström, Alex Gammerman (2019) 🔥🔥🔥🔥🔥
 17.   [A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification](https://arxiv.org/pdf/2107.07511.pdf) by Anastasios N. Angelopoulos and Stephen Bates (2021) [Video](https://www.youtube.com/watch?v=nql000Lu_iE&t=1786s) [Code](https://github.com/aangelopoulos/conformal-prediction) 🔥🔥🔥🔥
