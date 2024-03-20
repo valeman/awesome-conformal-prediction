@@ -683,6 +683,7 @@ Under Standard and Feedback Covariate Shift](https://openreview.net/pdf?id=ORxBE
 339. [Conformal Language Modeling](Victor Quach, Adam Fisch, Tal Schuster, Adam Yala, Jae Ho Sohn, Tommi S. Jaakkola, Regina Barzilay) (MIT, Berkeley, Google Research, UC San Francisco, 2023) 🔥🔥🔥🔥🔥
 340. [A Safety-Critical Framework for UGVs in Complex Environments: A Data-Driven Discrepancy-Aware Approach](https://arxiv.org/abs/2403.03215) by Skylar X. Wei, Lu Gan, Joel W. Burdick (California Institute of Technology,Georgia Institute of Technology, 2024) 🔥🔥🔥🔥🔥
 341. [Conformal prediction for multi-dimensional time series by ellipsoidal sets](https://arxiv.org/abs/2403.03850) by Chen Xu, Hanyang Jiang, and Yao Xie (Georgia Tech, 2024) [code](https://github.com/hamrel-cxu/MultiDimSPCI) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+342. [Conformal prediction of molecule-induced cancer cell growth inhibition challenged by strong distribution shifts](https://www.biorxiv.org/content/10.1101/2024.03.15.585269v1) by Saiveth Hernandez-Hernandez, Qianrong Guo, Pedro Ballester (Imperial College, 2024) 🔥🔥🔥🔥🔥
 
 
 ## Papers Time Series
