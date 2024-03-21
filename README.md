@@ -324,6 +324,7 @@ for probabilistic wind-speed forecasting](https://lup.lub.lu.se/luur/download?fu
 94. [Trustworthy Retrieval Augmented Chatbots Utilizing Conformal Predictors](https://www.youtube.com/watch?v=JnWXebWUEg4) by Shuo Li (UPenn, 2023).
 95. [An introduction to conformal prediction - PyLadies Amsterdam](https://www.youtube.com/watch?v=QFtdTyIWrz8) by Inge van den Ende (2024) 🔥🔥🔥🔥🔥[code](https://github.com/pyladiesams/conformal-prediction-jan2024)
 96. [Anushri Dixit - Planning with Confidence: Uncertainty Quantification for Safety-Critical Tasks](https://www.youtube.com/watch?v=hhSejSXde6U) (2024) 🔥🔥🔥🔥🔥
+97. [Analítica acelerada con Shapelets y conformal prediction, ~48 mins onwards](https://www.youtube.com/watch?v=4HxTUzPyK9g&t=4854s) by Carl McBride Ellis (2024) [code](https://github.com/Carl-McBride-Ellis/talks) 🔥🔥🔥🔥🔥
 
 ## Papers
 
