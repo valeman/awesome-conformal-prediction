@@ -687,6 +687,7 @@ Under Standard and Feedback Covariate Shift](https://openreview.net/pdf?id=ORxBE
 342. [Conformal prediction of molecule-induced cancer cell growth inhibition challenged by strong distribution shifts](https://www.biorxiv.org/content/10.1101/2024.03.15.585269v1) by Saiveth Hernandez-Hernandez, Qianrong Guo, Pedro Ballester (Imperial College, 2024) 🔥🔥🔥🔥🔥
 343. [Robust Conformal Prediction under Distribution Shift via Physics-Informed Structural Causal Model](https://arxiv.org/abs/2403.15025) by Rui Xu, Yue Sun, Chao Chen, Parv Venkitasubramaniam, Sihong (The Hong Kong University of Science and Technology (Guangzhou), Lehigh University, Bethlehem, 2024) 🔥🔥🔥🔥🔥
 344. [Conformal link prediction for false discovery rate control](https://arxiv.org/abs/2306.14693) by Ariane Marandon (Sorbonne Université, 2024)
+345. [Risk-Calibrated Human-Robot Interaction via Set-Valued Intent Prediction](https://risk-calibrated-planning.github.io) by Justin Lidard, Ariel Bachman, Bryan Boateng, Anirudha Majumdar (Princeton, 2024) 🔥🔥🔥🔥🔥
 
 
 ## Papers Time Series
