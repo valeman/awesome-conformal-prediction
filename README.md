@@ -688,6 +688,7 @@ Under Standard and Feedback Covariate Shift](https://openreview.net/pdf?id=ORxBE
 343. [Robust Conformal Prediction under Distribution Shift via Physics-Informed Structural Causal Model](https://arxiv.org/abs/2403.15025) by Rui Xu, Yue Sun, Chao Chen, Parv Venkitasubramaniam, Sihong (The Hong Kong University of Science and Technology (Guangzhou), Lehigh University, Bethlehem, 2024) 🔥🔥🔥🔥🔥
 344. [Conformal link prediction for false discovery rate control](https://arxiv.org/abs/2306.14693) by Ariane Marandon (Sorbonne Université, 2024)
 345. [Risk-Calibrated Human-Robot Interaction via Set-Valued Intent Prediction](https://risk-calibrated-planning.github.io) by Justin Lidard, Ariel Bachman, Bryan Boateng, Anirudha Majumdar (Princeton, 2024) 🔥🔥🔥🔥🔥
+346. [Predictive Inference in Multi-environment Scenarios](https://arxiv.org/abs/2403.16336) by John C. Duchi, Suyash Gupta, Kuanhao Jiang, Pragya Sur (Stanford, Harvard, Amazon, 2024)
 
 
 ## Papers Time Series
