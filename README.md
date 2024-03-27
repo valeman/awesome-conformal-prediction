@@ -686,6 +686,7 @@ Under Standard and Feedback Covariate Shift](https://openreview.net/pdf?id=ORxBE
 341. [Conformal prediction for multi-dimensional time series by ellipsoidal sets](https://arxiv.org/abs/2403.03850) by Chen Xu, Hanyang Jiang, and Yao Xie (Georgia Tech, 2024) [code](https://github.com/hamrel-cxu/MultiDimSPCI) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 342. [Conformal prediction of molecule-induced cancer cell growth inhibition challenged by strong distribution shifts](https://www.biorxiv.org/content/10.1101/2024.03.15.585269v1) by Saiveth Hernandez-Hernandez, Qianrong Guo, Pedro Ballester (Imperial College, 2024) 🔥🔥🔥🔥🔥
 343. [Robust Conformal Prediction under Distribution Shift via Physics-Informed Structural Causal Model](https://arxiv.org/abs/2403.15025) by Rui Xu, Yue Sun, Chao Chen, Parv Venkitasubramaniam, Sihong (The Hong Kong University of Science and Technology (Guangzhou), Lehigh University, Bethlehem, 2024) 🔥🔥🔥🔥🔥
+344. [Conformal link prediction for false discovery rate control](https://arxiv.org/abs/2306.14693) by Ariane Marandon (Sorbonne Université, 2024)
 
 
 ## Papers Time Series
