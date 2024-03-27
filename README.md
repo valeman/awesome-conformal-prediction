@@ -689,6 +689,7 @@ Under Standard and Feedback Covariate Shift](https://openreview.net/pdf?id=ORxBE
 344. [Conformal link prediction for false discovery rate control](https://arxiv.org/abs/2306.14693) by Ariane Marandon (Sorbonne Université, 2024)
 345. [Risk-Calibrated Human-Robot Interaction via Set-Valued Intent Prediction](https://risk-calibrated-planning.github.io) by Justin Lidard, Ariel Bachman, Bryan Boateng, Anirudha Majumdar (Princeton, 2024) 🔥🔥🔥🔥🔥
 346. [Predictive Inference in Multi-environment Scenarios](https://arxiv.org/abs/2403.16336) by John C. Duchi, Suyash Gupta, Kuanhao Jiang, Pragya Sur (Stanford, Harvard, Amazon, 2024)
+347. [Conformal online model aggregation](https://arxiv.org/abs/2403.15527) by Matteo Gasparin, Aaditya Ramdas (Carnegie Mellon University, University of Padova, 2024)
 
 
 ## Papers Time Series
