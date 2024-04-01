@@ -140,7 +140,7 @@ What about the industry one might ask - Conformal Prediction already for several
 
 ## Events
 
-1. Kaggle competition ["Prediction interval competition I: Birth weight."](https://www.kaggle.com/competitions/prediction-interval-competition-i-birth-weight/discussion/459133) an opportunity to learn about and practice conformal prediction 🔥🔥🔥🔥🔥
+1. [Applied Conformal Prediction course starts in May 2024!](https://maven.com/forms/2a53e5) 🔥🔥🔥🔥🔥
 
 ## Books
 
@@ -219,14 +219,15 @@ for probabilistic wind-speed forecasting](https://lup.lub.lu.se/luur/download?fu
 31. [Conformal Predictions from Scratch in Numpy](https://github.com/joneswack/conformal-predictions-from-scratch) by Jones Wacker (2023) 🔥🔥🔥🔥🔥 
         
 ## Courses
-1. [Uncertain: Modern topics in uncertainty estimation](https://uncertaintyclass.com) [YouTube](https://www.youtube.com/watch?app=desktop&v=M3tkM4dcIPA) [Course notes](https://www.cis.upenn.edu/~aaroth/uncertainty-notes.pdf) by Aaron Roth (University of Pennsylvania, 2022) 🔥🔥🔥🔥🔥
-2. [Topics in Modern Statistical Learning](https://github.com/dobriban/Topics-In-Modern-Statistical-Learning) by Edgar Dobriban (Wharton School, University of Pennsylvania, 2022) 🔥🔥🔥🔥🔥
-3. [Theory of Statistics](https://candes.su.domains/teaching/stats300c/) Stanford Statistics course by Prof Emmanuel Candes (2022) 🔥🔥🔥🔥🔥
-4. [36-708 Statistical Methods for Machine Learning](https://www.stat.cmu.edu/~larry/=sml/) Carnegie-Mellon course by Prof Larry Wasserman (2022)
-5. [Course on Conformal Prediction](https://mindfulmodeler.substack.com/p/e-mail-course-on-conformal-prediction) by Christoph Molnar (2022) 
-6. [Conformal Prediction - Advanced Topics in Statistical Learning, Spring 2023](https://www.stat.berkeley.edu/~ryantibs/statlearn-s23/lectures/conformal.pdf) by Ryan Tibshirani (2023) 🔥🔥🔥🔥🔥
-7. [Conformal Methods for Efficient and Reliable Deep Learning](https://dspace.mit.edu/handle/1721.1/152788) by Adam, Fisch (MIT, 2023) 🔥🔥🔥🔥🔥
-8. [Conformal Prediction 101 - in Portuguese 🇵🇹](https://github.com/gusbruschi13/Conformal-Prediction/tree/main/cp-101) by Gustavo Bruschi (2023) 🔥🔥🔥🔥🔥
+1. [Applied Conformal Prediction course starts in May 2024!](https://maven.com/forms/2a53e5) 🔥🔥🔥🔥🔥
+2. [Uncertain: Modern topics in uncertainty estimation](https://uncertaintyclass.com) [YouTube](https://www.youtube.com/watch?app=desktop&v=M3tkM4dcIPA) [Course notes](https://www.cis.upenn.edu/~aaroth/uncertainty-notes.pdf) by Aaron Roth (University of Pennsylvania, 2022) 🔥🔥🔥🔥🔥
+3. [Topics in Modern Statistical Learning](https://github.com/dobriban/Topics-In-Modern-Statistical-Learning) by Edgar Dobriban (Wharton School, University of Pennsylvania, 2022) 🔥🔥🔥🔥🔥
+4. [Theory of Statistics](https://candes.su.domains/teaching/stats300c/) Stanford Statistics course by Prof Emmanuel Candes (2022) 🔥🔥🔥🔥🔥
+5. [36-708 Statistical Methods for Machine Learning](https://www.stat.cmu.edu/~larry/=sml/) Carnegie-Mellon course by Prof Larry Wasserman (2022)
+6. [Course on Conformal Prediction](https://mindfulmodeler.substack.com/p/e-mail-course-on-conformal-prediction) by Christoph Molnar (2022) 
+7. [Conformal Prediction - Advanced Topics in Statistical Learning, Spring 2023](https://www.stat.berkeley.edu/~ryantibs/statlearn-s23/lectures/conformal.pdf) by Ryan Tibshirani (2023) 🔥🔥🔥🔥🔥
+8. [Conformal Methods for Efficient and Reliable Deep Learning](https://dspace.mit.edu/handle/1721.1/152788) by Adam, Fisch (MIT, 2023) 🔥🔥🔥🔥🔥
+9. [Conformal Prediction 101 - in Portuguese 🇵🇹](https://github.com/gusbruschi13/Conformal-Prediction/tree/main/cp-101) by Gustavo Bruschi (2023) 🔥🔥🔥🔥🔥
 
 ## Videos 
 
