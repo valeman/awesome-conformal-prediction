@@ -695,6 +695,7 @@ Under Standard and Feedback Covariate Shift](https://openreview.net/pdf?id=ORxBE
 347. [Conformal online model aggregation](https://arxiv.org/abs/2403.15527) by Matteo Gasparin, Aaditya Ramdas (Carnegie Mellon University, University of Padova, 2024)
 348. [Conformal Intent Classification and Clarification for Fast and Accurate Intent Recognition](https://arxiv.org/abs/2403.18973v1) by Floris den Hengst, Ralf Wolter, Patrick Altmeyer, Arda Kaygan (University of Amsterdam, ING, 2024) 🔥🔥🔥🔥🔥
 349. [Coverage-Guaranteed Prediction Sets for Out-of-Distribution Data](https://arxiv.org/abs/2403.19950) by Xin Zou, Weiwei Liu (Wuhan University. 2024)
+350. [Conformal Prediction for Stochastic Decision-Making of PV Power in Electricity Markets](https://arxiv.org/abs/2403.20149) by Yvet Renkema, Nico Brinkel & Tarek Alskaif (Wageningen University, Utrecht University, 2024). 🔥🔥🔥🔥🔥
 
 
 ## Papers Time Series
