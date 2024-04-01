@@ -6,11 +6,13 @@ The book has reached #1 in Amazon Hot New Releases in multiple categories: "Prob
 
 ![Practical Guide to Applied Conformal Prediction: Learn and apply the best uncertainty frameworks to your industry applications](https://github.com/valeman/awesome-conformal-prediction/blob/main/Practical%20Guide%20to%20Applied%20Conformal%20Prediction%20Learn%20and%20apply%20the%20best%20uncertainty%20frameworks%20to%20your%20industry%20applications.jpg)
 
+Applied Conformal Prediction Course on Maven starts in May 2024 🔥🔥🔥🔥🔥 [sign up here](https://maven.com/forms/2a53e5) 
+
 Due to free tier limits of Slack, [Slack for Awesome Conformal Prediction](https://join.slack.com/t/awesomeconformalpred) is in general application-only.
 
 Fill the form to be considered for access. https://docs.google.com/forms/d/e/1FAIpQLScuNkOz1jq-Qt1OJ8oxsDCLZMdn8TkQluHllxk_GodPC8-w_w/viewform
 
-[30-Dec-2023 update: Slack has been reopened temporarily (link valid for 30 days only, real names only as per LinkedIn)](https://join.slack.com/t/awesomeconformalpred/shared_invite/zt-29smwlkfo-Phcps2_FOe0GWE0PsVLLjQ) 
+[1-April-2024 update: Slack has been reopened temporarily (link valid for 30 days only, real names only as per LinkedIn)](https://join.slack.com/t/awesomeconformalpred/shared_invite/zt-2fxxmux4y-HmxSQUXt2WfHA0FfikRcKg)
 
 Preference is given to Conformal Prediction researchers or practitioners who have published papers, articles, tutorials, code or made YouTube videos about Conformal Prediction.
 
