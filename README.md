@@ -143,6 +143,7 @@ What about the industry one might ask - Conformal Prediction already for several
 ## Events
 
 1. [Applied Conformal Prediction course starts in May 2024!](https://maven.com/forms/2a53e5) 🔥🔥🔥🔥🔥
+2. [Kaggle competition - probabilistic forecasting I: Temperature](https://www.kaggle.com/competitions/probabilistic-forecasting-i-temperature/overview) 🔥🔥🔥🔥🔥
 
 ## Books
 
