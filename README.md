@@ -700,9 +700,13 @@ Under Standard and Feedback Covariate Shift](https://openreview.net/pdf?id=ORxBE
 349. [Coverage-Guaranteed Prediction Sets for Out-of-Distribution Data](https://arxiv.org/abs/2403.19950) by Xin Zou, Weiwei Liu (Wuhan University. 2024)
 350. [Conformal Prediction for Stochastic Decision-Making of PV Power in Electricity Markets](https://arxiv.org/abs/2403.20149) by Yvet Renkema, Nico Brinkel & Tarek Alskaif (Wageningen University, Utrecht University, 2024). 🔥🔥🔥🔥🔥
 351. [FDR control and FDP bounds for conformal link prediction](https://arxiv.org/abs/2404.02542) by Gilles Blanchard, Guillermo Durand, Ariane Marandon-Carlhian, Romain Périer (University of Paris-Saclay, The Allan Turing Institute).
-352. [Postprocessing of point predictions for probabilistic forecasting of electricity prices: Diversity matters](https://arxiv.org/abs/2404.02270) by Arkadiusz Lipiecki, Bartosz Uniejewski, Rafał Weron (2024)
+352. [Postprocessing of point predictions for probabilistic forecasting of electricity prices: Diversity matters](https://arxiv.org/abs/2404.02270) by Arkadiusz Lipiecki, Bartosz Uniejewski, Rafał Weron (Wrocław University of Science and Technology, 2024)
 353. [On-line conformalized neural networks ensembles for probabilistic forecasting of day-ahead electricity prices](https://arxiv.org/abs/2404.02722) by 
-Alessandro Brusaferria, Andrea Ballarinoa, Luigi Grossib, Fabrizio Laurini (2024) 🔥🔥🔥🔥🔥
+Alessandro Brusaferria, Andrea Ballarinoa, Luigi Grossib, Fabrizio Laurini (CNR, Institute of Intelligent Industrial Technologies and Systems for Advanced Manufacturing, Universoty of Parma 2024) 🔥🔥🔥🔥
+354.[Conformal Prediction Interval Estimations with an Application to Day-Ahead and Intraday Power Markets](https://arxiv.org/abs/1905.07886) by Christopher Katha, Florian Ziel (University Duisburg-Essen, 2020)
+
+
+
 
 
 ## Papers Time Series
