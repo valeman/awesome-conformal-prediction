@@ -701,9 +701,14 @@ Under Standard and Feedback Covariate Shift](https://openreview.net/pdf?id=ORxBE
 350. [Conformal Prediction for Stochastic Decision-Making of PV Power in Electricity Markets](https://arxiv.org/abs/2403.20149) by Yvet Renkema, Nico Brinkel & Tarek Alskaif (Wageningen University, Utrecht University, 2024). 🔥🔥🔥🔥🔥
 351. [FDR control and FDP bounds for conformal link prediction](https://arxiv.org/abs/2404.02542) by Gilles Blanchard, Guillermo Durand, Ariane Marandon-Carlhian, Romain Périer (University of Paris-Saclay, The Allan Turing Institute).
 352. [Postprocessing of point predictions for probabilistic forecasting of electricity prices: Diversity matters](https://arxiv.org/abs/2404.02270) by Arkadiusz Lipiecki, Bartosz Uniejewski, Rafał Weron (Wrocław University of Science and Technology, 2024)
-353. [On-line conformalized neural networks ensembles for probabilistic forecasting of day-ahead electricity prices](https://arxiv.org/abs/2404.02722) by 
-Alessandro Brusaferria, Andrea Ballarinoa, Luigi Grossib, Fabrizio Laurini (CNR, Institute of Intelligent Industrial Technologies and Systems for Advanced Manufacturing, Universoty of Parma 2024) 🔥🔥🔥🔥
-354.[Conformal Prediction Interval Estimations with an Application to Day-Ahead and Intraday Power Markets](https://arxiv.org/abs/1905.07886) by Christopher Katha, Florian Ziel (University Duisburg-Essen, 2020)
+353. [Conformal Prediction Interval Estimations with an Application to Day-Ahead and Intraday Power Markets](https://arxiv.org/abs/1905.07886) by Christopher Katha, Florian Ziel (University Duisburg-Essen, 2020)
+354. [On-line conformalized neural networks ensembles for probabilistic forecasting of day-ahead electricity prices](https://arxiv.org/abs/2404.02722) by Alessandro Brusaferria, Andrea Ballarinoa, Luigi Grossib, Fabrizio Laurini (CNR, Institute of Intelligent Industrial Technologies and Systems for Advanced Manufacturing, Universoty of Parma 2024) 🔥🔥🔥🔥
+355. [Conformal Prediction Interval Estimations with an Application to Day-Ahead and Intraday Power Markets](https://arxiv.org/abs/1905.07886) by Christopher Katha, Florian Ziel (University Duisburg-Essen, 2020)
+356. [CONFLARE: CONFormal LArge language model REtrieval](https://arxiv.org/abs/2404.04287) by Pouria Rouzrokh, Shahriar Faghani,
+Cooper Gamble, Moein Shariatnia, Bradley J. Erickson (Mayo Clinic Artificial Intelligence Laboratory; Orthopedic Surgery Artificial Intelligence Laboratory, Mayo Clinic, MN, USA; Tehran University of Medical Sciences) [code](https://github.com/Mayo-Radiology-Informatics-Lab/conflare) 🔥🔥🔥🔥
+
+   
+
 
 
 
