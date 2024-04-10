@@ -976,7 +976,7 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 
 ## AI platforms
 1. [Conformal Prediction in Knime](https://copa-conference.com/papers/COPA2022_paper_8.pdf) [Presentation](https://copa-conference.com/presentations/tuwe_presentation.pdf) 🔥🔥🔥🔥🔥
-2. [Data Robot](https://docs.datarobot.com/en/docs/release/public-preview/mlops-preview/prediction-intervals-regression.html/the-trumpet-chart)
+2. [Data Robot - Prediction Intervals via Conformal Inference](https://www.datarobot.com/ai-accelerators/prediction-intervals-via-conformal-inference/)
 3. [AWS Fortuna](https://aws-fortuna.readthedocs.io/en/latest/) by Amazon, (2022) 🔥🔥🔥🔥🔥
 4. [Microsoft Azure](https://learn.microsoft.com/en-gb/archive/blogs/machinelearning/anomaly-detection-using-machine-learning-to-detect-abnormalities-in-time-series-data)
 
