@@ -906,11 +906,11 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 3. [Python implementation of binary and multi-class Venn-ABERS calibration](https://github.com/ip200/venn-abers) by Ivan Petej (2023) [Paper] 🔥🔥🔥🔥
 4. [TorchCP - A library for conformal prediction](https://github.com/ml-stat-Sustech/TorchCP) 🔥🔥🔥🔥🔥
 5. [Puncc (Predictive uncertainty calibration and conformalization)](https://github.com/deel-ai/puncc) [paper](https://proceedings.mlr.press/v204/mendil23a/mendil23a.pdf) [slides](https://copa-conference.com/presentations/COPA_2023_mouhcine_mendil_puncc.pdf) 🔥🔥🔥🔥🔥
-6. [Nonconformist](https://github.com/donlnz/nonconformist) by Henrik Linusson (2015) 🔥🔥🔥🔥🔥
-7. [Nixtla mlforecast](https://nixtla.github.io/mlforecast/docs/prediction_intervals.html#references) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
-8. [Nixtla statsforecast](https://nixtla.github.io/statsforecast/docs/tutorials/conformalprediction.html#introduction) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
-9. [Conformal Impact](https://github.com/tblume1992/ConformalImpact) by Tyler Blume (2024) 🔥🔥🔥🔥🔥
-10. [MAPIE - Model Agnostic Prediction Interval Estimator](https://github.com/scikit-learn-contrib/MAPIE) by Quantmetry team (2021) [Paper](https://arxiv.org/pdf/2207.12274.pdf) [slides](https://arxiv.org/pdf/2207.12274.pdf) MAPIE has serious gaps in binary classifications and not recommended for binary classification problems.
+6.  [Nixtla mlforecast](https://nixtla.github.io/mlforecast/docs/prediction_intervals.html#references) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+7.   [Nixtla statsforecast](https://nixtla.github.io/statsforecast/docs/tutorials/conformalprediction.html#introduction) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+8.    [Conformal Impact](https://github.com/tblume1992/ConformalImpact) by Tyler Blume (2024) 🔥🔥🔥🔥🔥
+9.[MAPIE - Model Agnostic Prediction Interval Estimator](https://github.com/scikit-learn-contrib/MAPIE) by Quantmetry team (2021) [Paper](https://arxiv.org/pdf/2207.12274.pdf) [slides](https://arxiv.org/pdf/2207.12274.pdf) MAPIE has serious gaps in binary classifications and not recommended for binary classification problems.
+10.[Nonconformist](https://github.com/donlnz/nonconformist) by Henrik Linusson (2015) 🚨 The library does not seem to be actively maintained 
 11.  [Venn-ABERS Predictor](https://github.com/ptocca/VennABERS) by Paolo Toccaceli (2019) [Paper](https://proceedings.neurips.cc/paper/2015/hash/a9a1d5317a33ae8cef33961c34144f84-Abstract.html) 🔥🔥🔥🔥🔥
 12. [Conformalized Quantile Regression](https://github.com/yromano/cqr) by Yaniv Romano (2019) 🔥🔥🔥🔥🔥
 13. [Orange3 Conformal Prediction](https://github.com/biolab/orange3-conformal)[Multi-class-probabilistic-classification using Venn-ABERS (Conformal) prediction](https://github.com/valeman/Multi-class-probabilistic-classification) by Valery Manokhin (Royal Holloway, 2022)
