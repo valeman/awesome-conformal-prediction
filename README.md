@@ -706,8 +706,12 @@ Under Standard and Feedback Covariate Shift](https://openreview.net/pdf?id=ORxBE
 353. [Conformal Prediction Interval Estimations with an Application to Day-Ahead and Intraday Power Markets](https://arxiv.org/abs/1905.07886) by Christopher Katha, Florian Ziel (University Duisburg-Essen, 2020)
 354. [On-line conformalized neural networks ensembles for probabilistic forecasting of day-ahead electricity prices](https://arxiv.org/abs/2404.02722) by Alessandro Brusaferria, Andrea Ballarinoa, Luigi Grossib, Fabrizio Laurini (CNR, Institute of Intelligent Industrial Technologies and Systems for Advanced Manufacturing, Universoty of Parma 2024) 🔥🔥🔥🔥
 355. [Conformal Prediction Interval Estimations with an Application to Day-Ahead and Intraday Power Markets](https://arxiv.org/abs/1905.07886) by Christopher Katha, Florian Ziel (University Duisburg-Essen, 2020)
-356. [CONFLARE: CONFormal LArge language model REtrieval](https://arxiv.org/abs/2404.04287) by Pouria Rouzrokh, Shahriar Faghani,
+356. [A novel day-ahead regional and probabilistic wind power forecasting framework using deep CNNs and conformalized regression forests](https://www.sciencedirect.com/science/article/pii/S0306261924002836) by Jef Jonkers,  Diego Nieves Avendano,  Glenn Van Wallendael, Sofie Van Hoecke (Ghent University, 2024)
+357. [CONFLARE: CONFormal LArge language model REtrieval](https://arxiv.org/abs/2404.04287) by Pouria Rouzrokh, Shahriar Faghani,
 Cooper Gamble, Moein Shariatnia, Bradley J. Erickson (Mayo Clinic Artificial Intelligence Laboratory; Orthopedic Surgery Artificial Intelligence Laboratory, Mayo Clinic, MN, USA; Tehran University of Medical Sciences) [code](https://github.com/Mayo-Radiology-Informatics-Lab/conflare) [video](https://www.youtube.com/watch?v=I6zaX5UyHlY) 🔥🔥🔥🔥
+
+
+
 
 
 
