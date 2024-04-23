@@ -944,6 +944,7 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 36. [conformal-prediction-jan2024 - PyLadies Amsterdam](https://github.com/pyladiesams/conformal-prediction-jan2024) by Inge van den Ende (2024) 🔥🔥🔥🔥🔥
 37. [MFLES - Gradient Boosted Decomposition for time series forecasting](https://github.com/tblume1992/MFLES) by Tyler Blume (2024) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 38. [confopt - A Library for Conformal Hyperparameter Tuning](https://github.com/rick12000/confopt) by Ricardo Doyle (2024) [paper](https://arxiv.org/abs/2207.03017) 🔥🔥🔥🔥🔥
+39. [crepes-weighted Extension of crepes package, to enable weighted conformal prediction and conformal predictive systems that can handle covariate shifts](https://github.com/predict-idlab/crepes-weighted 🔥🔥🔥🔥🔥
 
 
 ## R
