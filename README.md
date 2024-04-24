@@ -334,6 +334,7 @@ for probabilistic wind-speed forecasting](https://lup.lub.lu.se/luur/download?fu
 98. [Conformal Quantile Estimation in Economics](https://www.youtube.com/watch?v=6Brjt6aM140) by Martin Fankhauser (Bocconi, 2024)
 99. [Big Data: 4th lecture (uncertainty in learning, big data for NLP)](https://www.youtube.com/watch?v=ikFkHig5o6g&list=PL8n4sZAL72Dn8GXuC0x9aXyiVGVAbPHz3&index=6) by Prof. Patrick Glauner (2024)
 100. [Unveiling Precision: A Novel ML Framework for Accurate Probability Estimates by Abel and Edgar](https://www.youtube.com/watch?v=MuecMDKPqTQ&t=1672s), not CP per se, showing the critical importance of calibration in finance (2024)
+101. [Autonomy Talks - Somil Bansal: Safety Assurances for Learning-Enabled Autonomous Systems](https://www.youtube.com/watch?v=3f8Q19-BqRo) by Somil Bansal (USC, 2024) 🔥🔥🔥🔥🔥
 
 ## Papers
 
