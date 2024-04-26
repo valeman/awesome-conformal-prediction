@@ -722,6 +722,7 @@ Cooper Gamble, Moein Shariatnia, Bradley J. Erickson (Mayo Clinic Artificial Int
 366. [Training-Conditional Coverage Bounds for Uniformly Stable Learning Algorithms](https://arxiv.org/abs/2404.13731) by Mehrdad Pournaderi, Yu Xiang (University of Utah, 2024)
 367. [Safe POMDP Online Planning among Dynamic Agents via Adaptive Conformal Prediction](https://arxiv.org/abs/2404.15557) by Shili Sheng, Pian Yu, David Parker, Marta Kwiatkowska, Lu Feng (University of Oxford, 2024)
 368. [Conformal Prediction of Motion Control Performance for an Automated Vehicle in Presence of Actuator Degradations and Failures](https://arxiv.org/abs/2404.16500) by Richard Schubert, Marvin Loba, Jasper Sünnemann, Torben Stolte, Markus Maurer (TU Braunschweig, 2024)
+369. [Towards Robust Ferrous Scrap Material Classification with Deep Learning and Conformal Prediction](https://arxiv.org/abs/2404.13002) by Paulo Henrique dos Santos, Valéria de Carvalho Santos, Eduardo José da Silva Luz (Universidade Federal de Ouro Preto e Instituto Tecnol´ogico Vale,  Universidade Federal de Ouro Preto, Brazil 🇧🇷, 2024)
 
 
 
