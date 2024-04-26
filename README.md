@@ -711,9 +711,17 @@ Under Standard and Feedback Covariate Shift](https://openreview.net/pdf?id=ORxBE
 356. [A novel day-ahead regional and probabilistic wind power forecasting framework using deep CNNs and conformalized regression forests](https://www.sciencedirect.com/science/article/pii/S0306261924002836) by Jef Jonkers,  Diego Nieves Avendano,  Glenn Van Wallendael, Sofie Van Hoecke (Ghent University, 2024)
 357. [CONFLARE: CONFormal LArge language model REtrieval](https://arxiv.org/abs/2404.04287) by Pouria Rouzrokh, Shahriar Faghani,
 Cooper Gamble, Moein Shariatnia, Bradley J. Erickson (Mayo Clinic Artificial Intelligence Laboratory; Orthopedic Surgery Artificial Intelligence Laboratory, Mayo Clinic, MN, USA; Tehran University of Medical Sciences) [code](https://github.com/Mayo-Radiology-Informatics-Lab/conflare) [video](https://www.youtube.com/watch?v=I6zaX5UyHlY) 🔥🔥🔥🔥
-
-
-
+358. [WaveCatBoost for Probabilistic Forecasting of Regional Air Quality Data](https://arxiv.org/abs/2404.05482) by Jintu Borah, Tanujit Chakraborty, Md. Shahrul Md. Nadzir, Mylene G. Cayetano, Shubhankar Majumdar (Sorbonne University, NIT Meghalaya, Universiti Kebangsaan, University of Philippines, 2024) [code](https://github.com/jborah2/WaveCatBoost-Time-Series-Model) 🔥🔥🔥🔥
+359. [Pricing Catastrophe Bonds --- a Probabilistic Machine Learning Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4789671) by Xiaowei Chen, Hong Li, Yufan Lu, Rui Zhou (Nankai University,  University of Guelph, The University of Melbourne, 2024)
+360. [Adaptive Conformal Prediction Intervals Using Data-Dependent Weights With Application to Seismic Response Prediction](https://ieeexplore.ieee.org/abstract/document/10497110) by Parisa Hajibabaee; Farhad Pourkamali-Anaraki; Mohammad Amin Hariri-Ardebili (Parisa Hajibabaee; Farhad Pourkamali-Anaraki; Mohammad Amin Hariri-Ardebili (Florida Polytechnic University, University of Colorado Denver, University of Maryland, 2024)
+361. [Ensemble Predictors: Possibilistic Combination of Conformal Predictors for Multivariate Time Series Classification](https://ieeexplore.ieee.org/abstract/document/10497903)
+362. [Enhancing the reliability of probabilistic PV power forecasts using conformal prediction](https://www.sciencedirect.com/science/article/pii/S2667113124000093) by Yvet Renkema, Lennard Visser, Tarek AlSkaif (Wageningen University, Utrecht University, 2024)
+363. [Random Projection Ensemble Conformal Prediction for High-Dimensional Classification](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4794962) by Xiaoyu Qian, Jinru Wu, Ligong Wei, Youwu Lin )Guilin University of Electronic Technology, Guangxi Academy of Sciences, Guilin University of Electronic Technology, 2024)
+364. [Conformal Predictive Systems Under Covariate Shift](https://arxiv.org/abs/2404.15018) by Jef Jonkers, Glenn Van Wallendael, Luc Duchateau, Sofie Van Hoecke (hent University, Belgium) [code](https://github.com/predict-idlab/crepes-weighted) 🔥🔥🔥🔥🔥
+365. [Metric-guided Image Reconstruction Bounds via Conformal Prediction](https://arxiv.org/abs/2404.15274) by Matt Y Cheung, Tucker J Netherton, Laurence E Court, Ashok Veeraraghavan, Guha Balakrishnan (The University of Texas MD Anderson Cancer Cente, 2024)
+366. [Training-Conditional Coverage Bounds for Uniformly Stable Learning Algorithms](https://arxiv.org/abs/2404.13731) by Mehrdad Pournaderi, Yu Xiang (University of Utah, 2024)
+367. [Safe POMDP Online Planning among Dynamic Agents via Adaptive Conformal Prediction](https://arxiv.org/abs/2404.15557) by Shili Sheng, Pian Yu, David Parker, Marta Kwiatkowska, Lu Feng (University of Oxford, 2024)
+368. [Conformal Prediction of Motion Control Performance for an Automated Vehicle in Presence of Actuator Degradations and Failures](https://arxiv.org/abs/2404.16500) by Richard Schubert, Marvin Loba, Jasper Sünnemann, Torben Stolte, Markus Maurer (TU Braunschweig, 2024)
 
 
 
