@@ -723,6 +723,8 @@ Cooper Gamble, Moein Shariatnia, Bradley J. Erickson (Mayo Clinic Artificial Int
 367. [Safe POMDP Online Planning among Dynamic Agents via Adaptive Conformal Prediction](https://arxiv.org/abs/2404.15557) by Shili Sheng, Pian Yu, David Parker, Marta Kwiatkowska, Lu Feng (University of Oxford, 2024)
 368. [Conformal Prediction of Motion Control Performance for an Automated Vehicle in Presence of Actuator Degradations and Failures](https://arxiv.org/abs/2404.16500) by Richard Schubert, Marvin Loba, Jasper Sünnemann, Torben Stolte, Markus Maurer (TU Braunschweig, 2024)
 369. [Towards Robust Ferrous Scrap Material Classification with Deep Learning and Conformal Prediction](https://arxiv.org/abs/2404.13002) by Paulo Henrique dos Santos, Valéria de Carvalho Santos, Eduardo José da Silva Luz (Universidade Federal de Ouro Preto e Instituto Tecnol´ogico Vale,  Universidade Federal de Ouro Preto, Brazil 🇧🇷, 2024)
+370. [From Data Imputation to Data Cleaning — Automated Cleaning of Tabular Data Improves Downstream Predictive Performance](https://proceedings.mlr.press/v238/jager24a.html) by Sebastian Jäger, Felix Biessmann (Berlin University of Applied Sciences and Technology (BHT), Einstein Center Digital Future 🇩🇪, 2024) [code](https://github.com/se-jaeger/conformal-data-cleaning) 🔥🔥🔥🔥🔥
+371. [Online Calibrated and Conformal Prediction Improves Bayesian Optimization](https://proceedings.mlr.press/v238/deshpande24a.html) Shachi Deshpande, Charles Marx, Volodymyr Kuleshov (Cornell University, Stanford, 🇺🇸, 2024)
 
 
 
@@ -757,6 +759,7 @@ Niccolo` Ajroldia, Jacopo Diquigiovannib, Matteo Fontanac, Simone Vantinia (2022
 26. [Distribution-Free Conformal Joint Prediction Regions for Neural Marked Temporal Point Processes](https://arxiv.org/abs/2401.04612) by Victor Dheur, Tanguy Bosser, Rafael Izbicki, Souhaib Ben Taieb (Universidade Federal de Sao Carlos, Brazil and University of Mons, Belgium, 2024) [code](https://github.com/valeman/conf_tpp) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 27. [Bellman Conformal Inference: Calibrating Prediction Intervals For Time Series](https://arxiv.org/abs/2402.05203) by Zitong Yang, Emmanuel Candès, Lihua Lei (Stanford, 2024)  TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 28. [Conformal prediction for multi-dimensional time series by ellipsoidal sets](https://arxiv.org/abs/2403.03850) by Chen Xu, Hanyang Jiang, and Yao Xie (Georgia Tech, 2024) [code](https://github.com/hamrel-cxu/MultiDimSPCI) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+29. [Conformalized predictive simulations for univariate time series](https://www.researchgate.net/publication/379643443_Conformalized_predictive_simulations_for_univariate_time_series) by Thierry Moudiki (2024)
 
 ## Presentation Slides
 1. [Machine Learning for Probabilistic Prediction, Seattle Artificial Intelligence Workshops Meetup](https://www.researchgate.net/publication/371566526_Machine_Learning_for_Probabilistic_Prediction) by Valery Manokhin, 2023 🔥🔥🔥🔥🔥
