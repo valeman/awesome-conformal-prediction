@@ -869,6 +869,7 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 47. [Use case adapted prediction intervals by means of conformal predictions and a custom non conformity score](https://medium.com/@arnaud.gc.capitaine/use-case-adapted-prediction-intervals-by-means-of-conformal-predictions-and-a-custom-non-conformity-b4fb28d2a4f7) by Arnaud Capitaine (2024)  🔥🔥🔥🔥🔥
 48. [Prediction Intervals using Conformalized Quantile Regression](https://vincentwtrs.github.io/2024-03-06-conformal_prediction_prediction_intervals/) by Vincent Wauters (2024).
 49. [Conformalized Quantile Regression for Time Series Probabilistic Forecasting](https://dataman-ai.medium.com/conformalized-quantile-regression-for-time-series-probabilistic-forecasting-85a2a1047119) by Chris Kuo (2024) 🔥🔥🔥🔥🔥
+50. [Uncertainty Quantification and Why You Should Care](https://towardsdatascience.com/uncertainty-quantification-and-why-you-should-care-3f8a651f1956) by Jonte Dancker (2024)
 
 ## Kaggle
 1. [Kaggle Notebook showcasing Conformal Predictive Distributions on Playground Series Season 3, Episode 1 (California Housing data) competition](https://www.kaggle.com/code/predaddict/conformal-predictive-distributions-pss3-e1) by Valeriy Manokhin (2022)
