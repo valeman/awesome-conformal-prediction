@@ -726,6 +726,7 @@ Cooper Gamble, Moein Shariatnia, Bradley J. Erickson (Mayo Clinic Artificial Int
 370. [From Data Imputation to Data Cleaning — Automated Cleaning of Tabular Data Improves Downstream Predictive Performance](https://proceedings.mlr.press/v238/jager24a.html) by Sebastian Jäger, Felix Biessmann (Berlin University of Applied Sciences and Technology (BHT), Einstein Center Digital Future 🇩🇪, 2024) [code](https://github.com/se-jaeger/conformal-data-cleaning) 🔥🔥🔥🔥🔥
 371. [Online Calibrated and Conformal Prediction Improves Bayesian Optimization](https://proceedings.mlr.press/v238/deshpande24a.html) Shachi Deshpande, Charles Marx, Volodymyr Kuleshov (Cornell University, Stanford, 🇺🇸, 2024)
 372. [Evaluating the Utility of Conformal Prediction Sets for AI-Advised Image Labeling](https://arxiv.org/abs/2401.08876) by Dongping Zhang, Angelos Chatzimparmpas, Negar Kamali, Jessica Hullman (Northwestern University, 🇺🇸, 2024) [code](https://github.com/dpzhang/conformal-prediction-utility) 🔥🔥🔥🔥🔥
+373. [Adaptive Conformal Regression with Split-Jackknife+ Scores](https://openreview.net/forum?id=1fbTGC3BUD) by Nicolas Deutschmann, Mattia Rigotti, María Rodríguez Martínez (IBM Research, 2023)
 
 ## Papers Time Series
 
