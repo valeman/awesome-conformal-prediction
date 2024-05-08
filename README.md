@@ -727,6 +727,7 @@ Cooper Gamble, Moein Shariatnia, Bradley J. Erickson (Mayo Clinic Artificial Int
 371. [Online Calibrated and Conformal Prediction Improves Bayesian Optimization](https://proceedings.mlr.press/v238/deshpande24a.html) Shachi Deshpande, Charles Marx, Volodymyr Kuleshov (Cornell University, Stanford, 🇺🇸, 2024)
 372. [Evaluating the Utility of Conformal Prediction Sets for AI-Advised Image Labeling](https://arxiv.org/abs/2401.08876) by Dongping Zhang, Angelos Chatzimparmpas, Negar Kamali, Jessica Hullman (Northwestern University, 🇺🇸, 2024) [code](https://github.com/dpzhang/conformal-prediction-utility) 🔥🔥🔥🔥🔥
 373. [Adaptive Conformal Regression with Split-Jackknife+ Scores](https://openreview.net/forum?id=1fbTGC3BUD) by Nicolas Deutschmann, Mattia Rigotti, María Rodríguez Martínez (IBM Research, 2023)
+374. [Comparison of Scaling Methods to Obtain Calibrated Probabilities of Activity for Protein–Ligand Predictions](https://pubs.acs.org/doi/epdf/10.1021/acs.jcim.0c00476) by Lewis H. Mervin, Avid M. Afzal, Ola Engkvist, and Andreas Bender (2020)
 
 ## Papers Time Series
 
