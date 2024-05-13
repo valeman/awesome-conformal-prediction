@@ -729,6 +729,20 @@ Cooper Gamble, Moein Shariatnia, Bradley J. Erickson (Mayo Clinic Artificial Int
 372. [Evaluating the Utility of Conformal Prediction Sets for AI-Advised Image Labeling](https://arxiv.org/abs/2401.08876) by Dongping Zhang, Angelos Chatzimparmpas, Negar Kamali, Jessica Hullman (Northwestern University, 🇺🇸, 2024) [code](https://github.com/dpzhang/conformal-prediction-utility) 🔥🔥🔥🔥🔥
 373. [Adaptive Conformal Regression with Split-Jackknife+ Scores](https://openreview.net/forum?id=1fbTGC3BUD) by Nicolas Deutschmann, Mattia Rigotti, María Rodríguez Martínez (IBM Research, 2023)
 374. [Comparison of Scaling Methods to Obtain Calibrated Probabilities of Activity for Protein–Ligand Predictions](https://pubs.acs.org/doi/epdf/10.1021/acs.jcim.0c00476) by Lewis H. Mervin, Avid M. Afzal, Ola Engkvist, and Andreas Bender (2020)
+375. [Conformal Prediction for Natural Language Processing: A Survey](https://arxiv.org/abs/2405.01976) by Margarida Campos, António Farinhas, Chrisoula Zerva, Mario Figueiredo, Andre Martins (Instituto de Telecomunicações, Instituto Superior Técnico, LUMLIS (Lisbon ELLIS Unit), Unbabel, Portugal, 2024) 🔥🔥🔥🔥🔥
+376. [Mitigating LLM Hallucinations via Conformal Abstention](https://arxiv.org/abs//2405.01563) by Yasin Abbasi Yadkori, Ilja Kuzborskij, David Stutz, András György, Adam Fisch, Arnaud Doucet, Iuliya Beloshapka, Wei-Hung Weng, Yao-Yuan Yang, Csaba Szepesvári, Ali Taylan Cemgil, Nenad Tomasev (2024)
+377. [CarbonCP: Carbon-Aware DNN Partitioning with Conformal Prediction for Sustainable Edge Intelligence](https://arxiv.org/abs/2404.16970) by Hongyu Ke, Wanxin Jin, Haoxin Wang (Georgia State University, Arizona State University, 2024)
+378. [Conformalized Ordinal Classification with Marginal and Conditional Coverage](https://arxiv.org/abs/2404.16610) by Subhrasish Chakraborty, Chhavi Tyagi, Haiyan Qiao, Wenge Guo (New Jersey Institute of Technology, California State University San Bernardino, 2024)
+379. [An Information Theoretic Perspective on Conformal Prediction](https://arxiv.org/abs/2405.02140) by Alvaro H.C. Correia, Fabio Valerio Massoli, Christos Louizos, Arash Behboodi (Qualcomm AI Research, 2024)
+380. [Conformal Prediction with Learned Features](https://arxiv.org/pdf/2404.17487) by Shayan Kiyani, George Pappas, Hamed Hassani (University of Pennsylvania, 2024)
+381. [Onboard Out-of-Calibration Detection of Deep Learning Models using Conformal Prediction](https://arxiv.org/abs/2405.02634) by Protim Bhattacharjee, Peter Jung (Optical Sensor Systems, German Aerospace Center, 2024)
+382. [A Conformal Prediction Score that is Robust to Label Noise](https://arxiv.org/abs/2405.02648) by Coby Penso, Jacob Goldberger (Bar-Ilan University, Israel, 2024)
+383. [Building consumption anomaly detection: A comparative study of two probabilistic approaches](https://www.sciencedirect.com/science/article/pii/S0378778824003657) by Davor Stjelja, Vladimir Kuzmanovski, Risto Kosonen, Juha Jokisalo (Aalto University, Granlund Oy, Vaisala Oyj, Nanjing Tech University,2024)
+384. [Robust Route Planning under Uncertain Pickup Requests for Last-mile Delivery](https://dl.acm.org/doi/pdf/10.1145/3589334.3645595) by Hua Yan, Heng Tan, Desheng Zhang, Haotian Wang, Yu Yang (Lehigh University, Rutgers University, USA; JD Logistics, Beijing, China)
+385. [Improve robustness of machine learning via efficient optimization and conformal prediction](https://onlinelibrary.wiley.com/doi/full/10.1002/aaai.12173) by Yan Yan (Washington State University, 2024)
+
+
+
 
 ## Papers Time Series
 
