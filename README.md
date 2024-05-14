@@ -740,7 +740,8 @@ Cooper Gamble, Moein Shariatnia, Bradley J. Erickson (Mayo Clinic Artificial Int
 383. [Building consumption anomaly detection: A comparative study of two probabilistic approaches](https://www.sciencedirect.com/science/article/pii/S0378778824003657) by Davor Stjelja, Vladimir Kuzmanovski, Risto Kosonen, Juha Jokisalo (Aalto University, Granlund Oy, Vaisala Oyj, Nanjing Tech University,2024)
 384. [Robust Route Planning under Uncertain Pickup Requests for Last-mile Delivery](https://dl.acm.org/doi/pdf/10.1145/3589334.3645595) by Hua Yan, Heng Tan, Desheng Zhang, Haotian Wang, Yu Yang (Lehigh University, Rutgers University, USA; JD Logistics, Beijing, China)
 385. [Improve robustness of machine learning via efficient optimization and conformal prediction](https://onlinelibrary.wiley.com/doi/full/10.1002/aaai.12173) by Yan Yan (Washington State University, 2024)
-
+386. [Conformalized Survival Distributions: A Generic Post-Process to Increase Calibration](https://arxiv.org/abs/2405.07374) by Shi-ang Qi, Yakun Yu, Russell Greiner (University of Alberta, 2024)
+387. [Conformal Online Auction Design](https://arxiv.org/abs/2405.07038) by Jiale Han, Xiaowu Dai (University of California, 2024)
 
 
 
