@@ -744,7 +744,8 @@ Cooper Gamble, Moein Shariatnia, Bradley J. Erickson (Mayo Clinic Artificial Int
 387. [Conformal Online Auction Design](https://arxiv.org/abs/2405.07038) by Jiale Han, Xiaowu Dai (University of California, 2024)
 388. [Conformal Validity Guarantees Exist for Any Data Distribution](https://arxiv.org/abs/2405.06627) by Drew Prinster, Samuel Stanton, Anqi Liu, Suchi Saria (John Hopkins University Genentech, 2024) [code](https://github.com/drewprinster/conformal-mfcs) 💎💎💎💎💎🔥🔥🔥🔥🔥
 389. [Kernel-based optimally weighted conformal prediction intervals](https://arxiv.org/abs/2405.16828) by Jonghyeok Lee, Chen Xu, Yao Xie (Georgia Tech, 2024) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
-390. [Reliable anti-cancer drug sensitivity prediction and prioritization](https://www.nature.com/articles/s41598-024-62956-6) by Kerstin Lenhof, Lea Eckhart, Lisa-Marie Rolli, Andrea Volkamer & Hans-Peter Lenhof (Saarland University, 2024) 
+390. [Reliable anti-cancer drug sensitivity prediction and prioritization](https://www.nature.com/articles/s41598-024-62956-6) by Kerstin Lenhof, Lea Eckhart, Lisa-Marie Rolli, Andrea Volkamer & Hans-Peter Lenhof (Saarland University, 2024)
+391. [Robust Conformal Prediction Using Privileged Information](https://arxiv.org/abs/2406.05405) by Shai Feldman, Yaniv Romano (2024)
 
 ## Papers Time Series
 
