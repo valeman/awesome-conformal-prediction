@@ -746,6 +746,7 @@ Cooper Gamble, Moein Shariatnia, Bradley J. Erickson (Mayo Clinic Artificial Int
 389. [Kernel-based optimally weighted conformal prediction intervals](https://arxiv.org/abs/2405.16828) by Jonghyeok Lee, Chen Xu, Yao Xie (Georgia Tech, 2024) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 390. [Reliable anti-cancer drug sensitivity prediction and prioritization](https://www.nature.com/articles/s41598-024-62956-6) by Kerstin Lenhof, Lea Eckhart, Lisa-Marie Rolli, Andrea Volkamer & Hans-Peter Lenhof (Saarland University, 2024)
 391. [Robust Conformal Prediction Using Privileged Information](https://arxiv.org/abs/2406.05405) by Shai Feldman, Yaniv Romano (2024)
+392. [Conformal Inference for Online Prediction with Arbitrary Distribution Shifts](https://jmlr.org/papers/v25/22-1218.html) by Isaac Gibbs, Emmanuel J. Candès [code](https://github.com/isgibbs/DtACI) (2024) 🔥🔥🔥🔥🔥
 
 ## Papers Time Series
 
