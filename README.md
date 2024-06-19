@@ -188,7 +188,11 @@ for probabilistic wind-speed forecasting](https://lup.lub.lu.se/luur/download?fu
 32. [Data Augmentation and Conformal Prediction](https://dspace.mit.edu/handle/1721.1/151275), MSc thesis by Helen Lu (MIT, 2023)
 33. [Conformal prediction and copula based methods for profile monitioring](https://www.politesi.polimi.it/handle/10589/214268), MSc Thesis by Niccolo' Donadini (Politecnico di Milano, 2023)
 34. [Training Machine Learning-based QSAR models with Conformal Prediction on Experimental Data from DNA-Encoded Chemical Libraries](https://www.diva-portal.org/smash/get/diva2:1575162/FULLTEXT01.pdf) Uppsala University (2021)
-35. [Conformal prediction and beyond](https://gcastro-98.github.io/conformal-prediction-media/thesis.pdf), MSc thesis by Gerard CASTRO CASTILLO (University of Barcelona, 2024) 
+35. [Conformal prediction and beyond](https://gcastro-98.github.io/conformal-prediction-media/thesis.pdf), MSc thesis by Gerard CASTRO CASTILLO (University of Barcelona, 2024)
+36. [A New Perspective on Uncertainty Techniques in Regression](https://epub.jku.at/obvulihs/content/titleinfo/10001240), MSc thesis by Alexander Krauck (Johannes Kepler University of Linz, 2024)
+37. [Robust Conformal Prediction Using Privileged Information](https://arxiv.org/abs/2406.05405) by Shai Feldman, Yaniv Romano (Technion, 2024)
+38. [CONFINE: Conformal Prediction for Interpretable Neural Networks](https://arxiv.org/abs/2406.00539) by Linhui Huang, Sayeri Lala, Niraj K. Jha (Princeton University, 2024)
+39. 
 
 ## Tutorials
 
@@ -749,6 +753,17 @@ Cooper Gamble, Moein Shariatnia, Bradley J. Erickson (Mayo Clinic Artificial Int
 390. [Reliable anti-cancer drug sensitivity prediction and prioritization](https://www.nature.com/articles/s41598-024-62956-6) by Kerstin Lenhof, Lea Eckhart, Lisa-Marie Rolli, Andrea Volkamer & Hans-Peter Lenhof (Saarland University, 2024)
 391. [Robust Conformal Prediction Using Privileged Information](https://arxiv.org/abs/2406.05405) by Shai Feldman, Yaniv Romano (2024)
 392. [Conformal Inference for Online Prediction with Arbitrary Distribution Shifts](https://jmlr.org/papers/v25/22-1218.html) by Isaac Gibbs, Emmanuel J. Candès [code](https://github.com/isgibbs/DtACI) (2024) 🔥🔥🔥🔥🔥
+393. [Adaptive Uncertainty Quantification for Trajectory Prediction Under Distributional Shift](https://arxiv.org/abs/2406.12100v1) by Huiqun Huang, Sihong He, Fei Miao (University of Connecticut, 2024)
+394. [Conditional Shift-Robust Conformal Prediction for Graph Neural Network](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4862107) by Akansha Singh (Manipal Academy of Higher Education (MAHE) - Manipal Institute of Technology, 2024)
+395. [Conformal Inference for Online Prediction with Arbitrary Distribution Shifts](https://jmlr.org/papers/v25/22-1218.html) by Isaac Gibbs, Emmanuel J. Candès (Stanford, 2024) 🔥🔥🔥🔥🔥
+396. [Conformal prediction for multi-dimensional time series by ellipsoidal sets](https://openreview.net/forum?id=uN39Tt9P8b) by Chen Xu, Hanyang Jiang, Yao Xie (Georgia Tech, 2024) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+397. [Kernel-based optimally weighted conformal prediction intervals](https://arxiv.org/abs/2405.16828) Jonghyeok Lee, Chen Xu, Yao Xie (Georgia Tech, 2024) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+398. [Transformer Conformal Prediction for Time Series](https://arxiv.org/abs/2406.05332) by Junghwan Lee, Chen Xu, Yao Xie (Georgia Tech, 2024) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+399. [Identifying Homogeneous and Interpretable Groups for Conformal Prediction](https://openreview.net/pdf?id=5qW3Ojxt9m) by Natalia Martinez, Dhaval C Patel, Chandra Reddy, Giridhar Ganapavarapu, Roman Vaculin, Jayant Kalagnanam (IBM Research, 2024)
+400. [Guaranteeing Robustness Against Real-World Perturbations In Time Series Classification Using Conformalized Randomized Smoothing](https://openreview.net/pdf?id=wu3JIjKmXQ) by Nicola Franco, Jakob Spiegelberg, Jeanette Miriam Lorenz, Stephan Günnemann (Fraunhofer Institute for Cognitive Systems IKS, Munich, Germany; Volkswagen Group Innovation; Technical Univ. of Munich, 2024)
+401. [Conformalized Teleoperation: Confidently Mapping Human Inputs to High-Dimensional Robot Actions](Michelle Zhao, Reid Simmons, Henny Admoni, Andrea Bajcsy) by Michelle Zhao, Reid Simmons, Henny Admoni, Andrea Bajcsy (Robotics Institute, Carnegie Mellon University, 2024)
+402. [Conformal Load Prediction with Transductive Graph Autoencoders](https://arxiv.org/abs/2406.08281) by Rui Luo, Nicolo Colombo (City University of Hong Kong; Royal Holloway, University of London, 2024) [code](https://github.com/luo-lorry/conformal-load-forecasting)
+403. [Conformal Recursive Feature Elimination](https://arxiv.org/abs/2405.19429) by Marcos Lopez-De-Castro, Alberto Garcıa-Galindo, Ruben Armananzas (Universidad de Navarra, 2024)
 
 ## Papers Time Series
 
@@ -782,6 +797,7 @@ Niccolo` Ajroldia, Jacopo Diquigiovannib, Matteo Fontanac, Simone Vantinia (2022
 29. [Conformalized predictive simulations for univariate time series](https://www.researchgate.net/publication/379643443_Conformalized_predictive_simulations_for_univariate_time_series) by Thierry Moudiki (2024)
 30. [Kernel-based optimally weighted conformal prediction intervals](https://arxiv.org/abs/2405.16828) by Jonghyeok Lee, Chen Xu, Yao Xie (Georgia Tech, 2024) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 31. [Transformer Conformal Prediction for Time Series](https://arxiv.org/abs/2406.05332) by Jonghyeok Lee, Chen Xu, Yao Xie (Georgia Tech, 2024) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+32. [Conformal prediction for multi-dimensional time series by ellipsoidal sets](https://openreview.net/forum?id=uN39Tt9P8b) by Chen Xu, Hanyang Jiang, Yao Xie (Georgia Tech, 2024) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 
 ## Presentation Slides
 1. [Machine Learning for Probabilistic Prediction, Seattle Artificial Intelligence Workshops Meetup](https://www.researchgate.net/publication/371566526_Machine_Learning_for_Probabilistic_Prediction) by Valery Manokhin, 2023 🔥🔥🔥🔥🔥
