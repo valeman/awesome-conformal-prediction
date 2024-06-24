@@ -764,6 +764,7 @@ Cooper Gamble, Moein Shariatnia, Bradley J. Erickson (Mayo Clinic Artificial Int
 401. [Conformalized Teleoperation: Confidently Mapping Human Inputs to High-Dimensional Robot Actions](Michelle Zhao, Reid Simmons, Henny Admoni, Andrea Bajcsy) by Michelle Zhao, Reid Simmons, Henny Admoni, Andrea Bajcsy (Robotics Institute, Carnegie Mellon University, 2024)
 402. [Conformal Load Prediction with Transductive Graph Autoencoders](https://arxiv.org/abs/2406.08281) by Rui Luo, Nicolo Colombo (City University of Hong Kong; Royal Holloway, University of London, 2024) [code](https://github.com/luo-lorry/conformal-load-forecasting)
 403. [Conformal Recursive Feature Elimination](https://arxiv.org/abs/2405.19429) by Marcos Lopez-De-Castro, Alberto Garcıa-Galindo, Ruben Armananzas (Universidad de Navarra, 2024)
+404. [Enhancing reliability in prediction intervals using point forecasters: Heteroscedastic Quantile Regression and Width-Adaptive Conformal Inference](https://arxiv.org/abs/2406.14904) Carlos Sebastiana,Carlos E. Gonzalez-Guillenc, Jesus Juane (Fortia Energıa, Universidad Politecnica de Madrid, Instituto de Ciencias Matematicas, Madrid) [code](https://github.com/CCaribe9/HQR-WACI) (2024)
 
 ## Papers Time Series
 
