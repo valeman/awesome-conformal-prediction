@@ -342,7 +342,8 @@ for probabilistic wind-speed forecasting](https://lup.lub.lu.se/luur/download?fu
 100. [Unveiling Precision: A Novel ML Framework for Accurate Probability Estimates by Abel and Edgar](https://www.youtube.com/watch?v=MuecMDKPqTQ&t=1672s), not CP per se, showing the critical importance of calibration in finance (2024)
 101. [Autonomy Talks - Somil Bansal: Safety Assurances for Learning-Enabled Autonomous Systems](https://www.youtube.com/watch?v=3f8Q19-BqRo) by Somil Bansal (USC, 2024) 🔥🔥🔥🔥🔥
 102. [Interview with Vladimir Vovk on Conformal Inference](https://www.youtube.com/watch?v=J7o2WJX_xQE) (2024)
-
+103. [Error Embraced: Making Trustworthy Scientific Decisions with Imperfect Predictions](https://www.youtube.com/watch?v=oqLq-DUEP3s) by Clara Wong-fannjiang (Genentech) (2024)
+104. 
 ## Papers
 
 1. [Introducing Conformal Prediction in Predictive Modeling. A Transparent and Flexible Alternative to Applicability Domain Determination](https://pubs.acs.org/doi/10.1021/ci5001168) by Ulf Norinder, Lars Carlsson, Scott Boyer, and Martin Eklund (2014)
