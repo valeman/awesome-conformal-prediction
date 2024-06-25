@@ -766,6 +766,7 @@ Cooper Gamble, Moein Shariatnia, Bradley J. Erickson (Mayo Clinic Artificial Int
 402. [Conformal Load Prediction with Transductive Graph Autoencoders](https://arxiv.org/abs/2406.08281) by Rui Luo, Nicolo Colombo (City University of Hong Kong; Royal Holloway, University of London, 2024) [code](https://github.com/luo-lorry/conformal-load-forecasting)
 403. [Conformal Recursive Feature Elimination](https://arxiv.org/abs/2405.19429) by Marcos Lopez-De-Castro, Alberto Garcıa-Galindo, Ruben Armananzas (Universidad de Navarra, 2024)
 404. [Enhancing reliability in prediction intervals using point forecasters: Heteroscedastic Quantile Regression and Width-Adaptive Conformal Inference](https://arxiv.org/abs/2406.14904) Carlos Sebastiana,Carlos E. Gonzalez-Guillenc, Jesus Juane (Fortia Energıa, Universidad Politecnica de Madrid, Instituto de Ciencias Matematicas, Madrid) [code](https://github.com/CCaribe9/HQR-WACI) (2024)
+405. [Conformal time series decomposition with component-wise exchangeability](https://arxiv.org/abs/2406.16766) by Derck W. E. Prinzhorn, Thijmen Nijdam, Putri A. van der Linden, Alexander Timans (University of Amsterdam, 2024) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥 [code](https://github.com/dweprinz/CP-TSD)
 
 ## Papers Time Series
 
@@ -800,6 +801,7 @@ Niccolo` Ajroldia, Jacopo Diquigiovannib, Matteo Fontanac, Simone Vantinia (2022
 30. [Kernel-based optimally weighted conformal prediction intervals](https://arxiv.org/abs/2405.16828) by Jonghyeok Lee, Chen Xu, Yao Xie (Georgia Tech, 2024) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 31. [Transformer Conformal Prediction for Time Series](https://arxiv.org/abs/2406.05332) by Jonghyeok Lee, Chen Xu, Yao Xie (Georgia Tech, 2024) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥 [code](https://github.com/Jayaos/TCPTS) 
 32. [Conformal prediction for multi-dimensional time series by ellipsoidal sets](https://openreview.net/forum?id=uN39Tt9P8b) by Chen Xu, Hanyang Jiang, Yao Xie (Georgia Tech, 2024) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+33. [Conformal time series decomposition with component-wise exchangeability](https://arxiv.org/abs/2406.16766) by Derck W. E. Prinzhorn, Thijmen Nijdam, Putri A. van der Linden, Alexander Timans (University of Amsterdam, 2024) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥 [code](https://github.com/dweprinz/CP-TSD)
 
 ## Presentation Slides
 1. [Machine Learning for Probabilistic Prediction, Seattle Artificial Intelligence Workshops Meetup](https://www.researchgate.net/publication/371566526_Machine_Learning_for_Probabilistic_Prediction) by Valery Manokhin, 2023 🔥🔥🔥🔥🔥
