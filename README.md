@@ -768,7 +768,8 @@ Cooper Gamble, Moein Shariatnia, Bradley J. Erickson (Mayo Clinic Artificial Int
 404. [Enhancing reliability in prediction intervals using point forecasters: Heteroscedastic Quantile Regression and Width-Adaptive Conformal Inference](https://arxiv.org/abs/2406.14904) Carlos Sebastiana,Carlos E. Gonzalez-Guillenc, Jesus Juane (Fortia Energıa, Universidad Politecnica de Madrid, Instituto de Ciencias Matematicas, Madrid) [code](https://github.com/CCaribe9/HQR-WACI) (2024)
 405. [Conformal time series decomposition with component-wise exchangeability](https://arxiv.org/abs/2406.16766) by Derck W. E. Prinzhorn, Thijmen Nijdam, Putri A. van der Linden, Alexander Timans (University of Amsterdam, 2024) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥 [code](https://github.com/dweprinz/CP-TSD)
 406. [Safe Task Planning for Language-Instructed Multi-Robot Systems using Conformal Prediction](https://arxiv.org/abs/2402.15368) Jun Wang, Guocheng He, Yiannis Kantaros (Washington University in St Louis, 2024)
-407. [Online Calibrated and Conformal Prediction Improves Bayesian Optimization](https://arxiv.org/abs/2112.04620) by Shachi Deshpande, Charles Marx, Volodymyr Kuleshov (Cornell Tech and Cornell University, Stanford, 2024) 
+407. [Online Calibrated and Conformal Prediction Improves Bayesian Optimization](https://arxiv.org/abs/2112.04620) by Shachi Deshpande, Charles Marx, Volodymyr Kuleshov (Cornell Tech and Cornell University, Stanford, 2024)
+408. [An Information Theoretic Perspective on Conformal Prediction](https://arxiv.org/pdf/2405.02140) by Alvaro H.C. Correia Fabio Valerio Massoli Christos Louizos† Arash Behboodi (Qualcomm AI Research, 2024)
 
 ## Papers Time Series
 
