@@ -770,6 +770,7 @@ Cooper Gamble, Moein Shariatnia, Bradley J. Erickson (Mayo Clinic Artificial Int
 406. [Safe Task Planning for Language-Instructed Multi-Robot Systems using Conformal Prediction](https://arxiv.org/abs/2402.15368) Jun Wang, Guocheng He, Yiannis Kantaros (Washington University in St Louis, 2024)
 407. [Online Calibrated and Conformal Prediction Improves Bayesian Optimization](https://arxiv.org/abs/2112.04620) by Shachi Deshpande, Charles Marx, Volodymyr Kuleshov (Cornell Tech and Cornell University, Stanford, 2024)
 408. [An Information Theoretic Perspective on Conformal Prediction](https://arxiv.org/pdf/2405.02140) by Alvaro H.C. Correia Fabio Valerio Massoli Christos Louizos† Arash Behboodi (Qualcomm AI Research, 2024)
+409. [Conformal Prediction for Natural Language Processing: A Survey](
 
 ## Papers Time Series
 
