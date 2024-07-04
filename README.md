@@ -770,7 +770,10 @@ Cooper Gamble, Moein Shariatnia, Bradley J. Erickson (Mayo Clinic Artificial Int
 406. [Safe Task Planning for Language-Instructed Multi-Robot Systems using Conformal Prediction](https://arxiv.org/abs/2402.15368) Jun Wang, Guocheng He, Yiannis Kantaros (Washington University in St Louis, 2024)
 407. [Online Calibrated and Conformal Prediction Improves Bayesian Optimization](https://arxiv.org/abs/2112.04620) by Shachi Deshpande, Charles Marx, Volodymyr Kuleshov (Cornell Tech and Cornell University, Stanford, 2024)
 408. [An Information Theoretic Perspective on Conformal Prediction](https://arxiv.org/pdf/2405.02140) by Alvaro H.C. Correia Fabio Valerio Massoli Christos Louizos† Arash Behboodi (Qualcomm AI Research, 2024)
-409. [Conformal Prediction for Natural Language Processing: A Survey](https://arxiv.org/abs/2405.01976) by Margarida M. Campos, António Farinhas, Chrysoula Zerva, Mário A.T. Figueiredo, André F.T. Martins (Instituto de Telecomunicações, Instituto Superior Técnico, LUMLIS (Lisbon ELLIS Unit), Unbabel, 2024) 
+409. [Conformal Prediction for Natural Language Processing: A Survey](https://arxiv.org/abs/2405.01976) by Margarida M. Campos, António Farinhas, Chrysoula Zerva, Mário A.T. Figueiredo, André F.T. Martins (Instituto de Telecomunicações, Instituto Superior Técnico, LUMLIS (Lisbon ELLIS Unit), Unbabel, 2024)
+410. [Conformal Prediction for Causal Effects of Continuous Treatments](https://arxiv.org/abs/2407.03094) by Maresa Schröder, Dennis Frauen, Jonas Schweisthal, Konstantin Heß, Valentyn Melnychuk, Stefan Feuerriegel (LMU Munich, 2024) 🔥🔥🔥🔥🔥
+411. [Uncertainty-Aware Decarbonization for Datacenters](https://arxiv.org/abs/2407.02390) by Amy Li, Sihang Liu, Yi Ding (Uiversity of Waterloo, 2024)
+412. [Conditionally valid Probabilistic Conformal Prediction](https://arxiv.org/abs/2407.01794) by Vincent Plassier, Alexander Fishkov, Maxim Panov, Eric Moulines (Lagrange Mathematics and Computing Research Center, Mohamed bin Zayed University of Artificial Intelligence, CMAP, Ecole Polytechnique, Skolkovo Institute of Science and Technology (2024)
 
 ## Papers Time Series
 
