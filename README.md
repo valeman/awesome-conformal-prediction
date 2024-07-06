@@ -774,6 +774,7 @@ Cooper Gamble, Moein Shariatnia, Bradley J. Erickson (Mayo Clinic Artificial Int
 410. [Conformal Prediction for Causal Effects of Continuous Treatments](https://arxiv.org/abs/2407.03094) by Maresa Schröder, Dennis Frauen, Jonas Schweisthal, Konstantin Heß, Valentyn Melnychuk, Stefan Feuerriegel (LMU Munich, 2024) 🔥🔥🔥🔥🔥
 411. [Uncertainty-Aware Decarbonization for Datacenters](https://arxiv.org/abs/2407.02390) by Amy Li, Sihang Liu, Yi Ding (Uiversity of Waterloo, 2024)
 412. [Conditionally valid Probabilistic Conformal Prediction](https://arxiv.org/abs/2407.01794) by Vincent Plassier, Alexander Fishkov, Maxim Panov, Eric Moulines (Lagrange Mathematics and Computing Research Center, Mohamed bin Zayed University of Artificial Intelligence, CMAP, Ecole Polytechnique, Skolkovo Institute of Science and Technology (2024)
+413. [Reliable Confidence Intervals for Information Retrieval Evaluation Using Generative A.I.](https://arxiv.org/abs/2407.02464) by Harrie Oosterhuis,Zhen Qin, Xuanhui Wang, Rolf Jagerman, Michael Bendersky, (Radbound University, Google Research, 2024)
 
 ## Papers Time Series
 
