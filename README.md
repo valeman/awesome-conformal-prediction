@@ -776,6 +776,8 @@ Cooper Gamble, Moein Shariatnia, Bradley J. Erickson (Mayo Clinic Artificial Int
 412. [Conditionally valid Probabilistic Conformal Prediction](https://arxiv.org/abs/2407.01794) by Vincent Plassier, Alexander Fishkov, Maxim Panov, Eric Moulines (Lagrange Mathematics and Computing Research Center, Mohamed bin Zayed University of Artificial Intelligence, CMAP, Ecole Polytechnique, Skolkovo Institute of Science and Technology (2024)
 413. [Reliable Confidence Intervals for Information Retrieval Evaluation Using Generative A.I.](https://arxiv.org/abs/2407.02464) by Harrie Oosterhuis,Zhen Qin, Xuanhui Wang, Rolf Jagerman, Michael Bendersky, (Radbound University, Google Research, 2024)
 414. [Trustworthy Classification through Rank-Based Conformal Prediction Sets](https://arxiv.org/abs/2407.04407) by Rui Luo, Zhixin Zhou (City University of Hong Kong, 2024)
+415. [Distributionally robust risk evaluation with an isotonic constraint](https://arxiv.org/abs/2407.06867) by Yu Gui, Rina Foygel Barber, Cong Ma (University of Chicago, 2024) [code](https://github.com/yugjerry/iso-DRL)
+416. [Split Conformal Prediction under Data Contamination](https://arxiv.org/abs/2407.07700) by Jase Clarkson, Wenkai Xu, Mihai Cucuringu, Gesine Reinert [code](https://github.com/jase-clarkson/cp_under_data_contamination) 
 
 ## Papers Time Series
 
