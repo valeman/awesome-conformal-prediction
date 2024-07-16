@@ -780,7 +780,9 @@ Cooper Gamble, Moein Shariatnia, Bradley J. Erickson (Mayo Clinic Artificial Int
 416. [Split Conformal Prediction under Data Contamination](https://arxiv.org/abs/2407.07700) by Jase Clarkson, Wenkai Xu, Mihai Cucuringu, Gesine Reinert [code](https://github.com/jase-clarkson/cp_under_data_contamination)
 417. [Weighted Aggregation of Conformity Scores for Classification](https://arxiv.org/abs/2407.10230) by Rui Luo, Zhixin Zhou (2024)
 418. [Meta-Analysis with Untrusted Data](https://arxiv.org/abs/2407.10230) by Shiva Kaul, Geoffrey J. Gordon (Carnegie Mellon, 2024)
+419. [Robust Yet Efficient Conformal Prediction Sets](https://arxiv.org/abs/2407.09165) by Soroush H. Zargarbashi, Mohammad Sadegh Akhondzadeh, Aleksandar Bojchevski (University of Cologne, 2024)
 
+     
 ## Papers Time Series
 
 1. [Conformal prediction interval for dynamic time-series](https://proceedings.mlr.press/v139/xu21h.html) by Chen Xu, Yao Xie (Georgia Tech, 2021) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥 [Python Code](https://github.com/hamrel-cxu/EnbPI) [Video](https://vimeo.com/583595474) [Video ICML2021](https://papertalk.org/papertalks/32044)
