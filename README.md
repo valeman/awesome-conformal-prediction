@@ -781,6 +781,7 @@ Cooper Gamble, Moein Shariatnia, Bradley J. Erickson (Mayo Clinic Artificial Int
 417. [Weighted Aggregation of Conformity Scores for Classification](https://arxiv.org/abs/2407.10230) by Rui Luo, Zhixin Zhou (2024)
 418. [Meta-Analysis with Untrusted Data](https://arxiv.org/abs/2407.10230) by Shiva Kaul, Geoffrey J. Gordon (Carnegie Mellon, 2024)
 419. [Robust Yet Efficient Conformal Prediction Sets](https://arxiv.org/abs/2407.09165) by Soroush H. Zargarbashi, Mohammad Sadegh Akhondzadeh, Aleksandar Bojchevski (University of Cologne, 2024)
+420. [Learning Cellular Network Connection Quality with Conformal](https://arxiv.org/abs/2407.10976) by Hanyang Jiang, Elizabeth Belding, Ellen Zegure, Yao Xie (Universiry of Georgia, 2024)
 
      
 ## Papers Time Series
