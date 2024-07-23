@@ -784,6 +784,7 @@ Cooper Gamble, Moein Shariatnia, Bradley J. Erickson (Mayo Clinic Artificial Int
 419. [Robust Yet Efficient Conformal Prediction Sets](https://arxiv.org/abs/2407.09165) by Soroush H. Zargarbashi, Mohammad Sadegh Akhondzadeh, Aleksandar Bojchevski (University of Cologne, 2024)
 420. [Learning Cellular Network Connection Quality with Conformal](https://arxiv.org/abs/2407.10976) by Hanyang Jiang, Elizabeth Belding, Ellen Zegure, Yao Xie (Universiry of Georgia, 2024)
 421. [Conformal Thresholded Intervals for Efficient Regression](https://arxiv.org/abs/2407.14495) by Rui Luo, Zhixin Zhou (City University of Hong Kong, 2024)
+422. [Conformal Predictions under Markovian Data](https://arxiv.org/abs/2407.15277) by Frédéric Zheng, Alexandre Proutiere (KTH, 2024)
 
      
 ## Papers Time Series
