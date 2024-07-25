@@ -786,6 +786,7 @@ Cooper Gamble, Moein Shariatnia, Bradley J. Erickson (Mayo Clinic Artificial Int
 421. [Conformal Thresholded Intervals for Efficient Regression](https://arxiv.org/abs/2407.14495) by Rui Luo, Zhixin Zhou (City University of Hong Kong, 2024)
 422. [Conformal Predictions under Markovian Data](https://arxiv.org/abs/2407.15277) by Frédéric Zheng, Alexandre Proutiere (KTH, 2024)
 423. [Entropy Reweighted Conformal Classification](https://arxiv.org/abs/2407.17377) by Rui Luo, Nicolo Colombo (City University of Hong Kong, Hong Kong, Royal Holloway, University of London). 🔥🔥🔥🔥🔥
+424. [SoNIC: Safe Social Navigation with Adaptive Conformal Inference and Constrained Reinforcement Learning](https://arxiv.org/abs/2407.17460) by Jianpeng Yao, Xiaopan Zhang, Yu Xia, Zejin Wang, Amit K. Roy-Chowdhury, Jiachen Li (University of California, Riverside) [project](https://sonic-social-nav.github.io)
 
      
 ## Papers Time Series
