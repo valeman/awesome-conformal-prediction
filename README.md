@@ -193,7 +193,8 @@ for probabilistic wind-speed forecasting](https://lup.lub.lu.se/luur/download?fu
 37. [Robust Conformal Prediction Using Privileged Information](https://arxiv.org/abs/2406.05405) by Shai Feldman, Yaniv Romano (Technion, 2024)
 38. [CONFINE: Conformal Prediction for Interpretable Neural Networks](https://arxiv.org/abs/2406.00539) by Linhui Huang, Sayeri Lala, Niraj K. Jha (Princeton University, 2024)
 39. [Conformal prediction and beyond](https://gcastro-98.github.io/conformal-prediction-media/thesis.pdf), MSc thesis by Gerard CASTRO CASTILLO (University of Barcelona, 2024) [code](https://github.com/gcastro-98/conformal-prediction)
-40. [Conformal prediction and uncertainty quantification in recommender systems](https://diposit.ub.edu/dspace/bitstream/2445/214656/1/tfg_alvarado_chamartin_roberto.pdf) by Roberto Alvarado Chamatrin (University of Barcelona, 2024) [code](https://diposit.ub.edu/dspace/bitstream/2445/214656/2/codi.zip) 🔥🔥🔥🔥 
+40. [Conformal prediction and uncertainty quantification in recommender systems](https://diposit.ub.edu/dspace/bitstream/2445/214656/1/tfg_alvarado_chamartin_roberto.pdf) by Roberto Alvarado Chamatrin (University of Barcelona, 2024) [code](https://diposit.ub.edu/dspace/bitstream/2445/214656/2/codi.zip) 🔥🔥🔥🔥
+41. [Machine learning-based anti-cancer drug treatment optimization](https://publikationen.sulb.uni-saarland.de/handle/20.500.11880/38100) by Kerstin Lenhof (Saarland University, 2024)
 
 ## Tutorials
 
