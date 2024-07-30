@@ -790,6 +790,7 @@ Cooper Gamble, Moein Shariatnia, Bradley J. Erickson (Mayo Clinic Artificial Int
 423. [Entropy Reweighted Conformal Classification](https://arxiv.org/abs/2407.17377) by Rui Luo, Nicolo Colombo (City University of Hong Kong, Hong Kong, Royal Holloway, University of London). 🔥🔥🔥🔥🔥
 424. [SoNIC: Safe Social Navigation with Adaptive Conformal Inference and Constrained Reinforcement Learning](https://arxiv.org/abs/2407.17460) by Jianpeng Yao, Xiaopan Zhang, Yu Xia, Zejin Wang, Amit K. Roy-Chowdhury, Jiachen Li (University of California, Riverside) [project](https://sonic-social-nav.github.io)
 425. [Conformal Validity Guarantees Exist for Any Data Distribution (and How to Find Them)](https://arxiv.org/abs/2405.06627) by Drew Prinster, Samuel Stanton, Anqi Liu, Suchi Saria (John Hopkins University, Genentech, 2024) [video](https://www.youtube.com/watch?v=HMXZnPmgbxY)
+426. [Robust Conformal Volume Estimation in 3D Medical Images](https://arxiv.org/abs/2407.19938) by Benjamin Lambert, Florence Forbes, Senan Doyle, Michel Dojat (University Grenoble Alps, 2024)
      
 ## Papers Time Series
 
