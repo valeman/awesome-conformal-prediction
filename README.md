@@ -196,6 +196,7 @@ for probabilistic wind-speed forecasting](https://lup.lub.lu.se/luur/download?fu
 40. [Conformal prediction and uncertainty quantification in recommender systems](https://diposit.ub.edu/dspace/bitstream/2445/214656/1/tfg_alvarado_chamartin_roberto.pdf) MSc thesis by Roberto Alvarado Chamatrin (University of Barcelona, 2024) [code](https://diposit.ub.edu/dspace/bitstream/2445/214656/2/codi.zip) 🔥🔥🔥🔥
 41. [Machine learning-based anti-cancer drug treatment optimization](https://publikationen.sulb.uni-saarland.de/handle/20.500.11880/38100) PhD thesis by Kerstin Lenhof (Saarland University, 2024)
 42. [Towards Uncertainty-Aware Hardware Trojan Detection](https://www.proquest.com/openview/5ae29a4bcb3ee1bf63150579e82f4c4a/1?pq-origsite=gscholar&cbl=18750&diss=y) MSc thesis by Rahul Vishwakarma (2024)
+43. [A Diagnostic and Prescriptive Conformal Prediction Framework: Applied to Sleep Disorders](https://dspace.mit.edu/handle/1721.1/155919) MSc thesis by Faduma Khalif (MIT, 2024)
 
 ## Tutorials
 
