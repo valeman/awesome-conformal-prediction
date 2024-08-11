@@ -197,6 +197,7 @@ for probabilistic wind-speed forecasting](https://lup.lub.lu.se/luur/download?fu
 41. [Machine learning-based anti-cancer drug treatment optimization](https://publikationen.sulb.uni-saarland.de/handle/20.500.11880/38100) PhD thesis by Kerstin Lenhof (Saarland University, 2024)
 42. [Towards Uncertainty-Aware Hardware Trojan Detection](https://www.proquest.com/openview/5ae29a4bcb3ee1bf63150579e82f4c4a/1?pq-origsite=gscholar&cbl=18750&diss=y) MSc thesis by Rahul Vishwakarma (2024)
 43. [A Diagnostic and Prescriptive Conformal Prediction Framework: Applied to Sleep Disorders](https://dspace.mit.edu/handle/1721.1/155919) MSc thesis by Faduma Khalif (MIT, 2024)
+44. [Reliable Time Series Forecasting Interval Forecasting for Time Series with Machine Learning Models and EnbPI](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1880090&dswid=9218), Independent thesis Advanced level, Wang, Xuanq (KTH,2024)
 
 ## Tutorials
 
