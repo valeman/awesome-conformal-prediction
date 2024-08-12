@@ -793,6 +793,7 @@ Cooper Gamble, Moein Shariatnia, Bradley J. Erickson (Mayo Clinic Artificial Int
 424. [SoNIC: Safe Social Navigation with Adaptive Conformal Inference and Constrained Reinforcement Learning](https://arxiv.org/abs/2407.17460) by Jianpeng Yao, Xiaopan Zhang, Yu Xia, Zejin Wang, Amit K. Roy-Chowdhury, Jiachen Li (University of California, Riverside) [project](https://sonic-social-nav.github.io)
 425. [Conformal Validity Guarantees Exist for Any Data Distribution (and How to Find Them)](https://arxiv.org/abs/2405.06627) by Drew Prinster, Samuel Stanton, Anqi Liu, Suchi Saria (John Hopkins University, Genentech, 2024) [video](https://www.youtube.com/watch?v=HMXZnPmgbxY)
 426. [Robust Conformal Volume Estimation in 3D Medical Images](https://arxiv.org/abs/2407.19938) by Benjamin Lambert, Florence Forbes, Senan Doyle, Michel Dojat (University Grenoble Alps, 2024)
+427. [A CONFORMALIZED LEARNING OF A PREDICTION SET WITH APPLICATIONS TO MEDICAL IMAGING CLASSIFICATION](https://arxiv.org/abs/2408.05037) by Roy Hirsch, Jacob Goldberger (Bar-Ilan University, Ramat-Gan, Israel, 2024)
      
 ## Papers Time Series
 
