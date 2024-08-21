@@ -796,6 +796,7 @@ Cooper Gamble, Moein Shariatnia, Bradley J. Erickson (Mayo Clinic Artificial Int
 426. [Robust Conformal Volume Estimation in 3D Medical Images](https://arxiv.org/abs/2407.19938) by Benjamin Lambert, Florence Forbes, Senan Doyle, Michel Dojat (University Grenoble Alps, 2024)
 427. [A CONFORMALIZED LEARNING OF A PREDICTION SET WITH APPLICATIONS TO MEDICAL IMAGING CLASSIFICATION](https://arxiv.org/abs/2408.05037) by Roy Hirsch, Jacob Goldberger (Bar-Ilan University, Ramat-Gan, Israel, 2024)
 428. [Quantifying uncertainty in climate projections with conformal ensembles](https://arxiv.org/pdf/2408.06642) by Trevor Harris, Ryan Sriver (Texas A&M University, University of Illinois at Urbana Champaign, 2024) 🔥🔥🔥🔥🔥
+429. [CONFORMALIZED INTERVAL ARITHMETIC WITH SYMMETRIC CALIBRATION](https://arxiv.org/abs/2408.10939) by Rui Luo and Zhixin Zhoi (City University of Hong Kong, 2024) [code](https://github.com/luo-lorry/CIA) 🔥🔥🔥🔥🔥
      
 ## Papers Time Series
 
