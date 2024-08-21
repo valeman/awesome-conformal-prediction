@@ -348,7 +348,8 @@ for probabilistic wind-speed forecasting](https://lup.lub.lu.se/luur/download?fu
 101. [Autonomy Talks - Somil Bansal: Safety Assurances for Learning-Enabled Autonomous Systems](https://www.youtube.com/watch?v=3f8Q19-BqRo) by Somil Bansal (USC, 2024) 🔥🔥🔥🔥🔥
 102. [Interview with Vladimir Vovk on Conformal Inference](https://www.youtube.com/watch?v=J7o2WJX_xQE) (2024)
 103. [Error Embraced: Making Trustworthy Scientific Decisions with Imperfect Predictions](https://www.youtube.com/watch?v=oqLq-DUEP3s) by Clara Wong-fannjiang (Genentech) (2024)
-104. 
+104. [Conformalized Interval Arithmetic with Symmetric Calibration](https://arxiv.org/abs/2408.10939) by Rui Luo, Zhixin Zhou (City University of Hong Kong, 2024)
+     
 ## Papers
 
 1. [Introducing Conformal Prediction in Predictive Modeling. A Transparent and Flexible Alternative to Applicability Domain Determination](https://pubs.acs.org/doi/10.1021/ci5001168) by Ulf Norinder, Lars Carlsson, Scott Boyer, and Martin Eklund (2014)
