@@ -8,7 +8,7 @@
 
 The book has reached #1 in Amazon Hot New Releases in multiple categories: "Probability and Statistics", "Machine Theory", "Python Programming" 🔥🔥🔥🔥🔥🚀🚀🚀🚀🚀
 
-![Practical Guide to Applied Conformal Prediction: Learn and apply the best uncertainty frameworks to your industry applications](https://github.com/valeman/awesome-conformal-prediction/blob/main/Practical%20Guide%20to%20Applied%20Conformal%20Prediction%20Learn%20and%20apply%20the%20best%20uncertainty%20frameworks%20to%20your%20industry%20applications.jpg)
+![Practical Guide to Applied Conformal Prediction: Learn and apply the best uncertainty frameworks to your industry applications](https://github.com/valeman/awesome-conformal-prediction/blob/main/Practical%20Guide%20to%20Applied%20Conformal%20Prediction%20Learn%20and%20apply%20the%20best%20uncertainty%20frameworks%20to%20your%20industry%20applications.jpg) please rate the book on Amazon if you liked it.
 
 Due to free tier limits of Slack, [Slack for Awesome Conformal Prediction](https://join.slack.com/t/awesomeconformalpred) is in general application-only.
 
