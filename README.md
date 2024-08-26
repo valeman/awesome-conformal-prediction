@@ -38,7 +38,17 @@ I'm enthusiastically promoting the wonderful world of Conformal Prediction (beca
 
 **A Warm Invitation to Support and Share: Star the Repo and Spread the Word**
 
-Please consider starring 🌟 the repo and sharing it with others who might be interested. If you utilize the repository in a scientific publication, kindly cite Awesome Conformal Prediction to further promote this incredible framework within both academia and industry. Your support is invaluable in advancing the awareness and appreciation of Conformal Prediction:
+Please consider starring 🌟 the repo and sharing it with others who might be interested. If you utilize the repository in a scientific publication, it must cite Awesome Conformal Prediction to further promote this incredible framework within both academia and industry.
+
+**Terms and conditionc fo academic papers to be listed on Awesome Conformal Prediction**
+
+Academic papers that cite the repo will be automatically listed, whilst those that do not will be delisted. If your paper cites the repo but is missing from the list, please reach out to me directly. 
+
+This change aims to maintain a balance between providing valuable resources to the industry and ensuring proper attribution. 
+
+Additionally, we’ll be curating the list of academic papers to focus on the most impactful work, reducing the overall number to avoid overwhelming readers. The focus will be on more impactful recent papers and core historic paper.
+
+Your support is invaluable in advancing the awareness and appreciation of Conformal Prediction:
 
 Manokhin, Valery. (2022). Awesome Conformal Prediction (v1.0.0). Zenodo. https://zenodo.org/record/6467205 https://doi.org/10.5281/zenodo.6467205 
 
