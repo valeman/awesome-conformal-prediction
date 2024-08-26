@@ -14,9 +14,7 @@ Due to free tier limits of Slack, [Slack for Awesome Conformal Prediction](https
 
 Fill the form to be considered for access. https://docs.google.com/forms/d/e/1FAIpQLScuNkOz1jq-Qt1OJ8oxsDCLZMdn8TkQluHllxk_GodPC8-w_w/viewform
 
-[1-April-2024 update: Slack has been reopened temporarily (link valid for 30 days only, real names only as per LinkedIn)](https://join.slack.com/t/awesomeconformalpred/shared_invite/zt-2p9uwmurq-lezTVXVP28Lc8z1JblB3Cw)
-
-
+[26-August-2024 update: Slack has been reopened temporarily (link valid for 30 days only, real names only as per LinkedIn)](https://join.slack.com/t/awesomeconformalpred/shared_invite/zt-2p9uwmurq-lezTVXVP28Lc8z1JblB3Cw)
 
 Preference is given to Conformal Prediction researchers or practitioners who have published papers, articles, tutorials, code or made YouTube videos about Conformal Prediction.
 
@@ -30,8 +28,6 @@ Conformal Prediction goes back to Kolmogorov's notion of randomness described in
 
 Conformal Prediction has transcended its niche status in just a few years, experiencing exponential growth thanks to the tireless efforts of renowned ambassadors like Prof. [Larry Wasserman](https://www.stat.cmu.edu/~larry/) in academia. It has taken center stage with dedicated tracks at [ICML2021](https://icml.cc/Conferences/2021/ScheduleMultitrack?event=8373) and [ICML2022](https://sites.google.com/berkeley.edu/dfuq-22/home), as well as a captivating keynote address 'Conformal Prediction in 2022' at [NeurIPS2022](https://slideslive.com/38996063/conformal-prediction-in-2022?ref=speaker-43789) by Professor Emmanuel Candes. Furthermore, the  [main conference on Conformal Prediction (COPA)](https://copa-conference.com) has enjoyed a successful run for over 11 years. Join the vibrant community at the forefront of this rapidly evolving field.
 
-Awesome Conformal Prediction takes pride in being cited within the highly acclaimed book on Machine Learning, "Probabilistic Machine Learning: Advanced Topics" by leading Google research scientist and best-selling Machine Learning author Kevin Murphy (boasting over 80K Google Scholar citations). Discover the exceptional quality of our resources, as acknowledged within the pages of the machine learning 'bible'.
-
 **Connect and Share the Excitement of Conformal Prediction**
 
 I'm enthusiastically promoting the wonderful world of Conformal Prediction (because it truly is awesome) across various social media platforms, including [LinkedIn](https://www.linkedin.com/in/valeriy-manokhin-phd-mba-cqf-704731236/) and [Twitter](https://twitter.com/predict_addict). You can find all my research on [ResearchGate](https://www.researchgate.net/profile/Valery-Manokhin), and I occasionally share insights from the data science trenches in the industry on [Medium](https://medium.com/@valeman). I warmly invite you to connect with me and help spread the word about the fascinating field of Conformal Prediction.
@@ -40,15 +36,15 @@ I'm enthusiastically promoting the wonderful world of Conformal Prediction (beca
 
 **A Warm Invitation to Support and Share: Star the Repo and Spread the Word**
 
-Please consider starring 🌟 the repo and sharing it with others who might be interested. If you utilize the repository in a scientific publication, it must cite Awesome Conformal Prediction to further promote this incredible framework within both academia and industry.
+Please consider starring 🌟 the repo and sharing it with others who might be interested. 
 
 **Terms and conditionc fo academic papers to be listed on Awesome Conformal Prediction**
 
-Academic papers that cite the repo will be automatically listed, whilst those that do not will be delisted. If your paper cites the repo but is missing from the list, please reach out to me directly. 
+Academic papers that cite the repo will be automatically listed on the repo, whilst those that do not might be delisted at any time for breach of T&C. If your paper cites the repo but is missing from the list, please reach out to me directly.  
 
 This change aims to maintain a balance between providing valuable resources to the industry and ensuring proper attribution. 
 
-Additionally, we’ll be curating the list of academic papers to focus on the most impactful work, reducing the overall number to avoid overwhelming readers. The focus will be on more impactful recent papers and core historic paper.
+Additionally, we’ll be curating the list of academic papers to focus on the most impactful work, reducing the overall number to avoid overwhelming readers and delist previous papers from the authors that have not cited the resource in the past or new papers. The focus will be on more impactful recent papers and core historic paper.
 
 Your support is invaluable in advancing the awareness and appreciation of Conformal Prediction:
 
