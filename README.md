@@ -357,6 +357,7 @@ for probabilistic wind-speed forecasting](https://lup.lub.lu.se/luur/download?fu
 102. [Interview with Vladimir Vovk on Conformal Inference](https://www.youtube.com/watch?v=J7o2WJX_xQE) (2024)
 103. [Error Embraced: Making Trustworthy Scientific Decisions with Imperfect Predictions](https://www.youtube.com/watch?v=oqLq-DUEP3s) by Clara Wong-fannjiang (Genentech) (2024)
 104. [Conformalized Interval Arithmetic with Symmetric Calibration](https://arxiv.org/abs/2408.10939) by Rui Luo, Zhixin Zhou (City University of Hong Kong, 2024)
+105. [Robust Yet Efficient Conformal Prediction Sets](https://www.youtube.com/watch?v=b5I_R3S2SdI) by  Soroush H. Zargarbash (2024)
      
 ## Papers
 
