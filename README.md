@@ -807,6 +807,9 @@ Cooper Gamble, Moein Shariatnia, Bradley J. Erickson (Mayo Clinic Artificial Int
 428. [Quantifying uncertainty in climate projections with conformal ensembles](https://arxiv.org/pdf/2408.06642) by Trevor Harris, Ryan Sriver (Texas A&M University, University of Illinois at Urbana Champaign, 2024) 🔥🔥🔥🔥🔥
 429. [CONFORMALIZED INTERVAL ARITHMETIC WITH SYMMETRIC CALIBRATION](https://arxiv.org/abs/2408.10939) by Rui Luo and Zhixin Zhoi (City University of Hong Kong, 2024) [code](https://github.com/luo-lorry/CIA) 🔥🔥🔥🔥🔥
 430. [Split Conformal Prediction and Non-Exchangeable Data](https://www.jmlr.org/papers/v25/23-1553.html) by Roberto I. Oliveira, Paulo Orenstein, Thiago Ramos, João Vitor Romano (IMPA, Brazil, 2024) [code](https://github.com/jv-rv/split-conformal-nonexchangeable)
+431. [PersonalizedUS: Interpretable Breast Cancer Risk Assessment with Local Coverage Uncertainty Quantification](https://arxiv.org/pdf/2408.15458) by Alek Frohlic, Thiago Ramos, Gustavo Cabello,  Isabela Buzatto,  Rafael Izbicki,  Daniel
+Tiezzi (UFSC, Florianopolis, UFSCar, Sao Carlos, USP, Ribeirao Preto, Brazil) (2024)
+
      
 ## Papers Time Series
 
