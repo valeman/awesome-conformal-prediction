@@ -812,8 +812,9 @@ Cooper Gamble, Moein Shariatnia, Bradley J. Erickson (Mayo Clinic Artificial Int
 431. [PersonalizedUS: Interpretable Breast Cancer Risk Assessment with Local Coverage Uncertainty Quantification](https://arxiv.org/pdf/2408.15458) by Alek Frohlic, Thiago Ramos, Gustavo Cabello,  Isabela Buzatto,  Rafael Izbicki,  Daniel
 Tiezzi (UFSC, Florianopolis, UFSCar, Sao Carlos, USP, Ribeirao Preto, Brazil) (2024)
 432. [Conformal Prediction in Dynamic Biological Systems](https://arxiv.org/abs/2409.02644) by Alberto Portela, Julio R. Banga, Marcos Matabuena (Spanish National Research Council, Harvard University) (2024)
-433. [Spatial-Aware Conformal Prediction for Trustworthy Hyperspectral Image Classification](https://arxiv.org/abs/2409.01236) by Kangdao Liu, Tianhao Sun, Hao Zeng, Yongshan Zhang, Chi-Man Pun, Chi-Man Vong (University of Macau, Southern University of Science and Technology, China University of Geosciences, 2024) 
-
+433. [Spatial-Aware Conformal Prediction for Trustworthy Hyperspectral Image Classification](https://arxiv.org/abs/2409.01236) by Kangdao Liu, Tianhao Sun, Hao Zeng, Yongshan Zhang, Chi-Man Pun, Chi-Man Vong (University of Macau, Southern University of Science and Technology, China University of Geosciences, 2024)
+434. [Formal Verification and Control with Conformal Prediction](https://arxiv.org/abs/2409.00536) by Lars Lindemann, Yiqi Zhao, Xinyi Yu, George J. Pappas, Jyotirmoy V. Deshmukh (University of Southern California, University of Pennsylvania) (2024)
+435. [Segmentation uncertainty with statistical guarantees in prostate MRI](https://eurasip.org/Proceedings/Eusipco/Eusipco2024/pdfs/0001636.pdf) Kevin Mekhaphan Nguyen,  Alvaro Fernandez-Quilez, University of Stavanger, Norway. Stavanger University Hospital, Stavanger, Norway (2024)
 
      
 ## Papers Time Series
