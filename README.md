@@ -359,6 +359,7 @@ for probabilistic wind-speed forecasting](https://lup.lub.lu.se/luur/download?fu
 103. [Error Embraced: Making Trustworthy Scientific Decisions with Imperfect Predictions](https://www.youtube.com/watch?v=oqLq-DUEP3s) by Clara Wong-fannjiang (Genentech) (2024)
 104. [Conformalized Interval Arithmetic with Symmetric Calibration](https://arxiv.org/abs/2408.10939) by Rui Luo, Zhixin Zhou (City University of Hong Kong, 2024)
 105. [Robust Yet Efficient Conformal Prediction Sets](https://www.youtube.com/watch?v=b5I_R3S2SdI) by  Soroush H. Zargarbash (2024)
+106. 
      
 ## Papers
 
@@ -810,6 +811,7 @@ Cooper Gamble, Moein Shariatnia, Bradley J. Erickson (Mayo Clinic Artificial Int
 430. [Split Conformal Prediction and Non-Exchangeable Data](https://www.jmlr.org/papers/v25/23-1553.html) by Roberto I. Oliveira, Paulo Orenstein, Thiago Ramos, João Vitor Romano (IMPA, Brazil, 2024) [code](https://github.com/jv-rv/split-conformal-nonexchangeable)
 431. [PersonalizedUS: Interpretable Breast Cancer Risk Assessment with Local Coverage Uncertainty Quantification](https://arxiv.org/pdf/2408.15458) by Alek Frohlic, Thiago Ramos, Gustavo Cabello,  Isabela Buzatto,  Rafael Izbicki,  Daniel
 Tiezzi (UFSC, Florianopolis, UFSCar, Sao Carlos, USP, Ribeirao Preto, Brazil) (2024)
+[Conformal Prediction in Dynamic Biological Systems](https://arxiv.org/abs/2409.02644) by Alberto Portela, Julio R. Banga, Marcos Matabuena (Spanish National Research Council, Harvard University) (2024)
 
      
 ## Papers Time Series
