@@ -815,6 +815,7 @@ Tiezzi (UFSC, Florianopolis, UFSCar, Sao Carlos, USP, Ribeirao Preto, Brazil) (2
 433. [Spatial-Aware Conformal Prediction for Trustworthy Hyperspectral Image Classification](https://arxiv.org/abs/2409.01236) by Kangdao Liu, Tianhao Sun, Hao Zeng, Yongshan Zhang, Chi-Man Pun, Chi-Man Vong (University of Macau, Southern University of Science and Technology, China University of Geosciences, 2024)
 434. [Formal Verification and Control with Conformal Prediction](https://arxiv.org/abs/2409.00536) by Lars Lindemann, Yiqi Zhao, Xinyi Yu, George J. Pappas, Jyotirmoy V. Deshmukh (University of Southern California, University of Pennsylvania) (2024)
 435. [Segmentation uncertainty with statistical guarantees in prostate MRI](https://eurasip.org/Proceedings/Eusipco/Eusipco2024/pdfs/0001636.pdf) Kevin Mekhaphan Nguyen,  Alvaro Fernandez-Quilez, University of Stavanger, Norway. Stavanger University Hospital, Stavanger, Norway (2024)
+436. 
 
      
 ## Papers Time Series
@@ -853,6 +854,10 @@ Niccolo` Ajroldia, Jacopo Diquigiovannib, Matteo Fontanac, Simone Vantinia (2022
 33. [Conformal time series decomposition with component-wise exchangeability](https://arxiv.org/abs/2406.16766) by Derck W. E. Prinzhorn, Thijmen Nijdam, Putri A. van der Linden, Alexander Timans (University of Amsterdam, 2024) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥 [code](https://github.com/dweprinz/CP-TSD)
 34. [Enhancing reliability in prediction intervals using point forecasters: Heteroscedastic Quantile Regression and Width-Adaptive Conformal Inference](https://arxiv.org/abs/2406.14904) Carlos Sebastiana,Carlos E. Gonzalez-Guillenc, Jesus Juane (Fortia Energıa, Universidad Politecnica de Madrid, Instituto de Ciencias Matematicas, Madrid) [code](https://github.com/CCaribe9/HQR-WACI) (2024) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 35. [JANET: Joint Adaptive predictioN-region Estimation for Time-series](https://arxiv.org/abs/2407.06390) by Eshant English, Eliot Wong-Toi, Matteo Fontana, Stephan Mandt, Padhraic Smyth, Christoph Lippert (2024) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+36. [Split Conformal Prediction and Non-Exchangeable Data](https://www.jmlr.org/papers/v25/23-1553.html) by Roberto I. Oliveira, Paulo Orenstein, Thiago Ramos, João Vitor Romano (IMPA, Brazil, 2024) [code](https://github.com/jv-rv/split-conformal-nonexchangeable)
+431. [PersonalizedUS: Interpretable Breast Cancer Risk Assessment with Local Coverage Uncertainty Quantification]
+432. [Unsupervised radiometric change detection from synthetic aperture radar images](https://telecom-paris.hal.science/hal-04683910/)
+Thomas Bultingaire , Inès Meraoumia, Christophe Kervazo, Loïc Denis, Florence Tupin (LTCI, Tel´ ecom Paris, Institut Polytechnique de Paris, Universite Jean Monnet Saint-Etienne, CNRS, Institut d’Optique Graduate School, Laboratoire Hubert Curien, France 2024)
 
 ## Presentation Slides
 1. [Machine Learning for Probabilistic Prediction, Seattle Artificial Intelligence Workshops Meetup](https://www.researchgate.net/publication/371566526_Machine_Learning_for_Probabilistic_Prediction) by Valery Manokhin, 2023 🔥🔥🔥🔥🔥
