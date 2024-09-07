@@ -815,7 +815,9 @@ Tiezzi (UFSC, Florianopolis, UFSCar, Sao Carlos, USP, Ribeirao Preto, Brazil) (2
 433. [Spatial-Aware Conformal Prediction for Trustworthy Hyperspectral Image Classification](https://arxiv.org/abs/2409.01236) by Kangdao Liu, Tianhao Sun, Hao Zeng, Yongshan Zhang, Chi-Man Pun, Chi-Man Vong (University of Macau, Southern University of Science and Technology, China University of Geosciences, 2024)
 434. [Formal Verification and Control with Conformal Prediction](https://arxiv.org/abs/2409.00536) by Lars Lindemann, Yiqi Zhao, Xinyi Yu, George J. Pappas, Jyotirmoy V. Deshmukh (University of Southern California, University of Pennsylvania) (2024)
 435. [Segmentation uncertainty with statistical guarantees in prostate MRI](https://eurasip.org/Proceedings/Eusipco/Eusipco2024/pdfs/0001636.pdf) Kevin Mekhaphan Nguyen,  Alvaro Fernandez-Quilez, University of Stavanger, Norway. Stavanger University Hospital, Stavanger, Norway (2024)
-436. 
+436. [Making Deep Learning Models Clinically Useful - Improving Diagnostic Confidence in Inherited Retinal Disease with Conformal Prediction](https://openreview.net/forum?id=eQ0Z2vrERs) by Biraja Ghoshal, William Woof, Nikolas Pontikos
+437. [Making Deep Learning Models Clinically Useful - Improving Diagnostic Confidence in Inherited Retinal Disease with Conformal Prediction](https://openreview.net/pdf?id=eQ0Z2vrERs) by Biraja Ghoshal, William Woof, Bernardo Mendes et al (University College London Institute of Ophthalmology, Moorfields Eye Hospital, Oxford Eye Hospital, Oxford, United Kingdom, Laboratory of Visual Physiology, Division of Vision Research, National Institute of Sensory Organs, National Hospital Organization Tokyo Medical Center, Japan, St Paul’s Eye Unit, Liverpool University Hospitals NHS Foundation Trust,Liverpool, United Kingdom, Department of Ophthalmology and Visual Sciences, Escola Paulista de Medicina, Federal University of Sao Paulo, São Paulo, SP, Brazil, Department of Ophthalmology, University Hospital Bonn,
+Rheinische-Friedrich-Wilhelms Universität Bonn, Germany, 2024).
 
      
 ## Papers Time Series
