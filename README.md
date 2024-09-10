@@ -819,6 +819,8 @@ Tiezzi (UFSC, Florianopolis, UFSCar, Sao Carlos, USP, Ribeirao Preto, Brazil) (2
 437. [Making Deep Learning Models Clinically Useful - Improving Diagnostic Confidence in Inherited Retinal Disease with Conformal Prediction](https://openreview.net/pdf?id=eQ0Z2vrERs) by Biraja Ghoshal, William Woof, Bernardo Mendes et al (University College London Institute of Ophthalmology, Moorfields Eye Hospital, Oxford Eye Hospital, Oxford, United Kingdom, Laboratory of Visual Physiology, Division of Vision Research, National Institute of Sensory Organs, National Hospital Organization Tokyo Medical Center, Japan, St Paul’s Eye Unit, Liverpool University Hospitals NHS Foundation Trust,Liverpool, United Kingdom, Department of Ophthalmology and Visual Sciences, Escola Paulista de Medicina, Federal University of Sao Paulo, São Paulo, SP, Brazil, Department of Ophthalmology, University Hospital Bonn,
 Rheinische-Friedrich-Wilhelms Universität Bonn, Germany, 2024).
 438. [Measuring the Confidence of Single-Point Traffic Forecasting Models: Techniques, Experimental Comparison, and Guidelines Toward Their Actionability](https://ieeexplore.ieee.org/ielx7/6979/4358928/10472567.pdf) 🔥🔥🔥🔥🔥
+439. [Conformal Multilayer Perceptron-Based Probabilistic Net-Load Forecasting for Low-Voltage Distribution Systems with Photovoltaic Generation](https://www.alspereira.info/wp-content/uploads/2024/09/SmartGridComm-2024.pdf) by Anthony Faustine and Lucas Pereira, Center for Intelligent Power (CIP), Eaton Corporation, Dublin, Ireland; †ITI, LARSyS, Tecnico Lisboa, Lisbon, Portugal (2024)
+
 
 
      
