@@ -822,6 +822,7 @@ Rheinische-Friedrich-Wilhelms Universität Bonn, Germany, 2024).
 439. [Conformal Multilayer Perceptron-Based Probabilistic Net-Load Forecasting for Low-Voltage Distribution Systems with Photovoltaic Generation](https://www.alspereira.info/wp-content/uploads/2024/09/SmartGridComm-2024.pdf) by Anthony Faustine and Lucas Pereira, Center for Intelligent Power (CIP), Eaton Corporation, Dublin, Ireland; †ITI, LARSyS, Tecnico Lisboa, Lisbon, Portugal (2024)
 440. [Conformal Diffusion Models for Individual Treatment Effect Estimation and Inference](https://arxiv.org/abs/2408.01582) by Hengrui Cai, Huaqing Jin, Lexin Li (University of California Irvine, University of California San Francisco, University of California Berkeley, 2024).
 441. [Quantifying Aleatoric and Epistemic Dynamics Uncertainty via Local Conformal Calibration](https://arxiv.org/abs/2409.08249) by Luís Marques, Dmitry Berenson (University of Michigan, Ann Arbour, USA) [project](https://um-arm-lab.github.io/lucca/)
+442. On the uncertainty of real estate price predictions](https://rem.rc.iseg.ulisboa.pt/wps/pdf/REM_WP_0314_2024.pdf) by João A. Bastos, Jeanne Paquette (University of Lisbon, Portugal, 2024)
      
 ## Papers Time Series
 
