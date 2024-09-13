@@ -821,6 +821,7 @@ Rheinische-Friedrich-Wilhelms Universität Bonn, Germany, 2024).
 438. [Measuring the Confidence of Single-Point Traffic Forecasting Models: Techniques, Experimental Comparison, and Guidelines Toward Their Actionability](https://ieeexplore.ieee.org/ielx7/6979/4358928/10472567.pdf) 🔥🔥🔥🔥🔥
 439. [Conformal Multilayer Perceptron-Based Probabilistic Net-Load Forecasting for Low-Voltage Distribution Systems with Photovoltaic Generation](https://www.alspereira.info/wp-content/uploads/2024/09/SmartGridComm-2024.pdf) by Anthony Faustine and Lucas Pereira, Center for Intelligent Power (CIP), Eaton Corporation, Dublin, Ireland; †ITI, LARSyS, Tecnico Lisboa, Lisbon, Portugal (2024)
 440. [Conformal Diffusion Models for Individual Treatment Effect Estimation and Inference](https://arxiv.org/abs/2408.01582) by Hengrui Cai, Huaqing Jin, Lexin Li (University of California Irvine, University of California San Francisco, University of California Berkeley, 2024).
+441. [Quantifying Aleatoric and Epistemic Dynamics Uncertainty via Local Conformal Calibration](https://arxiv.org/abs/2409.08249) by Luís Marques, Dmitry Berenson (University of Michigan, Ann Arbour, USA) [project](https://um-arm-lab.github.io/lucca/)
      
 ## Papers Time Series
 
