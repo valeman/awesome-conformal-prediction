@@ -824,6 +824,8 @@ Rheinische-Friedrich-Wilhelms Universität Bonn, Germany, 2024). 🔥🔥🔥�
 441.  On the uncertainty of real estate price predictions](https://rem.rc.iseg.ulisboa.pt/wps/pdf/REM_WP_0314_2024.pdf) by João A. Bastos, Jeanne Paquette (University of Lisbon, Portugal, 2024)
 442.  [Adaptive Uncertainty Quantification for Generative AI](https://arxiv.org/abs/2408.08990) by Jungeum Kim, Sean O'Hagan, Veronika Rockova (University of Chicago, 2024) [code](https://github.com/JungeumKim/conformal_tree?tab=readme-ov-file)
 443.  [Localized Conformal Prediction: A Generalized Inference Framework to Conformal Prediction](https://arxiv.org/abs/2106.08460) by Leying Guan (Yale University, 2022) 🔥🔥🔥🔥🔥
+444.  [Split Localized Conformal Prediction](https://arxiv.org/pdf/2206.13092.pdf) by Xing Han Ziyang Tang Joydeep Ghosh Qiang Liu
+(University of Texas at Austin, 2022) [code](https://github.com/aaronhan223/SLCP)
 
      
 ## Papers Time Series
