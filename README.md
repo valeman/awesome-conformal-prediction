@@ -823,6 +823,8 @@ Rheinische-Friedrich-Wilhelms Universität Bonn, Germany, 2024). 🔥🔥🔥�
 440.  [Quantifying Aleatoric and Epistemic Dynamics Uncertainty via Local Conformal Calibration](https://arxiv.org/abs/2409.08249) by Luís Marques, Dmitry Berenson (University of Michigan, Ann Arbour, USA) [project](https://um-arm-lab.github.io/lucca/)
 441.  On the uncertainty of real estate price predictions](https://rem.rc.iseg.ulisboa.pt/wps/pdf/REM_WP_0314_2024.pdf) by João A. Bastos, Jeanne Paquette (University of Lisbon, Portugal, 2024)
 442.  [Adaptive Uncertainty Quantification for Generative AI](https://arxiv.org/abs/2408.08990) by Jungeum Kim, Sean O'Hagan, Veronika Rockova (University of Chicago, 2024) [code](https://github.com/JungeumKim/conformal_tree?tab=readme-ov-file)
+443.  [Localized Conformal Prediction: A Generalized Inference Framework to Conformal Prediction](https://arxiv.org/abs/2106.08460) by Leying Guan (Yale University, 2022) 🔥🔥🔥🔥🔥
+
      
 ## Papers Time Series
 
