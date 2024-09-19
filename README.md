@@ -826,7 +826,8 @@ Rheinische-Friedrich-Wilhelms Universität Bonn, Germany, 2024). 🔥🔥🔥�
 443.  [Localized Conformal Prediction: A Generalized Inference Framework to Conformal Prediction](https://arxiv.org/abs/2106.08460) by Leying Guan (Yale University, 2022) 🔥🔥🔥🔥🔥
 444.  [Split Localized Conformal Prediction](https://arxiv.org/pdf/2206.13092.pdf) by Xing Han Ziyang Tang Joydeep Ghosh Qiang Liu
 (University of Texas at Austin, 2022) [code](https://github.com/aaronhan223/SLCP)
-445. [Conformalized Semi-supervised Random Forest for Classification and Abnormality Detection](https://proceedings.mlr.press/v238/han24b/han24b.pdf) by Yujin Han, Mingwenchan Xu, Leying Guan (Universtity of Hong Kong, Northwestern University, Yale University, 2024) [code](https://github.com/yujinhanml/CSForest) 
+445. [Conformalized Semi-supervised Random Forest for Classification and Abnormality Detection](https://proceedings.mlr.press/v238/han24b/han24b.pdf) by Yujin Han, Mingwenchan Xu, Leying Guan (Universtity of Hong Kong, Northwestern University, Yale University, 2024) [code](https://github.com/yujinhanml/CSForest)
+446. [Length Optimization in Conformal Prediction](https://arxiv.org/abs/2406.18814) by Shayan Kiyani, George Pappas, Hamed Hassani (University of Pennsylvania,2024) [code](https://github.com/shayankiyani98/CP/blob/main/CPL.ipynb) 🔥🔥🔥🔥🔥
      
 ## Papers Time Series
 
