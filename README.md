@@ -837,6 +837,17 @@ Rheinische-Friedrich-Wilhelms Universität Bonn, Germany, 2024). 🔥🔥🔥�
 453. [Conformal Prediction for Class-wise Coverage via Augmented Label Rank Calibration](https://arxiv.org/abs/2406.06818) by Yuanjie Shi, Subhankar Ghosh, Taha Belkhouja, Janardhan Rao Doppa, Yan Yan (Washington State University, 2024)
 454. [Detecting Railway Track Irregularities Using Conformal Prediction](https://tik-db.ee.ethz.ch/file/848e380708f75d651514d4e6e9acb8df/) by Andreas Plesner, Allan P. Engsig-Karup, Hans True (ETH Zurich, Technical University of Denmark, 2024)
 455. [CoPAL: Conformal Prediction for Active Learning with Application to Remaining Useful Life Estimation in Predictive Maintenance](https://raw.githubusercontent.com/mlresearch/v230/main/assets/kharazian24a/kharazian24a.pdf) by Zahra Kharazian, Tony Lindgren, Sindri Magnusson, Henrik Bostrom (KTH Royal Institute of Technology, Stockholm University, Sweden, 2024)
+456. [ConForME: Multi-horizon conformal time series forecasting](https://raw.githubusercontent.com/mlresearch/v230/main/assets/galvao-lopes24a/galvao-lopes24a.pdf) by Aloysio Galvao Lopes, Eric Goubault, Sylvie Putot, Laurent Pautet (Institut Polytechnique de Paris, LTCI, Telecom Paris, 2024) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+431. [PersonalizedUS: Interpretable Breast Cancer Risk Assessment with Local Coverage Uncertainty Quantification]
+432. [Unsupervised radiometric change detection from synthetic aperture radar images](https://telecom-paris.hal.science/hal-04683910/)
+Thomas Bultingaire , Inès Meraoumia, Christophe Kervazo, Loïc Denis, Florence Tupin (LTCI, Tel´ ecom Paris, Institut Polytechnique de Paris, Universite Jean Monnet Saint-Etienne, CNRS, Institut d’Optique Graduate School, Laboratoire Hubert Curien, France 2024)
+433. [Conformal Distributed Remote Inference in Sensor Networks Under Reliability and Communication Constraints](https://arxiv.org/abs/2409.07902) by Meiyi Zhu, Matteo Zecchin, Sangwoo Park, Caili Guo, Chunyan Feng, Petar Popovski, Osvaldo Simeone (King's College London, UK, Aaborg University, Denmark).
+434. [Task-Driven Uncertainty Quantification in Inverse Problems via Conformal Prediction](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/7734_ECCV_2024_paper.php) by Jeffrey Wen, Rizwan Ahmad, Phillip Schniter [code](https://github.com/jwen307/TaskUQ)
+436. [Self-Calibrating Conformal Prediction](https://arxiv.org/abs/2402.07307) by Lars van der Laan, Ahmed M. Alaa (University of Washington, Berkeley, 2024)
+437. [Boosted Conformal Prediction Intervals](https://arxiv.org/abs/2406.07449) by Ran Xie, Rina Foygel Barber, Emmanuel J. Candès (Stanford, University of Chicago, 2024)
+438. [Verifiably Robust Conformal Prediction](https://arxiv.org/abs/2405.18942) by Linus Jeary, Tom Kuipers, Mehran Hosseini, Nicola Paoletti (King’s College London, UK, 2024)
+439. [Similarity-Navigated Conformal Prediction for Graph Neural Networks](https://arxiv.org/abs/2405.14303) by Jianqing Song, Jianguo Huang, Wenyu Jiang, Baoming Zhang, Shuangjie Li, Chongjun Wang (Nanjing University, Southern University of Science and Technology, ShanghaiTech University, 2024) 
+
 
      
 ## Papers Time Series
@@ -876,17 +887,8 @@ Niccolo` Ajroldia, Jacopo Diquigiovannib, Matteo Fontanac, Simone Vantinia (2022
 34. [Enhancing reliability in prediction intervals using point forecasters: Heteroscedastic Quantile Regression and Width-Adaptive Conformal Inference](https://arxiv.org/abs/2406.14904) Carlos Sebastiana,Carlos E. Gonzalez-Guillenc, Jesus Juane (Fortia Energıa, Universidad Politecnica de Madrid, Instituto de Ciencias Matematicas, Madrid) [code](https://github.com/CCaribe9/HQR-WACI) (2024) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 35. [JANET: Joint Adaptive predictioN-region Estimation for Time-series](https://arxiv.org/abs/2407.06390) by Eshant English, Eliot Wong-Toi, Matteo Fontana, Stephan Mandt, Padhraic Smyth, Christoph Lippert (2024) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 36. [Split Conformal Prediction and Non-Exchangeable Data](https://www.jmlr.org/papers/v25/23-1553.html) by Roberto I. Oliveira, Paulo Orenstein, Thiago Ramos, João Vitor Romano (IMPA, Brazil, 2024) [code](https://github.com/jv-rv/split-conformal-nonexchangeable)
-431. [PersonalizedUS: Interpretable Breast Cancer Risk Assessment with Local Coverage Uncertainty Quantification]
-432. [Unsupervised radiometric change detection from synthetic aperture radar images](https://telecom-paris.hal.science/hal-04683910/)
-Thomas Bultingaire , Inès Meraoumia, Christophe Kervazo, Loïc Denis, Florence Tupin (LTCI, Tel´ ecom Paris, Institut Polytechnique de Paris, Universite Jean Monnet Saint-Etienne, CNRS, Institut d’Optique Graduate School, Laboratoire Hubert Curien, France 2024)
-433. [Conformal Distributed Remote Inference in Sensor Networks Under Reliability and Communication Constraints](https://arxiv.org/abs/2409.07902) by Meiyi Zhu, Matteo Zecchin, Sangwoo Park, Caili Guo, Chunyan Feng, Petar Popovski, Osvaldo Simeone (King's College London, UK, Aaborg University, Denmark).
-434. [Task-Driven Uncertainty Quantification in Inverse Problems via Conformal Prediction](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/7734_ECCV_2024_paper.php) by Jeffrey Wen, Rizwan Ahmad, Phillip Schniter [code](https://github.com/jwen307/TaskUQ)
-435. [Robust Conformal Prediction Using Privileged Information](https://arxiv.org/abs/2406.05405) by Shai Feldman, Yaniv Romano (Technion, 2024)
-436. [Self-Calibrating Conformal Prediction](https://arxiv.org/abs/2402.07307) by Lars van der Laan, Ahmed M. Alaa (University of Washington, Berkeley, 2024)
-437. [Boosted Conformal Prediction Intervals](https://arxiv.org/abs/2406.07449) by Ran Xie, Rina Foygel Barber, Emmanuel J. Candès (Stanford, University of Chicago, 2024)
-438. [Verifiably Robust Conformal Prediction](https://arxiv.org/abs/2405.18942) by Linus Jeary, Tom Kuipers, Mehran Hosseini, Nicola Paoletti (King’s College London, UK, 2024)
-439. [Similarity-Navigated Conformal Prediction for Graph Neural Networks](https://arxiv.org/abs/2405.14303) by Jianqing Song, Jianguo Huang, Wenyu Jiang, Baoming Zhang, Shuangjie Li, Chongjun Wang (Nanjing University, Southern University of Science and Technology, ShanghaiTech University, 2024) 
-
+37. [ConForME: Multi-horizon conformal time series forecasting](https://raw.githubusercontent.com/mlresearch/v230/main/assets/galvao-lopes24a/galvao-lopes24a.pdf) by Aloysio Galvao Lopes, Eric Goubault, Sylvie Putot, Laurent Pautet (Institut Polytechnique de Paris, LTCI, Telecom Paris, 2024) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+    
 
 ## Presentation Slides
 1. [Machine Learning for Probabilistic Prediction, Seattle Artificial Intelligence Workshops Meetup](https://www.researchgate.net/publication/371566526_Machine_Learning_for_Probabilistic_Prediction) by Valery Manokhin, 2023 🔥🔥🔥🔥🔥
