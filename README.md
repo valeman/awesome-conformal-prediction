@@ -850,6 +850,7 @@ Thomas Bultingaire , Inès Meraoumia, Christophe Kervazo, Loïc Denis, Florence 
 440. [Estimating Quality of Approximated Shapley Values Using Conformal Prediction](https://raw.githubusercontent.com/mlresearch/v230/main/assets/alkhatib24a/alkhatib24a.pdf) by Amr Alkhatib, Henrik Bostrom, Ulf Johansson (KTH Royal Institute of Technology, Jonkoping University, Sweden, 2024)
 441. [Clustered Conformal Prediction for the Housing Market](https://raw.githubusercontent.com/mlresearch/v230/main/assets/hjort24a/hjort24a.pdf) by Anders Hjort,Jonathan P. Williams, Johan Pensar (University of Oslo,North Carolina State University, 2024)
 442. [Conformal Stability Measure for Feature Selection Algorithms](https://raw.githubusercontent.com/mlresearch/v230/main/assets/lopez-de-castro24a/lopez-de-castro24a.pdf) by Marcos Lopez-De-Castro, Alberto Garcıa-Galindo, Ruben Armananzas (Universidad de Navarra, Spain, 2024)
+443. [The Uncertain Object: Application of Conformal Prediction to Aerial and Satellite Images](https://proceedings.mlr.press/v230/copley24a.html) Vicky Copley, Greg Finlay, Ben Hiett (DSTL, UK, 2024)
 
 
      
