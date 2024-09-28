@@ -832,7 +832,8 @@ Rheinische-Friedrich-Wilhelms Universität Bonn, Germany, 2024). 🔥🔥🔥�
 448. [Task-Driven Uncertainty Quantification in Inverse Problems via Conformal Prediction](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/7734_ECCV_2024_paper.php) by Jeffrey Wen, Rizwan Ahma. Philip Schniter (The Ohio State University) [code](https://github.com/jwen307/TaskUQ)
 449. [Adaptive Bounding Box Uncertainties via Two-Step Conformal Prediction](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/12292_ECCV_2024_paper.php) by Alexander Timans, Christoph-Nikolas Straehle, Kaspar Sakmann, Eric Nalisnick (University of Amsterdam, Bosch Centre for AI, 2024)
 450. [Robust Conformal Prediction Using Privileged Information](https://arxiv.org/abs/2406.05405) by Shai Feldman, Yaniv Romano (Technion, 2024) NeurIPS2024 
-451. [Self-Consistent Conformal Prediction](https://arxiv.org/abs/2402.07307) by Lars van der Laan, Ahmed M. Alaa (University of Washington, Berkeley, 2024) 
+451. [Self-Consistent Conformal Prediction](https://arxiv.org/abs/2402.07307) by Lars van der Laan, Ahmed M. Alaa (University of Washington, Berkeley, 2024)
+452. [Similarity-Navigated Conformal Prediction for Graph](https://arxiv.org/abs/2405.14303) by Jianqing Song, Jianguo Huang,Wenyu Jiang, Baoming Zhang, Shuangjie Li, Chongjun Wang (Nanjing University, Southern University of Science and Technology, ShanghaiTech University, 2024)
 
      
 ## Papers Time Series
