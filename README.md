@@ -828,7 +828,8 @@ Rheinische-Friedrich-Wilhelms Universität Bonn, Germany, 2024). 🔥🔥🔥�
 (University of Texas at Austin, 2022) [code](https://github.com/aaronhan223/SLCP)
 445. [Conformalized Semi-supervised Random Forest for Classification and Abnormality Detection](https://proceedings.mlr.press/v238/han24b/han24b.pdf) by Yujin Han, Mingwenchan Xu, Leying Guan (Universtity of Hong Kong, Northwestern University, Yale University, 2024) [code](https://github.com/yujinhanml/CSForest)
 446. [Length Optimization in Conformal Prediction](https://arxiv.org/abs/2406.18814) by Shayan Kiyani, George Pappas, Hamed Hassani (University of Pennsylvania,2024) [code](https://github.com/shayankiyani98/CP/blob/main/CPL.ipynb) 🔥🔥🔥🔥🔥
-447. [Adjusting Regression Models for Conditional Uncertainty Calibration](https://arxiv.org/abs/2409.17466) by Ruijiang Gao, Mingzhang Yin, James McInerney, Nathan Kallus (Naveen Jindal School of Management, University of Texas at Dallas, University of Florida, Gainesville, Netflix, Cornell University, 2024) [code](https://github.com/ruijiang81/adjusting_reg_model)
+447. [Adjusting Regression Models for Conditional Uncertainty Calibration](https://arxiv.org/abs/2409.17466) by Ruijiang Gao, Mingzhang Yin, James McInerney, Nathan Kallus (Naveen Jindal School of Management, University of Texas at Dallas, University of Florida, Gainesville, Netflix, Cornell University, 2024) [code](https://github.com/ruijiang81/adjusting_reg_model) 🔥🔥🔥🔥🔥
+448. [Task-Driven Uncertainty Quantification in Inverse Problems via Conformal Prediction](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/7734_ECCV_2024_paper.php) by Jeffrey Wen, Rizwan Ahma. Philip Schniter (The Ohio State University) [code](https://github.com/jwen307/TaskUQ)
 
      
 ## Papers Time Series
