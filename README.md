@@ -870,6 +870,7 @@ Niccolo` Ajroldia, Jacopo Diquigiovannib, Matteo Fontanac, Simone Vantinia (2022
 432. [Unsupervised radiometric change detection from synthetic aperture radar images](https://telecom-paris.hal.science/hal-04683910/)
 Thomas Bultingaire , Inès Meraoumia, Christophe Kervazo, Loïc Denis, Florence Tupin (LTCI, Tel´ ecom Paris, Institut Polytechnique de Paris, Universite Jean Monnet Saint-Etienne, CNRS, Institut d’Optique Graduate School, Laboratoire Hubert Curien, France 2024)
 433. [Conformal Distributed Remote Inference in Sensor Networks Under Reliability and Communication Constraints](https://arxiv.org/abs/2409.07902) by Meiyi Zhu, Matteo Zecchin, Sangwoo Park, Caili Guo, Chunyan Feng, Petar Popovski, Osvaldo Simeone (King's College London, UK, Aaborg University, Denmark).
+434. [Task-Driven Uncertainty Quantification in Inverse Problems via Conformal Prediction](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/7734_ECCV_2024_paper.php) by Jeffrey Wen, Rizwan Ahmad, Phillip Schniter [code](https://github.com/jwen307/TaskUQ) 
 
 ## Presentation Slides
 1. [Machine Learning for Probabilistic Prediction, Seattle Artificial Intelligence Workshops Meetup](https://www.researchgate.net/publication/371566526_Machine_Learning_for_Probabilistic_Prediction) by Valery Manokhin, 2023 🔥🔥🔥🔥🔥
