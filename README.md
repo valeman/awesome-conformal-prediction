@@ -849,6 +849,7 @@ Thomas Bultingaire , Inès Meraoumia, Christophe Kervazo, Loïc Denis, Florence 
 439. [Similarity-Navigated Conformal Prediction for Graph Neural Networks](https://arxiv.org/abs/2405.14303) by Jianqing Song, Jianguo Huang, Wenyu Jiang, Baoming Zhang, Shuangjie Li, Chongjun Wang (Nanjing University, Southern University of Science and Technology, ShanghaiTech University, 2024)
 440. [Estimating Quality of Approximated Shapley Values Using Conformal Prediction](https://raw.githubusercontent.com/mlresearch/v230/main/assets/alkhatib24a/alkhatib24a.pdf) by Amr Alkhatib, Henrik Bostrom, Ulf Johansson (KTH Royal Institute of Technology, Jonkoping University, Sweden, 2024)
 441. [Clustered Conformal Prediction for the Housing Market](https://raw.githubusercontent.com/mlresearch/v230/main/assets/hjort24a/hjort24a.pdf) by Anders Hjort,Jonathan P. Williams, Johan Pensar (University of Oslo,North Carolina State University, 2024)
+442. [Conformal Stability Measure for Feature Selection Algorithms](https://raw.githubusercontent.com/mlresearch/v230/main/assets/lopez-de-castro24a/lopez-de-castro24a.pdf) by Marcos Lopez-De-Castro, Alberto Garcıa-Galindo, Ruben Armananzas (Universidad de Navarra, Spain, 2024)
 
 
      
