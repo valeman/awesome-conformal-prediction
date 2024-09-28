@@ -851,7 +851,12 @@ Thomas Bultingaire , Inès Meraoumia, Christophe Kervazo, Loïc Denis, Florence 
 441. [Clustered Conformal Prediction for the Housing Market](https://raw.githubusercontent.com/mlresearch/v230/main/assets/hjort24a/hjort24a.pdf) by Anders Hjort,Jonathan P. Williams, Johan Pensar (University of Oslo,North Carolina State University, 2024)
 442. [Conformal Stability Measure for Feature Selection Algorithms](https://raw.githubusercontent.com/mlresearch/v230/main/assets/lopez-de-castro24a/lopez-de-castro24a.pdf) by Marcos Lopez-De-Castro, Alberto Garcıa-Galindo, Ruben Armananzas (Universidad de Navarra, Spain, 2024)
 443. [The Uncertain Object: Application of Conformal Prediction to Aerial and Satellite Images](https://proceedings.mlr.press/v230/copley24a.html) Vicky Copley, Greg Finlay, Ben Hiett (DSTL, UK, 2024)
-444. [Conformal prediction for regression models with asymmetrically distributed errors: application to aircraft navigation during landing maneuver](https://www.researchgate.net/publication/383878438_Conformal_prediction_for_regression_models_with_asymmetrically_distributed_errors_application_to_aircraft_navigation_during_landing_maneuver) by Solène Vilfroy, Lionel Bombrun, Thierry Urruty, Thierry Urruty, Philippe Carré (Thales, France, 2024) 
+444. [Conformal prediction for regression models with asymmetrically distributed errors: application to aircraft navigation during landing maneuver](https://www.researchgate.net/publication/383878438_Conformal_prediction_for_regression_models_with_asymmetrically_distributed_errors_application_to_aircraft_navigation_during_landing_maneuver) by Solène Vilfroy, Lionel Bombrun, Thierry Urruty, Thierry Urruty, Philippe Carré (Thales, France, 2024)
+445. [Multi-Class Classification With Reject Option and Performance Guarantees Using Conformal Prediction](https://raw.githubusercontent.com/mlresearch/v230/main/assets/garcia-galindo24a/garcia-galindo24a.pdf) by Alberto Garcıa-Galindo, Marcos Lopez-De-Castro, Rubeen Armananzas (Universidad de Navarra, Spain, 2024)
+446. [Multi-label Conformal Prediction with a Mahalanobis Distance Nonconformity Measure](https://raw.githubusercontent.com/mlresearch/v230/main/assets/katsios24a/katsios24a.pdf) by Kostas Katsios, Harris Papadopoulos (Frederick University, Cyprus, Albourne Partners Ltd, London, UK, 2024)
+447. [Conformal Prediction for Semantically-Aware Autonomous Perception in Urban Environments](https://openreview.net/forum?id=aaY5fVFMVf) 
+by Achref Doula, Tobias Güdelhöfer, Max Mühlhäuser, Alejandro Sanchez Guinea (Technische Universität Darmstadt, Germany, 2024)
+
 
 
      
