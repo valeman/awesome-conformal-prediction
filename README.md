@@ -10,9 +10,7 @@ The book has reached #1 in Amazon Hot New Releases in multiple categories: "Prob
 
 ![Practical Guide to Applied Conformal Prediction: Learn and apply the best uncertainty frameworks to your industry applications](https://github.com/valeman/awesome-conformal-prediction/blob/main/Practical%20Guide%20to%20Applied%20Conformal%20Prediction%20Learn%20and%20apply%20the%20best%20uncertainty%20frameworks%20to%20your%20industry%20applications.jpg) 
 
-Due to free tier limits of Slack, [Slack for Awesome Conformal Prediction](https://join.slack.com/t/awesomeconformalpred) is in general application-only.
-
-Fill the form to be considered for access. https://docs.google.com/forms/d/e/1FAIpQLScuNkOz1jq-Qt1OJ8oxsDCLZMdn8TkQluHllxk_GodPC8-w_w/viewform
+Due to free tier limits of Slack, [Slack for Awesome Conformal Prediction](https://join.slack.com/t/awesomeconformalpred) is in general application-only. Send me a message on [LinkedIn](https://www.linkedin.com/in/valeriy-manokhin-phd-mba-cqf-704731236/) or [X/Twitter](https://x.com/predict_addict) to request access explaining why you need access.
 
 [26-August-2024 update: Slack has been reopened temporarily (link valid for 30 days only, real names only as per LinkedIn)](https://join.slack.com/t/awesomeconformalpred/shared_invite/zt-2p9uwmurq-lezTVXVP28Lc8z1JblB3Cw)
 
