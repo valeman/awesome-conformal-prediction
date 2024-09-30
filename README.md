@@ -10,9 +10,7 @@ The book has reached #1 in Amazon Hot New Releases in multiple categories: "Prob
 
 ![Practical Guide to Applied Conformal Prediction: Learn and apply the best uncertainty frameworks to your industry applications](https://github.com/valeman/awesome-conformal-prediction/blob/main/Practical%20Guide%20to%20Applied%20Conformal%20Prediction%20Learn%20and%20apply%20the%20best%20uncertainty%20frameworks%20to%20your%20industry%20applications.jpg) 
 
-Due to free tier limits of Slack, [Slack for Awesome Conformal Prediction](https://join.slack.com/t/awesomeconformalpred) is in general application-only. Send me a message on [LinkedIn](https://www.linkedin.com/in/valeriy-manokhin-phd-mba-cqf-704731236/) or [X/Twitter](https://x.com/predict_addict) to request access explaining why you need access.
-
-[26-August-2024 update: Slack has been reopened temporarily (link valid for 30 days only, real names only as per LinkedIn)](https://join.slack.com/t/awesomeconformalpred/shared_invite/zt-2p9uwmurq-lezTVXVP28Lc8z1JblB3Cw)
+Due to free tier limits of Slack, [Slack for Awesome Conformal Prediction](https://join.slack.com/t/awesomeconformalpred) is in general application-only. Send me a message on [LinkedIn](https://www.linkedin.com/in/valeriy-manokhin-phd-mba-cqf-704731236/) or [X/Twitter](https://x.com/predict_addict) to request access explaining why you need access and your email. Slack policy: real names only as per LinkedIn / academic profile.
 
 Preference is given to Conformal Prediction researchers or practitioners who have published papers, articles, tutorials, code or made YouTube videos about Conformal Prediction.
 
@@ -40,10 +38,6 @@ Please consider starring 🌟 the repo and sharing it with others who might be i
 
 Academic papers that cite the repo will be automatically listed on the repo, whilst those that do not might be delisted at any time for breach of T&C. If your paper cites the repo but is missing from the list, please reach out to me directly.  
 
-This change aims to maintain a balance between providing valuable resources to the industry and ensuring proper attribution. 
-
-Additionally, we’ll be curating the list of academic papers to focus on the most impactful work, reducing the overall number to avoid overwhelming readers and delist previous papers from the authors that have not cited the resource in the past or new papers. The focus will be on more impactful recent papers and core historic paper.
-
 **By using this repository for academic research or publications, you agree to comply with the terms of the CC BY-NC-ND 4.0 license. As part of these terms, any academic or research work that benefits from this repository must appropriately cite it. Failure to provide proper attribution violates the license. Citations should follow the guidelines provided in the `CITATION.cff` file included in this repository. This ensures that credit is given to the authors and contributors, and the repository's use is properly recognized in scientific and scholarly work.**
 
 Your support is invaluable in advancing the awareness and appreciation of Conformal Prediction:
@@ -67,7 +61,7 @@ Bibtex entry export https://zenodo.org/record/6467205/export/hx
 
 <a href="https://www.buymeacoffee.com/valeman" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 Why Conformal Prediction?
 
 One of the most influential and celebrated machine learning researchers - Professor Michael I. Jordan:
