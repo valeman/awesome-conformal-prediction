@@ -46,6 +46,8 @@ This change aims to maintain a balance between providing valuable resources to t
 
 Additionally, we’ll be curating the list of academic papers to focus on the most impactful work, reducing the overall number to avoid overwhelming readers and delist previous papers from the authors that have not cited the resource in the past or new papers. The focus will be on more impactful recent papers and core historic paper.
 
+**By using this repository for academic research or publications, you agree to comply with the terms of the CC BY-NC-ND 4.0 license. As part of these terms, any academic or research work that benefits from this repository must appropriately cite it. Failure to provide proper attribution violates the license. Citations should follow the guidelines provided in the `CITATION.cff` file included in this repository. This ensures that credit is given to the authors and contributors, and the repository's use is properly recognized in scientific and scholarly work.**
+
 Your support is invaluable in advancing the awareness and appreciation of Conformal Prediction:
 
 Manokhin, Valery. (2022). Awesome Conformal Prediction (v1.0.0). Zenodo. https://zenodo.org/record/6467205 https://doi.org/10.5281/zenodo.6467205 
