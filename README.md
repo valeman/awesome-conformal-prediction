@@ -1009,6 +1009,7 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 51. [Probabilistic forecasting I: Temperature](https://stephane-degeye.medium.com/probabilistic-forecasting-i-temperature-f96ded1e7247) by Stephane Degeye (2024) 
 52. [Predict CO2 emissions by vehicles with Conformal Prediction](https://medium.com/@c.giancaterino/predict-co2-emissions-by-vehicles-with-conformal-prediction-3d40a5e8c136) by Claudio Giorgio Giancaterino (2024)
 53. [Exploring Adaptive and Weighted Conformal Prediction Methods in the Presence of Covariate Shift](https://blog.devgenius.io/exploring-adaptive-and-weighted-conformal-prediction-methods-in-the-presence-of-covariate-shift-38ca04029292) by Peter Tettey Yamak (2024) 🔥🔥🔥🔥🔥
+54. [Embracing Uncertainty with Conformal Prediction](https://medium.com/bigdatarepublic/embracing-uncertainty-with-conformal-prediction-099f928bc183) by Robbert van Kortenhof (2024)
 
 ## Kaggle
 1. [Kaggle Notebook showcasing Conformal Predictive Distributions on Playground Series Season 3, Episode 1 (California Housing data) competition](https://www.kaggle.com/code/predaddict/conformal-predictive-distributions-pss3-e1) by Valeriy Manokhin (2022)
