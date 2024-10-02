@@ -1006,8 +1006,9 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 48. [Prediction Intervals using Conformalized Quantile Regression](https://vincentwtrs.github.io/2024-03-06-conformal_prediction_prediction_intervals/) by Vincent Wauters (2024).
 49. [Conformalized Quantile Regression for Time Series Probabilistic Forecasting](https://dataman-ai.medium.com/conformalized-quantile-regression-for-time-series-probabilistic-forecasting-85a2a1047119) by Chris Kuo (2024) 🔥🔥🔥🔥🔥
 50. [Uncertainty Quantification and Why You Should Care](https://towardsdatascience.com/uncertainty-quantification-and-why-you-should-care-3f8a651f1956) by Jonte Dancker (2024)
-51. [Probabilistic forecasting I: Temperature](https://stephane-degeye.medium.com/probabilistic-forecasting-i-temperature-f96ded1e7247) by Stephane Degeye (2024) 🔥🔥🔥🔥🔥
+51. [Probabilistic forecasting I: Temperature](https://stephane-degeye.medium.com/probabilistic-forecasting-i-temperature-f96ded1e7247) by Stephane Degeye (2024) 
 52. [Predict CO2 emissions by vehicles with Conformal Prediction](https://medium.com/@c.giancaterino/predict-co2-emissions-by-vehicles-with-conformal-prediction-3d40a5e8c136) by Claudio Giorgio Giancaterino (2024)
+53. [Exploring Adaptive and Weighted Conformal Prediction Methods in the Presence of Covariate Shift](https://blog.devgenius.io/exploring-adaptive-and-weighted-conformal-prediction-methods-in-the-presence-of-covariate-shift-38ca04029292) by Peter Tettey Yamak (2024) 🔥🔥🔥🔥🔥
 
 ## Kaggle
 1. [Kaggle Notebook showcasing Conformal Predictive Distributions on Playground Series Season 3, Episode 1 (California Housing data) competition](https://www.kaggle.com/code/predaddict/conformal-predictive-distributions-pss3-e1) by Valeriy Manokhin (2022)
