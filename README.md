@@ -850,6 +850,7 @@ Thomas Bultingaire , Inès Meraoumia, Christophe Kervazo, Loïc Denis, Florence 
 446. [Multi-label Conformal Prediction with a Mahalanobis Distance Nonconformity Measure](https://raw.githubusercontent.com/mlresearch/v230/main/assets/katsios24a/katsios24a.pdf) by Kostas Katsios, Harris Papadopoulos (Frederick University, Cyprus, Albourne Partners Ltd, London, UK, 2024)
 447. [Conformal Prediction for Semantically-Aware Autonomous Perception in Urban Environments](https://openreview.net/forum?id=aaY5fVFMVf) 
 by Achref Doula, Tobias Güdelhöfer, Max Mühlhäuser, Alejandro Sanchez Guinea (Technische Universität Darmstadt, Germany, 2024)
+448. [Conformal prediction with local weights: randomization enables robust guarantees](https://arxiv.org/abs/2310.07850) by Rohan Hore, Rina Foygel Barber (University of Chicago, 2024) [code](https://github.com/rohanhore/RLCP) 🔥🔥🔥🔥🔥
 
 
 
