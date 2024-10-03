@@ -851,7 +851,7 @@ Thomas Bultingaire , Inès Meraoumia, Christophe Kervazo, Loïc Denis, Florence 
 447. [Conformal Prediction for Semantically-Aware Autonomous Perception in Urban Environments](https://openreview.net/forum?id=aaY5fVFMVf) 
 by Achref Doula, Tobias Güdelhöfer, Max Mühlhäuser, Alejandro Sanchez Guinea (Technische Universität Darmstadt, Germany, 2024)
 448. [Conformal prediction with local weights: randomization enables robust guarantees](https://arxiv.org/abs/2310.07850) by Rohan Hore, Rina Foygel Barber (University of Chicago, 2024) [code](https://github.com/rohanhore/RLCP) 🔥🔥🔥🔥🔥
-
+449. [Posterior Conformal Prediction](https://arxiv.org/abs/2409.19712) by https://arxiv.org/abs/2409.19712 (Standord, 2024) [code](https://github.com/yaozhang24/pcp) 🔥🔥🔥🔥🔥
 
 
      
