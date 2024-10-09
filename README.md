@@ -201,6 +201,7 @@ for probabilistic wind-speed forecasting](https://lup.lub.lu.se/luur/download?fu
 43. [A Diagnostic and Prescriptive Conformal Prediction Framework: Applied to Sleep Disorders](https://dspace.mit.edu/handle/1721.1/155919) MSc thesis by Faduma Khalif (MIT, 2024)
 44. [Reliable Time Series Forecasting Interval Forecasting for Time Series with Machine Learning Models and EnbPI](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1880090&dswid=9218), Independent thesis Advanced level, Wang, Xuanq (KTH,2024)
 45. [Conformal Prediction in Limit Order Books: Calibration and Uncertainty Quantification of DeepLOB](https://github.com/Fabio-Rossi-Hub/Conformal-HFT/blob/main/Thesis_DRAFT.pdf) by Fabio Rossi, Imperial College (2024)
+46. [On uncertainty in natural language processing](https://arxiv.org/abs/2410.03446) by Dennis Ulmer, Uiversity of Copenhagen (2024)
 
 ## Tutorials
 
