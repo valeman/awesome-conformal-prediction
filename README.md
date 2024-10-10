@@ -202,6 +202,7 @@ for probabilistic wind-speed forecasting](https://lup.lub.lu.se/luur/download?fu
 44. [Reliable Time Series Forecasting Interval Forecasting for Time Series with Machine Learning Models and EnbPI](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1880090&dswid=9218), Independent thesis Advanced level, Wang, Xuanq (KTH,2024)
 45. [Conformal Prediction in Limit Order Books: Calibration and Uncertainty Quantification of DeepLOB](https://github.com/Fabio-Rossi-Hub/Conformal-HFT/blob/main/Thesis_DRAFT.pdf) by Fabio Rossi, Imperial College (2024)
 46. [On uncertainty in natural language processing](https://arxiv.org/abs/2410.03446) by Dennis Ulmer, Uiversity of Copenhagen (2024)
+47. [Improving Uncertainty Quantification in Regression Problems through Conformal Training](https://www.mlmi.eng.cam.ac.uk/files/2022_-_2023_dissertations/improving_uncertainty_quantification_in_regression_problems.pdf) by Johannes Vallikivi, Cambridge (2023) 
 
 ## Tutorials
 
