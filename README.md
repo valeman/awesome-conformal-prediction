@@ -855,6 +855,7 @@ by Achref Doula, Tobias Güdelhöfer, Max Mühlhäuser, Alejandro Sanchez Guinea
 448. [Conformal prediction with local weights: randomization enables robust guarantees](https://arxiv.org/abs/2310.07850) by Rohan Hore, Rina Foygel Barber (University of Chicago, 2024) [code](https://github.com/rohanhore/RLCP) 🔥🔥🔥🔥🔥
 449. [Posterior Conformal Prediction](https://arxiv.org/abs/2409.19712) by https://arxiv.org/abs/2409.19712 (Standord, 2024) [code](https://github.com/yaozhang24/pcp) 🔥🔥🔥🔥🔥
 450. [Conformal Semantic Image Segmentation: Post-hoc Quantification of Predictive Uncertainty](https://openaccess.thecvf.com/content/CVPR2024W/SAIAD/html/Mossina_Conformal_Semantic_Image_Segmentation_Post-hoc_Quantification_of_Predictive_Uncertainty_CVPRW_2024_paper.html) by Luca Mossina, Joseba Dalmau, Léo Andéol (IRT Saint Exupery, Toulouse; Institut de Mathe ́matiques de Toulouse; Toulouse, SNCF,France) [code](https://github.com/deel-ai-papers/conformal-segmentation)
+451. [Conformal Prediction: A Data Perspective](https://arxiv.org/abs/2410.06494) by Xiaofan Zhou, Baiting Chen, Yu Gui, Lu Cheng (University of illinois, UCLA, University of Chicago, 2024)
 
 
      
