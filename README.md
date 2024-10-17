@@ -61,8 +61,6 @@ Bibtex entry export https://zenodo.org/record/6467205/export/hx
 
 <a href="https://www.buymeacoffee.com/valeman" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
-<iframe src="https://github.com/sponsors/valeman/button" title="Sponsor valeman" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 Why Conformal Prediction?
 
