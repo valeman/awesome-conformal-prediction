@@ -857,7 +857,7 @@ by Achref Doula, Tobias Güdelhöfer, Max Mühlhäuser, Alejandro Sanchez Guinea
 450. [Conformal Semantic Image Segmentation: Post-hoc Quantification of Predictive Uncertainty](https://openaccess.thecvf.com/content/CVPR2024W/SAIAD/html/Mossina_Conformal_Semantic_Image_Segmentation_Post-hoc_Quantification_of_Predictive_Uncertainty_CVPRW_2024_paper.html) by Luca Mossina, Joseba Dalmau, Léo Andéol (IRT Saint Exupery, Toulouse; Institut de Mathe ́matiques de Toulouse; Toulouse, SNCF,France) [code](https://github.com/deel-ai-papers/conformal-segmentation)
 451. [Conformal Prediction: A Data Perspective](https://arxiv.org/abs/2410.06494) by Xiaofan Zhou, Baiting Chen, Yu Gui, Lu Cheng (University of illinois, UCLA, University of Chicago, 2024)
 452. [Conformal Structured Prediction](https://arxiv.org/abs/2410.06296) by Botong Zhang, Shuo Li, Osbert Bastani (University of Pennsylvania, 2024)
-453. 
+453.  [Online conformal inference for multi-step time series forecasting](Online conformal inference for multi-step time series forecasting) by  Xiaoqian Wang, Rob J Hyndman) (Monash Universify, 2024) [code](https://github.com/xqnwang/cpts) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 
      
 ## Papers Time Series
@@ -898,6 +898,7 @@ Niccolo` Ajroldia, Jacopo Diquigiovannib, Matteo Fontanac, Simone Vantinia (2022
 35. [JANET: Joint Adaptive predictioN-region Estimation for Time-series](https://arxiv.org/abs/2407.06390) by Eshant English, Eliot Wong-Toi, Matteo Fontana, Stephan Mandt, Padhraic Smyth, Christoph Lippert (2024) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 36. [Split Conformal Prediction and Non-Exchangeable Data](https://www.jmlr.org/papers/v25/23-1553.html) by Roberto I. Oliveira, Paulo Orenstein, Thiago Ramos, João Vitor Romano (IMPA, Brazil, 2024) [code](https://github.com/jv-rv/split-conformal-nonexchangeable)
 37. [ConForME: Multi-horizon conformal time series forecasting](https://raw.githubusercontent.com/mlresearch/v230/main/assets/galvao-lopes24a/galvao-lopes24a.pdf) by Aloysio Galvao Lopes, Eric Goubault, Sylvie Putot, Laurent Pautet (Institut Polytechnique de Paris, LTCI, Telecom Paris, 2024) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+38. [Online conformal inference for multi-step time series forecasting](Online conformal inference for multi-step time series forecasting) by  Xiaoqian Wang, Rob J Hyndman) (Monash Universify, 2024) [code](https://github.com/xqnwang/cpts) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
     
 
 ## Presentation Slides
