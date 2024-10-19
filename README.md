@@ -858,6 +858,9 @@ by Achref Doula, Tobias Güdelhöfer, Max Mühlhäuser, Alejandro Sanchez Guinea
 451. [Conformal Prediction: A Data Perspective](https://arxiv.org/abs/2410.06494) by Xiaofan Zhou, Baiting Chen, Yu Gui, Lu Cheng (University of illinois, UCLA, University of Chicago, 2024)
 452. [Conformal Structured Prediction](https://arxiv.org/abs/2410.06296) by Botong Zhang, Shuo Li, Osbert Bastani (University of Pennsylvania, 2024)
 453.  [Online conformal inference for multi-step time series forecasting](Online conformal inference for multi-step time series forecasting) by  Xiaoqian Wang, Rob J Hyndman) (Monash Universify, 2024) [code](https://github.com/xqnwang/cpts) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+454.  [Optimizing Probabilistic Conformal Prediction with Vectorized Non-Conformity Scores](https://arxiv.org/abs/2410.13735) by 
+Minxing Zheng, Shixiang Zhu (University of Southern California, Carnegie Mellon University, 2024) 🔥🔥🔥🔥🔥
+
 
      
 ## Papers Time Series
