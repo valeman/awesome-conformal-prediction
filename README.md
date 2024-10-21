@@ -860,7 +860,8 @@ by Achref Doula, Tobias Güdelhöfer, Max Mühlhäuser, Alejandro Sanchez Guinea
 453.  [Online conformal inference for multi-step time series forecasting](Online conformal inference for multi-step time series forecasting) by  Xiaoqian Wang, Rob J Hyndman (Monash Universify, 2024) [code](https://github.com/xqnwang/cpts) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥  [paper code](https://github.com/xqnwang/cpts) [conformalForecast R package](https://github.com/xqnwang/conformalForecast)
 454.  [Optimizing Probabilistic Conformal Prediction with Vectorized Non-Conformity Scores](https://arxiv.org/abs/2410.13735) by 
 Minxing Zheng, Shixiang Zhu (University of Southern California, Carnegie Mellon University, 2024) 🔥🔥🔥🔥🔥
-
+455. [C-Adapter: Adapting Deep Classifiers for Efficient Conformal Prediction Sets](https://arxiv.org/abs/2410.12297) by Kangdao Liu, Hao Zeng, Jianguo Huang, Huiping Zhuang, Chi-Man Vong, Hongxin Wei (Southern University of Science and Technology 2Department of Computer and Information Science, University of Macau, Nanyang Technological University, South China University of Technology, 2024)
+456. [Distribution-free uncertainty quantification for inverse problems: application to weak lensing mass mapping](https://arxiv.org/abs/2410.12297) by Leterme, Fadili and Starck (Université Caen Normandie, Université Paris-Saclay, Université Paris Cité, France; Institutes of Computer Science and Astrophysics, Greece, 2024)
 
      
 ## Papers Time Series
