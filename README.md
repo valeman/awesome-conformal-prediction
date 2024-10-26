@@ -862,6 +862,9 @@ by Achref Doula, Tobias Güdelhöfer, Max Mühlhäuser, Alejandro Sanchez Guinea
 Minxing Zheng, Shixiang Zhu (University of Southern California, Carnegie Mellon University, 2024) 🔥🔥🔥🔥🔥
 455. [C-Adapter: Adapting Deep Classifiers for Efficient Conformal Prediction Sets](https://arxiv.org/abs/2410.12297) by Kangdao Liu, Hao Zeng, Jianguo Huang, Huiping Zhuang, Chi-Man Vong, Hongxin Wei (Southern University of Science and Technology 2Department of Computer and Information Science, University of Macau, Nanyang Technological University, South China University of Technology, 2024)
 456. [Distribution-free uncertainty quantification for inverse problems: application to weak lensing mass mapping](https://arxiv.org/abs/2410.12297) by Leterme, Fadili and Starck (Université Caen Normandie, Université Paris-Saclay, Université Paris Cité, France; Institutes of Computer Science and Astrophysics, Greece, 2024)
+457. [Conformal Predictive Portfolio Selection](https://arxiv.org/abs/2410.16333) by Masahiro Kato (Mizuho-DL Financial Technology, 2024) 🔥🔥🔥🔥
+458. [Conformal Prediction in Finance](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4939336) by Miquel Noguer i Alonso
+Artificial Intelligence in Finance Institute (2024)
 
      
 ## Papers Time Series
