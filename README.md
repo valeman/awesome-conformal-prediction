@@ -356,6 +356,8 @@ for probabilistic wind-speed forecasting](https://lup.lub.lu.se/luur/download?fu
 104. [Conformalized Interval Arithmetic with Symmetric Calibration](https://arxiv.org/abs/2408.10939) by Rui Luo, Zhixin Zhou (City University of Hong Kong, 2024)
 105. [Robust Yet Efficient Conformal Prediction Sets](https://www.youtube.com/watch?v=b5I_R3S2SdI) by  Soroush H. Zargarbash (2024)
 106. [Applications of Conformal Prediction in Medicine | CGSI 2024](https://www.youtube.com/watch?v=xq3utQ12pzM) by Ahmed Alaa (2024)
+107. [Mojtaba Farmanbar - Uncertainty quantification: How much can you trust your machine learning model?](https://www.youtube.com/watch?v=sKGtZyVyMM0) by Mojtaba Farmanbar (2024)
+108. [Cordier & Lacombe - Boosting AI Reliability: Uncertainty Quantification with MAPIE](https://www.youtube.com/watch?v=h47wmdIZbH4&pp=ygUUY29uZm9ybWFsIHByZWRpY3Rpb24%3D) by Thibault Cordier and Louis Lacombe (2024) 
      
 ## Papers
 
