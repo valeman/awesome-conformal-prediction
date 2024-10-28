@@ -869,7 +869,7 @@ Minxing Zheng, Shixiang Zhu (University of Southern California, Carnegie Mellon 
 Artificial Intelligence in Finance Institute (2024)
 459. [Reliable Multi-View Learning with Conformal Prediction for Aortic Stenosis Classification in Echocardiography](https://arxiv.org/abs/2409.09680) by Ang Nan Gu, Michael Tsang, Hooman Vaseli, Teresa Tsang, Purang Abolmaesumi (University of British Columbia, Vancouver; Division of Cardiology, Vancouver General Hospital,2024) [code](https://github.com/an-michaelg/RT4U)
 460. [Target Strangeness: A Novel Conformal Prediction Difficulty Estimator](https://arxiv.org/abs/2410.19077) by Alexis Bose, Jonathan Ethier, Paul Guinand (Alexis Bose, Jonathan Ethier, Paul Guinand, 2024) [code](https://arxiv.org/src/2410.19077v1/anc/cp_mm_targ_strg.tar.xz see arXiv for more details)
-461. 
+461. [Neural networks pipeline for quality management in IVF laboratory](http://jivfww.scholasticahq.com/article/124947) by Sergei Sergeev, Iuliia Diakova, Lasha Nadirashvili (Georgian-German Reproductive Center, Tbilisi, Georgia; IVF, IVF and Genetic Center, Moscow, Russian Federation, IVF, ART-IVF Clinic, Moscow, Russian Federation)
 
 
      
