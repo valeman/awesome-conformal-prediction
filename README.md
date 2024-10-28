@@ -802,7 +802,7 @@ Cooper Gamble, Moein Shariatnia, Bradley J. Erickson (Mayo Clinic Artificial Int
 423. [Entropy Reweighted Conformal Classification](https://arxiv.org/abs/2407.17377) by Rui Luo, Nicolo Colombo (City University of Hong Kong, Hong Kong, Royal Holloway, University of London). 🔥🔥🔥🔥🔥
 424. [SoNIC: Safe Social Navigation with Adaptive Conformal Inference and Constrained Reinforcement Learning](https://arxiv.org/abs/2407.17460) by Jianpeng Yao, Xiaopan Zhang, Yu Xia, Zejin Wang, Amit K. Roy-Chowdhury, Jiachen Li (University of California, Riverside) [project](https://sonic-social-nav.github.io)
 425. [Conformal Validity Guarantees Exist for Any Data Distribution (and How to Find Them)](https://arxiv.org/abs/2405.06627) by Drew Prinster, Samuel Stanton, Anqi Liu, Suchi Saria (John Hopkins University, Genentech, 2024) [video](https://www.youtube.com/watch?v=HMXZnPmgbxY)
-426. [Robust Conformal Volume Estimation in 3D Medical Images](https://arxiv.org/abs/2407.19938) by Benjamin Lambert, Florence Forbes, Senan Doyle, Michel Dojat (University Grenoble Alps, 2024)
+426. [Robust Conformal Volume Estimation in 3D Medical Images](https://arxiv.org/abs/2407.19938) by Benjamin Lambert, Florence Forbes, Senan Doyle, Michel Dojat (University Grenoble Alps, 2024) [code](https://github.com/benolmbrt/wcp_miccai)
 427. [A CONFORMALIZED LEARNING OF A PREDICTION SET WITH APPLICATIONS TO MEDICAL IMAGING CLASSIFICATION](https://arxiv.org/abs/2408.05037) by Roy Hirsch, Jacob Goldberger (Bar-Ilan University, Ramat-Gan, Israel, 2024)
 428. [Quantifying uncertainty in climate projections with conformal ensembles](https://arxiv.org/pdf/2408.06642) by Trevor Harris, Ryan Sriver (Texas A&M University, University of Illinois at Urbana Champaign, 2024) 🔥🔥🔥🔥🔥
 429. [CONFORMALIZED INTERVAL ARITHMETIC WITH SYMMETRIC CALIBRATION](https://arxiv.org/abs/2408.10939) by Rui Luo and Zhixin Zhoi (City University of Hong Kong, 2024) [code](https://github.com/luo-lorry/CIA) 🔥🔥🔥🔥🔥
@@ -867,6 +867,8 @@ Minxing Zheng, Shixiang Zhu (University of Southern California, Carnegie Mellon 
 457. [Conformal Predictive Portfolio Selection](https://arxiv.org/abs/2410.16333) by Masahiro Kato (Mizuho-DL Financial Technology, 2024) 🔥🔥🔥🔥
 458. [Conformal Prediction in Finance](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4939336) by Miquel Noguer i Alonso
 Artificial Intelligence in Finance Institute (2024)
+459. [Reliable Multi-View Learning with Conformal Prediction for Aortic Stenosis Classification in Echocardiography](https://arxiv.org/abs/2409.09680) by Ang Nan Gu, Michael Tsang, Hooman Vaseli, Teresa Tsang, Purang Abolmaesumi (University of British Columbia, Vancouver; Division of Cardiology, Vancouver General Hospital,2024) [code](https://github.com/an-michaelg/RT4U)
+
 
      
 ## Papers Time Series
