@@ -873,7 +873,7 @@ Artificial Intelligence in Finance Institute (2024)
 461. [Neural networks pipeline for quality management in IVF laboratory](http://jivfww.scholasticahq.com/article/124947) by Sergei Sergeev, Iuliia Diakova, Lasha Nadirashvili (Georgian-German Reproductive Center, Tbilisi, Georgia; IVF, IVF and Genetic Center, Moscow, Russian Federation, IVF, ART-IVF Clinic, Moscow, Russian Federation)
 462. [Self-Consistent Conformal Prediction](https://arxiv.org/abs/2402.07307) by Lars van der Laan, Ahmed M. Alaa (University of Washington, UC Berkeley and UCSF, 2024) [code](https://github.com/Larsvanderlaan/SelfCalibratingConformal) 🔥🔥🔥🔥🔥
 463. [Semiparametric conformal prediction](https://arxiv.org/abs/2411.02114) by Ji Won Park, Robert Tibshirani, Kyunghyun Cho (Genentech, Stanford, 2024)
-
+464. [Strategic Conformal Prediction](https://arxiv.org/abs/2411.01596) by Daniel Csillag, Claudio José Struchiner, Guilherme (School of Applied Mathematics Fundacao Getulio Vargas, Brazil, 2024)
 
      
 ## Papers Time Series
