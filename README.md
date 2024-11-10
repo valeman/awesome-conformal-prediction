@@ -874,6 +874,7 @@ Artificial Intelligence in Finance Institute (2024)
 462. [Self-Consistent Conformal Prediction](https://arxiv.org/abs/2402.07307) by Lars van der Laan, Ahmed M. Alaa (University of Washington, UC Berkeley and UCSF, 2024) [code](https://github.com/Larsvanderlaan/SelfCalibratingConformal) 🔥🔥🔥🔥🔥
 463. [Semiparametric conformal prediction](https://arxiv.org/abs/2411.02114) by Ji Won Park, Robert Tibshirani, Kyunghyun Cho (Genentech, Stanford, 2024)
 464. [Strategic Conformal Prediction](https://arxiv.org/abs/2411.01596) by Daniel Csillag, Claudio José Struchiner, Guilherme (School of Applied Mathematics Fundacao Getulio Vargas, Brazil, 2024)
+465. [Uncertainty measurement for complex event prediction in safety-critical systems](https://arxiv.org/abs/2411.01289) by Maria J. P. Peixoto, Akramul Azim (Ontario Tech University)
 
      
 ## Papers Time Series
