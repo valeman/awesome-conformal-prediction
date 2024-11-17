@@ -876,6 +876,7 @@ Artificial Intelligence in Finance Institute (2024)
 464. [Strategic Conformal Prediction](https://arxiv.org/abs/2411.01596) by Daniel Csillag, Claudio José Struchiner, Guilherme (School of Applied Mathematics Fundacao Getulio Vargas, Brazil, 2024)
 465. [Uncertainty measurement for complex event prediction in safety-critical systems](https://arxiv.org/abs/2411.01289) by Maria J. P. Peixoto, Akramul Azim (Ontario Tech University)
 466. [Conformal-in-the-Loop for Learning with Imbalanced Noisy Data](https://arxiv.org/abs/2411.02281) by John Brandon Graham-Knight, Jamil Fayyad, Nourhan Bayasi, Patricia Lasserre, Homayoun Najjaran (University of British Columbia, University of Victoria, University of British Columbia, Canada) [code](https://github.com/brandongk-ubco/conformal-in-the-loop)
+467. [Reliable Central Nervous System Tumor Differentiation on MRI Images with Deep Neural Networks and Conformal Prediction](https://ceur-ws.org/Vol-3831/paper17.pdf) bu Luis Balderas, María Moreno de Castro, Miguel Lastra,  Jose P. Martínez, Francisco J. Pérez, Antonio Laínez, Antonio Arauzo-Azofra5 and José M. Benítez (University of Granada, Hospital Universitario “Virgen de las Nieves”, Granada; Instituto Biosanitario de Granada, University of Córdoba, Spain)
 
      
 ## Papers Time Series
