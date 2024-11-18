@@ -1,6 +1,6 @@
 # Awesome Conformal Prediction [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![DOI](https://zenodo.org/badge/436989758.svg)](https://zenodo.org/badge/latestdoi/436989758)
 
-![Time Limited Promotion on Applied Conformal Prediction course](IMG_5730.jpeg) 
+LIMITED FASTTRACK PROMOTION ON MAVEN - Save 25% through Sunday 24 November 2024 🔥🔥🔥🔥🔥
 
 ![Applied Conformal Prediction course](Applied_Conformal_Prediction_course.png)
 
