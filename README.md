@@ -951,6 +951,7 @@ Niccolo` Ajroldia, Jacopo Diquigiovannib, Matteo Fontanac, Simone Vantinia (2022
 24. [Graceful handling of large imbalanced datasets using Conformal Prediction](https://bigchem.eu/sites/default/files/AZ_school_Norinder_public.pdf) by Ulf Norinder and Fredrik Svensson 🔥🔥🔥🔥🔥
 25. [Conformalized Quantile Regression](https://arxiv.org/abs/1905.03222) by Yaniv Romano, Evan Patterson, Emmanuel J. Candès (Stanford, 2019)
 26. [Leveraging Conformal Prediction for Calibrated Probabilistic Time Series Forecasts to Accelerate the Renewable Energy Transition](https://speakerdeck.com/ingevandenende/leveraging-conformal-prediction-for-calibrated-probabilistic-time-series-forecasts-to-accelerate-the-renewable-energy-transition) by Inge van den Ende (Dexter Energy, 2023).  TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+27. [Application of Conformal Inference in High Energy Physics](https://indico.phys.ethz.ch/event/113/contributions/863/attachments/528/1129/NPML2024_JF_final2.pdf) by Jiri Franc (CTU Prague,Czech Republic)
 
 
 ## Researchers
