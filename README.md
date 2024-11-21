@@ -922,6 +922,7 @@ Niccolo` Ajroldia, Jacopo Diquigiovannib, Matteo Fontanac, Simone Vantinia (2022
 36. [Split Conformal Prediction and Non-Exchangeable Data](https://www.jmlr.org/papers/v25/23-1553.html) by Roberto I. Oliveira, Paulo Orenstein, Thiago Ramos, João Vitor Romano (IMPA, Brazil, 2024) [code](https://github.com/jv-rv/split-conformal-nonexchangeable)
 37. [ConForME: Multi-horizon conformal time series forecasting](https://raw.githubusercontent.com/mlresearch/v230/main/assets/galvao-lopes24a/galvao-lopes24a.pdf) by Aloysio Galvao Lopes, Eric Goubault, Sylvie Putot, Laurent Pautet (Institut Polytechnique de Paris, LTCI, Telecom Paris, 2024) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 38. [Online conformal inference for multi-step time series forecasting](Online conformal inference for multi-step time series forecasting) by  Xiaoqian Wang, Rob J Hyndman (Monash Universify, 2024) [code](https://github.com/xqnwang/cpts) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥 [paper code](https://github.com/xqnwang/cpts) [conformalForecast R package](https://github.com/xqnwang/conformalForecast)
+39. [Conformal Prediction for Hierarchical Data](https://arxiv.org/abs/2411.13479) by Guillaume Principato, Yvenn Amara-Ouali, Yannig Goudee, Bachir Hamrouche, Jean-Michel Poggi, Gilles Stolz (EDF R&D, Laboratoire de mathe ́matiques d’Orsay, INRIA, France) 
     
 
 ## Presentation Slides
