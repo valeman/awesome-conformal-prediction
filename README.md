@@ -1,6 +1,5 @@
 # Awesome Conformal Prediction [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![DOI](https://zenodo.org/badge/436989758.svg)](https://zenodo.org/badge/latestdoi/436989758)
 
-LIMITED FASTTRACK PROMOTION ON MAVEN - Save 25% through Sunday 24 November 2024 🔥🔥🔥🔥🔥
 
 ![Applied Conformal Prediction course](Applied_Conformal_Prediction_course.png)
 
@@ -882,7 +881,9 @@ Artificial Intelligence in Finance Institute (2024)
 466. [Conformal-in-the-Loop for Learning with Imbalanced Noisy Data](https://arxiv.org/abs/2411.02281) by John Brandon Graham-Knight, Jamil Fayyad, Nourhan Bayasi, Patricia Lasserre, Homayoun Najjaran (University of British Columbia, University of Victoria, University of British Columbia, Canada) [code](https://github.com/brandongk-ubco/conformal-in-the-loop)
 467. [Reliable Central Nervous System Tumor Differentiation on MRI Images with Deep Neural Networks and Conformal Prediction](https://ceur-ws.org/Vol-3831/paper17.pdf) bu Luis Balderas, María Moreno de Castro, Miguel Lastra,  Jose P. Martínez, Francisco J. Pérez, Antonio Laínez, Antonio Arauzo-Azofra5 and José M. Benítez (University of Granada, Hospital Universitario “Virgen de las Nieves”, Granada; Instituto Biosanitario de Granada, University of Córdoba, Spain)
 468. [Multi-model Ensemble Conformal Prediction in Dynamic Environments](https://arxiv.org/abs/2411.03678) by Erfan Hajihashemi, Yanning Shen(University of California, Irvine)
-469. 
+469. [Confidence-Aware Deep Learning for Load Plan Adjustments in the Parcel Service Industry](https://arxiv.org/abs/2411.17502) by
+Thomas Bruys, Reza Zandehshahvar, Amira Hijazi, Pascal Van Hentenryck (Georgia Institute of Technology, Atlanta, USA, 2024)
+
 
      
 ## Papers Time Series
