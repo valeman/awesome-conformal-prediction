@@ -883,7 +883,8 @@ Artificial Intelligence in Finance Institute (2024)
 468. [Multi-model Ensemble Conformal Prediction in Dynamic Environments](https://arxiv.org/abs/2411.03678) by Erfan Hajihashemi, Yanning Shen(University of California, Irvine)
 469. [Confidence-Aware Deep Learning for Load Plan Adjustments in the Parcel Service Industry](https://arxiv.org/abs/2411.17502) by
 Thomas Bruys, Reza Zandehshahvar, Amira Hijazi, Pascal Van Hentenryck (Georgia Institute of Technology, Atlanta, USA, 2024)
-470. [Predictive Inference With Fast Feature Conformal Prediction](https://arxiv.org/abs/2412.00653) by Zihao Tang, Boyuan Wang, Chuan Wen, Jiaye Teng (Shanghai University of Finance and Economics, Tiangong University, 2024)
+470. [Predictive Inference With Fast Feature Conformal Prediction](https://arxiv.org/abs/2412.00653) by Zihao Tang, Boyuan Wang, Chuan Wen, Jiaye Teng (Shanghai University of Finance and Economics, Tiangong University, 2024) [code](https://github.com/ElvisWang1111/FastFeatureCP)
+471. [Spatial Conformal Inference through Localized Quantile Regression](https://arxiv.org/abs/2412.01098) by Hanyang Jiang, Yao Xie (2024)
 
 
      
