@@ -865,7 +865,7 @@ by Achref Doula, Tobias Güdelhöfer, Max Mühlhäuser, Alejandro Sanchez Guinea
 452. [Conformal Structured Prediction](https://arxiv.org/abs/2410.06296) by Botong Zhang, Shuo Li, Osbert Bastani (University of Pennsylvania, 2024)
 453.  [Online conformal inference for multi-step time series forecasting](Online conformal inference for multi-step time series forecasting) by  Xiaoqian Wang, Rob J Hyndman (Monash Universify, 2024) [code](https://github.com/xqnwang/cpts) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥  [paper code](https://github.com/xqnwang/cpts) [conformalForecast R package](https://github.com/xqnwang/conformalForecast)
 454.  [Optimizing Probabilistic Conformal Prediction with Vectorized Non-Conformity Scores](https://arxiv.org/abs/2410.13735) by 
-Minxing Zheng, Shixiang Zhu (University of Southern California, Carnegie Mellon University, 2024) 🔥🔥🔥🔥🔥
+Minxing Zheng, Shixiang Zhu (University of Southern California, Carnegie Mellon University, 2024) 🔥🔥🔥🔥🔥 [code](https://github.com/Minxing-Zheng/PCP-VCR)
 455. [C-Adapter: Adapting Deep Classifiers for Efficient Conformal Prediction Sets](https://arxiv.org/abs/2410.12297) by Kangdao Liu, Hao Zeng, Jianguo Huang, Huiping Zhuang, Chi-Man Vong, Hongxin Wei (Southern University of Science and Technology 2Department of Computer and Information Science, University of Macau, Nanyang Technological University, South China University of Technology, 2024)
 456. [Distribution-free uncertainty quantification for inverse problems: application to weak lensing mass mapping](https://arxiv.org/abs/2410.12297) by Leterme, Fadili and Starck (Université Caen Normandie, Université Paris-Saclay, Université Paris Cité, France; Institutes of Computer Science and Astrophysics, Greece, 2024)
 457. [Conformal Predictive Portfolio Selection](https://arxiv.org/abs/2410.16333) by Masahiro Kato (Mizuho-DL Financial Technology, 2024) 🔥🔥🔥🔥
@@ -885,6 +885,7 @@ Artificial Intelligence in Finance Institute (2024)
 Thomas Bruys, Reza Zandehshahvar, Amira Hijazi, Pascal Van Hentenryck (Georgia Institute of Technology, Atlanta, USA, 2024)
 470. [Predictive Inference With Fast Feature Conformal Prediction](https://arxiv.org/abs/2412.00653) by Zihao Tang, Boyuan Wang, Chuan Wen, Jiaye Teng (Shanghai University of Finance and Economics, Tiangong University, 2024) [code](https://github.com/ElvisWang1111/FastFeatureCP)
 471. [Spatial Conformal Inference through Localized Quantile Regression](https://arxiv.org/abs/2412.01098) by Hanyang Jiang, Yao Xie (2024)
+472. [
 
 
      
