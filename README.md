@@ -885,7 +885,7 @@ Artificial Intelligence in Finance Institute (2024)
 Thomas Bruys, Reza Zandehshahvar, Amira Hijazi, Pascal Van Hentenryck (Georgia Institute of Technology, Atlanta, USA, 2024)
 470. [Predictive Inference With Fast Feature Conformal Prediction](https://arxiv.org/abs/2412.00653) by Zihao Tang, Boyuan Wang, Chuan Wen, Jiaye Teng (Shanghai University of Finance and Economics, Tiangong University, 2024) [code](https://github.com/ElvisWang1111/FastFeatureCP)
 471. [Spatial Conformal Inference through Localized Quantile Regression](https://arxiv.org/abs/2412.01098) by Hanyang Jiang, Yao Xie (2024)
-472. [
+472. [GeoConformal prediction: a model-agnostic framework of measuring the uncertainty of spatial prediction](https://arxiv.org/abs/2412.08661) by Xiayin Loua, Peng Luob, Liqiu Menga (Technical University of Munich, Massachusetts Institute of Technology)
 
 
      
