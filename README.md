@@ -1101,10 +1101,11 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 2. ['Crêpes' - Conformal regressors and predictive systems](https://github.com/henrikbostrom/crepes) by Henrik Boström (2021) [Paper](https://copa-conference.com/papers/COPA2022_paper_11.pdf) 🔥🔥🔥🔥🔥 [Presentation](https://copa-conference.com/presentations/COPA_2022_Presentation__crepes.pdf) by Henrik Bostroem (KTH, Sweden, 2022) [paper](https://raw.githubusercontent.com/mlresearch/v230/main/assets/bostrom24a/bostrom24a.pdf)
 3. [Python implementation of binary and multi-class Venn-ABERS calibration](https://github.com/ip200/venn-abers) by Ivan Petej (2023) [Paper] 🔥🔥🔥🔥
 4. [TorchCP - A library for conformal prediction](https://github.com/ml-stat-Sustech/TorchCP) 🔥🔥🔥🔥🔥
-5. [Puncc (Predictive uncertainty calibration and conformalization)](https://github.com/deel-ai/puncc) [paper](https://proceedings.mlr.press/v204/mendil23a/mendil23a.pdf) [slides](https://copa-conference.com/presentations/COPA_2023_mouhcine_mendil_puncc.pdf) 🔥🔥🔥🔥🔥
-6.  [Nixtla mlforecast](https://nixtla.github.io/mlforecast/docs/prediction_intervals.html#references) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
-7.   [Nixtla statsforecast](https://nixtla.github.io/statsforecast/docs/tutorials/conformalprediction.html#introduction) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
-8.    [Conformal Impact](https://github.com/tblume1992/ConformalImpact) by Tyler Blume (2024) 🔥🔥🔥🔥🔥
+5. [unquad - Conformal Anomaly Detection](https://github.com/OliverHennhoefer/unquad) 🔥🔥🔥🔥🔥
+6. [Puncc (Predictive uncertainty calibration and conformalization)](https://github.com/deel-ai/puncc) [paper](https://proceedings.mlr.press/v204/mendil23a/mendil23a.pdf) [slides](https://copa-conference.com/presentations/COPA_2023_mouhcine_mendil_puncc.pdf) 🔥🔥🔥🔥🔥
+7.  [Nixtla mlforecast](https://nixtla.github.io/mlforecast/docs/prediction_intervals.html#references) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+8.   [Nixtla statsforecast](https://nixtla.github.io/statsforecast/docs/tutorials/conformalprediction.html#introduction) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+9.    [Conformal Impact](https://github.com/tblume1992/ConformalImpact) by Tyler Blume (2024) 🔥🔥🔥🔥🔥
 10.[Nonconformist](https://github.com/donlnz/nonconformist) by Henrik Linusson (2015) 🚨 The library does not seem to be actively maintained 
 11.  [Venn-ABERS Predictor](https://github.com/ptocca/VennABERS) by Paolo Toccaceli (2019) [Paper](https://proceedings.neurips.cc/paper/2015/hash/a9a1d5317a33ae8cef33961c34144f84-Abstract.html) 🔥🔥🔥🔥🔥
 12. [Conformalized Quantile Regression](https://github.com/yromano/cqr) by Yaniv Romano (2019) 🔥🔥🔥🔥🔥
