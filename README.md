@@ -886,6 +886,9 @@ Thomas Bruys, Reza Zandehshahvar, Amira Hijazi, Pascal Van Hentenryck (Georgia I
 470. [Predictive Inference With Fast Feature Conformal Prediction](https://arxiv.org/abs/2412.00653) by Zihao Tang, Boyuan Wang, Chuan Wen, Jiaye Teng (Shanghai University of Finance and Economics, Tiangong University, 2024) [code](https://github.com/ElvisWang1111/FastFeatureCP)
 471. [Spatial Conformal Inference through Localized Quantile Regression](https://arxiv.org/abs/2412.01098) by Hanyang Jiang, Yao Xie (2024)
 472. [GeoConformal prediction: a model-agnostic framework of measuring the uncertainty of spatial prediction](https://arxiv.org/abs/2412.08661) by Xiayin Loua, Peng Luob, Liqiu Menga (Technical University of Munich, Massachusetts Institute of Technology)
+473. [Uncertainty quantification for improving radiomic-based models in radiation pneumonitis prediction](https://arxiv.org/abs/2412.19511) by Chanon Puttanawarut, Romen Samuel Wabina, Nat Sirirutbunkajorn (Ramathibodi Hospital, Mahidol University, Bangkok, Thailand, 2024)
+474. [Uncertainty quantification for improving radiomic-based models in radiation pneumonitis prediction](https://arxiv.org/abs/2412.19511)
+475. [Adaptive Conformal Inference by Betting](https://arxiv.org/abs/2412.19318) by Aleksandr Podkopaev, Darren Xu, Kuang-chih Lee (Wallmart Global Tech, 2024)
 
 
      
