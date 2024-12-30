@@ -888,7 +888,7 @@ Thomas Bruys, Reza Zandehshahvar, Amira Hijazi, Pascal Van Hentenryck (Georgia I
 472. [GeoConformal prediction: a model-agnostic framework of measuring the uncertainty of spatial prediction](https://arxiv.org/abs/2412.08661) by Xiayin Loua, Peng Luob, Liqiu Menga (Technical University of Munich, Massachusetts Institute of Technology)
 473. [Uncertainty quantification for improving radiomic-based models in radiation pneumonitis prediction](https://arxiv.org/abs/2412.19511) by Chanon Puttanawarut, Romen Samuel Wabina, Nat Sirirutbunkajorn (Ramathibodi Hospital, Mahidol University, Bangkok, Thailand, 2024)
 474. [Uncertainty quantification for improving radiomic-based models in radiation pneumonitis prediction](https://arxiv.org/abs/2412.19511)
-475. [Adaptive Conformal Inference by Betting](https://arxiv.org/abs/2412.19318) by Aleksandr Podkopaev, Darren Xu, Kuang-chih Lee (Wallmart Global Tech, 2024)
+475. [Adaptive Conformal Inference by Betting](https://arxiv.org/abs/2412.19318) by Aleksandr Podkopaev, Darren Xu, Kuang-chih Lee (Wallmart Global Tech, 2024) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 
 
      
@@ -933,6 +933,7 @@ Niccolo` Ajroldia, Jacopo Diquigiovannib, Matteo Fontanac, Simone Vantinia (2022
 38. [Online conformal inference for multi-step time series forecasting](Online conformal inference for multi-step time series forecasting) by  Xiaoqian Wang, Rob J Hyndman (Monash Universify, 2024) [code](https://github.com/xqnwang/cpts) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥 [paper code](https://github.com/xqnwang/cpts) [conformalForecast R package](https://github.com/xqnwang/conformalForecast)
 39. [Conformal Prediction for Hierarchical Data](https://arxiv.org/abs/2411.13479) by Guillaume Principato, Yvenn Amara-Ouali, Yannig Goudee, Bachir Hamrouche, Jean-Michel Poggi, Gilles Stolz (EDF R&D, Laboratoire de mathe ́matiques d’Orsay, INRIA, France)
 40. [Neural Conformal Control for Time Series Forecasting](https://arxiv.org/abs/2412.18144) by Ruipu Li, Alexander Rodrıguez (University of Michigan, 2024)
+41. [Adaptive Conformal Inference by Betting](https://arxiv.org/abs/2412.19318) by Aleksandr Podkopaev, Darren Xu, Kuang-chih Lee (Wallmart Global Tech, 2024) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 
 ## Presentation Slides
 1. [Machine Learning for Probabilistic Prediction, Seattle Artificial Intelligence Workshops Meetup](https://www.researchgate.net/publication/371566526_Machine_Learning_for_Probabilistic_Prediction) by Valery Manokhin, 2023 🔥🔥🔥🔥🔥
