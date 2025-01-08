@@ -893,6 +893,7 @@ Thomas Bruys, Reza Zandehshahvar, Amira Hijazi, Pascal Van Hentenryck (Georgia I
 476. [Enhancing Trustworthiness of Graph Neural Networks with Rank-Based Conformal Training](https://arxiv.org/abs/2501.02767) by Ting Wang, Zhixin Zhou,  Rui Luo (City University of Hong Kong, Alpha Benito Research, Los Angeles, USA, 2025)
 477. [Selection from Hierarchical Data with Conformal e-values](https://arxiv.org/abs/2501.02514) by Yonghoon Lee, Zhimei Ren (Wharton School,
 University of Pennsylvania, 2025)
+478. [Using Monte Carlo conformal prediction to evaluate the uncertainty of deep learning soil spectral models](https://egusphere.copernicus.org/preprints/2025/egusphere-2024-3703/) by Yin-Chung Huang, José Padarian, Budiman Minasny, and Alex B. McBratney (The University of Sydney,2025)
 
 
      
