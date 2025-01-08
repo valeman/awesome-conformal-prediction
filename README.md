@@ -890,6 +890,7 @@ Thomas Bruys, Reza Zandehshahvar, Amira Hijazi, Pascal Van Hentenryck (Georgia I
 473. [Uncertainty quantification for improving radiomic-based models in radiation pneumonitis prediction](https://arxiv.org/abs/2412.19511) by Chanon Puttanawarut, Romen Samuel Wabina, Nat Sirirutbunkajorn (Ramathibodi Hospital, Mahidol University, Bangkok, Thailand, 2024)
 474. [Uncertainty quantification for improving radiomic-based models in radiation pneumonitis prediction](https://arxiv.org/abs/2412.19511)
 475. [Adaptive Conformal Inference by Betting](https://arxiv.org/abs/2412.19318) by Aleksandr Podkopaev, Darren Xu, Kuang-chih Lee (Wallmart Global Tech, 2024) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+476. [Enhancing Trustworthiness of Graph Neural Networks with Rank-Based Conformal Training](https://arxiv.org/abs/2501.02767) by Ting Wang, Zhixin Zhou,  Rui Luo (City University of Hong Kong, Alpha Benito Research, Los Angeles, USA, 2025)
 
 
      
