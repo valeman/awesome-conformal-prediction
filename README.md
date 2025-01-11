@@ -890,11 +890,12 @@ Thomas Bruys, Reza Zandehshahvar, Amira Hijazi, Pascal Van Hentenryck (Georgia I
 473. [Uncertainty quantification for improving radiomic-based models in radiation pneumonitis prediction](https://arxiv.org/abs/2412.19511) by Chanon Puttanawarut, Romen Samuel Wabina, Nat Sirirutbunkajorn (Ramathibodi Hospital, Mahidol University, Bangkok, Thailand, 2024)
 474. [Uncertainty quantification for improving radiomic-based models in radiation pneumonitis prediction](https://arxiv.org/abs/2412.19511)
 475. [Adaptive Conformal Inference by Betting](https://arxiv.org/abs/2412.19318) by Aleksandr Podkopaev, Darren Xu, Kuang-chih Lee (Wallmart Global Tech, 2024) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
-476. [Enhancing Trustworthiness of Graph Neural Networks with Rank-Based Conformal Training](https://arxiv.org/abs/2501.02767) by Ting Wang, Zhixin Zhou,  Rui Luo (City University of Hong Kong, Alpha Benito Research, Los Angeles, USA, 2025)
+476. [Enhancing Trustworthiness of Graph Neural Networks with Rank-Based Conformal Training](https://arxiv.org/abs/2501.02767) by Ting Wang, Zhixin Zhou,  Rui Luo (City University of Hong Kong, Alpha Benito Research, Los Angeles, USA, 2025) [code](https://github.com/CityU-T/RCP-GNN)
 477. [Selection from Hierarchical Data with Conformal e-values](https://arxiv.org/abs/2501.02514) by Yonghoon Lee, Zhimei Ren (Wharton School,
 University of Pennsylvania, 2025)
 478. [Using Monte Carlo conformal prediction to evaluate the uncertainty of deep learning soil spectral models](https://egusphere.copernicus.org/preprints/2025/egusphere-2024-3703/) by Yin-Chung Huang, José Padarian, Budiman Minasny, and Alex B. McBratney (The University of Sydney,2025)
-
+479. [Conformal Thresholded Intervals for Efficient Regression](https://arxiv.org/abs/2407.14495) by Rui Luo and Zhixin Zhou (City University of Hong Kong; Alpha Benito Research, Los Angeles, USA) [code](https://github.com/luo-lorry/CTI) 
+480. [Conformalized Interval Arithmetic with Symmetric Calibration](https://arxiv.org/abs/2408.10939) by Rui Luo and Zhixin Zhou (City University of Hong Kong; Alpha Benito Research, Los Angeles, USA) [code](https://github.com/luo-lorry/CIA)
 
      
 ## Papers Time Series
