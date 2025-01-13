@@ -896,6 +896,8 @@ University of Pennsylvania, 2025)
 478. [Using Monte Carlo conformal prediction to evaluate the uncertainty of deep learning soil spectral models](https://egusphere.copernicus.org/preprints/2025/egusphere-2024-3703/) by Yin-Chung Huang, José Padarian, Budiman Minasny, and Alex B. McBratney (The University of Sydney,2025)
 479. [Conformal Thresholded Intervals for Efficient Regression](https://arxiv.org/abs/2407.14495) by Rui Luo and Zhixin Zhou (City University of Hong Kong; Alpha Benito Research, Los Angeles, USA) [code](https://github.com/luo-lorry/CTI) 
 480. [Conformalized Interval Arithmetic with Symmetric Calibration](https://arxiv.org/abs/2408.10939) by Rui Luo and Zhixin Zhou (City University of Hong Kong; Alpha Benito Research, Los Angeles, USA) [code](https://github.com/luo-lorry/CIA)
+481. [Learning Robot Safety from Sparse Human Feedback using Conformal Prediction](https://arxiv.org/abs/2501.04823) by 
+(Aaron O. Feldman, Joseph A. Vincent, Maximilian Adang, Jun En Low, and Mac Schwager, Stanford 2025) [project](https://stanfordmsl.github.io/conformal-safety-learning/) [code](https://github.com/StanfordMSL/conformal-safety-learning) 🔥🔥🔥🔥🔥
 
      
 ## Papers Time Series
