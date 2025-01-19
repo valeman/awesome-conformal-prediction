@@ -898,6 +898,8 @@ University of Pennsylvania, 2025)
 480. [Conformalized Interval Arithmetic with Symmetric Calibration](https://arxiv.org/abs/2408.10939) by Rui Luo and Zhixin Zhou (City University of Hong Kong; Alpha Benito Research, Los Angeles, USA) [code](https://github.com/luo-lorry/CIA)
 481. [Learning Robot Safety from Sparse Human Feedback using Conformal Prediction](https://arxiv.org/abs/2501.04823) by 
 (Aaron O. Feldman, Joseph A. Vincent, Maximilian Adang, Jun En Low, and Mac Schwager, Stanford 2025) [project](https://stanfordmsl.github.io/conformal-safety-learning/) [code](https://github.com/StanfordMSL/conformal-safety-learning) 🔥🔥🔥🔥🔥
+482. [Uncertainty Guarantees on Automated Precision Weeding using Conformal Prediction](https://arxiv.org/abs/2501.07185) by Paul Melki, Lionel Bombrun, Boubacar Diallo, Jérôme Dias, Jean-Pierre da Costa (Univ. Bordeaux, EXXACT Robotics, Bordeaux Sciences Agro,2025).
+
 
      
 ## Papers Time Series
