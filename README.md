@@ -900,6 +900,7 @@ University of Pennsylvania, 2025)
 (Aaron O. Feldman, Joseph A. Vincent, Maximilian Adang, Jun En Low, and Mac Schwager, Stanford 2025) [project](https://stanfordmsl.github.io/conformal-safety-learning/) [code](https://github.com/StanfordMSL/conformal-safety-learning) 🔥🔥🔥🔥🔥
 482. [Uncertainty Guarantees on Automated Precision Weeding using Conformal Prediction](https://arxiv.org/abs/2501.07185) by Paul Melki, Lionel Bombrun, Boubacar Diallo, Jérôme Dias, Jean-Pierre da Costa (Univ. Bordeaux, EXXACT Robotics, Bordeaux Sciences Agro,2025).
 483. [Conformal Prediction Sets with Improved Conditional Coverage using Trust Scores](https://arxiv.org/abs/2501.10139) by Jivat Neet Kaur,  Michael I. Jordan, Ahmed Alaa (University of California, Berkeley, Inria, Paris, 2025)
+484. [Uncertainty Estimation for Path Loss and Radio Metric Models](https://arxiv.org/abs/2501.06308) by Alexis Bose, Jonathan Ethier, Ryan G. Dempsey, Yifeng Qiu, (Communications Research Centre Canada (CRC), Ottawa, Ontario, Canada, 2025)
 
 
      
