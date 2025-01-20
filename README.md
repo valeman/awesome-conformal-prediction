@@ -899,6 +899,7 @@ University of Pennsylvania, 2025)
 481. [Learning Robot Safety from Sparse Human Feedback using Conformal Prediction](https://arxiv.org/abs/2501.04823) by 
 (Aaron O. Feldman, Joseph A. Vincent, Maximilian Adang, Jun En Low, and Mac Schwager, Stanford 2025) [project](https://stanfordmsl.github.io/conformal-safety-learning/) [code](https://github.com/StanfordMSL/conformal-safety-learning) 🔥🔥🔥🔥🔥
 482. [Uncertainty Guarantees on Automated Precision Weeding using Conformal Prediction](https://arxiv.org/abs/2501.07185) by Paul Melki, Lionel Bombrun, Boubacar Diallo, Jérôme Dias, Jean-Pierre da Costa (Univ. Bordeaux, EXXACT Robotics, Bordeaux Sciences Agro,2025).
+483. [Conformal Prediction Sets with Improved Conditional Coverage using Trust Scores](https://arxiv.org/abs/2501.10139) by Jivat Neet Kaur,  Michael I. Jordan, Ahmed Alaa (University of California, Berkeley, Inria, Paris, 2025)
 
 
      
