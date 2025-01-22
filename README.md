@@ -902,6 +902,8 @@ University of Pennsylvania, 2025)
 483. [Conformal Prediction Sets with Improved Conditional Coverage using Trust Scores](https://arxiv.org/abs/2501.10139) by Jivat Neet Kaur,  Michael I. Jordan, Ahmed Alaa (University of California, Berkeley, Inria, Paris, 2025)
 484. [Uncertainty Estimation for Path Loss and Radio Metric Models](https://arxiv.org/abs/2501.06308) by Alexis Bose, Jonathan Ethier, Ryan G. Dempsey, Yifeng Qiu, (Communications Research Centre Canada (CRC), Ottawa, Ontario, Canada, 2025)
 485. [Enhancing reliability in prediction intervals using point forecasters: Heteroscedastic Quantile Regression and Width-Adaptive Conformal Inference](https://arxiv.org/abs/2406.14904) by Carlos Sebastián, Carlos E. González-Guillén, Jesús Juan (Fortia Energía, Universidad Politécnica de Madrid, Departamento de Matemática Aplicada a la Ingeniería Industrial, Instituto de Ciencias Matemáticas (CSIC-UAM-UC3M-UCM), Laboratorio de Estadística, Spain, 2025)
+486. [Multi-Output Conformal Regression: A Unified Comparative Study with New Conformity Scores](https://arxiv.org/abs/2501.10533) by Victor Dheur, Matteo Fontana, Yorick Estievenart, Naomi Desobry, Souhaib Ben Taieb (University of Mons, Royal Holloway, University of London, Mohamed bin Zayed University of Artificial Intelligence, 2025) [code](https://github.com/Vekteur/multi-output-conformal-regression) 🔥🔥🔥🔥🔥
+
 
 
      
