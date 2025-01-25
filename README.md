@@ -905,7 +905,7 @@ University of Pennsylvania, 2025)
 486. [Multi-Output Conformal Regression: A Unified Comparative Study with New Conformity Scores](https://arxiv.org/abs/2501.10533) by Victor Dheur, Matteo Fontana, Yorick Estievenart, Naomi Desobry, Souhaib Ben Taieb (University of Mons, Royal Holloway, University of London, Mohamed bin Zayed University of Artificial Intelligence, 2025) [code](https://github.com/Vekteur/multi-output-conformal-regression) 🔥🔥🔥🔥🔥
 487. [Conformal Generative Modeling with Improved Sample Efficiency through Sequential Greedy Filtering](https://arxiv.org/abs/2410.01660) by Klaus-Rudolf Kladny, Bernhard Schölkopf, Michael Muehlebach (Max Planck Institute for Intelligent Systems, Tübingen, Germany, 2025).
 488. [Estimating the Conformal Prediction Threshold from Noisy Labels](https://arxiv.org/abs/2501.12749) by Coby Penso, Jacob Goldberger, Ethan Fetaya, 2025)
-
+489. Neural Conformal Control for Time Series Forecasting](https://arxiv.org/abs/2412.18144) by Ruipu Li, Alexander Rodrıguez (University of Michigan, 2024) [code](https://github.com/complex-ai-lab/ncc) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
      
 ## Papers Time Series
 
@@ -947,8 +947,9 @@ Niccolo` Ajroldia, Jacopo Diquigiovannib, Matteo Fontanac, Simone Vantinia (2022
 37. [ConForME: Multi-horizon conformal time series forecasting](https://raw.githubusercontent.com/mlresearch/v230/main/assets/galvao-lopes24a/galvao-lopes24a.pdf) by Aloysio Galvao Lopes, Eric Goubault, Sylvie Putot, Laurent Pautet (Institut Polytechnique de Paris, LTCI, Telecom Paris, 2024) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 38. [Online conformal inference for multi-step time series forecasting](Online conformal inference for multi-step time series forecasting) by  Xiaoqian Wang, Rob J Hyndman (Monash Universify, 2024) [code](https://github.com/xqnwang/cpts) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥 [paper code](https://github.com/xqnwang/cpts) [conformalForecast R package](https://github.com/xqnwang/conformalForecast)
 39. [Conformal Prediction for Hierarchical Data](https://arxiv.org/abs/2411.13479) by Guillaume Principato, Yvenn Amara-Ouali, Yannig Goudee, Bachir Hamrouche, Jean-Michel Poggi, Gilles Stolz (EDF R&D, Laboratoire de mathe ́matiques d’Orsay, INRIA, France)
-40. [Neural Conformal Control for Time Series Forecasting](https://arxiv.org/abs/2412.18144) by Ruipu Li, Alexander Rodrıguez (University of Michigan, 2024)
+40. [Neural Conformal Control for Time Series Forecasting](https://arxiv.org/abs/2412.18144) by Ruipu Li, Alexander Rodrıguez (University of Michigan, 2024) [code](https://github.com/complex-ai-lab/ncc) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 41. [Adaptive Conformal Inference by Betting](https://arxiv.org/abs/2412.19318) by Aleksandr Podkopaev, Darren Xu, Kuang-chih Lee (Wallmart Global Tech, 2024) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+
 
 ## Presentation Slides
 1. [Machine Learning for Probabilistic Prediction, Seattle Artificial Intelligence Workshops Meetup](https://www.researchgate.net/publication/371566526_Machine_Learning_for_Probabilistic_Prediction) by Valery Manokhin, 2023 🔥🔥🔥🔥🔥
