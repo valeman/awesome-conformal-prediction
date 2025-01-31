@@ -906,7 +906,11 @@ University of Pennsylvania, 2025)
 487. [Conformal Generative Modeling with Improved Sample Efficiency through Sequential Greedy Filtering](https://arxiv.org/abs/2410.01660) by Klaus-Rudolf Kladny, Bernhard Schölkopf, Michael Muehlebach (Max Planck Institute for Intelligent Systems, Tübingen, Germany, 2025).
 488. [Estimating the Conformal Prediction Threshold from Noisy Labels](https://arxiv.org/abs/2501.12749) by Coby Penso, Jacob Goldberger, Ethan Fetaya, 2025)
 489. Neural Conformal Control for Time Series Forecasting](https://arxiv.org/abs/2412.18144) by Ruipu Li, Alexander Rodrıguez (University of Michigan, 2024) [code](https://github.com/complex-ai-lab/ncc) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
-     
+490. [Robust Online Conformal Prediction under Uniform Label Noise](https://arxiv.org/abs/2501.18363)
+ by Huajun Xi, Kangdao Liu, Hao Zeng, Wenguang Sun, Hongxin Wei (Southern University of Science and Technology, University of Macau, Zhejiang University. China, 2025).
+491. [Noise-Adaptive Conformal Classification with Marginal Coverage](https://arxiv.org/abs/2501.18060) by Teresa Bortolotti, Y. X. Rachel Wang, Xin Tong, Alessandra Menafoglio, Simone Vantini, Matteo Sesia Politecnico di Milano, Milan, Italy; University of Sydney, Australia;
+3Department of Data Sciences and Operations, University of Southern California; University of Hong Kong, China, 2025)
+
 ## Papers Time Series
 
 1. [Conformal prediction interval for dynamic time-series](https://proceedings.mlr.press/v139/xu21h.html) by Chen Xu, Yao Xie (Georgia Tech, 2021) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥 [Python Code](https://github.com/hamrel-cxu/EnbPI) [Video](https://vimeo.com/583595474) [Video ICML2021](https://papertalk.org/papertalks/32044)
