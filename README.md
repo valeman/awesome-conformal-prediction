@@ -910,6 +910,8 @@ University of Pennsylvania, 2025)
  by Huajun Xi, Kangdao Liu, Hao Zeng, Wenguang Sun, Hongxin Wei (Southern University of Science and Technology, University of Macau, Zhejiang University. China, 2025).
 491. [Noise-Adaptive Conformal Classification with Marginal Coverage](https://arxiv.org/abs/2501.18060) by Teresa Bortolotti, Y. X. Rachel Wang, Xin Tong, Alessandra Menafoglio, Simone Vantini, Matteo Sesia Politecnico di Milano, Milan, Italy; University of Sydney, Australia;
 3Department of Data Sciences and Operations, University of Southern California; University of Hong Kong, China, 2025)
+492. [Uncertainty quantification in automated valuation models with spatially weighted conformal prediction](https://arxiv.org/abs/2312.06531) by Anders Hjort, Gudmund Horn Hermansen, Johan Pensar, Jonathan P. Williams (University of Oslo,  Norway; North Carolina State University, 2025).
+
 
 ## Papers Time Series
 
