@@ -911,7 +911,7 @@ University of Pennsylvania, 2025)
 491. [Noise-Adaptive Conformal Classification with Marginal Coverage](https://arxiv.org/abs/2501.18060) by Teresa Bortolotti, Y. X. Rachel Wang, Xin Tong, Alessandra Menafoglio, Simone Vantini, Matteo Sesia Politecnico di Milano, Milan, Italy; University of Sydney, Australia;
 3Department of Data Sciences and Operations, University of Southern California; University of Hong Kong, China, 2025)
 492. [Uncertainty quantification in automated valuation models with spatially weighted conformal prediction](https://arxiv.org/abs/2312.06531) by Anders Hjort, Gudmund Horn Hermansen, Johan Pensar, Jonathan P. Williams (University of Oslo,  Norway; North Carolina State University, 2025).
-493. [Error-quantified Conformal Inference for Time Series](https://arxiv.org/abs/2502.00818) by Junxi Wu, Dongjian Hu, Yajie Bao, Shu-Tao Xia, Changliang Zou (Nankai University, Tsinghua University, China, 2025) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+493. [Error-quantified Conformal Inference for Time Series](https://arxiv.org/abs/2502.00818) by Junxi Wu, Dongjian Hu, Yajie Bao, Shu-Tao Xia, Changliang Zou (Nankai University, Tsinghua University, China, 2025) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥[code](https://github.com/creator-xi/Error-quantified-Conformal-Inference)
 
 
 ## Papers Time Series
@@ -956,8 +956,7 @@ Niccolo` Ajroldia, Jacopo Diquigiovannib, Matteo Fontanac, Simone Vantinia (2022
 39. [Conformal Prediction for Hierarchical Data](https://arxiv.org/abs/2411.13479) by Guillaume Principato, Yvenn Amara-Ouali, Yannig Goudee, Bachir Hamrouche, Jean-Michel Poggi, Gilles Stolz (EDF R&D, Laboratoire de mathe ́matiques d’Orsay, INRIA, France)
 40. [Neural Conformal Control for Time Series Forecasting](https://arxiv.org/abs/2412.18144) by Ruipu Li, Alexander Rodrıguez (University of Michigan, 2024) [code](https://github.com/complex-ai-lab/ncc) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 41. [Adaptive Conformal Inference by Betting](https://arxiv.org/abs/2412.19318) by Aleksandr Podkopaev, Darren Xu, Kuang-chih Lee (Wallmart Global Tech, 2024) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
-42. [Error-quantified Conformal Inference for Time Series](https://arxiv.org/abs/2502.00818) by Junxi Wu, Dongjian Hu, Yajie Bao, Shu-Tao Xia, Changliang Zou (Nankai University, Tsinghua University, China, 2025) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
-
+42. [Error-quantified Conformal Inference for Time Series](https://arxiv.org/abs/2502.00818) by Junxi Wu, Dongjian Hu, Yajie Bao, Shu-Tao Xia, Changliang Zou (Nankai University, Tsinghua University, China, 2025) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥[code](https://github.com/creator-xi/Error-quantified-Conformal-Inference)
 
 
 ## Presentation Slides
