@@ -914,6 +914,7 @@ University of Pennsylvania, 2025)
 493. [Error-quantified Conformal Inference for Time Series](https://arxiv.org/abs/2502.00818) by Junxi Wu, Dongjian Hu, Yajie Bao, Shu-Tao Xia, Changliang Zou (Nankai University, Tsinghua University, China, 2025) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥[code](https://github.com/creator-xi/Error-quantified-Conformal-Inference)
 494. [Conformal Predictions for Longitudinal Data](https://arxiv.org/abs/2310.02863) [code](https://github.com/EconAIorg/LPCI) by Devesh Batra, Salvatore Mercuri, Raad Khraishi (Data Science & Innovation, NatWest Group, Institute of Finance and Technology, UCL, London, United Kingdom, 2023).
 495. [Prediction Sets and Conformal Inference with Censored Outcomes](https://arxiv.org/abs/2501.10117) by Weiguang Liu, Áureo de Paula, Elie Tamer (UCL, Harvard, 2025).
+496. [Generalized Venn and Venn-Abers Calibration with Applications in Conformal Prediction](https://arxiv.org/abs/2502.05676) by Lars van der Laan, Ahmed Alaa (University of Washington, Berkekey, 2025).
 
 
 
