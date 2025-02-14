@@ -917,6 +917,7 @@ University of Pennsylvania, 2025)
 496. [Generalized Venn and Venn-Abers Calibration with Applications in Conformal Prediction](https://arxiv.org/abs/2502.05676) by Lars van der Laan, Ahmed Alaa (University of Washington, Berkekey, 2025).
 497. [Robust Conformal Outlier Detection under Contaminated Reference Data](https://arxiv.org/abs/2502.04807) by Meshi Bashari, Matteo Sesia, Yaniv Romano (Technion, University of Southern California, Los Angeles, 2025)
 498. [Multivariate Conformal Prediction using Optimal Transport](https://arxiv.org/abs/2502.03609) by Michal Klein, Louis Bethune, Eugene Ndiaye, Marco Cuturi (Apple Research, 2025).
+499. [Wasserstein-regularized Conformal Prediction under General Distribution Shift](https://arxiv.org/abs/2501.13430) by Rui Xu, Chao Chen, Yue Sun, Parvathinathan Venkitasubramaniam, Sihong Xie (The Hong Kong University of Science and Technology (Guangzhou), Harbin Institute of Technology, Lehigh University, 2025) [code](https://github.com/rxu0112/WR-CP) 
 
 
 
