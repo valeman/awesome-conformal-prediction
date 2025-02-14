@@ -915,6 +915,8 @@ University of Pennsylvania, 2025)
 494. [Conformal Predictions for Longitudinal Data](https://arxiv.org/abs/2310.02863) [code](https://github.com/EconAIorg/LPCI) by Devesh Batra, Salvatore Mercuri, Raad Khraishi (Data Science & Innovation, NatWest Group, Institute of Finance and Technology, UCL, London, United Kingdom, 2023).
 495. [Prediction Sets and Conformal Inference with Censored Outcomes](https://arxiv.org/abs/2501.10117) by Weiguang Liu, Áureo de Paula, Elie Tamer (UCL, Harvard, 2025).
 496. [Generalized Venn and Venn-Abers Calibration with Applications in Conformal Prediction](https://arxiv.org/abs/2502.05676) by Lars van der Laan, Ahmed Alaa (University of Washington, Berkekey, 2025).
+497. [Robust Conformal Outlier Detection under Contaminated Reference Data](https://arxiv.org/abs/2502.04807) by Meshi Bashari, Matteo Sesia, Yaniv Romano (Technion, University of Southern California, Los Angeles, 2025)
+498. [Multivariate Conformal Prediction using Optimal Transport](https://arxiv.org/abs/2502.03609) by Michal Klein, Louis Bethune, Eugene Ndiaye, Marco Cuturi (Apple Research, 2025).
 
 
 
