@@ -1019,7 +1019,6 @@ Niccolo` Ajroldia, Jacopo Diquigiovannib, Matteo Fontanac, Simone Vantinia (2022
 20. [Ulf Norinder](https://scholar.google.com/citations?user=i5hUEFwAAAAJ&hl=en), Stockholm University, Sweden
 21. [Ola Spjuth](https://pharmb.io), Uppsala University, Sweden
 22. [Ilia Nouretdinov](https://cml.rhul.ac.uk/people/nouretdinov/index.htm), Royal Holloway, United Kingdom
-23. [Matteo Fontana](https://scholar.google.com/citations?user=U7jODH8AAAAJ&hl=it), Royal Holloway, University of London, United Kingdom
 24. [Yao Xie](https://www2.isye.gatech.edu/~yxie77/), Georgia Institute of Technology
 25. [Zhimeo Ren](https://zhimeir.github.io), University of Chicago
 26. [Rafael Izbicki](http://www.rizbicki.ufscar.br), Federal University of São Carlos (UFSCar) Brazil
