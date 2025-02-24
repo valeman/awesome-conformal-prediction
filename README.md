@@ -919,6 +919,7 @@ University of Pennsylvania, 2025)
 498. [Multivariate Conformal Prediction using Optimal Transport](https://arxiv.org/abs/2502.03609) by Michal Klein, Louis Bethune, Eugene Ndiaye, Marco Cuturi (Apple Research, 2025).
 499. [Wasserstein-regularized Conformal Prediction under General Distribution Shift](https://arxiv.org/abs/2501.13430) by Rui Xu, Chao Chen, Yue Sun, Parvathinathan Venkitasubramaniam, Sihong Xie (The Hong Kong University of Science and Technology (Guangzhou), Harbin Institute of Technology, Lehigh University, 2025) [code](https://github.com/rxu0112/WR-CP)
 500. [Conformalized Time Series with Semantic Features](https://proceedings.neurips.cc/paper_files/paper/2024/hash/dbfb7b1443583fc7ab87e8b1b4f48c9c-Abstract-Conference.html) by Baiting Chen, Zhimei Ren, Lu Cheng (2024) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+501. [Language Models Can Predict Their Own Behavior](https://www.arxiv.org/abs/2502.13329) by Dhananjay Ashok, Jonathan May (2025)
 
 
 
