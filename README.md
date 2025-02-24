@@ -917,7 +917,8 @@ University of Pennsylvania, 2025)
 496. [Generalized Venn and Venn-Abers Calibration with Applications in Conformal Prediction](https://arxiv.org/abs/2502.05676) by Lars van der Laan, Ahmed Alaa (University of Washington, Berkekey, 2025).
 497. [Robust Conformal Outlier Detection under Contaminated Reference Data](https://arxiv.org/abs/2502.04807) by Meshi Bashari, Matteo Sesia, Yaniv Romano (Technion, University of Southern California, Los Angeles, 2025)
 498. [Multivariate Conformal Prediction using Optimal Transport](https://arxiv.org/abs/2502.03609) by Michal Klein, Louis Bethune, Eugene Ndiaye, Marco Cuturi (Apple Research, 2025).
-499. [Wasserstein-regularized Conformal Prediction under General Distribution Shift](https://arxiv.org/abs/2501.13430) by Rui Xu, Chao Chen, Yue Sun, Parvathinathan Venkitasubramaniam, Sihong Xie (The Hong Kong University of Science and Technology (Guangzhou), Harbin Institute of Technology, Lehigh University, 2025) [code](https://github.com/rxu0112/WR-CP) 
+499. [Wasserstein-regularized Conformal Prediction under General Distribution Shift](https://arxiv.org/abs/2501.13430) by Rui Xu, Chao Chen, Yue Sun, Parvathinathan Venkitasubramaniam, Sihong Xie (The Hong Kong University of Science and Technology (Guangzhou), Harbin Institute of Technology, Lehigh University, 2025) [code](https://github.com/rxu0112/WR-CP)
+500. [Conformalized Time Series with Semantic Features](https://proceedings.neurips.cc/paper_files/paper/2024/hash/dbfb7b1443583fc7ab87e8b1b4f48c9c-Abstract-Conference.html) by Baiting Chen, Zhimei Ren, Lu Cheng (2024) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 
 
 
@@ -964,6 +965,8 @@ Niccolo` Ajroldia, Jacopo Diquigiovannib, Matteo Fontanac, Simone Vantinia (2022
 40. [Neural Conformal Control for Time Series Forecasting](https://arxiv.org/abs/2412.18144) by Ruipu Li, Alexander Rodrıguez (University of Michigan, 2024) [code](https://github.com/complex-ai-lab/ncc) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 41. [Adaptive Conformal Inference by Betting](https://arxiv.org/abs/2412.19318) by Aleksandr Podkopaev, Darren Xu, Kuang-chih Lee (Wallmart Global Tech, 2024) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 42. [Error-quantified Conformal Inference for Time Series](https://arxiv.org/abs/2502.00818) by Junxi Wu, Dongjian Hu, Yajie Bao, Shu-Tao Xia, Changliang Zou (Nankai University, Tsinghua University, China, 2025) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥[code](https://github.com/creator-xi/Error-quantified-Conformal-Inference)
+43.  [Conformalized Time Series with Semantic Features](https://proceedings.neurips.cc/paper_files/paper/2024/hash/dbfb7b1443583fc7ab87e8b1b4f48c9c-Abstract-Conference.html) by Baiting Chen, Zhimei Ren, Lu Cheng (2024) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+
 
 
 ## Presentation Slides
