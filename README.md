@@ -1089,6 +1089,8 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 54. [Embracing Uncertainty with Conformal Prediction](https://medium.com/bigdatarepublic/embracing-uncertainty-with-conformal-prediction-099f928bc183) by Robbert van Kortenhof (2024)
 55. [Tidymodels and conformal prediction](https://theclarkeorbit.github.io/tidymodels-and-conformal-prediction.html) by Prasanna Bhogale (2024)
 56. [Basics of conformal prediction in time series data](https://theclarkeorbit.github.io/basics-of-conformal-prediction-in-time-series-data.html) by Prasanna Bhogale (2024)
+57. [Leveraging conformal prediction in Python to accelerate the renewable energy transition](https://medium.com/@icvandenende/leveraging-conformal-prediction-in-python-to-accelerate-the-renewable-energy-transition-09b5c855f69d) by Inge van den Ende (2025)
+
 
 ## Kaggle
 1. [Kaggle Notebook showcasing Conformal Predictive Distributions on Playground Series Season 3, Episode 1 (California Housing data) competition](https://www.kaggle.com/code/predaddict/conformal-predictive-distributions-pss3-e1) by Valeriy Manokhin (2022)
