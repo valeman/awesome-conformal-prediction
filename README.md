@@ -981,6 +981,11 @@ Niccolo` Ajroldia, Jacopo Diquigiovannib, Matteo Fontanac, Simone Vantinia (2022
 4. [Conformalized density- and distance-based anomaly detection in time-series data](https://arxiv.org/abs/1608.04585) by Evgeny Burnaev, Vladislav Ishimtsev (Skoprech 2016) one of top methods in high profile Numenta Anomaly Detection competition [code](https://github.com/numenta/NAB/tree/master/nab/detectors/knncad) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 5. [Conformal prediction for trustworthy detection of railway signals](https://www.researchgate.net/publication/377596211_Conformal_prediction_for_trustworthy_detection_of_railway_signals) by Léo Andéol, Thomas Fel, Flornce de Grancey, Luca Mossina (Institut de Mathématiques de Toulouse, SNCF,Brown University,Thales, AVS France, IRT Saint Exupéry, Toulouse; France/USA 2024)
 6. [Detecting Railway Track Irregularities Using Conformal Prediction](https://tik-old.ee.ethz.ch/db/public/tik/?db=publications&form=report_single_publication&publication_id=5176) by Andreas Plesner, Allan P. Engsig-Karup, Hans True (ETH Zurich, Technical University of Denmark) (2024)
+7. [CoPAL: Conformal Prediction in Active Learning An Algorithm for Enhancing Remaining Useful Life Estimation in Predictive Maintenance](https://proceedings.mlr.press/v230/kharazian24a.html) by Zahra Kharazian, Tony Lindgren, Sindri Magnusson, Henrik Boström (Stockholm University, KTH, 2024)
+8. [Inductive conformal anomaly detection for sequential detection of anomalous sub-trajectories](https://www.researchgate.net/publication/258244052_Inductive_conformal_anomaly_detection_for_sequential_detection_of_anomalous_sub-trajectories) by Rikkard Laxhammar nd Goran Falkman (2013) 
+9. [Conformal Anomaly Detection](https://www.diva-portal.org/smash/get/diva2:690997/FULLTEXT02.pdf) PhD dissertation by Rikkard Laxhammar (University of Skovde, 2012)
+10. [Testing for Outliers with Conformal p-values](https://arxiv.org/abs/2104.08279) by Stephen Bates, Emmanuel Candès, Lihua Lei, Yaniv Romano, Matteo Sesia (Berkeley, Stanford, 2021)
+
 
 
 
