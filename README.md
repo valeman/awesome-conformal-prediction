@@ -109,6 +109,8 @@ What about the industry one might ask - Conformal Prediction already for several
 * [Papers](#papers)
 
 * [Papers Time Series](#papers-time-series)
+  
+* [Papers Anomaly Detection](#papers-anomaly-detection)
 
 * [Articles](#articles)
 
@@ -972,7 +974,13 @@ Niccolo` Ajroldia, Jacopo Diquigiovannib, Matteo Fontanac, Simone Vantinia (2022
 44.  Conformalized Time Series with Semantic Features](https://proceedings.neurips.cc/paper_files/paper/2024/hash/dbfb7b1443583fc7ab87e8b1b4f48c9c-Abstract-Conference.html) by Baiting Chen, Zhimei Ren, Lu Cheng (2024) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 45.   [Relational Conformal Prediction for Correlated Time Series](https://arxiv.org/abs/2502.09443) by Andrea Cini, Alexander Jenkins, Danilo Mandic, Cesare Alippi, Filippo Maria Bianchi (2025) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 
-
+## Papers Anomaly Detection
+1.  [Microsoft Azure](https://learn.microsoft.com/en-gb/archive/blogs/machinelearning/anomaly-detection-using-machine-learning-to-detect-abnormalities-in-time-series-data) Microsoft Azure Anomaly Detection powered by Conformal Prediction 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+2.  [Testing Exchangeability On-Line](https://aaai.org/papers/icml03-100-testing-exchangeability-on-line/) by Vladimir Vovk, Ilia Nouretdinov, Alex Gammerman (Royal Holloway, UK, 2023)
+3.  [Plug-in martingales for testing exchangeability on-line](https://icml.cc/2012/papers/808.pdf) by Valentina Fedorova, Alex Gammerman, Ilia Nouretdinov, Vladimir (Vovk Royal Holloway, UK, 2012) 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+4. [Conformalized density- and distance-based anomaly detection in time-series data](https://arxiv.org/abs/1608.04585) by Evgeny Burnaev, Vladislav Ishimtsev (Skoprech 2016) one of top methods in high profile Numenta Anomaly Detection competition [code](https://github.com/numenta/NAB/tree/master/nab/detectors/knncad) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+5. [Conformal prediction for trustworthy detection of railway signals](https://www.researchgate.net/publication/377596211_Conformal_prediction_for_trustworthy_detection_of_railway_signals) by Léo Andéol, Thomas Fel, Flornce de Grancey, Luca Mossina (Institut de Mathématiques de Toulouse, SNCF,Brown University,Thales, AVS France, IRT Saint Exupéry, Toulouse; France/USA 2024)
+6. [Detecting Railway Track Irregularities Using Conformal Prediction](https://tik-old.ee.ethz.ch/db/public/tik/?db=publications&form=report_single_publication&publication_id=5176) by Andreas Plesner, Allan P. Engsig-Karup, Hans True (ETH Zurich, Technical University of Denmark) (2024)
 
 
 
