@@ -923,6 +923,9 @@ University of Pennsylvania, 2025)
 500. [Conformalized Time Series with Semantic Features](https://proceedings.neurips.cc/paper_files/paper/2024/hash/dbfb7b1443583fc7ab87e8b1b4f48c9c-Abstract-Conference.html) by Baiting Chen, Zhimei Ren, Lu Cheng (2024) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 501. [Language Models Can Predict Their Own Behavior](https://www.arxiv.org/abs/2502.13329) by Dhananjay Ashok, Jonathan May (2025)
 502. [Relational Conformal Prediction for Correlated Time Series](https://arxiv.org/abs/2502.09443) by Andrea Cini, Alexander Jenkins, Danilo Mandic, Cesare Alippi, Filippo Maria Bianchi (2025) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+503. [Improved Online Conformal Prediction via Strongly Adaptive Online Learning](https://proceedings.mlr.press/v202/bhatnagar23a.html) - Aadyot Bhatnagar, Dylan J. Foster, Sivaraman Balakrishnan, Aaditya Ramdas, 2023.
+504. [Conformal Prediction Under Covariate Shift](https://www.stat.cmu.edu/~ryantibs/papers/weightedcp.pdf) - Aaditya Ramdas, Ryan Tibshirani, 2015.
+505. [Conformalized Quantile Regression](https://paperswithcode.com/paper/conformalized-quantile-regression) - Yaniv Romano, Evan Patterson, Emmanuel J. Candès, (Standord, 2019).
 
 
 
