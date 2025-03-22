@@ -1120,6 +1120,8 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 3.  [Regression prediction intervals with MAPIE](https://www.kaggle.com/code/carlmcbrideellis/regression-prediction-intervals-with-mapie) by Carl McBride Ellis (2022)
 4. [Lgbm & Mapie & birth weight, oh my!](https://www.kaggle.com/code/paddykb/lgbm-mapie-birth-weight-oh-my) by Patrick Blackwill (2023) 🔥🔥🔥🔥🔥
 5. [Classifier calibration using Venn-ABERS](https://www.kaggle.com/code/carlmcbrideellis/classifier-calibration-using-venn-abers) by Carl McBride Ellis (2024) 🔥🔥🔥🔥🔥
+6. [CPB: The Crucial Calibration Set](https://www.kaggle.com/code/elainedazzio/cpb-the-crucial-calibration-set) by L. Elaine Dazzio (2025)
+7. [Simplest Conformal Prediction Example](https://www.kaggle.com/code/elainedazzio/simplest-conformal-prediction-example) by L. Elaine Dazzio (2025)
  
 
 
