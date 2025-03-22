@@ -926,6 +926,7 @@ University of Pennsylvania, 2025)
 503. [Improved Online Conformal Prediction via Strongly Adaptive Online Learning](https://proceedings.mlr.press/v202/bhatnagar23a.html) - Aadyot Bhatnagar, Dylan J. Foster, Sivaraman Balakrishnan, Aaditya Ramdas, 2023.
 504. [Conformal Prediction Under Covariate Shift](https://www.stat.cmu.edu/~ryantibs/papers/weightedcp.pdf) - Aaditya Ramdas, Ryan Tibshirani, 2015.
 505. [Conformalized Quantile Regression](https://paperswithcode.com/paper/conformalized-quantile-regression) - Yaniv Romano, Evan Patterson, Emmanuel J. Candès, (Standord, 2019).
+506. [Can We Detect Failures Without Failure Data? Uncertainty-Aware Runtime Failure Detection for Imitation Learning Policies](https://arxiv.org/abs/2503.08558) [website](https://cxu-tri.github.io/FAIL-Detect-Website/) by Chen Xu, Tony Khuong Nguyen, Emma Dixon, Christopher Rodriguez, Patrick Miller, Robert Lee, Paarth Shah, Rares Andrei Ambrus, Haruki Nishimura, Masha Itkina (Toyota Research Institute, Woven by Toyota 2025) 🔥🔥🔥🔥🔥
 
 
 
