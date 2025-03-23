@@ -928,6 +928,7 @@ University of Pennsylvania, 2025)
 505. [Conformalized Quantile Regression](https://paperswithcode.com/paper/conformalized-quantile-regression) - Yaniv Romano, Evan Patterson, Emmanuel J. Candès, (Standord, 2019).
 506. [Can We Detect Failures Without Failure Data? Uncertainty-Aware Runtime Failure Detection for Imitation Learning Policies](https://arxiv.org/abs/2503.08558) [website](https://cxu-tri.github.io/FAIL-Detect-Website/) by Chen Xu, Tony Khuong Nguyen, Emma Dixon, Christopher Rodriguez, Patrick Miller, Robert Lee, Paarth Shah, Rares Andrei Ambrus, Haruki Nishimura, Masha Itkina (Toyota Research Institute, Woven by Toyota 2025) 🔥🔥🔥🔥🔥
 507. [Forecasting Extreme Temperatures in Siberia Using Supervised Learning and Conformal Prediction Regions](https://arxiv.org/abs/2503.16118) by Richard Berk,Amy Braverman (University of Pennsylvania, The Jet Propulsion Laboratory (Caltech)).
+508. [A comparison of some conformal quantile regression methods](https://arxiv.org/abs/1909.05433#:~:text=,proportions%20of%20observations%20used%20for) by Matteo Sesia, Emmanuel J. Candès (2019)
 
 
 
