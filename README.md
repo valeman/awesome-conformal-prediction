@@ -929,6 +929,8 @@ University of Pennsylvania, 2025)
 506. [Can We Detect Failures Without Failure Data? Uncertainty-Aware Runtime Failure Detection for Imitation Learning Policies](https://arxiv.org/abs/2503.08558) [website](https://cxu-tri.github.io/FAIL-Detect-Website/) by Chen Xu, Tony Khuong Nguyen, Emma Dixon, Christopher Rodriguez, Patrick Miller, Robert Lee, Paarth Shah, Rares Andrei Ambrus, Haruki Nishimura, Masha Itkina (Toyota Research Institute, Woven by Toyota 2025) 🔥🔥🔥🔥🔥
 507. [Forecasting Extreme Temperatures in Siberia Using Supervised Learning and Conformal Prediction Regions](https://arxiv.org/abs/2503.16118) by Richard Berk,Amy Braverman (University of Pennsylvania, The Jet Propulsion Laboratory (Caltech)).
 508. [A comparison of some conformal quantile regression methods](https://arxiv.org/abs/1909.05433#:~:text=,proportions%20of%20observations%20used%20for) by Matteo Sesia, Emmanuel J. Candès (2019)
+509. [Estimating diagnostic uncertainty in artificial intelligence assisted pathology using conformal prediction](https://pmc.ncbi.nlm.nih.gov/articles/PMC9755280/pdf/41467_2022_Article_34945.pdf) by Henrik Olsson, Kimmo Kartasalo, Nita Mulliqi, Marco Capuccini, Pekka Ruusuvuori, Hemamali Samaratunga, Brett Delahunt, Cecilia Lindskog, Emiel A M Janssen, Anders Blilie, Lars Egevad, Ola Spjuth, Martin Eklund (2022)
+
 
 
 
