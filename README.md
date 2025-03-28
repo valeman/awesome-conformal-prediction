@@ -31,7 +31,7 @@ Conformal Prediction has transcended its niche status in just a few years, exper
 
 I'm enthusiastically promoting the wonderful world of Conformal Prediction (because it truly is awesome) across various social media platforms, including [LinkedIn](https://www.linkedin.com/in/valeriy-manokhin-phd-mba-cqf-704731236/) and [Twitter](https://twitter.com/predict_addict). You can find all my research on [ResearchGate](https://www.researchgate.net/profile/Valery-Manokhin), and I occasionally share insights from the data science trenches in the industry on [Medium](https://medium.com/@valeman). I warmly invite you to connect with me and help spread the word about the fascinating field of Conformal Prediction.
 
-![Applied Conformal Prediction course](https://github.com/valeman/awesome-conformal-prediction/blob/main/Brazil_girl_reading_CP_book.jpeg)
+![Applied Conformal Prediction course](https://github.com/valeman/awesome-conformal-prediction/blob/main/Brazil_girl_reading_CP_book_small.jpeg)
 
 **A Warm Invitation to Support and Share: Star the Repo and Spread the Word**
 
