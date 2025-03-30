@@ -982,6 +982,7 @@ Niccolo` Ajroldia, Jacopo Diquigiovannib, Matteo Fontanac, Simone Vantinia (2022
 43.  [Conformalized Time Series with Semantic Features](https://proceedings.neurips.cc/paper_files/paper/2024/hash/dbfb7b1443583fc7ab87e8b1b4f48c9c-Abstract-Conference.html) by Baiting Chen, Zhimei Ren, Lu Cheng (2024) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 44.  Conformalized Time Series with Semantic Features](https://proceedings.neurips.cc/paper_files/paper/2024/hash/dbfb7b1443583fc7ab87e8b1b4f48c9c-Abstract-Conference.html) by Baiting Chen, Zhimei Ren, Lu Cheng (2024) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 45.   [Relational Conformal Prediction for Correlated Time Series](https://arxiv.org/abs/2502.09443) by Andrea Cini, Alexander Jenkins, Danilo Mandic, Cesare Alippi, Filippo Maria Bianchi (2025) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+46.   [Dual-Splitting Conformal Prediction for Multi-Step Time Series Forecasting](https://arxiv.org/abs/2503.21251) by Qingdi Yu, Zhiwei Cao, Ruihang Wang, Zhen Yang, Lijun Deng, Min Hu, Yong Luo, Xin Zhou, (2025) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 
 ## Papers Anomaly Detection
 1.  [Microsoft Azure](https://learn.microsoft.com/en-gb/archive/blogs/machinelearning/anomaly-detection-using-machine-learning-to-detect-abnormalities-in-time-series-data) Microsoft Azure Anomaly Detection powered by Conformal Prediction 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
