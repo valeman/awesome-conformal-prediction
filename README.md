@@ -1,3 +1,5 @@
+![GitHub Repo stars](https://img.shields.io/github/stars/valeman/awesome-conformal-prediction?style=social)
+
 # Awesome Conformal Prediction [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![DOI](https://zenodo.org/badge/436989758.svg)](https://zenodo.org/badge/latestdoi/436989758)
 
 
