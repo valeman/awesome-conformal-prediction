@@ -934,6 +934,7 @@ University of Pennsylvania, 2025)
 509. [Estimating diagnostic uncertainty in artificial intelligence assisted pathology using conformal prediction](https://pmc.ncbi.nlm.nih.gov/articles/PMC9755280/pdf/41467_2022_Article_34945.pdf) by Henrik Olsson, Kimmo Kartasalo, Nita Mulliqi, Marco Capuccini, Pekka Ruusuvuori, Hemamali Samaratunga, Brett Delahunt, Cecilia Lindskog, Emiel A M Janssen, Anders Blilie, Lars Egevad, Ola Spjuth, Martin Eklund (2022)
 510. [Minimum Volume Conformal Sets for Multivariate Regression](https://arxiv.org/abs/2503.19068) by Sacha Braun, Liviu Aolaritei, Michael I. Jordan, Francis Bach (Inria, Berkeley) (2025)
 511. [Unifying Different Theories of Conformal Prediction](https://arxiv.org/abs/2504.02292) by Rina Foygel Barber, Ryan J. Tibshiran (University of Chicago, Berkeley, 2025)  🔥🔥🔥🔥🔥
+512. [LATTE-MV: Learning to Anticipate Table Tennis Hits from Monocular Videos](https://arxiv.org/abs/2503.20936) by Daniel Etaat, Dvij Kalaria, Nima Rahmanian, Shankar Sastry (Berkeley, 2025) [project](https://sastry-group.github.io/LATTE-MV/) 🔥🔥🔥🔥🔥
 
 
 
