@@ -9,7 +9,7 @@
 My new book 'Advanced Conformal Prediction: Reliable Uncertainty Quantification for Real-World Machine Learning' can be ordered on Gumroad [**Gumroad**](https://valeman.gumroad.com/l/advancedconformalprediction)
 
 
-![Advanced Conformal Prediction: Reliable Uncertainty Quantification for Real-World Machine Learning](https://github.com/valeman/awesome-conformal-prediction/blob/main/book_cover.png)
+![Advanced Conformal Prediction: Reliable Uncertainty Quantification for Real-World Machine Learning](https://github.com/valeman/awesome-conformal-prediction/blob/main/gumroad_thumbnail.png)
 
 **Discover the Ultimate Conformal Prediction Resource: All-in-One and Expertly Curated** 🌟 🌟 🌟 🌟 🌟
 
