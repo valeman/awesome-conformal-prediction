@@ -9,15 +9,10 @@
 
 **My course  'Applied Conformal Prediction is now opened for enrollment on Maven 🔥🔥🔥🔥🔥 [enroll into the next cohort here](https://maven.com/valeriy-manokhin/applied-conformal-prediction), [register interest for upcoming cohorts and information here](https://maven.com/forms/2a53e5)** 
 
-**My new book 'Advanced Conformal Prediction: Reliable Uncertainty Quantification for Real-World Machine Learning' can be ordered on Gumroad ** [**Gumroad USA 🇺🇸**]([https://www.amazon.com/gp/aw/d/1805122762]
+My new book 'Advanced Conformal Prediction: Reliable Uncertainty Quantification for Real-World Machine Learning' can be ordered on Gumroad [**Gumroad**](https://valeman.gumroad.com/l/advancedconformalprediction)
 
-The book has reached #1 in Amazon Hot New Releases in multiple categories: "Probability and Statistics", "Machine Theory", "Python Programming" 🔥🔥🔥🔥🔥🚀🚀🚀🚀🚀 Please rate the book on Amazon if you liked it.
 
-![Practical Guide to Applied Conformal Prediction: Learn and apply the best uncertainty frameworks to your industry applications](https://github.com/valeman/awesome-conformal-prediction/blob/main/Practical%20Guide%20to%20Applied%20Conformal%20Prediction%20Learn%20and%20apply%20the%20best%20uncertainty%20frameworks%20to%20your%20industry%20applications.jpg) 
-
-Due to free tier limits of Slack, [Slack for Awesome Conformal Prediction](https://join.slack.com/t/awesomeconformalpred) is in general application-only. Send me a message on [LinkedIn](https://www.linkedin.com/in/valeriy-manokhin-phd-mba-cqf-704731236/) or [X/Twitter](https://x.com/predict_addict) to request access explaining why you need access and your email. Slack policy: real names only as per LinkedIn / academic profile.
-
-Preference is given to Conformal Prediction researchers or practitioners who have published papers, articles, tutorials, code or made YouTube videos about Conformal Prediction.
+![Advanced Conformal Prediction: Reliable Uncertainty Quantification for Real-World Machine Learning](book_cover.jpg) 
 
 **Discover the Ultimate Conformal Prediction Resource: All-in-One and Expertly Curated** 🌟 🌟 🌟 🌟 🌟
 
