@@ -979,7 +979,9 @@ Niccolo` Ajroldia, Jacopo Diquigiovannib, Matteo Fontanac, Simone Vantinia (2022
 45.   [Relational Conformal Prediction for Correlated Time Series](https://arxiv.org/abs/2502.09443) by Andrea Cini, Alexander Jenkins, Danilo Mandic, Cesare Alippi, Filippo Maria Bianchi (2025) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 46.   [Dual-Splitting Conformal Prediction for Multi-Step Time Series Forecasting](https://arxiv.org/abs/2503.21251) by Qingdi Yu, Zhiwei Cao, Ruihang Wang, Zhen Yang, Lijun Deng, Min Hu, Yong Luo, Xin Zhou, (2025) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 47.   [Split Conformal Prediction and Non-Exchangeable Data](https://jmlr.org/papers/v25/23-1553.html) by Roberto I. Oliveira, Paulo Orenstein, Thiago Ramos, João Vitor Romano (IMPA, Rio de Janeiro, Brazil, 2024) [code](https://github.com/jv-rv/split-conformal-nonexchangeable)
-48.   [Flow-based Conformal Prediction for Multi-dimensional Time Series](https://arxiv.org/abs/2502.05709) by Junghwan Lee, Chen Xu, Yao Xie (Georgia Tech, 2025) [code](https://github.com/Jayaos/flow_cp) 
+48.   [Flow-based Conformal Prediction for Multi-dimensional Time Series](https://arxiv.org/abs/2502.05709) by Junghwan Lee, Chen Xu, Yao Xie (Georgia Tech, 2025) [code](https://github.com/Jayaos/flow_cp)
+49.   [Feature Fitted Online Conformal Prediction for Deep Time Series Forecasting Model](https://arxiv.org/abs/2505.08158) by Xiannan Huang, Shuhan Qiu (Tongji University, 2025) [code](https://github.com/xiannanhuang/FFDCI)
+
 
 ## Papers Anomaly Detection
 1.  [Microsoft Azure](https://learn.microsoft.com/en-gb/archive/blogs/machinelearning/anomaly-detection-using-machine-learning-to-detect-abnormalities-in-time-series-data) Microsoft Azure Anomaly Detection powered by Conformal Prediction 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
