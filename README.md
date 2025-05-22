@@ -981,6 +981,7 @@ Niccolo` Ajroldia, Jacopo Diquigiovannib, Matteo Fontanac, Simone Vantinia (2022
 47.   [Split Conformal Prediction and Non-Exchangeable Data](https://jmlr.org/papers/v25/23-1553.html) by Roberto I. Oliveira, Paulo Orenstein, Thiago Ramos, João Vitor Romano (IMPA, Rio de Janeiro, Brazil, 2024) [code](https://github.com/jv-rv/split-conformal-nonexchangeable)
 48.   [Flow-based Conformal Prediction for Multi-dimensional Time Series](https://arxiv.org/abs/2502.05709) by Junghwan Lee, Chen Xu, Yao Xie (Georgia Tech, 2025) [code](https://github.com/Jayaos/flow_cp)
 49.   [Feature Fitted Online Conformal Prediction for Deep Time Series Forecasting Model](https://arxiv.org/abs/2505.08158) by Xiannan Huang, Shuhan Qiu (Tongji University, 2025) [code](https://github.com/xiannanhuang/FFDCI)
+50.   [Conformal Prediction for Hierarchical Data](https://arxiv.org/abs/2411.13479) by Guillaume Principato, Gilles Stoltz, Yvenn Amara-Ouali, Yannig Goude, Bachir Hamrouche, Jean-Michel Poggi (EDF R&D, Universit´e Paris-Saclay, CNRS, Inria, Laboratoire de math´ ematiques d’Orsay,Universit´e Paris Cit´e, France [code](https://github.com/PrincipatoG/Conformal-Prediction-for-Hierarchical-Data)
 
 
 ## Papers Anomaly Detection
@@ -994,6 +995,7 @@ Niccolo` Ajroldia, Jacopo Diquigiovannib, Matteo Fontanac, Simone Vantinia (2022
 8. [Inductive conformal anomaly detection for sequential detection of anomalous sub-trajectories](https://www.researchgate.net/publication/258244052_Inductive_conformal_anomaly_detection_for_sequential_detection_of_anomalous_sub-trajectories) by Rikkard Laxhammar nd Goran Falkman (2013) 
 9. [Conformal Anomaly Detection](https://www.diva-portal.org/smash/get/diva2:690997/FULLTEXT02.pdf) PhD dissertation by Rikkard Laxhammar (University of Skovde, 2012)
 10. [Testing for Outliers with Conformal p-values](https://arxiv.org/abs/2104.08279) by Stephen Bates, Emmanuel Candès, Lihua Lei, Yaniv Romano, Matteo Sesia (Berkeley, Stanford, 2021)
+
 
 
 
