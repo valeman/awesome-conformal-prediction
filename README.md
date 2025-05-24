@@ -928,8 +928,7 @@ University of Pennsylvania, 2025)
 512. [LATTE-MV: Learning to Anticipate Table Tennis Hits from Monocular Videos](https://arxiv.org/abs/2503.20936) by Daniel Etaat, Dvij Kalaria, Nima Rahmanian, Shankar Sastry (Berkeley, 2025) [project](https://sastry-group.github.io/LATTE-MV/) 🔥🔥🔥🔥🔥
 513. [Conformalized-KANs: Uncertainty Quantification with Coverage Guarantees for Kolmogorov-Arnold Networks (KANs) in Scientific Machine Learning](https://arxiv.org/abs/2504.15240) by Amirhossein Mollaali, Christian Bolivar Moya, Amanda A. Howard, Alexander Heinlein, Panos Stinis, Guang Lin (Purdue University, 2025)
 514. [Backward Conformal Prediction](https://arxiv.org/abs/2505.13732) by Etienne Gauthier, Francis Bach, Michael I. Jordan (INRIA, Berkeley, 2025)
-
-
+515. [Unveil Sources of Uncertainty: Feature Contribution to Conformal Prediction Intervals](https://arxiv.org/abs/2505.13118) by Marouane Il Idrissi, Agathe Fernandes Machadoa, Ewen Gallicc, Arthur Charpentiera (Université du Québec à Montréal, Université Laval, Universite de Montréal, Marseille Univ, 2025)
 
 
 ## Papers Time Series
