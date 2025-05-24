@@ -929,6 +929,8 @@ University of Pennsylvania, 2025)
 513. [Conformalized-KANs: Uncertainty Quantification with Coverage Guarantees for Kolmogorov-Arnold Networks (KANs) in Scientific Machine Learning](https://arxiv.org/abs/2504.15240) by Amirhossein Mollaali, Christian Bolivar Moya, Amanda A. Howard, Alexander Heinlein, Panos Stinis, Guang Lin (Purdue University, 2025)
 514. [Backward Conformal Prediction](https://arxiv.org/abs/2505.13732) by Etienne Gauthier, Francis Bach, Michael I. Jordan (INRIA, Berkeley, 2025)
 515. [Unveil Sources of Uncertainty: Feature Contribution to Conformal Prediction Intervals](https://arxiv.org/abs/2505.13118) by Marouane Il Idrissi, Agathe Fernandes Machadoa, Ewen Gallicc, Arthur Charpentiera (Université du Québec à Montréal, Université Laval, Universite de Montréal, Marseille Univ, 2025)
+516. [Synthetic-Powered Predictive Inference](https://arxiv.org/abs/2505.13432) by Meshi Bashari, Roy Maor Lotan, Yonghoon Lee, Edgar Dobriban, Yaniv Romano (Technion, The Wharton School, University of Pennsylvania, 2025).
+
 
 
 ## Papers Time Series
