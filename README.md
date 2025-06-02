@@ -932,6 +932,8 @@ University of Pennsylvania, 2025)
 515. [Unveil Sources of Uncertainty: Feature Contribution to Conformal Prediction Intervals](https://arxiv.org/abs/2505.13118) by Marouane Il Idrissi, Agathe Fernandes Machadoa, Ewen Gallicc, Arthur Charpentiera (Université du Québec à Montréal, Université Laval, Universite de Montréal, Marseille Univ, 2025)
 516. [Synthetic-Powered Predictive Inference](https://arxiv.org/abs/2505.13432) by Meshi Bashari, Roy Maor Lotan, Yonghoon Lee, Edgar Dobriban, Yaniv Romano (Technion, The Wharton School, University of Pennsylvania, 2025).
 517. [Extreme Conformal Prediction: Reliable Intervals for High-Impact Events](https://arxiv.org/abs/2505.08578) by Olivier C. Pasche, Henry Lam, Sebastian Engelke (University of Geneva, Columbia University, 2025).
+518. [STACI: Spatio-Temporal Aleatoric Conformal Inference](https://arxiv.org/abs/2505.21658) by Brandon R. Feng, David Keetae Park, Xihaier Luo, Arantxa
+Urdangarin, Shinjae Yoo, and Brian J. Reich (North Carolina State University, Brookhaven National Laboratory. 2025) 
 
 
 
