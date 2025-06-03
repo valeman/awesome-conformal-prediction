@@ -934,7 +934,8 @@ University of Pennsylvania, 2025)
 516. [Synthetic-Powered Predictive Inference](https://arxiv.org/abs/2505.13432) by Meshi Bashari, Roy Maor Lotan, Yonghoon Lee, Edgar Dobriban, Yaniv Romano (Technion, The Wharton School, University of Pennsylvania, 2025).
 517. [Extreme Conformal Prediction: Reliable Intervals for High-Impact Events](https://arxiv.org/abs/2505.08578) by Olivier C. Pasche, Henry Lam, Sebastian Engelke (University of Geneva, Columbia University, 2025).
 518. [STACI: Spatio-Temporal Aleatoric Conformal Inference](https://arxiv.org/abs/2505.21658) by Brandon R. Feng, David Keetae Park, Xihaier Luo, Arantxa
-Urdangarin, Shinjae Yoo, and Brian J. Reich (North Carolina State University, Brookhaven National Laboratory. 2025) 
+Urdangarin, Shinjae Yoo, and Brian J. Reich (North Carolina State University, Brookhaven National Laboratory. 2025)
+519. [JAPAN: Joint Adaptive Prediction Areas with Normalising-Flows](https://arxiv.org/abs/2505.23196) by Eshant English, Christoph Lippert (Hasso Plattner Institute for Digital Engineering, Germany; University of Tokyo, Tokyo, Japan, 2025)
 
 
 
