@@ -928,14 +928,23 @@ University of Pennsylvania, 2025)
 510. [Minimum Volume Conformal Sets for Multivariate Regression](https://arxiv.org/abs/2503.19068) by Sacha Braun, Liviu Aolaritei, Michael I. Jordan, Francis Bach (Inria, Berkeley) (2025)
 511. [Unifying Different Theories of Conformal Prediction](https://arxiv.org/abs/2504.02292) by Rina Foygel Barber, Ryan J. Tibshiran (University of Chicago, Berkeley, 2025)  🔥🔥🔥🔥🔥
 512. [LATTE-MV: Learning to Anticipate Table Tennis Hits from Monocular Videos](https://arxiv.org/abs/2503.20936) by Daniel Etaat, Dvij Kalaria, Nima Rahmanian, Shankar Sastry (Berkeley, 2025) [project](https://sastry-group.github.io/LATTE-MV/) 🔥🔥🔥🔥🔥
-513. [Conformalized-KANs: Uncertainty Quantification with Coverage Guarantees for Kolmogorov-Arnold Networks (KANs) in Scientific Machine Learning](https://arxiv.org/abs/2504.15240) by Amirhossein Mollaali, Christian Bolivar Moya, Amanda A. Howard, Alexander Heinlein, Panos Stinis, Guang Lin (Purdue University, 2025)
-514. [Backward Conformal Prediction](https://arxiv.org/abs/2505.13732) by Etienne Gauthier, Francis Bach, Michael I. Jordan (INRIA, Berkeley, 2025)
-515. [Unveil Sources of Uncertainty: Feature Contribution to Conformal Prediction Intervals](https://arxiv.org/abs/2505.13118) by Marouane Il Idrissi, Agathe Fernandes Machadoa, Ewen Gallicc, Arthur Charpentiera (Université du Québec à Montréal, Université Laval, Universite de Montréal, Marseille Univ, 2025)
+513. [Conformalized-KANs: Uncertainty Quantification with Coverage Guarantees for Kolmogorov-Arnold Networks (KANs) in Scientific Machine Learning] 🔥🔥🔥🔥🔥(https://arxiv.org/abs/2504.15240) by Amirhossein Mollaali, Christian Bolivar Moya, Amanda A. Howard, Alexander Heinlein, Panos Stinis, Guang Lin (Purdue University, 2025)
+514. [Backward Conformal Prediction](https://arxiv.org/abs/2505.13732) by Etienne Gauthier, Francis Bach, Michael I. Jordan (INRIA, Berkeley, 2025) 🔥🔥🔥🔥🔥
+515. [Unveil Sources of Uncertainty: Feature Contribution to Conformal Prediction Intervals](https://arxiv.org/abs/2505.13118) by Marouane Il Idrissi, Agathe Fernandes Machadoa, Ewen Gallicc, Arthur Charpentiera (Université du Québec à Montréal, Université Laval, Universite de Montréal, Marseille Univ, 2025) 🔥🔥🔥🔥🔥
 516. [Synthetic-Powered Predictive Inference](https://arxiv.org/abs/2505.13432) by Meshi Bashari, Roy Maor Lotan, Yonghoon Lee, Edgar Dobriban, Yaniv Romano (Technion, The Wharton School, University of Pennsylvania, 2025).
-517. [Extreme Conformal Prediction: Reliable Intervals for High-Impact Events](https://arxiv.org/abs/2505.08578) by Olivier C. Pasche, Henry Lam, Sebastian Engelke (University of Geneva, Columbia University, 2025).
+517. [Extreme Conformal Prediction: Reliable Intervals for High-Impact Events](https://arxiv.org/abs/2505.08578) by Olivier C. Pasche, Henry Lam, Sebastian Engelke (University of Geneva, Columbia University, 2025). 🔥🔥🔥🔥🔥
 518. [STACI: Spatio-Temporal Aleatoric Conformal Inference](https://arxiv.org/abs/2505.21658) by Brandon R. Feng, David Keetae Park, Xihaier Luo, Arantxa
-Urdangarin, Shinjae Yoo, and Brian J. Reich (North Carolina State University, Brookhaven National Laboratory. 2025)
+Urdangarin, Shinjae Yoo, and Brian J. Reich (North Carolina State University, Brookhaven National Laboratory. 2025) 🔥🔥🔥🔥🔥
 519. [JAPAN: Joint Adaptive Prediction Areas with Normalising-Flows](https://arxiv.org/abs/2505.23196) by Eshant English, Christoph Lippert (Hasso Plattner Institute for Digital Engineering, Germany; University of Tokyo, Tokyo, Japan, 2025)
+520. [Semi-Supervised Conformal Prediction With Unlabeled Nonconformity Score](https://arxiv.org/abs/2505.21147) by Xuanning Zhou, Hao Zeng, Xiaobo Xia, Bingyi Jing, Hongxin Wei (Southern University of Science and Technology, Harbin Institute of Technology, National University of Singapore, 2025). 🔥🔥🔥🔥🔥
+521. [Deep Learning-Based BMD Estimation from Radiographs with Conformal Uncertainty Quantification](https://arxiv.org/abs/2505.22551) by Long Hui, Wai Lok Yeung (2025)
+522. [Risk-Sensitive Conformal Prediction for Catheter Placement Detection in Chest X-rays](https://arxiv.org/abs/2505.22551) by Long Hui (Independent Researcher, 2025)
+523. [Individualised Counterfactual Examples Using Conformal Prediction Intervals](https://arxiv.org/abs/2505.22326) by James M. Adams, Gesine Reinert, Lukasz Szpruch, Carsten Maple, Andrew Elliott (The Alan Turing Institute, University of Oxford, University Of Edinburgh, University Of Warwick, University,  United Kingdom 2025).
+524. [CP-Router: An Uncertainty-Aware Router Between LLM and LRM](https://arxiv.org/abs/2505.19970) by Jiayuan Su, Fulin Lin, Zhaopeng Feng, Han Zheng, Teng Wang, Zhenyu Xiao, Xinlong Zhao, Zuozhu Liu, Lu Cheng, Hongwei Wang (Zhejiang University, 2University of Hong Kong, Tsinghua University, Peking University, University of Illinois Chicago, 2025) 🔥🔥🔥🔥🔥
+525. [A Modern Theory of Cross-Validation through the Lens of Stability](https://arxiv.org/abs/2505.23592) by Jing Lei, Carnegie Mellon, 2025. 🔥🔥🔥🔥🔥
+526. [WQLCP: Weighted Adaptive Conformal Prediction for Robust Uncertainty Quantification Under Distribution Shifts](https://arxiv.org/abs/2505.19587) by Shadi Alijani, Homayoun Najjaran, University of Victoria, Canada, 2025 
+
+ 
 
 
 
@@ -991,6 +1000,8 @@ Niccolo` Ajroldia, Jacopo Diquigiovannib, Matteo Fontanac, Simone Vantinia (2022
 48.   [Flow-based Conformal Prediction for Multi-dimensional Time Series](https://arxiv.org/abs/2502.05709) by Junghwan Lee, Chen Xu, Yao Xie (Georgia Tech, 2025) [code](https://github.com/Jayaos/flow_cp)
 49.   [Feature Fitted Online Conformal Prediction for Deep Time Series Forecasting Model](https://arxiv.org/abs/2505.08158) by Xiannan Huang, Shuhan Qiu (Tongji University, 2025) [code](https://github.com/xiannanhuang/FFDCI)
 50.   [Conformal Prediction for Hierarchical Data](https://arxiv.org/abs/2411.13479) by Guillaume Principato, Gilles Stoltz, Yvenn Amara-Ouali, Yannig Goude, Bachir Hamrouche, Jean-Michel Poggi (EDF R&D, Universit´e Paris-Saclay, CNRS, Inria, Laboratoire de math´ ematiques d’Orsay,Universit´e Paris Cit´e, France [code](https://github.com/PrincipatoG/Conformal-Prediction-for-Hierarchical-Data)
+51. [STACI: Spatio-Temporal Aleatoric Conformal Inference](https://arxiv.org/abs/2505.21658) by Brandon R. Feng, David Keetae Park, Xihaier Luo, Arantxa
+Urdangarin, Shinjae Yoo, and Brian J. Reich (North Carolina State University, Brookhaven National Laboratory. 2025)
 
 
 ## Papers Anomaly Detection
