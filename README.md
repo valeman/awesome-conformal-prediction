@@ -201,7 +201,8 @@ for probabilistic wind-speed forecasting](https://lup.lub.lu.se/luur/download?fu
 46. [On uncertainty in natural language processing](https://arxiv.org/abs/2410.03446) by Dennis Ulmer, Uiversity of Copenhagen (2024)
 47. [Improving Uncertainty Quantification in Regression Problems through Conformal Training](https://www.mlmi.eng.cam.ac.uk/files/2022_-_2023_dissertations/improving_uncertainty_quantification_in_regression_problems.pdf) by Johannes Vallikivi, Cambridge (2023)
 48. [Automatic Adaptive Conformal Inference for Time Series](https://lms.hse.ru/ap_service.php?getwork=1&guid=F7F1BECC-9EAD-4FD4-A4EC-23324FE3F2D2) by Artem Makhin (Skoltech, 2024).
-49. [Conformal Prediction: A Review and an Application in Deep Learning-based Image Classification](https://escholarship.mcgill.ca/downloads/ww72bj62q?locale=en) by Tianyu Wang (McGill University, 2024) 
+49. [Conformal Prediction: A Review and an Application in Deep Learning-based Image Classification](https://escholarship.mcgill.ca/downloads/ww72bj62q?locale=en) by Tianyu Wang (McGill University, 2024)
+50. [Assumption-Lean Approaches to Modern Statistical Inference](https://knowledge.uchicago.edu/record/15060?ln=en&v=pdf#files) by Rohan Hore (University of Chicago, 2025).
 
 ## Tutorials
 
