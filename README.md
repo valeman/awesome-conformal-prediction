@@ -947,6 +947,21 @@ Urdangarin, Shinjae Yoo, and Brian J. Reich (North Carolina State University, Br
 528. [Conformal Prediction for Uncertainty Estimation in Drug-Target Interaction Prediction](by Morteza Rakhshaninejad, Mira Jurgens, Nicolas Dewolf, Willem Waegeman, Ghent University, 2025).
 529. [Prediction of the classification, labelling and packaging regulation H-statements with confidence using conformal prediction with N-grams and molecular fingerprints])(https://www.sciencedirect.com/science/article/pii/S2666027X25000283) by Ulf Norinder, Ziye Zheng, Ian Cotgreave ( Stockholm University, Orebro University, Research Institute of Sweden (RISE), 2025)
 530. [Stacked conformal prediction](https://arxiv.org/abs/2505.12578) by Paulo C. Marques F (Insper Institute of Education and Research, Brazil, 2025) 🔥🔥🔥🔥🔥
+531. [Robust Vision-Based Runway Detection through Conformal Prediction and Conformal mAP](https://arxiv.org/abs/2505.16740) by Alya Zouzou, Léo andéol, Mélanie Ducoffe, Ryma Boumazouza (Airbus, SNCF, IRT Saint Exupery, France, 2025).
+532. [Predicate-Conditional Conformalized Answer Sets for Knowledge Graph Embeddings](https://arxiv.org/abs/2505.16877) by Yuqicheng Zhu, Daniel Hernández, Yuan He, Zifeng Ding, Bo Xiong, Evgeny Kharlamov, Steffen Staab (University of Stuttgart, Bosch Center for AI; University of Oxford, University of Cambridge, Stanford University,
+University of Oslo, University of Southampton, 2025).
+533. [Multivariate Latent Recalibration for Conditional Normalizing Flows](https://arxiv.org/abs/2505.16636) by Victor Dheur, Souhaib Ben Taieb (University of Mons, Belgium, Mohamed bin Zayed University of Artificial Intelligence Abu Dhabi, United Arab Emirates, 2025).
+534. [Unveil Sources of Uncertainty: Feature Contribution to Conformal Prediction Intervals](https://arxiv.org/abs/2505.13118) by Marouane Idrissi, Agathe Fernandes Machado, Ewen Gallic, Arthur Charpentier (Université du Québec à Montréal, Université Laval,Université de Montréal, Aix Marseille Univ, 2025) 🔥🔥🔥🔥🔥
+535. [Conformalized Decision Risk Assessment](https://arxiv.org/abs/2505.13243) by Wenbin Zhou, Agni Orfanoudaki, Shixiang Zhu (Carnegie Mellon University
+University of Oxford, 2025)
+536. [CONSIGN: Conformal Segmentation Informed by Spatial Groupings via Decomposition](https://arxiv.org/abs/2505.14113) by Bruno Viti, Elias Karabelas, Martin Holler (University of Graz, Austria, 2025)
+537. [Domain Adaptive Skin Lesion Classification via Conformal Ensemble of Vision Transformers](https://arxiv.org/abs/2505.15997) by Mehran Zoravar, Shadi Alijani, Homayoun Najjaran (University of Victoria, Canada, 2025).
+538. [Privacy-Preserving Conformal Prediction Under Local Differential Privacy](https://arxiv.org/abs/2505.15721) by Coby Penso, Bar Mahpud, Jacob Goldberger, Or Sheffet (Bar-Ilan University, 2025).
+539. [Synthetic-Powered Predictive Inference](https://arxiv.org/abs/2505.13432) by Meshi Bashari, Roy Maor Lotan, Yonghoon Lee, Edgar Dobriban, Yaniv Romano (Technion IIT, The Wharton School, University of Pennsylvania, 2025) 🔥🔥🔥🔥🔥
+
+
+
+
 
 
 
