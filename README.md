@@ -942,9 +942,12 @@ Urdangarin, Shinjae Yoo, and Brian J. Reich (North Carolina State University, Br
 523. [Individualised Counterfactual Examples Using Conformal Prediction Intervals](https://arxiv.org/abs/2505.22326) by James M. Adams, Gesine Reinert, Lukasz Szpruch, Carsten Maple, Andrew Elliott (The Alan Turing Institute, University of Oxford, University Of Edinburgh, University Of Warwick, University,  United Kingdom 2025).
 524. [CP-Router: An Uncertainty-Aware Router Between LLM and LRM](https://arxiv.org/abs/2505.19970) by Jiayuan Su, Fulin Lin, Zhaopeng Feng, Han Zheng, Teng Wang, Zhenyu Xiao, Xinlong Zhao, Zuozhu Liu, Lu Cheng, Hongwei Wang (Zhejiang University, 2University of Hong Kong, Tsinghua University, Peking University, University of Illinois Chicago, 2025) 🔥🔥🔥🔥🔥
 525. [A Modern Theory of Cross-Validation through the Lens of Stability](https://arxiv.org/abs/2505.23592) by Jing Lei, Carnegie Mellon, 2025. 🔥🔥🔥🔥🔥
-526. [WQLCP: Weighted Adaptive Conformal Prediction for Robust Uncertainty Quantification Under Distribution Shifts](https://arxiv.org/abs/2505.19587) by Shadi Alijani, Homayoun Najjaran, University of Victoria, Canada, 2025 
+526. [WQLCP: Weighted Adaptive Conformal Prediction for Robust Uncertainty Quantification Under Distribution Shifts](https://arxiv.org/abs/2505.19587) by Shadi Alijani, Homayoun Najjaran, University of Victoria, Canada, 2025
+527. [Optimal Conformal Prediction under Epistemic Uncertainty](https://arxiv.org/abs/2505.19033) by Alireza Javanmardi, Soroush H. Zargarbashi, Santo M. A. R. Thies, Willem Waegeman, Aleksandar Bojchevski, Eyke Hüllermeier (LMU Munich, MCML, CISPA, University of Cologn, Ghent University, 2025)
+528. [Conformal Prediction for Uncertainty Estimation in Drug-Target Interaction Prediction](by Morteza Rakhshaninejad, Mira Jurgens, Nicolas Dewolf, Willem Waegeman, Ghent University, 2025).
+529. [Prediction of the classification, labelling and packaging regulation H-statements with confidence using conformal prediction with N-grams and molecular fingerprints])(https://www.sciencedirect.com/science/article/pii/S2666027X25000283) by Ulf Norinder, Ziye Zheng, Ian Cotgreave ( Stockholm University, Orebro University, Research Institute of Sweden (RISE), 2025)
+530. [Stacked conformal prediction](https://arxiv.org/abs/2505.12578) by Paulo C. Marques F (Insper Institute of Education and Research, Brazil, 2025) 🔥🔥🔥🔥🔥
 
- 
 
 
 
