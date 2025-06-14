@@ -959,7 +959,7 @@ University of Oxford, 2025)
 538. [Privacy-Preserving Conformal Prediction Under Local Differential Privacy](https://arxiv.org/abs/2505.15721) by Coby Penso, Bar Mahpud, Jacob Goldberger, Or Sheffet (Bar-Ilan University, 2025).
 539. [Synthetic-Powered Predictive Inference](https://arxiv.org/abs/2505.13432) by Meshi Bashari, Roy Maor Lotan, Yonghoon Lee, Edgar Dobriban, Yaniv Romano (Technion IIT, The Wharton School, University of Pennsylvania, 2025) 🔥🔥🔥🔥🔥
 540. [Improving Coverage in Combined Prediction Sets with Weighted p-values](https://arxiv.org/abs/2505.11785) by Gina Wong, Drew Prinster, Suchi Saria, Rama Chellappa, Anqi Liu (Johns Hopkins University. 2025) 🔥🔥🔥🔥🔥
-542. 
+542. [Conformal Prediction for Zero-Shot Models](https://openaccess.thecvf.com/content/CVPR2025/html/Silva-Rodriguez_Conformal_Prediction_for_Zero-Shot_Models_CVPR_2025_paper.html) by Julio Silva-Rodríguez, Ismail Ben Ayed, Jose Dolz [code](https://github.com/jusiro/CLIP-Conformal)
 
 
 
