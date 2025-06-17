@@ -1,5 +1,7 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/valeman/awesome-conformal-prediction?style=social)
 
+<a href="https://www.buymeacoffee.com/valeman" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 # Awesome Conformal Prediction [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![DOI](https://zenodo.org/badge/436989758.svg)](https://zenodo.org/badge/latestdoi/436989758)
 
 ![Applied Conformal Prediction course](Applied_Conformal_Prediction_course.png)
