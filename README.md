@@ -963,6 +963,7 @@ University of Oxford, 2025)
 540. [Improving Coverage in Combined Prediction Sets with Weighted p-values](https://arxiv.org/abs/2505.11785) by Gina Wong, Drew Prinster, Suchi Saria, Rama Chellappa, Anqi Liu (Johns Hopkins University. 2025) 🔥🔥🔥🔥🔥
 542. [Conformal Prediction for Zero-Shot Models](https://openaccess.thecvf.com/content/CVPR2025/html/Silva-Rodriguez_Conformal_Prediction_for_Zero-Shot_Models_CVPR_2025_paper.html) by Julio Silva-Rodríguez, Ismail Ben Ayed, Jose Dolz [code](https://github.com/jusiro/CLIP-Conformal)
 543. [On Temperature Scaling and Conformal Prediction of Deep Classifiers](https://arxiv.org/abs/2402.05806) by Lahav Dabah,Tom Tirer (Bar-Ilan University, 2025) [code](https://github.com/lahavdabah/TS4CP)  🔥🔥🔥🔥🔥
+544. [Gaussian process interpolation with conformal prediction: methods and comparative analysis](https://arxiv.org/abs/2407.08271) by Aurélien Pion, Emmanuel Vazquez (Université Paris-Saclay, Transvalor S.A.,France) 🔥🔥🔥🔥🔥 [code](https://github.com/gpmp-dev/lod2024-conformal)
 
 
 
