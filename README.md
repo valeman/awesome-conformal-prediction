@@ -205,6 +205,7 @@ for probabilistic wind-speed forecasting](https://lup.lub.lu.se/luur/download?fu
 48. [Automatic Adaptive Conformal Inference for Time Series](https://lms.hse.ru/ap_service.php?getwork=1&guid=F7F1BECC-9EAD-4FD4-A4EC-23324FE3F2D2) by Artem Makhin (Skoltech, 2024).
 49. [Conformal Prediction: A Review and an Application in Deep Learning-based Image Classification](https://escholarship.mcgill.ca/downloads/ww72bj62q?locale=en) by Tianyu Wang (McGill University, 2024)
 50. [Assumption-Lean Approaches to Modern Statistical Inference](https://knowledge.uchicago.edu/record/15060?ln=en&v=pdf#files) by Rohan Hore (University of Chicago, 2025).
+51. [Uncertainty Quantification in Predicting Kinase Inhibitor Families: A Conformal Prediction Approach on Cell Painting Data](https://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1974677&dswid=1104) by Sofia Hernández Valenzuela (Uppsala University, 2025)
 
 ## Tutorials
 
