@@ -968,13 +968,6 @@ University of Oxford, 2025)
 545. [E-Values Expand the Scope of Conformal Prediction](https://arxiv.org/abs/2503.13050) by Etienne Gauthier, Francis Bach, Michael I. Jordan (Inria, Berkeley, 2025) [code](https://github.com/GauthierE/evalues-expand-cp)
 
 
-
-
-
-
-
-
-
 ## Papers Time Series
 
 1. [Conformal prediction interval for dynamic time-series](https://proceedings.mlr.press/v139/xu21h.html) by Chen Xu, Yao Xie (Georgia Tech, 2021) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥 [Python Code](https://github.com/hamrel-cxu/EnbPI) [Video](https://vimeo.com/583595474) [Video ICML2021](https://papertalk.org/papertalks/32044)
@@ -1041,10 +1034,6 @@ Urdangarin, Shinjae Yoo, and Brian J. Reich (North Carolina State University, Br
 8. [Inductive conformal anomaly detection for sequential detection of anomalous sub-trajectories](https://www.researchgate.net/publication/258244052_Inductive_conformal_anomaly_detection_for_sequential_detection_of_anomalous_sub-trajectories) by Rikkard Laxhammar nd Goran Falkman (2013) 
 9. [Conformal Anomaly Detection](https://www.diva-portal.org/smash/get/diva2:690997/FULLTEXT02.pdf) PhD dissertation by Rikkard Laxhammar (University of Skovde, 2012)
 10. [Testing for Outliers with Conformal p-values](https://arxiv.org/abs/2104.08279) by Stephen Bates, Emmanuel Candès, Lihua Lei, Yaniv Romano, Matteo Sesia (Berkeley, Stanford, 2021)
-
-
-
-
 
 ## Presentation Slides
 1. [Machine Learning for Probabilistic Prediction, Seattle Artificial Intelligence Workshops Meetup](https://www.researchgate.net/publication/371566526_Machine_Learning_for_Probabilistic_Prediction) by Valery Manokhin, 2023 🔥🔥🔥🔥🔥
@@ -1223,7 +1212,7 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 6. [ConformaSight Global Explainer Package 📦](https://github.com/rabia174/ConformaSight) by Fatıma Rabia Yapıcıoğlu (2025)
 7. [unquad - Conformal Anomaly Detection](https://github.com/OliverHennhoefer/unquad) 🔥🔥🔥🔥🔥
 8. [Puncc (Predictive uncertainty calibration and conformalization)](https://github.com/deel-ai/puncc) [paper](https://proceedings.mlr.press/v204/mendil23a/mendil23a.pdf) [slides](https://copa-conference.com/presentations/COPA_2023_mouhcine_mendil_puncc.pdf) 🔥🔥🔥🔥🔥
-9.  [Nixtla mlforecast](https://nixtla.github.io/mlforecast/docs/prediction_intervals.html#references) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+9. [Nixtla mlforecast](https://nixtlaverse.nixtla.io/mlforecast/) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 10.   [Nixtla statsforecast](https://nixtla.github.io/statsforecast/docs/tutorials/conformalprediction.html#introduction) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 11.    [Conformal Impact](https://github.com/tblume1992/ConformalImpact) by Tyler Blume (2024) 🔥🔥🔥🔥🔥
 10.[Nonconformist](https://github.com/donlnz/nonconformist) by Henrik Linusson (2015) 🚨 The library does not seem to be actively maintained 
