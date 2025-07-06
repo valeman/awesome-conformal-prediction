@@ -966,7 +966,7 @@ University of Oxford, 2025)
 543. [On Temperature Scaling and Conformal Prediction of Deep Classifiers](https://arxiv.org/abs/2402.05806) by Lahav Dabah,Tom Tirer (Bar-Ilan University, 2025) [code](https://github.com/lahavdabah/TS4CP)  🔥🔥🔥🔥🔥
 544. [Gaussian process interpolation with conformal prediction: methods and comparative analysis](https://arxiv.org/abs/2407.08271) by Aurélien Pion, Emmanuel Vazquez (Université Paris-Saclay, Transvalor S.A.,France) 🔥🔥🔥🔥🔥 [code](https://github.com/gpmp-dev/lod2024-conformal)
 545. [E-Values Expand the Scope of Conformal Prediction](https://arxiv.org/abs/2503.13050) by Etienne Gauthier, Francis Bach, Michael I. Jordan (Inria, Berkeley, 2025) [code](https://github.com/GauthierE/evalues-expand-cp)
-
+546. [One Sample is Enough to Make Conformal Prediction Robust](https://www.arxiv.org/abs/2506.16553) by Soroush H. Zargarbashi, Mohammad Sadegh Akhondzadeh, Aleksandar Bojchevski (CISPA Helmholtz Center for Information Security, University of Cologne, 2025).
 
 ## Papers Time Series
 
