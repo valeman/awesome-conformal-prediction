@@ -967,6 +967,7 @@ University of Oxford, 2025)
 544. [Gaussian process interpolation with conformal prediction: methods and comparative analysis](https://arxiv.org/abs/2407.08271) by Aurélien Pion, Emmanuel Vazquez (Université Paris-Saclay, Transvalor S.A.,France) 🔥🔥🔥🔥🔥 [code](https://github.com/gpmp-dev/lod2024-conformal)
 545. [E-Values Expand the Scope of Conformal Prediction](https://arxiv.org/abs/2503.13050) by Etienne Gauthier, Francis Bach, Michael I. Jordan (Inria, Berkeley, 2025) [code](https://github.com/GauthierE/evalues-expand-cp)
 546. [One Sample is Enough to Make Conformal Prediction Robust](https://www.arxiv.org/abs/2506.16553) by Soroush H. Zargarbashi, Mohammad Sadegh Akhondzadeh, Aleksandar Bojchevski (CISPA Helmholtz Center for Information Security, University of Cologne, 2025).
+547. [Foundation models for time series forecasting: Application in conformal prediction](https://arxiv.org/abs/2507.08858) by Sami Achour, Yassine Bouher, Duong Nguyen, Nicolas Chesneau (Ekimetrics, Ecole Polytechnique, 2025) [code](https://github.com/ekimetrics/ts-genai-conformal) 
 
 ## Papers Time Series
 
@@ -1019,8 +1020,9 @@ Niccolo` Ajroldia, Jacopo Diquigiovannib, Matteo Fontanac, Simone Vantinia (2022
 48.   [Flow-based Conformal Prediction for Multi-dimensional Time Series](https://arxiv.org/abs/2502.05709) by Junghwan Lee, Chen Xu, Yao Xie (Georgia Tech, 2025) [code](https://github.com/Jayaos/flow_cp)
 49.   [Feature Fitted Online Conformal Prediction for Deep Time Series Forecasting Model](https://arxiv.org/abs/2505.08158) by Xiannan Huang, Shuhan Qiu (Tongji University, 2025) [code](https://github.com/xiannanhuang/FFDCI)
 50.   [Conformal Prediction for Hierarchical Data](https://arxiv.org/abs/2411.13479) by Guillaume Principato, Gilles Stoltz, Yvenn Amara-Ouali, Yannig Goude, Bachir Hamrouche, Jean-Michel Poggi (EDF R&D, Universit´e Paris-Saclay, CNRS, Inria, Laboratoire de math´ ematiques d’Orsay,Universit´e Paris Cit´e, France [code](https://github.com/PrincipatoG/Conformal-Prediction-for-Hierarchical-Data)
-51. [STACI: Spatio-Temporal Aleatoric Conformal Inference](https://arxiv.org/abs/2505.21658) by Brandon R. Feng, David Keetae Park, Xihaier Luo, Arantxa
-Urdangarin, Shinjae Yoo, and Brian J. Reich (North Carolina State University, Brookhaven National Laboratory. 2025)
+51. [STACI: Spatio-Temporal Aleatoric Conformal Inference](https://arxiv.org/abs/2505.21658) by Brandon R. Feng, David Keetae Park, Xihaier Luo, Arantxa Urdangarin, Shinjae Yoo, and Brian J. Reich (North Carolina State University, Brookhaven National Laboratory. 2025)
+52. [Foundation models for time series forecasting: Application in conformal prediction](https://arxiv.org/abs/2507.08858) by Sami Achour, Yassine Bouher, Duong Nguyen, Nicolas Chesneau (Ekimetrics, Ecole Polytechnique, 2025) [code](https://github.com/ekimetrics/ts-genai-conformal) 
+
 
 
 ## Papers Anomaly Detection
