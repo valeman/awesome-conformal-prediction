@@ -1252,6 +1252,7 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 39. [confopt - A Library for Conformal Hyperparameter Tuning](https://github.com/rick12000/confopt) by Ricardo Doyle (2024) [paper](https://arxiv.org/abs/2207.03017) 🔥🔥🔥🔥🔥
 40. [crepes-weighted Extension of crepes package, to enable weighted conformal prediction and conformal predictive systems that can handle covariate shifts](https://github.com/predict-idlab/crepes-weighted 🔥🔥🔥🔥🔥
 41. [pearsonify - Lightweight Python package for generating classification intervals in binary classification tasks using Pearson residuals and conformal prediction](https://github.com/xRiskLab/pearsonify) 🔥🔥🔥🔥🔥 (2025)
+42. [HyperConformal: Conformal Prediction for Hyperdimensional Computing](https://github.com/danieleschmidt/HyperConformal)  🔥🔥🔥🔥🔥 (2025)
 
 
 ## R
