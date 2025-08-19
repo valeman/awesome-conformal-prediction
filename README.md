@@ -207,6 +207,7 @@ for probabilistic wind-speed forecasting](https://lup.lub.lu.se/luur/download?fu
 50. [Assumption-Lean Approaches to Modern Statistical Inference](https://knowledge.uchicago.edu/record/15060?ln=en&v=pdf#files) by Rohan Hore (University of Chicago, 2025).
 51. [Uncertainty Quantification in Predicting Kinase Inhibitor Families: A Conformal Prediction Approach on Cell Painting Data](https://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1974677&dswid=1104) by Sofia Hernández Valenzuela (Uppsala University, 2025)
 52. [Exploring Conformal Prediction for Long Memory Processes](https://github.com/AleCamp/Master-s-Thesis-on-Conformal-Prediction/blob/main/Tesi_Campanella.pdf) MSc thesis by Alessandra Campanella (Sapienza University Rome, 2025)
+53. [Principles of uncertainty in probabilistic machine learning](https://searchworks.stanford.edu/view/in00000451280) PhD Thesis by Charlie Marx (Stanford, 2025).
 
 ## Tutorials
 
