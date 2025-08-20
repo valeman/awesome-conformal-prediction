@@ -972,6 +972,7 @@ University of Oxford, 2025)
 547. [Foundation models for time series forecasting: Application in conformal prediction](https://arxiv.org/abs/2507.08858) by Sami Achour, Yassine Bouher, Duong Nguyen, Nicolas Chesneau (Ekimetrics, Ecole Polytechnique, 2025) [code](https://github.com/ekimetrics/ts-genai-conformal)
 548. [Uncertainty-Aware Predictive Process Monitoring in Healthcare: Explainable Insights into Probability Calibration for Conformal Prediction](
 https://www.mdpi.com/2076-3417/15/14/7925) by Maxim Majlatow, Fahim Ahmed Shakil,  Andreas Emrich and Nijat Mehdiyev (German Research Center for Artificial Intelligence (DFKI), Saarbrücken, Germany; Saarland University, 66123 Saarbrücken, Germany (2025).
+549. [Conformal Bounds on Full-Reference Image Quality for Imaging Inverse Problems](https://arxiv.org/abs/2505.09528) by Jeffrey Wen, Rizwan Ahmad, Philip Schniter (Ohio State University, 2025)
 
 
 ## Papers Time Series
