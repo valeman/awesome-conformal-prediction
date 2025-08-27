@@ -1027,7 +1027,8 @@ Niccolo` Ajroldia, Jacopo Diquigiovannib, Matteo Fontanac, Simone Vantinia (2022
 49.   [Feature Fitted Online Conformal Prediction for Deep Time Series Forecasting Model](https://arxiv.org/abs/2505.08158) by Xiannan Huang, Shuhan Qiu (Tongji University, 2025) [code](https://github.com/xiannanhuang/FFDCI)
 50.   [Conformal Prediction for Hierarchical Data](https://arxiv.org/abs/2411.13479) by Guillaume Principato, Gilles Stoltz, Yvenn Amara-Ouali, Yannig Goude, Bachir Hamrouche, Jean-Michel Poggi (EDF R&D, Universit´e Paris-Saclay, CNRS, Inria, Laboratoire de math´ ematiques d’Orsay,Universit´e Paris Cit´e, France [code](https://github.com/PrincipatoG/Conformal-Prediction-for-Hierarchical-Data)
 51. [STACI: Spatio-Temporal Aleatoric Conformal Inference](https://arxiv.org/abs/2505.21658) by Brandon R. Feng, David Keetae Park, Xihaier Luo, Arantxa Urdangarin, Shinjae Yoo, and Brian J. Reich (North Carolina State University, Brookhaven National Laboratory. 2025)
-52. [Foundation models for time series forecasting: Application in conformal prediction](https://arxiv.org/abs/2507.08858) by Sami Achour, Yassine Bouher, Duong Nguyen, Nicolas Chesneau (Ekimetrics, Ecole Polytechnique, 2025) [code](https://github.com/ekimetrics/ts-genai-conformal) 
+52. [Foundation models for time series forecasting: Application in conformal prediction](https://arxiv.org/abs/2507.08858) by Sami Achour, Yassine Bouher, Duong Nguyen, Nicolas Chesneau (Ekimetrics, Ecole Polytechnique, 2025) [code](https://github.com/ekimetrics/ts-genai-conformal)
+53. [Error-quantified Conformal Inference for Time Series](https://openreview.net/pdf?id=RD9q5vEe1Q) [code](https://github.com/creator-xi/Error-quantified-Conformal-Inference) ICLR 2025 paper by Junxi Wu, Dongjian Hu, Yajie Bao,  Shu-Tao Xia, , Changliang Zou (Nankai University, Tsinghua University) 
 
 
 
