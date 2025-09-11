@@ -4,6 +4,8 @@
 
 # Awesome Conformal Prediction [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![DOI](https://zenodo.org/badge/436989758.svg)](https://zenodo.org/badge/latestdoi/436989758)
 
+The most comprehensive resource hub for Conformal Prediction, Uncertainty Quantification, and Reliable AI.
+
 ![Applied Conformal Prediction course](Applied_Conformal_Prediction_course.png)
 
 **My course  'Applied Conformal Prediction is now opened for enrollment on Maven 🔥🔥🔥🔥🔥 [enroll into the next cohort here](https://maven.com/valeriy-manokhin/applied-conformal-prediction), [register interest for upcoming cohorts and information here](https://maven.com/forms/2a53e5)** 
