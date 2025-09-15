@@ -10,10 +10,10 @@ The most comprehensive resource hub for Conformal Prediction, Uncertainty Quanti
 
 **My course  'Applied Conformal Prediction is now opened for enrollment on Maven 🔥🔥🔥🔥🔥 [enroll into the next cohort here](https://maven.com/valeriy-manokhin/applied-conformal-prediction), [register interest for upcoming cohorts and information here](https://maven.com/forms/2a53e5)** 
 
-My new book 'Advanced Conformal Prediction: Reliable Uncertainty Quantification for Real-World Machine Learning' can be ordered on Gumroad [**Gumroad**](https://valeman.gumroad.com/l/advancedconformalprediction)
+My new book 'Applied Conformal Prediction: Reliable Uncertainty Quantification for Real-World Machine Learning' can be ordered on Gumroad [**Gumroad**]([https://valeman.gumroad.com/l/advancedconformalprediction](https://valeman.gumroad.com/l/appliedconformalprediction))
 
 
-![Advanced Conformal Prediction: Reliable Uncertainty Quantification for Real-World Machine Learning](https://github.com/valeman/awesome-conformal-prediction/blob/main/gumroad_thumbnail.png)
+![Applied Conformal Prediction: Reliable Uncertainty Quantification for Real-World Machine Learning](https://github.com/valeman/awesome-conformal-prediction/blob/main/gumroad_thumbnail.png)
 
 **Discover the Ultimate Conformal Prediction Resource: All-in-One and Expertly Curated** 🌟 🌟 🌟 🌟 🌟
 
