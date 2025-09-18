@@ -976,6 +976,7 @@ University of Oxford, 2025)
 https://www.mdpi.com/2076-3417/15/14/7925) by Maxim Majlatow, Fahim Ahmed Shakil,  Andreas Emrich and Nijat Mehdiyev (German Research Center for Artificial Intelligence (DFKI), Saarbrücken, Germany; Saarland University, 66123 Saarbrücken, Germany (2025).
 549. [Conformal Bounds on Full-Reference Image Quality for Imaging Inverse Problems](https://arxiv.org/abs/2505.09528) by Jeffrey Wen, Rizwan Ahmad, Philip Schniter (Ohio State University, 2025)
 550. [Conformal Prediction Beyond the Seen: A Missing Mass Perspective for Uncertainty Quantification in Generative Models](https://arxiv.org/abs/2506.05497) by Sima Nooran, Shayan Kiyani, George Pappas, and Hamed Hassani (University of Pennsylvania, 2025)
+551. [Conformal Prediction for Zero-Shot Models](https://arxiv.org/abs/2505.24693) by Julio Silva-Rodríguez, Ismail Ben Ayed, Jose Dolz (ETS Montreal, 2025)
 
 
 ## Papers Time Series
