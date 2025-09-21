@@ -978,7 +978,7 @@ https://www.mdpi.com/2076-3417/15/14/7925) by Maxim Majlatow, Fahim Ahmed Shakil
 549. [Conformal Bounds on Full-Reference Image Quality for Imaging Inverse Problems](https://arxiv.org/abs/2505.09528) by Jeffrey Wen, Rizwan Ahmad, Philip Schniter (Ohio State University, 2025)
 550. [Conformal Prediction Beyond the Seen: A Missing Mass Perspective for Uncertainty Quantification in Generative Models](https://arxiv.org/abs/2506.05497) by Sima Nooran, Shayan Kiyani, George Pappas, and Hamed Hassani (University of Pennsylvania, 2025)
 551. [Conformal Prediction for Zero-Shot Models](https://arxiv.org/abs/2505.24693) by Julio Silva-Rodríguez, Ismail Ben Ayed, Jose Dolz (ETS Montreal, 2025)
-
+552. [Conformal Inference for Reliable Single Cell RNA-seq Annotation Open Access](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btaf521/8257682) by Marcos López-De-Castro,  Alberto García-Galindo,  José González-Gomariz,  Rubén Armañanzas (University of Navarra) [code](https://github.com/digital-medicine-research-group-UNAV/conformalized_single_cell_annotator)
 
 ## Papers Time Series
 
