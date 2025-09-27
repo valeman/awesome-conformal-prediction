@@ -980,6 +980,7 @@ https://www.mdpi.com/2076-3417/15/14/7925) by Maxim Majlatow, Fahim Ahmed Shakil
 551. [Conformal Prediction for Zero-Shot Models](https://arxiv.org/abs/2505.24693) by Julio Silva-Rodríguez, Ismail Ben Ayed, Jose Dolz (ETS Montreal, 2025)
 552. [Conformal Inference for Reliable Single Cell RNA-seq Annotation Open Access](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btaf521/8257682) by Marcos López-De-Castro,  Alberto García-Galindo,  José González-Gomariz,  Rubén Armañanzas (University of Navarra) [code](https://github.com/digital-medicine-research-group-UNAV/conformalized_single_cell_annotator)
 553. [CONFLARE: CONFormal LArge language model REtrieval](https://arxiv.org/abs/2404.04287) by Pouria Rouzrokh, Shahriar Faghani, Cooper U. Gamble, Moein Shariatnia, Bradley J. Erickson (Mayo Clinic, Tehran University of Medical Sciences, 2024). 🔥🔥🔥🔥🔥 best paper award ASFNR2025
+554. [Conformal prediction without knowledge of labeled calibration data](https://arxiv.org/abs/2509.10321) by Jonas Flechsig, Maximilian Pilz (Fraunhofer Institute for Industrial Mathematics, Ohm University of Applied Sciences Nuremberg, 2025) 🔥🔥🔥🔥🔥 
 
 ## Papers Time Series
 
