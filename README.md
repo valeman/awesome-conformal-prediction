@@ -981,7 +981,9 @@ https://www.mdpi.com/2076-3417/15/14/7925) by Maxim Majlatow, Fahim Ahmed Shakil
 551. [Conformal Prediction for Zero-Shot Models](https://arxiv.org/abs/2505.24693) by Julio Silva-Rodríguez, Ismail Ben Ayed, Jose Dolz (ETS Montreal, 2025)
 552. [Conformal Inference for Reliable Single Cell RNA-seq Annotation Open Access](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btaf521/8257682) by Marcos López-De-Castro,  Alberto García-Galindo,  José González-Gomariz,  Rubén Armañanzas (University of Navarra) [code](https://github.com/digital-medicine-research-group-UNAV/conformalized_single_cell_annotator)
 553. [CONFLARE: CONFormal LArge language model REtrieval](https://arxiv.org/abs/2404.04287) by Pouria Rouzrokh, Shahriar Faghani, Cooper U. Gamble, Moein Shariatnia, Bradley J. Erickson (Mayo Clinic, Tehran University of Medical Sciences, 2024). 🔥🔥🔥🔥🔥 best paper award ASFNR2025
-554. [Conformal prediction without knowledge of labeled calibration data](https://arxiv.org/abs/2509.10321) by Jonas Flechsig, Maximilian Pilz (Fraunhofer Institute for Industrial Mathematics, Ohm University of Applied Sciences Nuremberg, 2025) 🔥🔥🔥🔥🔥 
+554. [Conformal prediction without knowledge of labeled calibration data](https://arxiv.org/abs/2509.10321) by Jonas Flechsig, Maximilian Pilz (Fraunhofer Institute for Industrial Mathematics, Ohm University of Applied Sciences Nuremberg, 2025) 🔥🔥🔥🔥🔥
+555.  [Temporal Conformal Prediction (TCP): A Distribution-Free Statistical and Machine Learning Framework for Adaptive Risk Forecasting](https://arxiv.org/abs/2507.05470) by Agnideep Aich, Ashit Baran Aich, Dipak C. Jain (University of Louisiana at Lafayette,
+Louisiana, USA; CEIBS, Shanghai, China) [code](https://arxiv.org/abs/2507.05470) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 
 ## Papers Time Series
 
@@ -1038,6 +1040,8 @@ Niccolo` Ajroldia, Jacopo Diquigiovannib, Matteo Fontanac, Simone Vantinia (2022
 52. [Foundation models for time series forecasting: Application in conformal prediction](https://arxiv.org/abs/2507.08858) by Sami Achour, Yassine Bouher, Duong Nguyen, Nicolas Chesneau (Ekimetrics, Ecole Polytechnique, 2025) [code](https://github.com/ekimetrics/ts-genai-conformal)
 53. [Error-quantified Conformal Inference for Time Series](https://openreview.net/pdf?id=RD9q5vEe1Q) [code](https://github.com/creator-xi/Error-quantified-Conformal-Inference) ICLR 2025 paper by Junxi Wu, Dongjian Hu, Yajie Bao,  Shu-Tao Xia, , Changliang Zou (Nankai University, Tsinghua University)
 54. [Kernel-based Optimally Weighted Conformal Time-Series Prediction](https://openreview.net/forum?id=oP7arLOWix) by Jonghyeok Lee,  Chen Xu, Yao Xie (Georgia Tech, 2025).
+55. [Temporal Conformal Prediction (TCP): A Distribution-Free Statistical and Machine Learning Framework for Adaptive Risk Forecasting](https://arxiv.org/abs/2507.05470) by Agnideep Aich, Ashit Baran Aich, Dipak C. Jain (University of Louisiana at Lafayette,
+Louisiana, USA; CEIBS, Shanghai, China) [code](https://arxiv.org/abs/2507.05470)
 
 
 ## Papers Anomaly Detection
