@@ -984,6 +984,8 @@ https://www.mdpi.com/2076-3417/15/14/7925) by Maxim Majlatow, Fahim Ahmed Shakil
 554. [Conformal prediction without knowledge of labeled calibration data](https://arxiv.org/abs/2509.10321) by Jonas Flechsig, Maximilian Pilz (Fraunhofer Institute for Industrial Mathematics, Ohm University of Applied Sciences Nuremberg, 2025) 🔥🔥🔥🔥🔥
 555.  [Temporal Conformal Prediction (TCP): A Distribution-Free Statistical and Machine Learning Framework for Adaptive Risk Forecasting](https://arxiv.org/abs/2507.05470) by Agnideep Aich, Ashit Baran Aich, Dipak C. Jain (University of Louisiana at Lafayette,
 Louisiana, USA; CEIBS, Shanghai, China) [code](https://arxiv.org/abs/2507.05470) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+556. [Leave-One-Out Stable Conformal Prediction](https://arxiv.org/abs/2504.12189) by Kiljae Lee, Yuan Zhang (The Ohia State University, 2025) [code](https://github.com/valeman/LOO-StabCP)
+
 
 ## Papers Time Series
 
