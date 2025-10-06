@@ -369,6 +369,7 @@ for probabilistic wind-speed forecasting](https://lup.lub.lu.se/luur/download?fu
 108. [Cordier & Lacombe - Boosting AI Reliability: Uncertainty Quantification with MAPIE](https://www.youtube.com/watch?v=h47wmdIZbH4&pp=ygUUY29uZm9ybWFsIHByZWRpY3Rpb24%3D) by Thibault Cordier and Louis Lacombe (2024)
 109. [Understanding, Generating, and Evaluating Prediction Intervals - posit conf 2024](https://www.youtube.com/watch?v=QT3SsD1kTj8) by Bryan Shalloway (2024)
 110. [Install TorchCP Locally - Python Toolbox for Conformal Prediction on Deep Learning Models](https://www.youtube.com/watch?v=kdLnlafHAMI&t=307s) by Fahd Mirza (2024)
+111. [Conformal Prediction: uncertainty quantification to humanise models](https://www.youtube.com/watch?v=EJVD-jU1A44) by Vincenzo Ventriglia (2025) 🔥🔥🔥🔥🔥
      
 ## Papers
 
