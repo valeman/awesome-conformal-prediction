@@ -986,6 +986,9 @@ https://www.mdpi.com/2076-3417/15/14/7925) by Maxim Majlatow, Fahim Ahmed Shakil
 Louisiana, USA; CEIBS, Shanghai, China) [code](https://arxiv.org/abs/2507.05470) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 556. [Leave-One-Out Stable Conformal Prediction](https://arxiv.org/abs/2504.12189) by Kiljae Lee, Yuan Zhang (The Ohia State University, 2025) [code](https://github.com/valeman/LOO-StabCP)
 557.  [Predictive inference for time series: why is split conformal effective despite temporal dependence?](https://arxiv.org/abs/2510.02471) by Rina Foygel Barber, Ashwin Pananjady (University of Chicago, Georgia Tech, 2025) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+558. [Relevance-Aware Thresholding in Online Conformal Prediction for Time Series](https://arxiv.org/abs/2510.02809) by Théo Dupuy, Binbin Xu, Stéphane Perrey, Jacky Montmain, Abdelhak Imoussaten (IMT Mines Ales, 2025) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+
+
 
 
 
@@ -1047,6 +1050,8 @@ Niccolo` Ajroldia, Jacopo Diquigiovannib, Matteo Fontanac, Simone Vantinia (2022
 55. [Temporal Conformal Prediction (TCP): A Distribution-Free Statistical and Machine Learning Framework for Adaptive Risk Forecasting](https://arxiv.org/abs/2507.05470) by Agnideep Aich, Ashit Baran Aich, Dipak C. Jain (University of Louisiana at Lafayette,
 Louisiana, USA; CEIBS, Shanghai, China) [code](https://arxiv.org/abs/2507.05470)
 56. [Predictive inference for time series: why is split conformal effective despite temporal dependence?](https://arxiv.org/abs/2510.02471) by Rina Foygel Barber, Ashwin Pananjady (University of Chicago, Georgia Tech, 2025)
+57. [Relevance-Aware Thresholding in Online Conformal Prediction for Time Series](https://arxiv.org/abs/2510.02809) by Théo Dupuy, Binbin Xu, Stéphane Perrey, Jacky Montmain, Abdelhak Imoussaten (IMT Mines Ales, 2025)
+
 
 
 ## Papers Anomaly Detection
