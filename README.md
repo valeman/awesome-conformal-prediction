@@ -985,6 +985,8 @@ https://www.mdpi.com/2076-3417/15/14/7925) by Maxim Majlatow, Fahim Ahmed Shakil
 555.  [Temporal Conformal Prediction (TCP): A Distribution-Free Statistical and Machine Learning Framework for Adaptive Risk Forecasting](https://arxiv.org/abs/2507.05470) by Agnideep Aich, Ashit Baran Aich, Dipak C. Jain (University of Louisiana at Lafayette,
 Louisiana, USA; CEIBS, Shanghai, China) [code](https://arxiv.org/abs/2507.05470) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 556. [Leave-One-Out Stable Conformal Prediction](https://arxiv.org/abs/2504.12189) by Kiljae Lee, Yuan Zhang (The Ohia State University, 2025) [code](https://github.com/valeman/LOO-StabCP)
+557.  [Predictive inference for time series: why is split conformal effective despite temporal dependence?](https://arxiv.org/abs/2510.02471) by Rina Foygel Barber, Ashwin Pananjady (University of Chicago, Georgia Tech, 2025) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+
 
 
 ## Papers Time Series
@@ -1044,6 +1046,7 @@ Niccolo` Ajroldia, Jacopo Diquigiovannib, Matteo Fontanac, Simone Vantinia (2022
 54. [Kernel-based Optimally Weighted Conformal Time-Series Prediction](https://openreview.net/forum?id=oP7arLOWix) by Jonghyeok Lee,  Chen Xu, Yao Xie (Georgia Tech, 2025).
 55. [Temporal Conformal Prediction (TCP): A Distribution-Free Statistical and Machine Learning Framework for Adaptive Risk Forecasting](https://arxiv.org/abs/2507.05470) by Agnideep Aich, Ashit Baran Aich, Dipak C. Jain (University of Louisiana at Lafayette,
 Louisiana, USA; CEIBS, Shanghai, China) [code](https://arxiv.org/abs/2507.05470)
+56. [Predictive inference for time series: why is split conformal effective despite temporal dependence?](https://arxiv.org/abs/2510.02471) by Rina Foygel Barber, Ashwin Pananjady (University of Chicago, Georgia Tech, 2025)
 
 
 ## Papers Anomaly Detection
