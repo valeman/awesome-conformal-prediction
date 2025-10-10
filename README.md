@@ -988,6 +988,8 @@ Louisiana, USA; CEIBS, Shanghai, China) [code](https://arxiv.org/abs/2507.05470)
 556. [Leave-One-Out Stable Conformal Prediction](https://arxiv.org/abs/2504.12189) by Kiljae Lee, Yuan Zhang (The Ohia State University, 2025) [code](https://github.com/valeman/LOO-StabCP)
 557.  [Predictive inference for time series: why is split conformal effective despite temporal dependence?](https://arxiv.org/abs/2510.02471) by Rina Foygel Barber, Ashwin Pananjady (University of Chicago, Georgia Tech, 2025) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 558. [Relevance-Aware Thresholding in Online Conformal Prediction for Time Series](https://arxiv.org/abs/2510.02809) by Théo Dupuy, Binbin Xu, Stéphane Perrey, Jacky Montmain, Abdelhak Imoussaten (IMT Mines Ales, 2025) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+559. [Split Conformal Classification with Unsupervised Calibration](https://arxiv.org/abs/2510.07185) by Santiago Mazuelas (BCAM-Basque Center for Applied Mathematics
+and IKERBASQUE-Basque Foundation for Science, 2025) [code](https://github.com/MachineLearningBCAM/Unsupervised-conformal-prediction-NeurIPS2025) 🔥🔥🔥🔥🔥
 
 
 
