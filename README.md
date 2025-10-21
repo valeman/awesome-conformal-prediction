@@ -990,6 +990,7 @@ Louisiana, USA; CEIBS, Shanghai, China) [code](https://arxiv.org/abs/2507.05470)
 558. [Relevance-Aware Thresholding in Online Conformal Prediction for Time Series](https://arxiv.org/abs/2510.02809) by Théo Dupuy, Binbin Xu, Stéphane Perrey, Jacky Montmain, Abdelhak Imoussaten (IMT Mines Ales, 2025) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 559. [Split Conformal Classification with Unsupervised Calibration](https://arxiv.org/abs/2510.07185) by Santiago Mazuelas (BCAM-Basque Center for Applied Mathematics
 and IKERBASQUE-Basque Foundation for Science, 2025) [code](https://github.com/MachineLearningBCAM/Unsupervised-conformal-prediction-NeurIPS2025) 🔥🔥🔥🔥🔥
+570. [Prediction Intervals for Model Averaging](https://arxiv.org/abs/2510.16224) by Zhongjun Qu, Wendun Wang, Xiaomeng Zhang (Boston University, Erasmus University Rotterdam, 2025) 🔥🔥🔥🔥🔥
 
 
 
