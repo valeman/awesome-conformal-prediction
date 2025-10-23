@@ -992,6 +992,7 @@ Louisiana, USA; CEIBS, Shanghai, China) [code](https://arxiv.org/abs/2507.05470)
 and IKERBASQUE-Basque Foundation for Science, 2025) [code](https://github.com/MachineLearningBCAM/Unsupervised-conformal-prediction-NeurIPS2025) 🔥🔥🔥🔥🔥
 570. [Prediction Intervals for Model Averaging](https://arxiv.org/abs/2510.16224) by Zhongjun Qu, Wendun Wang, Xiaomeng Zhang (Boston University, Erasmus University Rotterdam, 2025) 🔥🔥🔥🔥🔥
 571. [Enhanced Renewable Energy Forecasting using Context-Aware Conformal Prediction](https://arxiv.org/abs/2510.15780) by Alireza Moradi, Mathieu Tanneau, Reza Zandehshahvar, Pascal Van Hentenryck (Georgia Tech, 2025) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+572. [Conformalized Time Series with Semantic Features](https://proceedings.neurips.cc/paper_files/paper/2024/file/dbfb7b1443583fc7ab87e8b1b4f48c9c-Paper-Conference.pdf) Baiting Chen, Zhimei Ren, Lu Cheng (UCLA, University of Pennsylvania, University of Illinois Chicago, 2025) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 
 
 
@@ -1057,6 +1058,7 @@ Louisiana, USA; CEIBS, Shanghai, China) [code](https://arxiv.org/abs/2507.05470)
 56. [Predictive inference for time series: why is split conformal effective despite temporal dependence?](https://arxiv.org/abs/2510.02471) by Rina Foygel Barber, Ashwin Pananjady (University of Chicago, Georgia Tech, 2025) 🔥🔥🔥🔥🔥
 57. [Relevance-Aware Thresholding in Online Conformal Prediction for Time Series](https://arxiv.org/abs/2510.02809) by Théo Dupuy, Binbin Xu, Stéphane Perrey, Jacky Montmain, Abdelhak Imoussaten (IMT Mines Ales, 2025)
 58. [Enhanced Renewable Energy Forecasting using Context-Aware Conformal Prediction](https://arxiv.org/abs/2510.15780) by Alireza Moradi, Mathieu Tanneau, Reza Zandehshahvar, Pascal Van Hentenryck (Georgia Tech, 2025) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+59. [Conformalized Time Series with Semantic Features](https://proceedings.neurips.cc/paper_files/paper/2024/file/dbfb7b1443583fc7ab87e8b1b4f48c9c-Paper-Conference.pdf) Baiting Chen, Zhimei Ren, Lu Cheng (UCLA, University of Pennsylvania, University of Illinois Chicago, 2025) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 
 
 
