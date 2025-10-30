@@ -1062,6 +1062,9 @@ Louisiana, USA; CEIBS, Shanghai, China) [code](https://arxiv.org/abs/2507.05470)
 58. [Enhanced Renewable Energy Forecasting using Context-Aware Conformal Prediction](https://arxiv.org/abs/2510.15780) by Alireza Moradi, Mathieu Tanneau, Reza Zandehshahvar, Pascal Van Hentenryck (Georgia Tech, 2025) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 59. [Conformalized Time Series with Semantic Features](https://proceedings.neurips.cc/paper_files/paper/2024/file/dbfb7b1443583fc7ab87e8b1b4f48c9c-Paper-Conference.pdf) Baiting Chen, Zhimei Ren, Lu Cheng (UCLA, University of Pennsylvania, University of Illinois Chicago, 2025) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 60. [Relevance-Aware Thresholding in Online Conformal Prediction for Time Series](https://arxiv.org/abs/2510.02809) by Théo Dupuy, Binbin Xu, Stéphane Perrey, Jacky Montmain, Abdelhak Imoussaten (IMT Mines Ales, France) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+61. [Forecasting Melting Points in Svalbard, Norway Using Quantile Gradient Boosting and Adaptive Conformal Prediction Region](https://arxiv.org/abs/2510.23976) by 
+Richard Berk (University of Pennsylvania, 2025)
+
 
 
 
