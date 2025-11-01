@@ -370,6 +370,7 @@ for probabilistic wind-speed forecasting](https://lup.lub.lu.se/luur/download?fu
 109. [Understanding, Generating, and Evaluating Prediction Intervals - posit conf 2024](https://www.youtube.com/watch?v=QT3SsD1kTj8) by Bryan Shalloway (2024)
 110. [Install TorchCP Locally - Python Toolbox for Conformal Prediction on Deep Learning Models](https://www.youtube.com/watch?v=kdLnlafHAMI&t=307s) by Fahd Mirza (2024)
 111. [Conformal Prediction: uncertainty quantification to humanise models](https://www.youtube.com/watch?v=EJVD-jU1A44) by Vincenzo Ventriglia (2025) 🔥🔥🔥🔥🔥
+112. 
      
 ## Papers
 
@@ -994,10 +995,7 @@ and IKERBASQUE-Basque Foundation for Science, 2025) [code](https://github.com/Ma
 571. [Enhanced Renewable Energy Forecasting using Context-Aware Conformal Prediction](https://arxiv.org/abs/2510.15780) by Alireza Moradi, Mathieu Tanneau, Reza Zandehshahvar, Pascal Van Hentenryck (Georgia Tech, 2025) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 572. [Conformalized Time Series with Semantic Features](https://proceedings.neurips.cc/paper_files/paper/2024/file/dbfb7b1443583fc7ab87e8b1b4f48c9c-Paper-Conference.pdf) Baiting Chen, Zhimei Ren, Lu Cheng (UCLA, University of Pennsylvania, University of Illinois Chicago, 2025) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 573. [Non-exchangeable Conformal Prediction with Optimal Transport: Tackling Distribution Shifts with Unlabeled Data](https://arxiv.org/abs/2507.10425) by Alvaro Correia, Christos Louizos (Qualcomm AI Researchl 2025) 🔥🔥🔥🔥🔥
-
-
-
-
+574. [Conformal prediction for frequency-severity modeling](https://arxiv.org/abs/2307.13124) by Helton Graziadei, Paulo C. Marques F., Eduardo F. L. de Melo, Rodrigo S. Targino (Getulio Vargas Foundation, Insper Institute of Education and Research, SUSEP - Superintendence of Private Insurance, UERJ - State University of Rio de Janeiro, 2025) [code](https://github.com/heltongraziadei/conformal-fs) 🔥🔥🔥🔥🔥
 
 
 ## Papers Time Series
