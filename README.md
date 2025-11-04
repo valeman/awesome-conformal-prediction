@@ -996,8 +996,8 @@ and IKERBASQUE-Basque Foundation for Science, 2025) [code](https://github.com/Ma
 572. [Conformalized Time Series with Semantic Features](https://proceedings.neurips.cc/paper_files/paper/2024/file/dbfb7b1443583fc7ab87e8b1b4f48c9c-Paper-Conference.pdf) Baiting Chen, Zhimei Ren, Lu Cheng (UCLA, University of Pennsylvania, University of Illinois Chicago, 2025) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 573. [Non-exchangeable Conformal Prediction with Optimal Transport: Tackling Distribution Shifts with Unlabeled Data](https://arxiv.org/abs/2507.10425) by Alvaro Correia, Christos Louizos (Qualcomm AI Researchl 2025) 🔥🔥🔥🔥🔥
 574. [Conformal prediction for frequency-severity modeling](https://arxiv.org/abs/2307.13124) by Helton Graziadei, Paulo C. Marques F., Eduardo F. L. de Melo, Rodrigo S. Targino (Getulio Vargas Foundation, Insper Institute of Education and Research, SUSEP - Superintendence of Private Insurance, UERJ - State University of Rio de Janeiro, 2025) [code](https://github.com/heltongraziadei/conformal-fs) 🔥🔥🔥🔥🔥
-575. [Are you sure? Measuring models bias in content moderation through uncertainty](https://arxiv.org/abs/2509.22699) by Alessandra Urbinati, Mirko Lai, Simona Frenda, Marco Antonio Stranisci(Northeastern University, Heriot-Watt University, aequa-tech, Torino, Italy; Università del Piemonte Orientale, 2025) 
-
+575. [Are you sure? Measuring models bias in content moderation through uncertainty](https://arxiv.org/abs/2509.22699) by Alessandra Urbinati, Mirko Lai, Simona Frenda, Marco Antonio Stranisci(Northeastern University, Heriot-Watt University, aequa-tech, Torino, Italy; Università del Piemonte Orientale, 2025)
+576. [Residual Distribution Predictive Systems](https://arxiv.org/abs/2510.26914v1) by Sam Allen, Enrico Pescara, Johanna Ziegel (KIT, ETH, 2025) [code](https://github.com/sallen12/RDPS_rep)
 
 ## Papers Time Series
 
