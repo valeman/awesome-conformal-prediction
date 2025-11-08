@@ -211,7 +211,8 @@ for probabilistic wind-speed forecasting](https://lup.lub.lu.se/luur/download?fu
 51. [Uncertainty Quantification in Predicting Kinase Inhibitor Families: A Conformal Prediction Approach on Cell Painting Data](https://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1974677&dswid=1104) by Sofia Hernández Valenzuela (Uppsala University, 2025)
 52. [Exploring Conformal Prediction for Long Memory Processes](https://github.com/AleCamp/Master-s-Thesis-on-Conformal-Prediction/blob/main/Tesi_Campanella.pdf) MSc thesis by Alessandra Campanella (Sapienza University Rome, 2025)
 53. [Principles of uncertainty in probabilistic machine learning](https://searchworks.stanford.edu/view/in00000451280) PhD Thesis by Charlie Marx (Stanford, 2025).
-54. [Uncertainty Estimation in Deep Neural Networks: A Comparative Study of Bayesian Approximation and Conformal Prediction](https://lup.lub.lu.se/student-papers/search/publication/9192215) MSc thesis by Ruijs, Sanne and Kosiakova, Alina (University of Lund, Sweden, 2025). 
+54. [Uncertainty Estimation in Deep Neural Networks: A Comparative Study of Bayesian Approximation and Conformal Prediction](https://lup.lub.lu.se/student-papers/search/publication/9192215) MSc thesis by Ruijs, Sanne and Kosiakova, Alina (University of Lund, Sweden, 2025).
+55. [Conformal Prediction of Individual Treatment Effects under Unmeasured Confounding](https://s-space.snu.ac.kr/handle/10371/228531) MSc thesis by Jaeho Jeong (Seoul National University, 2025).
 
 ## Tutorials
 
