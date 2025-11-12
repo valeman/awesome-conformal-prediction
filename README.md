@@ -247,7 +247,8 @@ for probabilistic wind-speed forecasting](https://lup.lub.lu.se/luur/download?fu
 28. [Uncertainty Quantification (3): From Full to Split Conformal Methods](https://www.youtube.com/watch?v=YigGJfsCjDk) by Mahdi Torabi Rad (2023) 🔥🔥🔥🔥🔥
 29. [Conformal Prediction in Genomics](https://github.com/BiolApps/ConformalPrediction/tree/main) by BiolApps (2023)
 30. [Conformal Prediction: A Visual Introduction](https://conformal-prediction.streamlit.app/) in [VISxAI](https://visxai.io/) by Mihir Agarwal, Lalit Chandra Routhu, Zeel B Patel and Nipun Batra (IIT Gandhinagar, IIT Patna, 2023)
-31. [Conformal Predictions from Scratch in Numpy](https://github.com/joneswack/conformal-predictions-from-scratch) by Jones Wacker (2023) 🔥🔥🔥🔥🔥 
+31. [Conformal Predictions from Scratch in Numpy](https://github.com/joneswack/conformal-predictions-from-scratch) by Jones Wacker (2023) 🔥🔥🔥🔥🔥
+32. [A Tutorial on Distribution-Free Uncertainty Quantification Using Conformal Prediction (psychology)](https://journals.sagepub.com/doi/10.1177/25152459251380452) by Tim Kaiser and Philipp Herzog (Freie Universität Berlin, RPTU University Kaiserslautern-Landau, Germany, 2025).
         
 ## Courses
 1. [Applied Conformal Prediction course starts in May 2024!](https://maven.com/forms/2a53e5) 🔥🔥🔥🔥🔥
