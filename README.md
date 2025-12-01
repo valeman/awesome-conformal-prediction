@@ -1001,6 +1001,7 @@ and IKERBASQUE-Basque Foundation for Science, 2025) [code](https://github.com/Ma
 575. [Are you sure? Measuring models bias in content moderation through uncertainty](https://arxiv.org/abs/2509.22699) by Alessandra Urbinati, Mirko Lai, Simona Frenda, Marco Antonio Stranisci(Northeastern University, Heriot-Watt University, aequa-tech, Torino, Italy; Università del Piemonte Orientale, 2025)
 576. [Residual Distribution Predictive Systems](https://arxiv.org/abs/2510.26914v1) by Sam Allen, Enrico Pescara, Johanna Ziegel (KIT, ETH, 2025) [code](https://github.com/sallen12/RDPS_rep)
 577. [Conformal Information Pursuit for Interactively Guiding Large Language Models](https://arxiv.org/abs/2507.03279) by Kwan Ho Ryan Chan, Yuyan Ge, Edgar Dobriban, Hamed Hassani, René Vidal (University of Pennsylvania, 2025) #LLM 🔥🔥🔥🔥🔥
+578. [Conformal Prediction for Hierarchical Data](https://arxiv.org/abs/2411.13479) by Guillaume Principato, Gilles Stoltz, Yvenn Amara-Ouali, Yannig Goude, Bachir Hamrouche, Jean-Michel Poggi (Université Paris-Saclay, EDF R&D, Inria, Laboratoire de mathématiques d’Orsay, France, 2025) [code](https://github.com/PrincipatoG/Conformal-Prediction-for-Hierarchical-Data) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 
 
 
@@ -1069,7 +1070,7 @@ Louisiana, USA; CEIBS, Shanghai, China) [code](https://arxiv.org/abs/2507.05470)
 60. [Relevance-Aware Thresholding in Online Conformal Prediction for Time Series](https://arxiv.org/abs/2510.02809) by Théo Dupuy, Binbin Xu, Stéphane Perrey, Jacky Montmain, Abdelhak Imoussaten (IMT Mines Ales, France) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 61. [Forecasting Melting Points in Svalbard, Norway Using Quantile Gradient Boosting and Adaptive Conformal Prediction Region](https://arxiv.org/abs/2510.23976) by 
 Richard Berk (University of Pennsylvania, 2025)
-
+62. [Conformal Prediction for Hierarchical Data](https://arxiv.org/abs/2411.13479) by Guillaume Principato, Gilles Stoltz, Yvenn Amara-Ouali, Yannig Goude, Bachir Hamrouche, Jean-Michel Poggi (Université Paris-Saclay, EDF R&D, Inria, Laboratoire de mathématiques d’Orsay, France, 2025) [code](https://github.com/PrincipatoG/Conformal-Prediction-for-Hierarchical-Data) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 
 
 
