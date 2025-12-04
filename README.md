@@ -1002,6 +1002,8 @@ and IKERBASQUE-Basque Foundation for Science, 2025) [code](https://github.com/Ma
 576. [Residual Distribution Predictive Systems](https://arxiv.org/abs/2510.26914v1) by Sam Allen, Enrico Pescara, Johanna Ziegel (KIT, ETH, 2025) [code](https://github.com/sallen12/RDPS_rep)
 577. [Conformal Information Pursuit for Interactively Guiding Large Language Models](https://arxiv.org/abs/2507.03279) by Kwan Ho Ryan Chan, Yuyan Ge, Edgar Dobriban, Hamed Hassani, René Vidal (University of Pennsylvania, 2025) #LLM 🔥🔥🔥🔥🔥
 578. [Conformal Prediction for Hierarchical Data](https://arxiv.org/abs/2411.13479) by Guillaume Principato, Gilles Stoltz, Yvenn Amara-Ouali, Yannig Goude, Bachir Hamrouche, Jean-Michel Poggi (Université Paris-Saclay, EDF R&D, Inria, Laboratoire de mathématiques d’Orsay, France, 2025) [code](https://github.com/PrincipatoG/Conformal-Prediction-for-Hierarchical-Data) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+579. [CLAPS: Posterior-Aware Conformal Intervals via Last-Layer Laplace](https://arxiv.org/abs/2512.01384) by Dongseok Kim, Hyoungsun Choi, Mohamed Jismy Aashik Rasool, Gisung Oh (Gachon University,2025) 🔥🔥🔥🔥🔥
+580. [Adaptive Regime-Switching Forecasts with Distribution-Free Uncertainty: Deep Switching State-Space Models Meet Conformal Prediction](https://arxiv.org/abs/2512.03298) by Echo Diyun LU, Charles Findling, Marianne Clausel, Alessandro Leite, Wei Gong, Pierric Kersaudy (University of Lorraine, Pernod Ricard, INSA Rouen Normandy, 2025) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 
 
 
@@ -1071,6 +1073,7 @@ Louisiana, USA; CEIBS, Shanghai, China) [code](https://arxiv.org/abs/2507.05470)
 61. [Forecasting Melting Points in Svalbard, Norway Using Quantile Gradient Boosting and Adaptive Conformal Prediction Region](https://arxiv.org/abs/2510.23976) by 
 Richard Berk (University of Pennsylvania, 2025)
 62. [Conformal Prediction for Hierarchical Data](https://arxiv.org/abs/2411.13479) by Guillaume Principato, Gilles Stoltz, Yvenn Amara-Ouali, Yannig Goude, Bachir Hamrouche, Jean-Michel Poggi (Université Paris-Saclay, EDF R&D, Inria, Laboratoire de mathématiques d’Orsay, France, 2025) [code](https://github.com/PrincipatoG/Conformal-Prediction-for-Hierarchical-Data) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+63. [Adaptive Regime-Switching Forecasts with Distribution-Free Uncertainty: Deep Switching State-Space Models Meet Conformal Prediction](https://arxiv.org/abs/2512.03298) by Echo Diyun LU, Charles Findling, Marianne Clausel, Alessandro Leite, Wei Gong, Pierric Kersaudy (University of Lorraine, Pernod Ricard, INSA Rouen Normandy, 2025) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 
 
 
