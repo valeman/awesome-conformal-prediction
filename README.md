@@ -1007,7 +1007,7 @@ and IKERBASQUE-Basque Foundation for Science, 2025) [code](https://github.com/Ma
 581.  [Flow-based Conformal Prediction for Multi-dimensional Time Series](https://arxiv.org/abs/2502.05709) by Junghwan Lee, Chen Xu, Yao Xie (Georgia Tech, 2025) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 582.  [Conformal Bandits: Bringing statistical validity and reward efficiency to the small-gap regime](https://arxiv.org/abs/2512.09850) by Simone Cuonzo, Nina Deliu (Sapienza University of Rome, 2025).
 583.  [Another Fit Bites the Dust: Conformal Prediction as a Calibration Standard for Machine Learning in High-Energy Physics](https://arxiv.org/abs/2512.17048v1) by Jack Y. Araz, Michael Spannowsky (University College London, City St. George’s - University of London, Durham University) 🔥🔥🔥🔥🔥
-
+584.  [Colorful Pinball: Density-Weighted Quantile Regression for Conditional Guarantee of Conformal Prediction](https://arxiv.org/abs/2512.24139) by Qianyi Chen, Bo Li (Tsinghua University, China, 2026)  [code](https://github.com/valeman/Colorful-Pinball-Conformal-Prediction-CPCP) 🔥🔥🔥🔥🔥
 
 ## Papers Time Series
 
