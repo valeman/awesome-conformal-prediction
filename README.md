@@ -192,7 +192,6 @@ for probabilistic wind-speed forecasting](https://lup.lub.lu.se/luur/download?fu
 32. [Data Augmentation and Conformal Prediction](https://dspace.mit.edu/handle/1721.1/151275), MSc thesis by Helen Lu (MIT, 2023)
 33. [Conformal prediction and copula based methods for profile monitioring](https://www.politesi.polimi.it/handle/10589/214268), MSc Thesis by Niccolo' Donadini (Politecnico di Milano, 2023)
 34. [Training Machine Learning-based QSAR models with Conformal Prediction on Experimental Data from DNA-Encoded Chemical Libraries](https://www.diva-portal.org/smash/get/diva2:1575162/FULLTEXT01.pdf) Uppsala University (2021)
-35. [Conformal prediction and beyond](https://gcastro-98.github.io/conformal-prediction-media/thesis.pdf), MSc thesis by Gerard CASTRO CASTILLO (University of Barcelona, 2024)
 36. [A New Perspective on Uncertainty Techniques in Regression](https://epub.jku.at/download/pdf/10001240.pdf), MSc thesis by Alexander Krauck (Johannes Kepler University of Linz, 2024)
 37. [Robust Conformal Prediction Using Privileged Information](https://arxiv.org/abs/2406.05405) by Shai Feldman, Yaniv Romano (Technion, 2024)
 38. [CONFINE: Conformal Prediction for Interpretable Neural Networks](https://arxiv.org/abs/2406.00539) by Linhui Huang, Sayeri Lala, Niraj K. Jha (Princeton University, 2024)
