@@ -1077,6 +1077,7 @@ Richard Berk (University of Pennsylvania, 2025)
 62. [Conformal Prediction for Hierarchical Data](https://arxiv.org/abs/2411.13479) by Guillaume Principato, Gilles Stoltz, Yvenn Amara-Ouali, Yannig Goude, Bachir Hamrouche, Jean-Michel Poggi (Université Paris-Saclay, EDF R&D, Inria, Laboratoire de mathématiques d’Orsay, France, 2025) [code](https://github.com/PrincipatoG/Conformal-Prediction-for-Hierarchical-Data) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 63. [Adaptive Regime-Switching Forecasts with Distribution-Free Uncertainty: Deep Switching State-Space Models Meet Conformal Prediction](https://arxiv.org/abs/2512.03298) by Echo Diyun LU, Charles Findling, Marianne Clausel, Alessandro Leite, Wei Gong, Pierric Kersaudy (University of Lorraine, Pernod Ricard, INSA Rouen Normandy, 2025) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 64. [Flow-based Conformal Prediction for Multi-dimensional Time Series](https://arxiv.org/abs/2502.05709) by Junghwan Lee, Chen Xu, Yao Xie (Georgia Tech, 2025) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
+65. [Conformal Prediction for Time-series Forecasting with Change Points](https://arxiv.org/abs/2509.02844v4) by Sophia Sun, Rose Yu (University of California, San Diego, 2025) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 
 
 
