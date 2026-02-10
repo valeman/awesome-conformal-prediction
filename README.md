@@ -138,8 +138,6 @@ What about the industry one might ask - Conformal Prediction already for several
 
 * [AI platforms](#ai-platforms)
 
-* [Patents](#patents)
-
 * [Miscellaneous](#miscellaneous)
 
 * [Contributing](#contributing) 
@@ -155,8 +153,7 @@ What about the industry one might ask - Conformal Prediction already for several
 1. [Applied Conformal Prediction: Reliable Uncertainty Quantification for Real-World Machine Learning in Python](https://valeman.gumroad.com/l/appliedconformalprediction) 🔥🔥🔥🔥🔥🚀🚀🚀🚀🚀
 2. [Practical Guide to Applied Conformal Prediction: Learn and apply the best uncertainty frameworks to your industry applications](https://a.co/d/9guwCTm) by Valeriy Manokhin (2024) 🔥🔥🔥🔥🔥 [**Amazon USA 🇺🇸**](https://www.amazon.com/gp/aw/d/1805122762), [**Amazon UK 🇬🇧**](https://www.amazon.co.uk/Practical-Guide-Applied-Conformal-Prediction/dp/1805122762), [**Amazon India 🇮🇳**](https://www.amazon.in/Practical-Guide-Applied-Conformal-Prediction-ebook/dp/B0C2VLR5KS), [**Amazon Germany 🇩🇪**](https://www.amazon.de/Valeriy-Manokhin-ebook/dp/B0C2VLR5KS/), [**Amazon France 🇫🇷**](https://www.amazon.fr/Practical-Guide-Applied-Conformal-Prediction-ebook/dp/B0C2VLR5KS/), [**Amazon Spain 🇪🇸**](https://www.amazon.es/Practical-Guide-Applied-Conformal-Prediction/dp/1805122762), [**Amazon Canada 🇨🇦**](https://www.amazon.ca/Practical-Guide-Applied-Conformal-Prediction-ebook/dp/B0C2VLR5KS/), [**Amazon Japan 🇯🇵**](https://www.amazon.co.jp/Valeriy-Manokhin-ebook/dp/B0C2VLR5KS/) [**DMK Press Russia 🇷🇺**](https://dmkpress.com/catalog/computer/data/978-5-93700-341-6/)
 3. [Algorithmic Learning in a Random World](https://link.springer.com/book/10.1007/978-3-031-06649-8) by Vladimir Vovk and Alex Gammerman, also Glenn Shafer (2022). Second edition. 🔥🔥🔥🔥🔥 great theory based book, very math heavy, no applications, no code
-4. [Conformal Prediction for Reliable Machine Learning](https://www.elsevier.com/books/conformal-prediction-for-reliable-machine-learning/balasubramanian/978-0-12-398537-8) by Vineeth Balasubramanian, Shen-Shyang Ho, Vladimir Vovk (2014) OLD BOOK, largely out of date, no code
-5. [Conformal Prediction for Inventors](https://www.amazon.com/Conformal-Prediction-Inventors-Rahul-Vishwakarma/dp/9334114894) by Rahul Deo Vishwakarma. ISBN-13 978-9334114898. Also catalogued in the [California State Library](https://csu-lb.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991016635865802910&context=L&vid=01CALS_ULB:01CALS_ULB&lang=en_US&search_scope=NZ_IZ_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,Conformal%20Prediction%20for%20Inventors&mode=simple)
+4. [Conformal Prediction for Reliable Machine Learning](https://www.elsevier.com/books/conformal-prediction-for-reliable-machine-learning/balasubramanian/978-0-12-398537-8) by Vineeth Balasubramanian, Shen-Shyang Ho, Vladimir Vovk (2014) OLD BOOK, largely out of date, no code.
 
 ## Theses
 1.  [Machine Learning for Probabilistic Prediction](https://www.researchgate.net/publication/361515440_Machine_Learning_for_Probabilistic_Prediction_PhD_thesis_VALERY_MANOKHIN), PhD Thesis, Valery Manokhin (Royal Holloway, UK, 2022) 🔥🔥🔥🔥🔥 (over 6K reads on Researchgate alone)
@@ -1351,12 +1348,6 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 2. [Data Robot - Prediction Intervals via Conformal Inference](https://www.datarobot.com/ai-accelerators/prediction-intervals-via-conformal-inference/)
 3. [AWS Fortuna](https://aws-fortuna.readthedocs.io/en/latest/) by Amazon, (2022) 🔥🔥🔥🔥🔥
 4. [Microsoft Azure](https://learn.microsoft.com/en-gb/archive/blogs/machinelearning/anomaly-detection-using-machine-learning-to-detect-abnormalities-in-time-series-data)
-
-## Patents
-1. Rahul Vishwakarma, Method and system for reliably forecasting storage disk failure. US 2021/0034450 A1 United States Patent and Trademark Office, Feb 2021
-2. Rahul Vishwakarma, Analyzing Time Series Data for Sets of Devices Using Machine Learning Techniques. US 2021/0241929 A1 United States Patent and Trademark Office, Aug 2021
-3. Rahul Vishwakarma, System and method for prioritizing and preventing backup failures. US 2021/0374568 A1 United States Patent and Trademark Office, Dec 2021
-
 
 
     
