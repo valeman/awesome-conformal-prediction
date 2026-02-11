@@ -1006,6 +1006,7 @@ and IKERBASQUE-Basque Foundation for Science, 2025) [code](https://github.com/Ma
 583.  [Another Fit Bites the Dust: Conformal Prediction as a Calibration Standard for Machine Learning in High-Energy Physics](https://arxiv.org/abs/2512.17048v1) by Jack Y. Araz, Michael Spannowsky (University College London, City St. George’s - University of London, Durham University) 🔥🔥🔥🔥🔥
 584.  [Colorful Pinball: Density-Weighted Quantile Regression for Conditional Guarantee of Conformal Prediction](https://arxiv.org/abs/2512.24139) by Qianyi Chen, Bo Li (Tsinghua University, China, 2026)  [code](https://github.com/valeman/Colorful-Pinball-Conformal-Prediction-CPCP) 🔥🔥🔥🔥🔥
 585.  [Fast Conformal Prediction using Conditional Interquantile Intervals](https://arxiv.org/abs/2601.02769) by Naixin Guo, Rui Luo, Zhixin Zhou (City University of Hong Kong, Alpha Benito Research,2026) [code](https://github.com/orince/CIR)
+586.  [Flow-Based Conformal Predictive Distributions](https://arxiv.org/abs/2602.07633) by Trevor Harris (University of Connecticut, 2026) 
 
 ## Papers Time Series
 
