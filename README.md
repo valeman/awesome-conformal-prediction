@@ -1009,6 +1009,8 @@ and IKERBASQUE-Basque Foundation for Science, 2025) [code](https://github.com/Ma
 586.  [Flow-Based Conformal Predictive Distributions](https://arxiv.org/abs/2602.07633) by Trevor Harris (University of Connecticut, 2026)
 587.  [Quantifying Epistemic Predictive Uncertainty in Conformal Prediction](https://arxiv.org/abs/2602.01667) by Siu Lun Chau, Soroush H. Zargarbashi, Yusuf Sale and Michele Caprio (Nanyang Technological University, Singapore; Helmholtz Center for Information Security, Germany; MU Munich; Center for Machine Learning, Germany; Manchester Centre for AI Fundamentals; The University of Manchester, United Kingdom, 2026)
 588.  [Comparative analysis of conformal prediction techniques and machine learning models for very short-term solar power forecasting](Comparative analysis of conformal prediction techniques and machine learning models for very short-term solar power forecasting](https://www.sciencedirect.com/science/article/pii/S2666546825001053) by Nguyen Binh Nam, Emanuele Oglia,Sonia Leva, Emilio Pafumi, Davide Alberti, Minh Quan Duong (Politecnico di Milano, The University of Da Nang, 2026).
+589.  [Temporal Conformal Prediction (TCP): A Distribution-Free Statistical and Machine Learning Framework for Adaptive Risk Forecasting](https://arxiv.org/abs/2507.05470) (University of Louisiana at Lafayette, China Europe International Business
+School (CEIBS), 2026)
 
 ## Papers Time Series
 
