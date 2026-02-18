@@ -1008,6 +1008,7 @@ and IKERBASQUE-Basque Foundation for Science, 2025) [code](https://github.com/Ma
 585.  [Fast Conformal Prediction using Conditional Interquantile Intervals](https://arxiv.org/abs/2601.02769) by Naixin Guo, Rui Luo, Zhixin Zhou (City University of Hong Kong, Alpha Benito Research,2026) [code](https://github.com/orince/CIR)
 586.  [Flow-Based Conformal Predictive Distributions](https://arxiv.org/abs/2602.07633) by Trevor Harris (University of Connecticut, 2026)
 587.  [Quantifying Epistemic Predictive Uncertainty in Conformal Prediction](https://arxiv.org/abs/2602.01667) by Siu Lun Chau, Soroush H. Zargarbashi, Yusuf Sale and Michele Caprio (Nanyang Technological University, Singapore; Helmholtz Center for Information Security, Germany; MU Munich; Center for Machine Learning, Germany; Manchester Centre for AI Fundamentals; The University of Manchester, United Kingdom, 2026)
+588.  [Comparative analysis of conformal prediction techniques and machine learning models for very short-term solar power forecasting](Comparative analysis of conformal prediction techniques and machine learning models for very short-term solar power forecasting](https://www.sciencedirect.com/science/article/pii/S2666546825001053) by Nguyen Binh Nam, Emanuele Oglia,Sonia Leva, Emilio Pafumi, Davide Alberti, Minh Quan Duong (Politecnico di Milano, The University of Da Nang, 2026).
 
 ## Papers Time Series
 
