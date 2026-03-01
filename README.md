@@ -77,10 +77,6 @@ Prof. Emmanual Candes (Stanford) - Neurips 2022 key talk.
 
 https://slideslive.com/icml-2021/workshop-on-distributionfree-uncertainty-quantification
 
-Konrad Banachewicz, Principal Data Scientist | Kaggle Grandmaster | Author of the "Kaggle book" and "Machine Learning using Tensorflow Cookbook"
-
-'𝕋𝕙𝕚𝕤 𝕣𝕖𝕡𝕠 𝕚𝕤 𝕢𝕦𝕚𝕥𝕖, 𝕢𝕦𝕚𝕥𝕖 𝕤𝕡𝕖𝕔𝕥𝕒𝕔𝕦𝕝𝕒𝕣 𝕚𝕟𝕕𝕖𝕖𝕕.'
-
 **An Impressive Endorsement: Conformal Prediction's Growing Appeal in Academia and Industry**
 
 When highly respected professors from top research labs worldwide express their support for conformal prediction, it speaks volumes about its credibility and potential.
