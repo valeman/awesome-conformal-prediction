@@ -133,6 +133,7 @@ What about the industry one might ask - Conformal Prediction already for several
 * [R](#r)
 
 * [Julia](#julia) 
+* [JavaScript](#javascript)
 
 * [Other Languages](#other-languages)
 
@@ -1343,6 +1344,8 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 2. [RandomForest](https://github.com/henrikbostrom/RandomForest) by Henrik Boström (2017) 🔥🔥🔥🔥🔥
 3. [PostForecasts.jl](https://github.com/lipiecki/PostForecasts.jl) by Arkadiusz Lipiecki and Rafal Weron (2025) [paper](https://ideas.repec.org/p/ahh/wpaper/worms2502.html) [paper](https://www.sciencedirect.com/science/article/pii/S2352711025001670?via%3Dihub)
 
+## JavaScript
+1. [conformal-js](https://github.com/AuraquanTech/conformal-js) by Ayrton Ramos (2026) — Distribution-free uncertainty quantification for JavaScript. Split conformal prediction, Adaptive Conformal Inference (Gibbs & Candès 2021), Welford online statistics, and KS drift detection. Zero dependencies. Works in browsers, Node.js, Deno, and service workers. [npm](https://www.npmjs.com/package/conformal-js)
 ## Other Languages
 1. [LibCP -- A Library for Conformal Prediction](https://github.com/fated/libcp) 🔥🔥🔥🔥🔥
 2. [An Implementation of Venn-ABERS predictor](https://github.com/fated/venn-abers-predictor) 🔥🔥🔥🔥🔥
