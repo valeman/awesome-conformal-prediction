@@ -1,0 +1,6 @@
+crepes>=0.6.2
+scikit-learn>=1.3
+numpy>=1.24
+pandas>=2.0
+matplotlib>=3.7
+jupyter>=1.0
