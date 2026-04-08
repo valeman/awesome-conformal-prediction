@@ -1,10 +1,23 @@
 cff-version: 1.2.0
-message: "If you use this repository, you must cite this work according to license terms:"
+message: "If you use this repository, please cite it as below."
 title: "Awesome Conformal Prediction"
+type: software
 authors:
   - family-names: Manokhin
-    given-names: Valery
+    given-names: Valeriy
+    orcid: "https://orcid.org/0000-0003-4040-554X"
+    website: "https://valeriy.ai"
 year: 2024
 version: 1.0.0
 doi: 10.5281/zenodo.6467204
-url: https://github.com/valeman/awesome-conformal-prediction
+url: https://valeriy.ai
+repository-code: https://github.com/valeman/awesome-conformal-prediction
+license: CC-BY-NC-ND-4.0
+keywords:
+  - conformal-prediction
+  - uncertainty-quantification
+  - machine-learning
+  - prediction-intervals
+  - distribution-free
+  - probabilistic-forecasting
+  - calibration
