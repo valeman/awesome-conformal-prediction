@@ -391,7 +391,7 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 
 ## Conformal Prediction Presentation Slides
 1. [Machine Learning for Probabilistic Prediction, Seattle Artificial Intelligence Workshops Meetup](https://www.researchgate.net/publication/371566526_Machine_Learning_for_Probabilistic_Prediction) by Valery Manokhin, 2023 🔥🔥🔥🔥🔥
-2. [Machine Learning for Probabilistic Prediction](https://github.com/valeman/awesome-conformal-prediction/blob/main/Machine%20Learning%20for%20Probabilistic%20Prediction.pdf) by Valery Manokhin, 2022 🔥🔥🔥🔥🔥
+2. [Machine Learning for Probabilistic Prediction](https://github.com/valeman/awesome-conformal-prediction/blob/main/assets/Machine%20Learning%20for%20Probabilistic%20Prediction.pdf) by Valery Manokhin, 2022 🔥🔥🔥🔥🔥
 3. [Adaptive Conformal Anomaly Detection for Time-series](https://cml.rhul.ac.uk/copa2017/presentations/burnaev.pdf) by Evgeny Burnaev, Alexander Bernstein, Vlad Ishimtsev and Ivan Nazarov (Skoltech, Moscow, Russia, 2017)
 4. [Nonparametric predictive distributions based on conformal prediction](https://cml.rhul.ac.uk/copa2017/presentations/vovk.pdf) by Vladimir Vovk, Jieli Shen, Valery Manokhin, Min-ge Xie, Ilia Nouretdinov and Alex Gammerman (Royal Holloway, University of London Rutgers University, 2017)
 5. [What Can Conformal Inference Offer to Statistics?](https://lihualei71.github.io/Job_Talk_Lihua_Lei.pdf) by Lihua Lei, Stanford University
@@ -409,7 +409,7 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 17. [Copula Conformal Prediction for Multi-step Time Series Forecasting](https://arxiv.org/abs/2212.03281) by Sophia Sun, Rose Yu (University of California, San Diego, 2022)
 18. [Uncertainty estimation in NLP](https://sites.google.com/view/uncertainty-nlp#h.is5zc8lcnuki) by Tal Schuster, Adam Fisch (MIT, 2022)
 19. [Conformal Prediction: an Introduction](https://github.com/online-ml/river/files/10098389/Conformal_Prediction_Presentation.pdf) by Leo Andeol (2022)
-20. [EnbPI poster](https://github.com/valeman/awesome-conformal-prediction/blob/main/EnbPI_poster.pdf) by Chen Xu, Yao Xie (2021)
+20. [EnbPI poster](https://github.com/valeman/awesome-conformal-prediction/blob/main/assets/EnbPI_poster.pdf) by Chen Xu, Yao Xie (2021)
 21. [Machine Learning for Probabilistic Prediction](https://www.researchgate.net/publication/370012303_Machine_Learning_for_Probabilistic_Prediction) by Valery Manokhin (2023) 🔥🔥🔥🔥🔥
 22. [Conformal Inference with Tidymodels](https://topepo.github.io/posit-2023-conformal/#/title-slide) by Max Kuhn (posit conference 2023) 🔥🔥🔥🔥🔥
 23. [Graceful handling of large imbalanced datasets using Conformal Prediction](https://bigchem.eu/sites/default/files/AZ_school_Norinder_public.pdf) by Ulf Norinder and Fredrik Svensson 🔥🔥🔥🔥🔥
@@ -1244,7 +1244,7 @@ Jelle Van Miltenburg (KTH ROYAL INSTITUTE OF TECHNOLOGY, 2018)
 21. [Nonconformity Measures and Ensemble Strategies - An Analysis of Conformal Predictor Efficiency and Validity](http://su.diva-portal.org/smash/get/diva2:1547120/FULLTEXT01.pdf), PhD thesis by Henrik Linusson (Stockholm University, 2021) 🔥🔥🔥🔥🔥
 22. [Determine and explain confidence in predicting violations on inland ships in the Netherlands](https://repository.tudelft.nl/islandora/object/uuid:e0a9bb58-98ab-4c00-96ae-8701046a8012) by Bakker, Paul (TU Delft, 2020)
 23. [Machine Learning with Conformal Prediction for Predictive Maintenance tasks in Industry 4.0](https://www.diva-portal.org/smash/get/diva2:1765779/FULLTEXT01.pdf) by Shuzhou Liu, Mulahuko Mpova (Jönköping University, 2023).
-24. [Benchmarking conformal prediction methods for time series regression](https://github.com/valeman/awesome-conformal-prediction/blob/main/BScThesis_DerckPrinzhorn.pdf) by Derck W.E. Prinzhorn (2023) [code](https://github.com/dweprinz/Benchmarking-conformal-prediction-methods-for-time-series-regression) 🔥🔥🔥🔥🔥
+24. [Benchmarking conformal prediction methods for time series regression](https://github.com/valeman/awesome-conformal-prediction/blob/main/assets/BScThesis_DerckPrinzhorn.pdf) by Derck W.E. Prinzhorn (2023) [code](https://github.com/dweprinz/Benchmarking-conformal-prediction-methods-for-time-series-regression) 🔥🔥🔥🔥🔥
 25. [Conformal Prediction Methods in Finance](https://impa.br/wp-content/uploads/2022/11/Projeto_Final_Joao-Vitor-Romano.pdf) by Finance João Vitor Romano (Instituto de Matemática Pura e Aplicada, Brazil, 2022) 🔥🔥🔥🔥🔥
 26. [An Active Learning Approach for Reject Inference in Credit Scoring using Conformal Prediction Intervals on Real and Semi-Artificial Data](https://github.com/MaximilianSuliga/Conformal-Active-Learning-for-Reject-Inference) by Maximilian Suliga (Humboldt University of Berlin, 2023)
 27. [Confidence Predictions in Pharmaceutical Sciences](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1787351&dswid=-7234) by Staffan Arvidsson McShane (Uppsala University, Sweden, 2023) 🔥🔥🔥🔥🔥
