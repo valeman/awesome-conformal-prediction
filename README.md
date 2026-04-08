@@ -465,6 +465,8 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 28. [pearsonify - Lightweight Python package for generating classification intervals in binary classification tasks using Pearson residuals and conformal prediction](https://github.com/xRiskLab/pearsonify) (2025)
 29. [HyperConformal: Conformal Prediction for Hyperdimensional Computing](https://github.com/danieleschmidt/HyperConformal)  🔥🔥🔥🔥🔥 (2025)
 30. [(F)FCP : Predictive Inference with (Fast) Feature Conformal Prediction](https://github.com/ElvisWang1111/F-F-CP) 🔥🔥🔥🔥🔥 (2026)
+31. [geoconformal - Conformal Prediction for Geospatial Models](https://github.com/pengtum/geoconformal) by Peng Luo and Xiayin Lou (2025) [[PyPI]](https://pypi.org/project/geoconformal/) 🔥🔥🔥🔥
+32. [GeoXCP - Conformal Prediction for Geospatial Explainable AI](https://github.com/pengtum/GeoXCP) by Peng Luo and Xiayin Lou (2025) [[PyPI]](https://pypi.org/project/GeoXCP/) 🔥🔥🔥🔥
 
 ## Conformal Prediction Libraries in R
 1. [pintervals - Model agnostic prediction intervals](https://github.com/Doktorandahl/pintervals) [paper](https://arxiv.org/abs/2601.03994) by David Randahl, Anders Hjort, Jonathan P. Williams (2026) 🔥🔥🔥🔥🔥 
