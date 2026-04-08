@@ -1,0 +1,11 @@
+{
+  "ignorePatterns": [
+    { "pattern": "^http(s)?://localhost" },
+    { "pattern": "^http(s)?://127\\.0\\.0\\.1" }
+  ],
+  "timeout": "20s",
+  "retryOn429": true,
+  "retryCount": 3,
+  "fallbackRetryDelay": "30s",
+  "aliveStatusCodes": [200, 206, 403, 429]
+}
