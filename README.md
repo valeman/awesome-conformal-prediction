@@ -42,16 +42,17 @@ You will learn how to apply conformal prediction to regression, classification, 
 </td>
 <td width="50%" valign="top">
 
-### 📚 Practical Guide to Applied Conformal Prediction
+### 📚 Applied Conformal Prediction — The Book
 
-The definitive practitioner's book on conformal prediction — from first principles to industry-grade applications, with code you can run today.
+The definitive practitioner's book on conformal prediction — from first principles to industry-grade applications, with code you can run today. Written by **Dr. Valeriy Manokhin**.
 
-🛒 **Order now:**
-- [**Gumroad (PDF)**](https://valeman.gumroad.com/l/appliedconformalprediction) 🔥
-- [**Amazon 🇺🇸**](https://www.amazon.com/gp/aw/d/1805122762) · [**🇬🇧**](https://www.amazon.co.uk/Practical-Guide-Applied-Conformal-Prediction/dp/1805122762) · [**🇩🇪**](https://www.amazon.de/Valeriy-Manokhin-ebook/dp/B0C2VLR5KS/) · [**🇫🇷**](https://www.amazon.fr/Practical-Guide-Applied-Conformal-Prediction-ebook/dp/B0C2VLR5KS/) · [**🇪🇸**](https://www.amazon.es/Practical-Guide-Applied-Conformal-Prediction/dp/1805122762) · [**🇨🇦**](https://www.amazon.ca/Practical-Guide-Applied-Conformal-Prediction-ebook/dp/B0C2VLR5KS/) · [**🇯🇵**](https://www.amazon.co.jp/Valeriy-Manokhin-ebook/dp/B0C2VLR5KS/) · [**🇮🇳**](https://www.amazon.in/Practical-Guide-Applied-Conformal-Prediction-ebook/dp/B0C2VLR5KS)
-- [**DMK Press 🇷🇺**](https://dmkpress.com/catalog/computer/data/978-5-93700-341-6/)
+🚀 **[Applied Conformal Prediction — Pro Edition](https://valeman.gumroad.com/l/applied_conformal_prediction_pro)** ⭐ *Recommended*
+The most comprehensive edition: extended chapters, advanced methods, and production-grade code.
 
-Published by Packt. [Companion code repo →](https://github.com/PacktPublishing/Practical-Guide-to-Applied-Conformal-Prediction)
+📘 **[Applied Conformal Prediction — Standard Edition](https://valeman.gumroad.com/l/appliedconformalprediction)**
+The core book covering regression, classification, time series, anomaly detection, and LLM uncertainty.
+
+Both editions are available exclusively on **Gumroad**.
 
 </td>
 </tr>
@@ -218,10 +219,10 @@ These are active research and practitioner questions — contributions, discussi
 9. [Conformal Prediction 101 - in Portuguese 🇵🇹](https://github.com/gusbruschi13/Conformal-Prediction/tree/main/cp-101) by Gustavo Bruschi (2023) 🔥🔥🔥🔥🔥
 
 ## Books on Conformal Prediction
-1. [Applied Conformal Prediction: Reliable Uncertainty Quantification for Real-World Machine Learning in Python](https://valeman.gumroad.com/l/appliedconformalprediction) 🔥🔥🔥🔥🔥🚀🚀🚀🚀🚀
-2. [Practical Guide to Applied Conformal Prediction: Learn and apply the best uncertainty frameworks to your industry applications](https://a.co/d/9guwCTm) by Valeriy Manokhin (2024) 🔥🔥🔥🔥🔥 [**Amazon USA 🇺🇸**](https://www.amazon.com/gp/aw/d/1805122762), [**Amazon UK 🇬🇧**](https://www.amazon.co.uk/Practical-Guide-Applied-Conformal-Prediction/dp/1805122762), [**Amazon India 🇮🇳**](https://www.amazon.in/Practical-Guide-Applied-Conformal-Prediction-ebook/dp/B0C2VLR5KS), [**Amazon Germany 🇩🇪**](https://www.amazon.de/Valeriy-Manokhin-ebook/dp/B0C2VLR5KS/), [**Amazon France 🇫🇷**](https://www.amazon.fr/Practical-Guide-Applied-Conformal-Prediction-ebook/dp/B0C2VLR5KS/), [**Amazon Spain 🇪🇸**](https://www.amazon.es/Practical-Guide-Applied-Conformal-Prediction/dp/1805122762), [**Amazon Canada 🇨🇦**](https://www.amazon.ca/Practical-Guide-Applied-Conformal-Prediction-ebook/dp/B0C2VLR5KS/), [**Amazon Japan 🇯🇵**](https://www.amazon.co.jp/Valeriy-Manokhin-ebook/dp/B0C2VLR5KS/) [**DMK Press Russia 🇷🇺**](https://dmkpress.com/catalog/computer/data/978-5-93700-341-6/)
-3. [Algorithmic Learning in a Random World](https://link.springer.com/book/10.1007/978-3-031-06649-8) by Vladimir Vovk and Alex Gammerman, also Glenn Shafer (2022). Second edition. 🔥🔥🔥🔥🔥 great theory based book, very math heavy, no applications, no code
-4. [Conformal Prediction for Reliable Machine Learning](https://www.elsevier.com/books/conformal-prediction-for-reliable-machine-learning/balasubramanian/978-0-12-398537-8) by Vineeth Balasubramanian, Shen-Shyang Ho, Vladimir Vovk (2014) OLD BOOK, largely out of date, no code.
+1. [Applied Conformal Prediction — Pro Edition](https://valeman.gumroad.com/l/applied_conformal_prediction_pro) by Dr. Valeriy Manokhin ⭐ **Recommended** — the most comprehensive edition with extended chapters, advanced methods, and production-grade code. 🔥🔥🔥🔥🔥🚀🚀🚀🚀🚀
+2. [Applied Conformal Prediction — Standard Edition](https://valeman.gumroad.com/l/appliedconformalprediction) by Dr. Valeriy Manokhin — the core book covering regression, classification, time series, anomaly detection, and LLM uncertainty. 🔥🔥🔥🔥🔥
+3. [Algorithmic Learning in a Random World](https://link.springer.com/book/10.1007/978-3-031-06649-8) by Vladimir Vovk, Alex Gammerman, and Glenn Shafer (2022, Second edition). 🔥🔥🔥🔥🔥 Great theory-based book, very math heavy, no applications, no code.
+4. [Conformal Prediction for Reliable Machine Learning](https://www.elsevier.com/books/conformal-prediction-for-reliable-machine-learning/balasubramanian/978-0-12-398537-8) by Vineeth Balasubramanian, Shen-Shyang Ho, Vladimir Vovk (2014). Older book, largely out of date, no code.
 
 ## Articles on Conformal Prediction
 1. [Measuring Models' Uncertainty: Conformal Prediction](https://blog.dataiku.com/measuring-models-uncertainty-conformal-prediction) by 
