@@ -1146,6 +1146,7 @@ School (CEIBS), 2026)
 589. [Full Conformal Adaptation of Medical Vision-Language Models](https://link.springer.com/chapter/10.1007/978-3-031-96625-5_19) (2025) VLM MEDICAL 🔥🔥🔥🔥🔥
 590. [Conditional Conformal Risk Adaptation](https://arxiv.org/abs/2504.07611) (2025) RISK CONTROL SEGMENTATION 🔥🔥🔥🔥🔥
 591. [A conformalized learning of a prediction set with applications to medical imaging classification](https://arxiv.org/abs/2408.05037) (2024) MEDICAL IMAGING 🔥🔥🔥🔥🔥
+592. [Set-valued classification with out-of-distribution detection for many classes](https://www.jmlr.org/papers/volume24/23-0712/23-0712.pdf) by Zhou Wang, Xingye Qiao (JMLR 2023) [code](https://github.com/Zhou198/GPS)
 
 ## Conformal Prediction for Time Series Forecasting
 1. [Conformal prediction interval for dynamic time-series](https://proceedings.mlr.press/v139/xu21h.html) by Chen Xu, Yao Xie (Georgia Tech, 2021) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥 [Python Code](https://github.com/hamrel-cxu/EnbPI) [Video](https://vimeo.com/583595474) [Video ICML2021](https://papertalk.org/papertalks/32044)
@@ -1208,6 +1209,7 @@ Richard Berk (University of Pennsylvania, 2025)
 3. [Flow-based Conformal Prediction for Multi-dimensional Time Series](https://arxiv.org/abs/2502.05709) by Junghwan Lee, Chen Xu, Yao Xie (Georgia Tech, 2025) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 4. [Conformal Prediction for Time-series Forecasting with Change Points](https://arxiv.org/abs/2509.02844v4) by Sophia Sun, Rose Yu (University of California, San Diego, 2025) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 5. [Optimal training-conditional regret for online conformal prediction](https://arxiv.org/abs/2602.16537) by Jiadong Liang, Zhimei Ren, Yuxin Chen (University of Pennsylvania, 2026) 🔥🔥🔥🔥🔥
+6. [Efficient Online Set-valued Classification with Bandit Feedback](https://openreview.net/pdf?id=R1auM3tLPE) by Zhou Wang, Xingye Qiao (ICML 2024)
 
 ## Conformal Prediction for Anomaly Detection
 1.  [Microsoft Azure](https://learn.microsoft.com/en-gb/archive/blogs/machinelearning/anomaly-detection-using-machine-learning-to-detect-abnormalities-in-time-series-data) Microsoft Azure Anomaly Detection powered by Conformal Prediction 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
@@ -1219,6 +1221,8 @@ Richard Berk (University of Pennsylvania, 2025)
 7. [CoPAL: Conformal Prediction in Active Learning An Algorithm for Enhancing Remaining Useful Life Estimation in Predictive Maintenance](https://proceedings.mlr.press/v230/kharazian24a.html) by Zahra Kharazian, Tony Lindgren, Sindri Magnusson, Henrik Boström (Stockholm University, KTH, 2024)
 8. [Inductive conformal anomaly detection for sequential detection of anomalous sub-trajectories](https://www.researchgate.net/publication/258244052_Inductive_conformal_anomaly_detection_for_sequential_detection_of_anomalous_sub-trajectories) by Rikkard Laxhammar nd Goran Falkman (2013) 
 9. [Conformal Anomaly Detection](https://www.diva-portal.org/smash/get/diva2:690997/FULLTEXT02.pdf) PhD dissertation by Rikkard Laxhammar (University of Skovde, 2012)
+10. [Deep Generalized Prediction Set Classifier and Its Theoretical Guarantees](https://openreview.net/pdf?id=H7gLN5nqVF) by Zhou Wang, Xingye Qiao (TMLR 2024)
+11. [Generalized Prediction Set with Bandit Feedback](https://openreview.net/pdf?id=VlwqIz41Hp) by Zhou Wang, Xingye Qiao (TMLR 2025)
 
 ## PhD Theses on Conformal Prediction
 1.  [Machine Learning for Probabilistic Prediction](https://www.researchgate.net/publication/361515440_Machine_Learning_for_Probabilistic_Prediction_PhD_thesis_VALERY_MANOKHIN), PhD Thesis, Valery Manokhin (Royal Holloway, UK, 2022) 🔥🔥🔥🔥🔥 (over 6K reads on Researchgate alone)
