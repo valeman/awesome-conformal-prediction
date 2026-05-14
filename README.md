@@ -1,31 +1,40 @@
-Awesome Math Books
-⭐ If you find this repository useful, please consider staring it.
+# Awesome Math Books
 
-GitHub Repo stars
-GitHub Repo stars
-A curated collection of some of the best mathematics books ever written — spanning classical foundations, probability, analysis, geometry, and problem-solving texts used by mathematicians, scientists, engineers, and AI researchers.
+⭐ If you find this repository useful, please **consider staring it**.
 
-📚 Complete catalog of faithful English translations from original Russian editions: russianmathbooks.com — Northern Star Academic Press.
+![GitHub Repo stars](https://img.shields.io/github/stars/valeman/Awesome_Math_Books?style=social)
+
+A curated collection of some of the **best mathematics books ever written** — spanning classical foundations, probability, analysis, geometry, and problem-solving texts used by mathematicians, scientists, engineers, and AI researchers.
+
+---
+
+📚 **Complete catalog of faithful English translations from original Russian editions:** [russianmathbooks.com](https://russianmathbooks.com/) — Northern Star Academic Press.
+
+---
 
 The goal of this repository is simple:
 
-• highlight timeless mathematical books
+• highlight **timeless mathematical books**
 • avoid modern textbook bloat
-• emphasize logical thinking and problem solving
+• emphasize **logical thinking and problem solving**
 
-Many of the greatest scientists and mathematicians were trained using books very different from modern textbooks.
+Many of the greatest scientists and mathematicians were trained using **books very different from modern textbooks**.
 
 This repository highlights those works.
 
-Featured Book
-Kiselev’s Arithmetic — A.P. Kiselev
-Kiselev Arithmetic
-Kiselev Arithmetic
+---
+
+# Featured Book
+
+## Kiselev's Arithmetic — A.P. Kiselev
+
+![Kiselev Arithmetic](kiselev_cover.png)
+
 The legendary mathematics textbook that trained generations of scientists in Russia, the USSR, and China.
 
-For more than 125 years, Kiselev’s books were among the most widely used mathematics textbooks in the world.
+For more than **125 years**, Kiselev's books were among the most widely used mathematics textbooks in the world.
 
-Over 80 million copies were printed.
+Over **80 million copies** were printed.
 
 The book is famous for its:
 
@@ -33,29 +42,36 @@ The book is famous for its:
 • rigorous yet intuitive approach
 • focus on true mathematical understanding
 
-For the first time ever, the book is now available in a modern English translation.
+For the **first time ever**, the book is now available in a **modern English translation**.
 
-All formats and full details: russianmathbooks.com/books/kiselev-arithmetic/
+**All formats and full details:** [russianmathbooks.com/books/kiselev-arithmetic/](https://russianmathbooks.com/books/kiselev-arithmetic/)
 
-Hardcover collector’s edition: Amazon
-Paperback: Amazon
-Ebook (PDF, Gumroad): valeman.gumroad.com/l/arithmetic
-Kiselev’s Algebra, Parts I and II — A.P. Kiselev
+- Hardcover collector's edition: [Amazon](https://www.amazon.com/Kiselevs-Arithmetic-Mathematics-Textbook-Translation/dp/1919465820/)
+- Paperback: [Amazon](https://www.amazon.com/Kiselevs-Arithmetic-Mathematics-Textbook-Translation/dp/1919465812/)
+- Ebook (PDF, Gumroad): [valeman.gumroad.com/l/arithmetic](https://valeman.gumroad.com/l/arithmetic)
+
+---
+## Kiselev's Algebra, Parts I and II — A.P. Kiselev
+
 The legendary Russian algebra textbook (first published 1888) — the official algebra textbook in Russian and USSR schools for over 70 years, used by tens of millions of students. Now available in English for the first time as a faithful translation from the original Russian edition.
 
-Part I (Grades 6–8, ages 12–15): 6 chapters, 126 sections, 239 exercises. Covers relative numbers and operations, monomials, polynomials and algebraic fractions, ratios and proportions, equations of the first degree (one and two unknowns), systems of equations, powers and roots, and quadratic equations.
+**Part I** (Grades 6–8, ages 12–15): 6 chapters, 126 sections, 239 exercises. Covers relative numbers and operations, monomials, polynomials and algebraic fractions, ratios and proportions, equations of the first degree (one and two unknowns), systems of equations, powers and roots, and quadratic equations.
 
-Part II (Grades 8–10, ages 14–17): 12 chapters + Supplements, 187 sections. Covers functions and their graphical representation, quadratic equations and systems, inequalities, approximate calculations, powers and roots with arbitrary exponents, logarithms, progressions, complex numbers, algebraic equations, number theory, binomial theorem, and continued fractions.
+**Part II** (Grades 8–10, ages 14–17): 12 chapters + Supplements, 187 sections. Covers functions and their graphical representation, quadratic equations and systems, inequalities, approximate calculations, powers and roots with arbitrary exponents, logarithms, progressions, complex numbers, algebraic equations, number theory, binomial theorem, and continued fractions.
 
-Every rule is derived, not dictated. Every method is built from a real problem. The structure: define → prove → apply → practise.
+Every rule is derived, not dictated. Every method is built from a real problem. The structure: **define → prove → apply → practise.**
 
-Full details: Part I · Part II
+**Full details:** [Part I](https://russianmathbooks.com/books/kiselev-algebra-part-i/) · [Part II](https://russianmathbooks.com/books/kiselev-algebra-part-ii/)
 
-Part I (available now): russianmathbooks.com · Gumroad
-Part II (pre-order): russianmathbooks.com · Gumroad
-Probability Classic
-The Calculus of Probabilities (1900) — A.A. Markov
-The foundational probability text written by the father of Markov chains.
+- Part I (available now): [russianmathbooks.com](https://russianmathbooks.com/books/kiselev-algebra-part-i/) · [Gumroad](https://valeman.gumroad.com/l/kiselev_algebra_part_I)
+- Part II (pre-order): [russianmathbooks.com](https://russianmathbooks.com/books/kiselev-algebra-part-ii/) · [Gumroad](https://valeman.gumroad.com/l/kiselev_algebra_part_II)
+
+---
+# Probability Classic
+
+## The Calculus of Probabilities (1900) — A.A. Markov
+
+The foundational probability text written by the **father of Markov chains**.
 
 This book laid the groundwork for:
 
@@ -64,346 +80,384 @@ This book laid the groundwork for:
 • probabilistic modeling
 • modern machine learning theory
 
-This is the first ever English translation of Markov’s original work.
+This is the **first ever English translation** of Markov's original work.
 
-Full details: russianmathbooks.com/books/markov-calculus-of-probabilities/
+**Full details:** [russianmathbooks.com/books/markov-calculus-of-probabilities/](https://russianmathbooks.com/books/markov-calculus-of-probabilities/)
 
-Direct purchase: Gumroad
+Direct purchase: [Gumroad](https://valeman.gumroad.com/l/markov1900)
 
-Classical Mathematics Bundle
-Multiple curriculum bundles available — Kiselev’s Complete School Mathematics, the full Kiselev curriculum (Arithmetic + Algebra I + II), and the Arithmetic Masters Collection.
+---
 
-All bundles: russianmathbooks.com/bundles/
+# Classical Mathematics Bundle
 
-Why Soviet Mathematics Education Was Different
+Multiple curriculum bundles available — Kiselev's Complete School Mathematics, the full Kiselev curriculum (Arithmetic + Algebra I + II), and the Arithmetic Masters Collection.
+
+**All bundles:** [russianmathbooks.com/bundles/](https://russianmathbooks.com/bundles/)
+
+---
+
+# Why Soviet Mathematics Education Was Different
+
 During the 20th century the USSR produced an extraordinary number of mathematicians, physicists, and engineers.
 
 Many of them were trained using textbooks designed with a radically different philosophy from modern textbooks:
 
-• focus on deep conceptual understanding
+• focus on **deep conceptual understanding**
 • minimal distractions
-• emphasis on logical reasoning
+• emphasis on **logical reasoning**
 • strong problem-solving culture
 
-Books like Kiselev’s Arithmetic played a central role in this tradition.
+Books like **Kiselev's Arithmetic** played a central role in this tradition.
 
-Support This Project
-If you find this repository useful, you can support the project by checking out my translations of classical Russian mathematics textbooks at russianmathbooks.com — Northern Star Academic Press.
+---
+
+# Support This Project
+
+If you find this repository useful, you can support the project by checking out my translations of classical Russian mathematics textbooks at [russianmathbooks.com](https://russianmathbooks.com/) — Northern Star Academic Press.
 
 More about my work:
 
 https://valeriy.ai
 
-Star History
-Star History Chart
+---
 
-Buy Me a Coffee
- Buy Me A Coffee
+# Star History
 
-Table of Contents
-Math
-Machine_learning
-Physics
-Econometrics
-Optimization
-Information_theory
-Signal_processing
-History
-Probabiltity
-Math
-Probability - First Steps by E.S. Wentzel 🔥🔥🔥🔥🔥
-Applied Problems in Probability Theory by Wentzel and Ovcharov
-Principles of Mathematical Analysis by Walter Rudin
-What is mathemarics by Richard Courand and Herbert Robbins
-Introduction to matrix analysis by Richard Bellman
-Combinatorial mathematics for recreation Vilenkin
-Challenhing mathematical problems with elementary solutions, Volume I, Combinatorial Analysis and Probability Theory Yaglom & Yaglom
-Collection ofproblems in probability theory by Meshalkin
-Algebra by Gelfand and Shen
-Kolmogorov Complexity and Algorirhmic Randomness by Shen, Uspensky, Vereschagin
-Mathematical Analysis – A Brief Course For Engineering Students by A.F . Bermant; I. G. Aramanovich
-A Collection of Problems on a Course of Mathematical Analysis by Berman
-Higher Mathematics ( Part 1) – for Engineering Students Part 1. Linear Algebra and Fundamentals of Mathematical Analysis by A. V. Efimov; B. P. Demidovich
-Mathematical Analysis In Questions And Problems by B. F. Butuzov (Ed.); N. Ch. Krutitsknyn; G. N. Medvedev; A. A. Shishkin
-Mathematical Handbook – Elementary Mathematics by M. Vygodsky
-Foundations of The Theory of Probability by A.N. Kolmogorov 🔥🔥🔥🔥🔥
-Operations research pdf by Elena Wentzel
-Measure, Lebesgue Integrals and Hilbert Space – Kolmogorov and Fomin by Kolmorogov and Fomin pdf
-The method of mathematical induction by Sominskii
-Methods Of Solving Problems in High School Mathematics by A. G. Tsypkin; A. I. Pinsky ; V. I. Blagodatskikh (Editor)
-Mathematical Handbook – Higher Mathematics by Vygodsky
-Differential and Integral Calculus (Volumes 1 & 2) volume 1 volume II by Piskunov
-Higher Mathematics For Beginners And Its Application To Physics by Zeldovich
-Calculus: Basic Concepts for High Schools by Tarasov
-Differential Equations and the Calculus of Variations pdf by Elsgolts
-The World is Built on Probability by Lev Tarasov
-Problems In Probability Theory, Mathematical Statistics And Theory Of Random Functions by Sveshnikov
-Probability And Information by Yaglom and Yaglom
-An Elementary Introduction to The Theory of Probability by Gnedenko, Khinchin
-Theory of Probability pdf by Gnedenko 🔥🔥🔥🔥🔥
-Fundamentals of Linear Algebra and Analytical Geometry pdf by Bugrov, Nikolsky
-Higher Mathematics ( Part 1) – for Engineering Students Part 1. Linear Algebra and Fundamentals of Mathematical Analysis by A. V. Efimov; B. P. Demidovich
-Linear Algebra with Elements of Analytic Geometry by Solodovnikov, Toropova
-Linear Algebra And Multi Dimensional Geometry by Efimov, Rozendorn
-Linear Algebra: Problems Book pdf by Ikramov
-[Linear Algebra](https://archive.org/details/VoyevodinLinearAlgebraMir1983](https://mega.nz/file/ehklDQbD#4lAQdrfy_VYRtIBcePeipl5mBX3PuVeMi1iqPx1FLRg) by Voyevodin
-Problems in Linear Algebra pdf by Proskuryakov
-Analytical Geometry by Pogorelov
-Problems In Analytic Geometry by D. Kletenik
-A Collection Of Problems (Higher Mathematics) by Bugrov, Nikolsky
-Mathematical Analysis – Functions, Limits, Series, Continued Fractions by Lyusternik, Yanpol’skii (Eds.)
-Ordinary Differential Equations by Pontryagin
-Mathematical Analysis In Questions And Problems by B. F. Butuzov (Ed.); N. Ch. Krutitsknyn; G. N. Medvedev; A. A. Shishkin
-A Course on Mathematical Analysis by Khinchin
-A Course of Mathematical Analysis Volume 1 Volume 1 pdf Volume 2 Volume 2 pdf
-Introductory probability theory by Yuri Rozanov
-Differential And Integral Calculus by Piskunov
-Linear algebra by Shilov
-Mathematics for computer science by Lehman, Leighton, Meyer (MIT)
-Introduction to the theory of probability and statistics by Niels Arley and Rander Buch
-Introduction To Mathematical Probability by Uspensky
-An introduction to linear algebra and tensors by Akivis and Goldberg
-Calculus Of Variations by I.M. Gelfand; S.V. Fomin
-Introductory Real Analysis by Kolmogorov and Fomin 🔥🔥🔥🔥🔥
-Elementary Mathematics ( Selected Topics And Problem Solving) by G. Dorofeev; M. Potapov; N. Rozov
-A Brief Course Of Higher Mathematics by V.A. Kudryavtsev and Demidovich
-The Moscow Puzzles by Boris A. Kordemsky
-Differential Equations And The Calculus Of Variations by L. Elsgolts
-Problem Book In High School Mathematics
+[![Star History Chart](https://api.star-history.com/svg?repos=valeman/Awesome_Math_Books\&type=Date)](https://star-history.com/#valeman/Awesome_Math_Books&Date)
+
+---
+
+# Buy Me a Coffee
+
+<a href="https://www.buymeacoffee.com/valeman" target="_blank">
+<img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174">
+</a>
+
+## [Table of Contents]()
+
+* [Math](#math)
+* [Machine_learning](#machine_learning)
+* [Physics](#physics)
+* [Econometrics](#econometrics)
+* [Optimization](#optimization)
+* [Information_theory](#information_theory)
+* [Signal_processing](#signal_processing)
+* [History](#history)
+* [Probabiltity](#probability)
+
+## Math
+
+1. [Probability - First Steps](https://archive.org/details/ProbabilityTheoryfirstSteps/page/n9/mode/2up) by E.S. Wentzel 🔥🔥🔥🔥🔥
+2. [Applied Problems in Probability Theory](https://archive.org/details/wentzel-ovcharov-applied-problems-in-probability-theory/page/83/mode/2up) by Wentzel and Ovcharov
+3. [Principles of Mathematical Analysis](https://archive.org/details/principlesofmath00rudi) by Walter Rudin
+4. [What is mathemarics](https://www.cimat.mx/~gil/docencia/2017/mate_elem/%5BCourant,Robbins%5DWhat_Is_Mathematics(2nd_edition_1996)v2.pdf) by Richard Courand and Herbert Robbins
+5. [Introduction to matrix analysis](https://eclass.uoa.gr/modules/document/file.php/MATH553/%5BRichard_Bellman%5D_Introduction_to_Matrix_Analysis%2C%28BookFi.org%29.pdf) by Richard Bellman
+6. [Combinatorial mathematics for recreation](https://archive.org/details/VilenkinCombinatorialMathematics) Vilenkin
+7. [Challenhing mathematical problems with elementary solutions, Volume I, Combinatorial Analysis and Probability Theory](https://ia802800.us.archive.org/13/items/ChallengingMathematicalProblemsWithElementarySolutionsVol1DoverYaglomYaglom/Challenging%20Mathematical%20Problems%20with%20Elementary%20Solutions%20Vol%201%20%28Dover%29%20-%20Yaglom%20%26%20Yaglom.pdf) Yaglom & Yaglom
+8. [Collection ofproblems in probability theory](https://gwern.net/doc/statistics/probability/1973-meshalkin-collectionofproblemsinprobabilitytheory.pdf) by Meshalkin
+9. [Algebra](https://archive.org/details/algebra-gelfand-1) by Gelfand and Shen
+10. [Kolmogorov Complexity and Algorirhmic Randomness](https://www.lirmm.fr/~ashen/kolmbook-eng-scan.pdf) by Shen, Uspensky, Vereschagin
+11. [Mathematical Analysis – A Brief Course For Engineering Students](https://archive.org/details/bermant-aramanovich-mathematical-analysis-a-breif-course-for-engineering-students/page/503/mode/2up) by A.F . Bermant; I. G. Aramanovich
+12. [A Collection of Problems on a Course of Mathematical Analysis](https://www.karlin.mff.cuni.cz/~beckd/MAF/BERMAN%20G.%20N.,%20A%20Collection%20of%20Problems%20on%20a%20Course%20of%20Mathematical%20Analysis.pdf) by Berman
+13. [Higher Mathematics ( Part 1) – for Engineering Students Part 1. Linear Algebra and Fundamentals of Mathematical Analysis](https://archive.org/details/efimov-demidovich-higher-mathematics-part-1-mir-1984)  by A. V. Efimov; B. P. Demidovich
+14. [Mathematical Analysis In Questions And Problems](https://archive.org/details/butuzov-ed.-mathematical-analysis-in-questions-and-problems-mir-1988/page/185/mode/2up) by B. F. Butuzov (Ed.); N. Ch. Krutitsknyn; G. N. Medvedev; A. A. Shishkin
+15. [Mathematical Handbook – Elementary Mathematics](https://archive.org/details/VygodskyElementaryMathematicalHandbook) by M. Vygodsky
+16. [Foundations of The Theory of Probability](https://archive.org/details/kolmogorov_202112) by A.N. Kolmogorov 🔥🔥🔥🔥🔥
+17. [Operations research](https://archive.org/details/WentzelOperationsResearchMir1983) [pdf](https://mega.nz/file/C5dGmATD#VFSnGH9FfSuvcPAJNa9PHHdrognlRz7c64dqErleDAk) by Elena Wentzel
+18. [Measure, Lebesgue Integrals and Hilbert Space – Kolmogorov and Fomin](https://archive.org/details/MeasureLebesgueIntegralsAndHilbertSpace) by Kolmorogov and Fomin [pdf](https://mega.nz/file/u9sByChZ#3Da0G_3yMUZ8pcBL_7hdQgNngKsBBSCAdMMgelcjJck)
+19. [The method of mathematical induction](https://archive.org/details/The.Method.Of.Mathematical.InductionSominskii1961) by Sominskii
+20. [Methods Of Solving Problems in High School Mathematics](https://archive.org/details/tsypkin-pinsky-methods-of-solving-problems-in-high-school-mathematics-mir/mode/2up) by A. G. Tsypkin; A. I. Pinsky ; V. I. Blagodatskikh (Editor)
+21. [Mathematical Handbook – Higher Mathematics](https://mirtitles.org/2022/06/02/mathematical-handbook-higher-mathematics-vygodsky/) by Vygodsky
+22. Differential and Integral Calculus (Volumes 1 & 2) [volume 1](https://archive.org/details/piskunov-differential-and-integral-calculus-volume-1-mir) [volume II](https://archive.org/details/piskunov-differential-and-integral-calculus-volume-2-mir) by Piskunov
+23. [Higher Mathematics For Beginners And Its Application To Physics](https://mirtitles.org/2022/07/04/higher-mathematics-for-beginners-and-its-application-to-physics-zeldovich/) by Zeldovich
+24. [Calculus: Basic Concepts for High Schools](https://archive.org/details/LevTarasovCalculusBasicConceptsForHighSchools) by Tarasov
+25. [Differential Equations and the Calculus of Variations](https://archive.org/details/ElsgoltsDifferentialEquationsAndTheCalculusOfVariations) [pdf](https://mega.nz/file/bsdW0K5C#yRyCUQfK_TDz0CZq-ppLa5a_PUwy5TbD3BAAJ3zx7gM) by Elsgolts
+26. [The World is Built on Probability](https://archive.org/details/lev-tarasov-the-world-is-built-on-probability-mir-2023) by Lev Tarasov
+27. [Problems In Probability Theory, Mathematical Statistics And Theory Of Random Functions](https://archive.org/details/sveshnikov-problems-in-probability-theory-mathematical-statistics-and-theory-of-random-functions) by Sveshnikov
+28. [Probability And Information](https://archive.org/details/yaglom-yaglom-probability-and-information) by Yaglom and Yaglom
+29. [An Elementary Introduction to The Theory of Probability](https://archive.org/details/gnedenko-khinchin-an-elementary-introduction-to-the-theory-of-probability) by Gnedenko, Khinchin
+30. [Theory of Probability](https://archive.org/details/GnedenkoTheoryOfProbability) [pdf](https://mega.nz/file/35ty2IBK#XNdnlOJ9YrAdihpMSI2Q9nMFV56cjmW0o6MOqcfDkVc) by Gnedenko 🔥🔥🔥🔥🔥
+31. [Fundamentals of Linear Algebra and Analytical Geometry](https://archive.org/details/bugrov-y.-s.-nikolsky-s.-m-fundamentals-of-linear-algebra-and-analytical-geometry-mir-1982) [pdf](https://mega.nz/file/alVBDKJa#z6NQUR_y5c56yzDuXmA8vKXv3daAQy9Mog3-ToGCa4I) by Bugrov, Nikolsky
+32. [Higher Mathematics ( Part 1) – for Engineering Students Part 1. Linear Algebra and Fundamentals of Mathematical Analysis](https://archive.org/details/efimov-demidovich-higher-mathematics-part-1-mir-1984) by A. V. Efimov; B. P. Demidovich
+33. [Linear Algebra with Elements of Analytic Geometry](https://archive.org/details/linear-algebra-with-elements-of-analytic-geometry-mir-1990) by Solodovnikov, Toropova
+34. [Linear Algebra And Multi Dimensional Geometry](https://archive.org/details/linearalgebraandmultidimensionalgeometry/) by Efimov, Rozendorn
+35. [Linear Algebra: Problems Book](https://archive.org/details/IkramovLinearAlgebraProblemsBook) [pdf](https://mega.nz/file/LxcTBTpa#QJsBRhkFEVhgwg8gGfM1Go6jMTE8sTJMuoT77qEd7Hc) by Ikramov
+36. [Linear Algebra](https://archive.org/details/VoyevodinLinearAlgebraMir1983](https://mega.nz/file/ehklDQbD#4lAQdrfy_VYRtIBcePeipl5mBX3PuVeMi1iqPx1FLRg) by Voyevodin
+37. [Problems in Linear Algebra](https://archive.org/details/ProskuryakovProblemsInLinearAlgebra) [pdf](https://mega.nz/file/X5UhHBDb#wC4wC6g2nOhIt9yfBiIVYbdOi_XSybNVf0Hs2-d68KU) by Proskuryakov
+38. [Analytical Geometry](https://archive.org/details/pogorelov-analytical-geometry-mir-publishers-1980) by Pogorelov
+39. [Problems In Analytic Geometry](https://archive.org/details/kletenik-problems-in-analytic-geometry-peace) by D. Kletenik
+40. [A Collection Of Problems (Higher Mathematics)](https://archive.org/details/bugrov-nikolsky-a-collection-of-problems-higher-mathematics-mir-1984/) by  Bugrov, Nikolsky
+41. [Mathematical Analysis – Functions, Limits, Series, Continued Fractions](https://archive.org/details/lyusternik-yanpolskii-mathematical-analysis-functions-limits-series-continued-fractions) by Lyusternik, Yanpol'skii (Eds.)
+42. [Ordinary Differential Equations](https://archive.org/details/pontryagin-ordinary-differential-equations) by Pontryagin
+43. [Mathematical Analysis In Questions And Problems](https://archive.org/details/butuzov-ed.-mathematical-analysis-in-questions-and-problems-mir-1988) by B. F. Butuzov (Ed.); N. Ch. Krutitsknyn; G. N. Medvedev; A. A. Shishkin
+44. [A Course on Mathematical Analysis](https://archive.org/details/khinchin-a-course-of-mathematical-analysis) by Khinchin
+45. A Course of Mathematical Analysis [Volume 1](https://archive.org/details/nikolsky-a-course-of-mathematical-analysis-vol-1-mir/) [Volume 1 pdf](https://mega.nz/file/qwUUBZjb#NiSvT-JcsMhOHX9cKrYiPq0_nV7qQhcAhSyqYgo-oz0) [Volume 2](https://archive.org/details/nikolsky-a-course-of-mathematical-analysis-vol-2-mir/) [Volume 2 pdf](https://mega.nz/file/X4sUHQJA#Bp5OZwm8OVmpUR3P8aqLOXn27WVD0VtYdKe-E15X3cs)
+46. [Introductory probability theory](https://archive.org/details/IntroductoryprobabilitytheoryRozanov1969/IntroductoryprobabilitytheoryRozanov1969/mode/2up) by Yuri Rozanov
+47. [Differential And Integral Calculus](https://archive.org/details/n.-piskunov-differential-and-integral-calculus-mir-1969/page/755/mode/2up) by Piskunov
+48. [Linear algebra](https://archive.org/details/linearalgebra0000shil) by Shilov
+49. [Mathematics for computer science](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf) by Lehman, Leighton, Meyer (MIT)
+50. [Introduction to the theory of probability and statistics](https://archive.org/details/introductiontoth0000arle/page/n7/mode/2up) by Niels Arley and Rander Buch
+51. [Introduction To Mathematical Probability](https://archive.org/details/in.ernet.dli.2015.263184) by Uspensky
+52. [An introduction to linear algebra and tensors](https://archive.org/details/isbn_9780486635453) by Akivis and Goldberg
+53. [Calculus Of Variations](https://archive.org/details/gelfand-fomin-calculus-of-variations) by I.M. Gelfand; S.V. Fomin
+54. [Introductory Real Analysis](https://archive.org/details/kolmogorov-fomin-introductory-real-analysis) by Kolmogorov and Fomin 🔥🔥🔥🔥🔥
+55. [Elementary Mathematics ( Selected Topics And Problem Solving)](https://archive.org/details/dorofeev-potapov-rozov-elementary-mathematics-selected-topics-and-problem-solving-mir-1982) by G. Dorofeev; M. Potapov; N. Rozov
+56. [A Brief Course Of Higher Mathematics](https://archive.org/details/v.-a.-kudryavtsev-b.-r-demidovich-a-brief-course-of-higher-mathematics-mir-1981) by V.A. Kudryavtsev and Demidovich
+57. [The Moscow Puzzles](https://archive.org/details/boris-a.-kordemsky-the-moscow-puzzles-1972) by Boris A. Kordemsky
+58. [Differential Equations And The Calculus Of Variations](https://archive.org/details/ElsgoltsDifferentialEquationsAndTheCalculusOfVariations) by L. Elsgolts
+59. [Problem Book In High School Mathematics](https://archive.org/details/prilepko-problem-book-in-high-school-mathematics-1985)
 by Prilepko
-Problems In Mathematics With Hints And Solutions by V. Govorov; P. Dybov; N. Miroshin; S. Smirnova
-The USSR Olympiad Problem Book by D. O. Shklarsky; N. N. Chentzov; I. M. Yaglom
-Fourier Series by G.P. Tolstov
-Mathematical Aspects Of Computer Engineering by V.P. Maslov (Ed.); K.A. Volosov ( Ed.)
-Higher Mathematics ( Part 1) - for Engineering Students Part 1. Linear Algebra and Fundamentals of Mathematical Analysis by A. V. Efimov; B. P. Demidovich
-Inequalities (Little Mathematics Library) by P. P. Korovkin
-High School Mathematics Part 1 by G. N. Yakovlev ( Ed.) 🔥🔥🔥🔥🔥
-High School Mathematics Part 2 by G. N. Yakovlev ( Ed.) 🔥🔥🔥🔥🔥
-Solving Problems In Algebra And Trigonometry
+60. [Problems In Mathematics With Hints And Solutions](https://archive.org/details/v.-govorov-p.-dybov-n.-miroshin-s.-smirnova-problems-in-mathematics-with-hints-a) by V. Govorov; P. Dybov; N. Miroshin; S. Smirnova
+61. [The USSR Olympiad Problem Book](https://archive.org/details/shklarsky-chentzov-yaglom-the-ussr-olympiad-problem-book) by D. O. Shklarsky; N. N. Chentzov; I. M. Yaglom
+62. [Fourier Series](https://archive.org/details/tolstov-fourier-series-1962) by G.P. Tolstov
+63. [Mathematical Aspects Of Computer Engineering](https://archive.org/details/v.-p.-maslov-k.-a.-volosov-eds.-mathematical-aspects-of-computer-engineering-mir-1988/page/28/mode/2up) by V.P. Maslov (Ed.); K.A. Volosov ( Ed.)
+64. [Higher Mathematics ( Part 1) - for Engineering Students Part 1. Linear Algebra and Fundamentals of Mathematical Analysis](https://archive.org/details/efimov-demidovich-higher-mathematics-part-1-mir-1984) by A. V. Efimov; B. P. Demidovich
+65. [Inequalities (Little Mathematics Library)](https://archive.org/details/InequalitieslittleMathematicsLibrary) by P. P. Korovkin
+66. [High School Mathematics Part 1](https://archive.org/details/g.-n.-yakovlev-ed.-high-school-mathematics-part-1-mir-1988/mode/2up) by G. N. Yakovlev ( Ed.) 🔥🔥🔥🔥🔥
+67. [High School Mathematics Part 2](https://archive.org/details/g.-n.-yakovlev-ed.-high-school-mathematics-part-2-mir-1988) by G. N. Yakovlev ( Ed.) 🔥🔥🔥🔥🔥
+68. [Solving Problems In Algebra And Trigonometry](https://archive.org/details/LitivinenkoMordkovichSolvingProblemsInAlgebraAndTrigonometryMir1988)
 by V. Litvinenko; A. Mordkovich
-Fundamentals Of Mathematical Analysis, Part I](https://archive.org/details/v.-a.-ilyin-e.-g.-poznyak-fundamentals-of-mathematical-analysis-part–1-mir–1982) by Ilyin, Poznyak
-Fundamentals Of Mathematical Analysis, Part II
+69. Fundamentals Of Mathematical Analysis, Part I](https://archive.org/details/v.-a.-ilyin-e.-g.-poznyak-fundamentals-of-mathematical-analysis-part-1-mir-1982) by Ilyin, Poznyak
+70. [Fundamentals Of Mathematical Analysis, Part II](https://archive.org/details/ilyin-poznyak-fundamentals-of-mathematical-analysis)
 by Ilyin, Poznyak
-Questions And Problems In High School Mathematics by L. A. Kondratyeva; V. S. Solomonik
-Differential And Integral Calculus Volume 2 by N. Piskunov
-Solving Problems In Geometry by V. Gusev; V. Litvinenko; A. Mordkovich
-Sequences, Combinations, Limits (Library of School Mathematics Vol. 3) by S.I. Gelfand; M.L. Gerver; N.N. Konstantinov; A. G. Kushnirenko; A.A. Kirillov
-Worked Problems In Applied Mathematics by N. N. Lebedev; I. P. Skalskaya; Y. S. Uflyand
-Limits And Continuity ( Pocket Mathematical Library)
+71. [Questions And Problems In High School Mathematics](https://archive.org/details/l.-a.-kondratyeva-v.-s-solomonik-questions-and-problems-in-high-school-mathematics-mir-1987) by L. A. Kondratyeva; V. S. Solomonik
+72. [Differential And Integral Calculus Volume 2](https://archive.org/details/piskunov-differential-and-integral-calculus-volume-2-mir) by N. Piskunov
+73. [Solving Problems In Geometry](https://archive.org/details/GusevLitivinenkoMordkovichSolvingProblemsInGeometryMir1988) by V. Gusev; V. Litvinenko; A. Mordkovich
+74. [Sequences, Combinations, Limits (Library of School Mathematics Vol. 3)](https://archive.org/details/gelfand-et-al-sequences-combinations-limits-1969) by S.I. Gelfand; M.L. Gerver; N.N. Konstantinov; A. G. Kushnirenko; A.A. Kirillov
+75. [Worked Problems In Applied Mathematics](https://archive.org/details/n.-n.-lebedev-i.-p.-skalskaya-y.-s.-uflyand-worked-problems-in-applied-mathematics-1965/page/n5/mode/2up) by N. N. Lebedev; I. P. Skalskaya; Y. S. Uflyand
+76. [Limits And Continuity ( Pocket Mathematical Library)](https://archive.org/details/korovkin-limits-and-continuity-pocket-mathematical-library)
 by P. P. Korovkin
-Theory of matrice, Volume I by Gantmacher 🔥🔥🔥🔥🔥
-Theory of matrice, Volume II by Gantmacher 🔥🔥🔥🔥🔥
-Elements Of Applied Mathematics YA. B. Zeldovich, A. D. Myskis
-Computational Mathematics by B. P. Demidovich; I. A. Maron
-A Course Of Mathematical Analysis by A. Ya. Khinchin 🔥🔥🔥🔥🔥
-Geometric Transformations 1 by I. M. Yaglom
-Problems In Plane Geometry ( Science For Everyone)
+78. [Theory of matrice, Volume I](https://archive.org/details/gantmacher-the-theory-of-matrices-vol-1-1959) by Gantmacher 🔥🔥🔥🔥🔥
+79. [Theory of matrice, Volume II](https://archive.org/details/gantmacher-the-theory-of-matrices-vol-2-1959) by Gantmacher 🔥🔥🔥🔥🔥
+80. [Elements Of Applied Mathematics](https://archive.org/details/ZeldovichMyskisElementsOfAppliedMathematics) YA. B. Zeldovich, A. D. Myskis
+81. [Computational Mathematics](https://archive.org/details/computational-mathematics) by B. P. Demidovich; I. A. Maron
+82. [A Course Of Mathematical Analysis](https://archive.org/details/khinchin-a-course-of-mathematical-analysis) by A. Ya. Khinchin 🔥🔥🔥🔥🔥
+83. [Geometric Transformations 1](https://archive.org/details/i.-m.-yaglom-geometric-transformations-1-1962) by I. M. Yaglom
+84. [Problems In Plane Geometry ( Science For Everyone)](https://archive.org/details/SharyginProblemsInPlaneGeometryScienceForEveryone)
 by I. F. Sharygin
-Trigonometric Functions - Problem Solving Approach
+85. [Trigonometric Functions - Problem Solving Approach](https://archive.org/details/TrigonometricFunctions-ProblemSolvingApproach)
 by A. Panchishkin, E. Shavgulidze
-Measure And Derivative A Unified Approach by G.E. Shilov; B.L. Gurevich
-Higher Algebra by A. Kurosh
-Mathematical Logic by Yu. L. Ershov, E. A. Palyutin
-Problems And Exercises In Integral Equations
+86. [Measure And Derivative A Unified Approach](https://archive.org/details/g.-e.-shilov-b.-l.-gurevich-measure-and-derivative-a-unified-approach-1966) by G.E. Shilov; B.L. Gurevich
+87. [Higher Algebra](https://archive.org/details/kurosh-higher-algebra) by A. Kurosh
+88. [Mathematical Logic](https://archive.org/details/ErshovPalyutinMathematicalLogicMir1984) by Yu. L. Ershov, E. A. Palyutin
+89. [Problems And Exercises In Integral Equations](https://archive.org/details/ProblemsAndExercisesInIntegralEquationsKrasnovKiselevMakarenko)
 by M. Krasnov, A. Kiselev, G. Makarenko
-Continued Fractions by A. Ya. Khinchin
-Elements Of Number Theory by I. M. Vinogradov
-Vector Analysis by M.L. Krasnov; A.I. Kiselev; G.I. Makarenko.
-Differentiation Explained ( Little Mathematics Library) by V. G. Boltyansky
-Generalized Functions Vol 1 Properties And Operations by I. M. Gelfand; G. E. Shilov
-Geometry by E. Z. Shuvalova
-Problems In Elementary Mathematics by Lidsky, Ovsyannikov, Tuliakov and Shabunin
-Learn Limits Through Problems! Pocket Mathematical Library Workbook 2 by S. I. Gelfand; M. L. Gerver; A. A. Kirillov; N. N. Konstantinov; A.G. Kushnirenko
-Introduction To Topology
+91. [Continued Fractions](https://archive.org/details/khinchin-continued-fractions) by A. Ya. Khinchin
+92. [Elements Of Number Theory](https://archive.org/details/vinogradov-elements-of-number-theory) by I. M. Vinogradov
+93. [Vector Analysis](https://archive.org/details/vinogradov-elements-of-number-theory) by M.L. Krasnov; A.I. Kiselev; G.I. Makarenko.
+94. [Differentiation Explained ( Little Mathematics Library)](https://archive.org/details/boltyansky-v.-g.-differentiation-explained-little-mathematics-library-mir-1977) by V. G. Boltyansky
+95. [Generalized Functions Vol 1 Properties And Operations](https://archive.org/details/gelfand-shilov-generalized-functions-vol-1-properties-and-operations) by I. M. Gelfand; G. E. Shilov
+96. [Geometry](https://archive.org/details/shuvalova-geometry) by E. Z. Shuvalova
+97. [Problems In Elementary Mathematics](https://archive.org/details/LidskyOvsyannikovTuliakovShabuninProblemsInElementaryMathematicsMirPublishers) by Lidsky, Ovsyannikov, Tuliakov and Shabunin
+99. [Learn Limits Through Problems! Pocket Mathematical Library Workbook 2](https://archive.org/details/learn-limits-through-problems-pocket-mathematical-library-workbook-2) by S. I. Gelfand; M. L. Gerver; A. A. Kirillov; N. N. Konstantinov; A.G. Kushnirenko
+100.  [Introduction To Topology](https://archive.org/details/borisovichbliznyakovizrailevichfomenkointroductiontotopologymir)
 by Yu. Borisovich; N. Bliznyakov; Ya. Izrailevich; T. Fomenko
-Challenging Mathematical Problems With Elementary Solutions Vol. 1 by A. M. Yaglom; I. M. Yaglom
-mathematics can be fun–1 by Yakov Perelman → See also the new English translation of his Entertaining Arithmetic.
-Worked Problems In Applied Mathematics by N. N. Lebedev; I. P. Skalskaya; Y. S. Uflyand pdf
-Selected Problems On Discrete Mathematics by G. P. Gavrilov; A. A. Sapozhenko
-Mistakes in Geometric Proofs by Dubnov
-Mathematical Problems And Puzzles from the Polish Mathematical Olympiads (Popular Lectures in Mathematics Vol 10) by Straszewicz
-One Hundred Problems In Elementary Mathematics (Popular Lectures in Mathematics Vol. 7) by Steinhaus
-Mathematical Foundations of Statistical Mechanics by A. I. Khinchin.
-A Problem Book In Algebra by Krechmar
-Algebra by Serg Lange
-Interpretations Of Probability by Khrennikov (2003)
-Applied Probability by Paul Pfeiffer
-Introduction to probability by John Freund
-Probability by Leo Breiman
-A Treatise of Probability by John Maynard Keynes
-Geometrical probability by Kendall & Moran
-Problems In Linear Algebra by I. V. Proskuryakov
-Linear Algebra by V. V. Voyevodin
-Linear algebra with applications by Keith Nicholson
-Calculus by Spivak
-Introductory Calculus Textbook Collection by Michael Spivak
-MATHEMATICS FOR MACHINE LEARNING by Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong
-[Fundamentals Of Linear Algebra And Analytical Geometry](Fundamentals Of Linear Algebra And Analytical Geometry) by Bugrov and Nikolsky
-An Algebra for Secondary Schools by Earle Raymond Hedrick (1908)
-Linear Algebra with Elements of Analytic Geometry by A.S. Solodovnikov, G.A. Toropova
-Pure mathematics, Part I by Frank Gerrish
-Pure mathematics, Part II by Frank Gerrish
-Calculus of a Single Variable
-The Colossal Book Of Mathematics by Martin Gardner
-Calculus Made Easy by Silvanus P. Thompson
-Book Of Proof by Richard H. Hammack
-Problems In Higher Mathematics by V. P. Minorsky
-Complete solutions manual for Stewart’s calculus
-Methods Of Solving Problems In High School Mathematics by A. G. Tsypkin; A. I. Pinsky
-Trigonometric Functions - a problem solving approach by Panchishkin and Shavgulidze
-Vector Analysis by M.L. Krasnov; A.I. Kiselev; G.I. Makarenko.
-Learn Limits Through Problems! ( Pocket Mathematical Library Workbook 2) by S. I. Gelfand; M. L. Gerver; A. A. Kirillov; N. N. Konstantinov; A.G. Kushnirenko
-Sequences And Combinatorial Problems ( Pocket Mathematical Library Workbook 1) by S. I. Gelfand; M. L. Gerver; A. A. Kirillov; N. N. Konstantinov; A.G. Kushnirenko
-Introductory Mathematics Books by Israel M. Gelfand - Collection
+101. [Challenging Mathematical Problems With Elementary Solutions Vol. 1](https://archive.org/details/yaglom-yaglom-challenging-mathematical-problems-with-elementary-solutions-vol.-1) by A. M. Yaglom; I. M. Yaglom
+102. [mathematics can be fun-1](https://archive.org/details/MathematicsCanBeFun-1) by Yakov Perelman → See also the new English translation of his [Entertaining Arithmetic](https://russianmathbooks.com/books/perelman-entertaining-arithmetic/).
+103. [Worked Problems In Applied Mathematics](https://archive.org/details/n.-n.-lebedev-i.-p.-skalskaya-y.-s.-uflyand-worked-problems-in-applied-mathematics-1965) by N. N. Lebedev; I. P. Skalskaya; Y. S. Uflyand [pdf](https://mega.nz/file/r9M3DQYS#d92_lQNanEr6wP0IamUV1qVxkCxHlMAnLI592yZbM0Q)
+104. [Selected Problems On Discrete Mathematics](https://archive.org/details/gavrilov-sapozhenko-selected-problems-on-discrete-mathematics-mir-1989) by G. P. Gavrilov; A. A. Sapozhenko
+105. [Mistakes in Geometric Proofs](https://archive.org/details/dubnov-mistakes-in-geometric-proofs-topics-in-mathematics) by Dubnov
+106. [Mathematical Problems And Puzzles from the Polish Mathematical Olympiads (Popular Lectures in Mathematics Vol 10)](https://archive.org/details/straszewicz-mathematical-problems-and-puzzles) by Straszewicz
+107. [One Hundred Problems In Elementary Mathematics (Popular Lectures in Mathematics Vol. 7)](https://archive.org/details/steinhaus-one-hundred-problems-in-elementary-mathematics) by Steinhaus
+108. [Mathematical Foundations of Statistical Mechanics](https://archive.org/details/khinchin-mathematical-foundations-of-statistical-mechanics/) by A. I. Khinchin.
+109. [A Problem Book In Algebra](https://archive.org/details/v.-a.-krechmar-a-problem-book-in-algebra-mir-1978) by Krechmar
+110. [Algebra](https://archive.org/details/algebra0000lang) by Serg Lange
+111. [Interpretations Of Probability](https://archive.org/details/interpretations-of-probability-2003/page/n1/mode/2up) by Khrennikov (2003)
+112. [Applied Probability](https://archive.org/details/ost-math-col10708/mode/2up) by Paul Pfeiffer
+113. [Introduction to probability](https://archive.org/details/introductiontopr0000freu_s9u6) by John Freund
+114. [Probability](https://archive.org/details/probability0000unse_s2l6/page/n3/mode/2up) by Leo Breiman
+115. [A Treatise of Probability](https://www.gutenberg.org/files/32625/32625-pdf.pdf) by John Maynard Keynes
+116. [Geometrical probability](https://archive.org/details/geometricalproba033077mbp/page/n5/mode/2up) by Kendall & Moran
+117. [Problems In Linear Algebra](https://archive.org/details/ProskuryakovProblemsInLinearAlgebra/page/n53/mode/2up) by I. V. Proskuryakov
+118. [Linear Algebra](https://archive.org/details/VoyevodinLinearAlgebraMir1983/page/n3/mode/2up) by V. V. Voyevodin
+119. [Linear algebra with applications](https://archive.org/details/2018LinearAlgebraWithApplications/mode/2up) by Keith Nicholson
+120. [Calculus](https://archive.org/details/CalculusSpivak/mode/2up) by Spivak 
+121. [Introductory Calculus Textbook Collection](https://archive.org/details/introductory-calculus-book-collection/%28Calculus%29%20Michael%20Spivak%20-%20Combined%20Answer%20Book%20for%20Calculus%20Third%20and%20Fourth%20Editions/) by Michael Spivak
+122. [MATHEMATICS FOR MACHINE LEARNING](https://archive.org/details/mml-book_202310/page/22/mode/2up) by Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong
+123. [Fundamentals Of Linear Algebra And Analytical Geometry](Fundamentals Of Linear Algebra And Analytical Geometry) by Bugrov and Nikolsky
+124. [An Algebra for Secondary Schools](https://archive.org/details/analgebraforsec00hedrgoog/page/n16/mode/2up) by Earle Raymond Hedrick (1908)
+125. [Linear Algebra with Elements of Analytic Geometry](https://archive.org/details/B-001-024-320) by A.S. Solodovnikov, G.A. Toropova
+126. [Pure mathematics, Part I](https://archive.org/details/frank-gerrish.-pure-mathematics-vol-1) by Frank Gerrish
+127. [Pure mathematics, Part II](https://archive.org/details/frank-gerrish.-pure-mathematics-vol-2/mode/2up) by Frank Gerrish
+128. [Calculus of a Single Variable](https://archive.org/details/CALCULUS10THEDITIONRONLARSON/mode/2up)
+129. [The Colossal Book Of Mathematics](https://archive.org/details/martingardnerthecolossalbookofmathematics/mode/2up) by Martin Gardner
+130. [Calculus Made Easy](https://www.gutenberg.org/ebooks/33283) by Silvanus P. Thompson
+131. [Book Of Proof](https://archive.org/details/BookOfProof2013) by Richard H. Hammack
+132. [Problems In Higher Mathematics](https://archive.org/details/ProblemsInHigherMathematicsMinorsky) by V. P. Minorsky
+133. [Complete solutions manual for Stewart's calculus](https://archive.org/details/completesolution0000unse_w7c7)
+134. [Methods Of Solving Problems In High School Mathematics](https://archive.org/details/tsypkin-pinsky-methods-of-solving-problems-in-high-school-mathematics-mir) by A. G. Tsypkin; A. I. Pinsky
+135. [Trigonometric Functions - a problem solving approach](https://archive.org/details/TrigonometricFunctions-ProblemSolvingApproach/mode/2up) by Panchishkin and Shavgulidze
+136. [Vector Analysis](https://archive.org/details/KrasnovKiselievMakarenkoVectorAnalysisMir1983) by M.L. Krasnov; A.I. Kiselev; G.I. Makarenko.
+137. [Learn Limits Through Problems! ( Pocket Mathematical Library Workbook 2)](https://archive.org/details/learn-limits-through-problems-pocket-mathematical-library-workbook-2) by S. I. Gelfand; M. L. Gerver; A. A. Kirillov; N. N. Konstantinov; A.G. Kushnirenko
+138. [Sequences And Combinatorial Problems ( Pocket Mathematical Library Workbook 1)](https://archive.org/details/sequences-and-combinatorial-problems-pocket-mathematical-library-workbook-1)  by S. I. Gelfand; M. L. Gerver; A. A. Kirillov; N. N. Konstantinov; A.G. Kushnirenko
+139.  [Introductory Mathematics Books by Israel M. Gelfand - Collection](https://archive.org/details/gelfand-math-book-collection/Gelfand%2C%20I.%20M.%2C%20Fomin%2C%20S.%20V.%20-%20Calculus%20of%20Variations%20%281963%2C%20prentice-hall%29%20-%20libgen.li/) 
 by Israel M. Gelfand
-Problems in the calculus, with formulas and suggestions by Leib, David D. (David Deitch) (1915)
-Linear Algebra A Course for Physicists and Engineers by Arak M. Mathai, Hans J. Haubold
-A history of mathematics](https://archive.org/details/historyofmathema0000boye_v7s4) by Boyer, Carl
-Fourier series by Tolstov
-Problems In Elementary Mathematics For Home Study by N. Antonov; M. Vygodsky; V. Nikitin; A. Sankin
-Introduction to algebra by Kostrikin, A. I. (Alekseĭ Ivanovich)
-Selected Problems And Theorems In Elementary Mathematics by D. O. Shklyarsky, N. N. Chentsov, I. M. Yaglom
-Introduction To Physics ( 2nd Ed.)
+140. [Problems in the calculus, with formulas and suggestions](https://archive.org/details/cu31924031220217) by Leib, David D. (David Deitch) (1915)
+141.  [Linear Algebra A Course for Physicists and Engineers](https://library.oapen.org/bitstream/handle/20.500.12657/59523/9783110562507.pdf?sequence=1&isAllowed=y) by Arak M. Mathai, Hans J. Haubold
+142.   A history of mathematics](https://archive.org/details/historyofmathema0000boye_v7s4) by Boyer, Carl
+143.    [Fourier series](https://archive.org/details/tolstov-fourier-series-1962) by Tolstov
+144. [Problems In Elementary Mathematics For Home Study](https://archive.org/details/AntonovVygodskyNikitinSankinProblemsInElementaryMathematicsForHomeStudyMir1982j) by N. Antonov; M. Vygodsky; V. Nikitin; A. Sankin
+145.  [Introduction to algebra](https://archive.org/details/introductiontoal0000kost/page/n5/mode/2up) by Kostrikin, A. I. (Alekseĭ Ivanovich)
+146.   [Selected Problems And Theorems In Elementary Mathematics](https://archive.org/details/selected-problems-and-theorems-in-elementary-mathematics/mode/2up) by D. O. Shklyarsky, N. N. Chentsov, I. M. Yaglom
+147.    [Introduction To Physics ( 2nd Ed.)](https://archive.org/details/a.-kitaigorodsky-introduction-to-physics-2nd-ed.-mir-1981)
 by A. Kitaigorodsky
-Problems in geometry by Modenov
-A Brief Course In Analytic Geometry by Yefimov
-Lectures On The Theory Of Functions Of A Complex Variable by Yu. V. Sidorov, M. V. Fedoryuk, M. I. Shabunin
-Problems in Mathematical Statistics by G. I. Ivchenko, Yu. I. Medvedev, A. V. Chistyakov
-Lectures In Geometry Semester I Analytic Geometry by M. Postnikov
-Lectures In Geometry: Semester II - Linear Algebra And Differential Geometry by M. Postnikov
-Elementary real and complex analysis by Shilov
-Mathematical Analysis - Differentiation And Integration by I. G. Aramanovich; R.S.Guter; L.A.Lyusternik; I.L. Raukhvarger; M. I. Skanavi; A. R.Yanpol’skii
-Optimal control by Alekseev, Tikhomirov and Fomin.
-An Introduction To Information Theory by Reza, Fazlollah M.
-The Essence of Mathematics Through Elementary Problems by Alexandre Borovik and Tony Gardiner;
-Advanced Problems in Mathematics Preparing for University by Stephen Siklos
-Concrete Mathematics by Donald Knuth
-Sequences, Combinations, Limits (Library of School Mathematics by S.I. Gelfand; M.L. Gerver; N.N. Konstantinov; A. G. Kushnirenko; A.A. Kirillov
-Problems In Differential Geometry And Topology
+148. [Problems in geometry](https://archive.org/details/ModenovProblemsInGeometryMir1981) by Modenov
+149.  [A Brief Course In Analytic Geometry](https://archive.org/details/yefimov-a-brief-course-in-analytic-geometry) by Yefimov
+150.   [ Lectures On The Theory Of Functions Of A Complex Variable](https://archive.org/details/SidorovFedoryukShabuninLecturesOnTheTheoryOfFunctionsOfAComplexVariable) by Yu. V. Sidorov, M. V. Fedoryuk, M. I. Shabunin
+151.    [Problems in Mathematical Statistics](https://archive.org/details/ProblemsInMathematicalStatistics/page/n7/mode/2up) by G. I. Ivchenko, Yu. I. Medvedev, A. V. Chistyakov
+152. [Lectures In Geometry Semester I Analytic Geometry](https://archive.org/details/postnikov-lectures-in-geometry-semester-i) by M. Postnikov
+153. [Lectures In Geometry: Semester II - Linear Algebra And Differential Geometry](https://archive.org/details/postnikov-lectures-in-geometry-semester-ii-linear-algebra-and-differential-geometry/page/83/mode/2up) by M. Postnikov
+154. [Elementary real and complex analysis](https://archive.org/details/elementaryrealco0000shil) by Shilov
+155. [Mathematical Analysis - Differentiation And Integration](https://archive.org/details/aramanovich-guter-lyusternik-raukhvarger-skanavi-yanpolskii-mathematical-analysi) by I. G. Aramanovich; R.S.Guter; L.A.Lyusternik; I.L. Raukhvarger; M. I. Skanavi; A. R.Yanpol'skii
+156. [Optimal control](https://archive.org/details/optimalcontrol0000alek) by Alekseev, Tikhomirov and Fomin.
+157. [An Introduction To Information Theory](https://archive.org/details/in.ernet.dli.2015.459017/mode/2up) by Reza, Fazlollah M.
+158. [The Essence of Mathematics Through Elementary Problems](https://www.openbookpublishers.com/books/10.11647/obp.0168) by Alexandre Borovik and Tony Gardiner;
+159. [Advanced Problems in Mathematics Preparing for University](https://www.openbookpublishers.com/books/10.11647/obp.0181) by Stephen Siklos
+160. [Concrete Mathematics](https://archive.org/details/concrete-mathematics) by Donald Knuth
+161. [Sequences, Combinations, Limits (Library of School Mathematics](https://archive.org/details/gelfand-et-al-sequences-combinations-limits-1969/mode/2up) by S.I. Gelfand; M.L. Gerver; N.N. Konstantinov; A. G. Kushnirenko; A.A. Kirillov
+162. [Problems In Differential Geometry And Topology](https://archive.org/details/ASMishchenkoYu.P.SolovyevATFomenkoProblemsInDifferentialGeometryAndTopologyMirPublishers1985/mode/2up)
 by A. S. Mishchenko, Yu. P. Solovyev, A. T. Fomenko
-250 problems in elementary number theory by Sierpiński, Wacław, 1882-)
-Theory Of Markov Processes by Dynkin
-Markov processes theorems and problems Dynkin and Yushkevich
-Problems In Descriptive Geometry Arustamov
-Mathematics Its Contents Methods And Meaning Vol 1 2 and 3
-by Aleksandrov, Kolmogorov and Lavren’iev
-Solving Problems In Algebra And Trigonometry by V. Litvinenko; A. Mordkovich
-Linear Algebra Problem Book by Paul Halmos
-Higher Mathematics for Beginners and Its Application to Physics – Yakov Zeldovich (1973)
-A Course Of Mathematical Analysis Vol 1 by S. M. Nikolsky (MIPT core mathematical analysis textbook) 🔥🔥🔥🔥🔥
-[[A Course Of Mathematical Analysis Vol 1]](https://archive.org/details/nikolsky-a-course-of-mathematical-analysis-vol–2-mir) by by S. M. Nikolsky (MIPT core mathematical analysis textbook) 🔥🔥🔥🔥🔥
-Problems In Elementary Mathematics by V. Lidsky, L. Ovsyannikov, A. Tuliakov and M. Shabunin. A problem-solving companion that ranges across calculus, algebra, and geometry. Offers clear solutions and is perfect for deepening mathematical intuition.
-[A Course of Higher Mathematics – V.I. Smirnov (Vol. 1–5)][(https://archive.org/details/ACourseOfHigherMathematics](https://archive.org/search?query=creator%3A%22V.+I.+Smirnov%22)) ** One of the most rigorous and comprehensive advanced math textbooks. Topics include analysis, differential equations, and complex function theory. Excellent for math majors and graduate students.
-The Man Who Counted – Malba Tahan ** A mathematical Arabian Nights: enjoy fables packed with number theory, logic, and elegant problem-solving.
-The Universal History of Numbers – Georges Ifrah ** A global, epic journey through how human beings invented and evolved number systems—brilliant and sweeping.
-Zero: The Biography of a Dangerous Idea – Charles Seife**
-A deep dive into the philosophical and mathematical impact of the number zero, from ancient India to modern physics.
-A History of Pi – Petr Beckmann**
-A quirky, passionate account of π through the ages—this cult classic blends math with snark and drama.
-📘 The Triumph of Numbers – I. B. Cohen**
-A concise but rich account of how numerical thinking reshaped economics, science, and society.
-Mathematical Analysis - Differentiation And Integration by I. G. Aramanovich; R.S.Guter; L.A.Lyusternik; I.L. Raukhvarger; M. I. Skanavi; A. R.Yanpol’skii
-Mathematical Analysis For School Students by Lev Pontryagin
-Elementary Mathematics ( Selected Topics And Problem Solving) by G. Dorofeev; M. Potapov; N. Rozov
-Worked Problems In Applied Mathematics by N. N. Lebedev; I. P. Skalskaya; Y. S. Uflyand
-Apostol’s Calculus,Volume 1, Caltech core math textbook by Tom M. Apostol
-[Apostol’s Calculus,Volume 2, Caltech core math textbook](
-https://archive.org/details/calculus-tom-m.-apostol-calculus-volume–2–2nd-edition-proper–2–1975-wiley-sons-libgen.lc/Apostol%20T.%20M.%20-%20Calculus%20vol%20II%20%281967%29/page/148/mode/2up) by Tom M. Apostol
-General Topology by John Kelley
-A history of probability and statistics and their applications before 1750 by Andres Hald
-The rise of statistical thinking, 1820–1900
-Problems In Plane Geometry by Sharygin
-Probability Theory And Mathematical Statistics by Klimov
-Love And Mathematics Sofya Kovalevskaya by Pelageya Kochina
-Probability : a survey of the mathematical theory by John Lamperti
-Probabilitic method by Alon and Spencer
-An Introduction to The Theory of Numbers by Hardy and Wright (1938)
-Introduction to number theory by Morten Risager
-Course of pure mathematics by Hardy (1921)
-Mishchenko, Fomenko A Course Of Differential Geometry And Topology
-Number systems by S.V. Fomin
-Problems In Mathematical Analysis the iconic book elite Chinese students called Jimmy.
-Trigonometry by Gelfand and Saul 🔥🔥🔥🔥🔥
-Algebra by Gelfand and Shen 🔥🔥🔥🔥🔥
-Arithmetic by A.P. Kiselev (first modern English translation — one of the bestselling math textbooks ever written, 125+ years in print) 🔥🔥🔥🔥🔥 · Buy on Gumroad Get Arithmetic by Kiselev
-Algebra, Part I by A.P. Kiselev (first modern English translation — the official Soviet algebra textbook for decades, 126 sections, 6 chapters) 🔥🔥🔥🔥🔥 · Buy on Gumroad Get Algebra by Kiselev
-Algebra, Part II by A.P. Kiselev (pre-order — 12 chapters plus Supplements, 187 sections: functions, quadratic systems, inequalities, logarithms, progressions, complex numbers, binomial theorem, continued fractions)
-Planimetry by A.P. Kiselev (proof-based Euclidean geometry — 6 chapters, 269 sections: basic concepts, triangles, circles, similarity, regular polygons, areas)
-Stereometry by A.P. Kiselev (pre-order — three-dimensional geometry: polyhedra, Platonic solids, cylinders, cones, the ball, Cavalieri’s principle)
-Calculus by A.P. Kiselev (pre-order — first complete English translation; single-variable differential and integral calculus, proof-based, with classical applications)
-1001 Problems in Mental Arithmetic by S.A. Rachinsky (the village schoolteacher whose pupils appear in Bogdanov-Belsky’s 1895 painting “Mental Arithmetic”)
-Arithmetic by A. Malinin & K. Burenin (Imperial Russian arithmetic textbook — 11 chapters, 301 sections covering numeration, operations, divisibility, fractions, ratios, proportions, percentage, interest, Diophantine problems)
-Entertaining Arithmetic by Ya.I. Perelman (the classic of Russian popular mathematics — puzzles, riddles, and curiosities)
-Machine_learning
-Machine Learning by Tom Mitchell, Carnegie Mellon.
-Pattern recognition and machine learning by Christopher Bishop (Microsoft Research)
-An introduction to statistical learning by James, Witten, Hastie, Tibshirani, and Taylor
-Probabilistic Machine Learning: An Introduction" by Kevin Patrick Murphy
-Probabilistic Machine Learning: Advanced Topics" by Kevin Patrick Murphy
-Understanding Machine Learning: From Theory to Algorithms by Shai Shalev-Shwartz and Shai Ben-David
-Foundations of Machine Learning by Mehryar Mohri, Afshin Rostamizadeh, and Ameet Talwalkar
-Information Theory, Inference, and Learning Algorithms by David J. C. MacKay
-Physics
-Problems in General Physics by Irodov
-Fundamental Laws of Mechanics by Irodov
-Handbook Of Physics by Yavorsky and Detlaf
-Problems In General Physics by V. S. Wolkenstein
-A Collection Of Questions And Problems In Physics by Sens
-Basic Laws Of Electromagnetism by I. E. Irodov
-Fundamentals of physics by Yavorski and Pinsky
-Collected Problems In Physics
-by S. Kozel; E. Rashda; S. Slavatinskii 🔥🔥🔥🔥🔥
-General Methods For Solving Physics Problems by B. S. Beliko
-Basic Electricity And Electronics by V. S. Popov; S. A. Nikolaev
-Selected Problems On Physics by S. P. Myasnikov, T. N. Osanova
-Collection Of Problems In Classical Mechanics
-by G. L. Kotkin; V. G. Serbo
-Lectures in analytical mechanics by Felix Gantmacher 🔥🔥🔥🔥🔥
-Physics for Everyone - Book 1 - Physical Bodies
-by L. D. Landau, A. I. Kitaigorodsky
-Elementary textbook on physics, Volumes I-III by Landsberg
-Problems in undergraduate physics by Strelkov and Yakovlev
-Physics - a general course, Volumes I-III by Savelyev 🔥🔥🔥🔥🔥
-Electricity And Magnetism by A. N. Matveev
-Questions And Answers In School Physics by L. V. Tarasov, A. Tarasova
-Theoretical Mechanicsby N. G. Chetaev
-Basic Concepts Of Quantum Mechanics by L. V. Tarasov
-Berkeley physics course, Part I, Mechanics by Charles Kittel
-Berkeley physics course, Part II Electricity and Magnetism by Charles Kittel
-Lectures In Analytical Mechanics by F. Gantmacher
-Higher Mathematics for Beginners and Its Application to Physics – Yakov Zeldovich (1973)
-Equations of Mathematical Physics – V. S. Vladimirov (1971)
-A Collection of Problems on the Equations of Mathematical Physics – A. V. Bitsadze & D. F. Kalinichenko (1981)
-Generalized Functions in Mathematical Physics – V. S. Vladimirov (1979)
-Fun with Maths and Physics – Yakov Perelman → See Entertaining Arithmetic translation.
-Lectures In Analytical Mechanics by F. Gantmacher 🔥🔥🔥🔥🔥
-Collected Problems in Physics S. Kozel; E. Rashda; S. Slavatinskii 🔥🔥🔥🔥🔥
-Physics In Your Kitchen Lab by Kikoin
-Collected papers of Landau 🔥🔥🔥🔥🔥
-Science for Everyone – Aptitude Test Problems in Physics edited by Krotov
-Problems In Elementary Physics by B. Bukhovtsev, V. Krivchenkov, G. Myakishev, and V. Shalnov
-The Feynman Lectures on Physics 🔥🔥🔥🔥🔥
-Probability
-Probability : a survey of the mathematical theory by John Lamperti 🔥🔥🔥🔥🔥
-Probabilitic method by Alon and Spencer 🔥🔥🔥🔥🔥
-An Introduction To Probability Theory and Its Applications volume 1 by by Feller William
-Lady Luck : the theory of probability
-Probability and Statistics
-The Calculus of Probabilities (1900) by A.A. Markov (first-ever English translation of the foundational text by the father of Markov Chains) 🔥🔥🔥🔥🔥 · Buy on Gumroad
-Get Markov's Calculus of Probabilities
+163. [250 problems in elementary number theory](https://archive.org/details/250problemsinele0000sier) by Sierpiński, Wacław, 1882-)
+164. [Theory Of Markov Processes](https://archive.org/details/dynkin-theory-of-markov-processes) by Dynkin
+165. [Markov processes theorems and problems](https://people.math.harvard.edu/~ctm/home/text/class/harvard/219/21/html/home/sources/dynkin.pdf) Dynkin and Yushkevich
+166. 166. [Problems In Descriptive Geometry](https://archive.org/details/arustamov-problems-in-descriptive-geometry-mir-1972/mode/2up) Arustamov
+167. [Mathematics Its Contents Methods And Meaning Vol 1 2 and 3](https://archive.org/details/MathematicsItsContentsMethodsAndMeaningVol3/Mathematics-%20its%20contents%20methods%20and%20meaning%20Vol%201/mode/2up) 
+by Aleksandrov, Kolmogorov and Lavren'iev
+168. [Solving Problems In Algebra And Trigonometry](https://archive.org/details/LitivinenkoMordkovichSolvingProblemsInAlgebraAndTrigonometryMir1988) by V. Litvinenko; A. Mordkovich
+169. [Linear Algebra Problem Book](https://archive.org/details/linearalgebrapro0000halm_w2r8/mode/2up) by Paul Halmos
+170. [Higher Mathematics for Beginners and Its Application to Physics – Yakov Zeldovich (1973)](https://archive.org/details/zeldovich-higher-mathematics-for-beginners-and-its-application-to-physics-mir-1973)
+171. [A Course Of Mathematical Analysis Vol 1](https://archive.org/details/nikolsky-a-course-of-mathematical-analysis-vol-1-mir?utm_source=chatgpt.com) by S. M. Nikolsky (MIPT core mathematical analysis textbook) 🔥🔥🔥🔥🔥
+172. [[A Course Of Mathematical Analysis Vol 1]](https://archive.org/details/nikolsky-a-course-of-mathematical-analysis-vol-2-mir) by by S. M. Nikolsky  (MIPT core mathematical analysis textbook) 🔥🔥🔥🔥🔥
+173. [Problems In Elementary Mathematics]([https://archive.org/details/ProblemsInMathematicsByV.Lidskii](https://archive.org/details/LidskyOvsyannikovTuliakovShabuninProblemsInElementaryMathematicsMirPublishers)) by V. Lidsky, L. Ovsyannikov, A. Tuliakov and M. Shabunin. A problem-solving companion that ranges across calculus, algebra, and geometry. Offers clear solutions and is perfect for deepening mathematical intuition.
+174. [A Course of Higher Mathematics – V.I. Smirnov (Vol. 1–5)][(https://archive.org/details/ACourseOfHigherMathematics](https://archive.org/search?query=creator%3A%22V.+I.+Smirnov%22)) **  One of the most rigorous and comprehensive advanced math textbooks. Topics include analysis, differential equations, and complex function theory. Excellent for math majors and graduate students.
+175. [The Man Who Counted – Malba Tahan]([https://archive.org/details/the-man-who-counted-malba-tahan](https://archive.org/details/TheManWhoCounted-English-MalbaTahan)) **  A mathematical Arabian Nights: enjoy fables packed with number theory, logic, and elegant problem-solving.
+176. [The Universal History of Numbers – Georges Ifrah](https://archive.org/details/universalhistory0000ifra_y2b9) **  A global, epic journey through how human beings invented and evolved number systems—brilliant and sweeping.
+177. [Zero: The Biography of a Dangerous Idea – Charles Seife](https://archive.org/details/isbn_9780670884575)**  
+  A deep dive into the philosophical and mathematical impact of the number zero, from ancient India to modern physics.
+178. [A History of Pi – Petr Beckmann](https://archive.org/details/historyofpisymbo00beck)**  
+  A quirky, passionate account of π through the ages—this cult classic blends math with snark and drama.
+179. [📘 The Triumph of Numbers – I. B. Cohen](https://archive.org/details/triumphofnumbers00cohe)**  
+  A concise but rich account of how numerical thinking reshaped economics, science, and society.
+180. [Mathematical Analysis - Differentiation And Integration](https://archive.org/details/aramanovich-guter-lyusternik-raukhvarger-skanavi-yanpolskii-mathematical-analysi) by I. G. Aramanovich; R.S.Guter; L.A.Lyusternik; I.L. Raukhvarger; M. I. Skanavi; A. R.Yanpol'skii
+181. [Mathematical Analysis For School Students](https://mirtitles.org/2025/04/25/mathematical-analysis-for-school-students-by-lev-pontryagin/) by Lev Pontryagin
+182. [Elementary Mathematics ( Selected Topics And Problem Solving)](https://mirtitles.org/2025/02/24/elementary-mathematics-selected-topics-and-problem-solving-by-g-dorofeev-m-potapov-n-rozov/) by G. Dorofeev; M. Potapov; N. Rozov
+183. [Worked Problems In Applied Mathematics](https://mirtitles.org/2024/10/09/worked-problems-in-applied-mathematics-by-n-n-lebedev-i-p-skalskaya-y-s-uflyand/) by N. N. Lebedev; I. P. Skalskaya; Y. S. Uflyand
+184. [Apostol's Calculus,Volume 1, Caltech core math textbook](https://archive.org/details/calculus-tom-m.-apostol-calculus-volume-1-2nd-edition-proper.-1-john-wiley-sons-inc.-1991/%28Calculus%29%20Tom%20M.%20Apostol%20-%20Calculus%2C%20Volume%201%2C%202nd%20Edition%20%28PROPER%29.%201-John%20Wiley%20%26%20Sons%2C%20Inc.%20%281991%29/mode/2up) by Tom M. Apostol
+185. [Apostol's  Calculus,Volume 2, Caltech core math textbook](
+https://archive.org/details/calculus-tom-m.-apostol-calculus-volume-2-2nd-edition-proper-2-1975-wiley-sons-libgen.lc/Apostol%20T.%20M.%20-%20Calculus%20vol%20II%20%281967%29/page/148/mode/2up) by Tom M. Apostol
+186. [General Topology](https://archive.org/details/generaltopology0000kell) by John Kelley
+187. [A history of probability and statistics and their applications before 1750](https://archive.org/details/historyofprobabi0000hald) by Andres Hald
+188. [The rise of statistical thinking, 1820-1900](https://archive.org/details/riseofstatistica00theo)
+189. [Problems In Plane Geometry](https://archive.org/details/SharyginProblemsInPlaneGeometryScienceForEveryone) by Sharygin
+190. [Probability Theory And Mathematical Statistics](https://archive.org/details/g.-klimov-probability-theory-and-mathematical-statistics-mir-1986) by Klimov
+191. [Love And Mathematics Sofya Kovalevskaya](https://archive.org/details/kochina-love-and-mathematics-sofya-kovalevskaya-1985) by Pelageya Kochina
+192. [Probability : a survey of the mathematical theory](https://archive.org/details/probabilitysurve0000lamp_d6r3) by John Lamperti
+193. [Probabilitic method](https://math.bme.hu/~gabor/oktatas/SztoM/AlonSpencer.ProbMethod3ed.pdf) by Alon and Spencer
+194. [An Introduction to The Theory of Numbers](https://ia801401.us.archive.org/11/items/in.ernet.dli.2015.147898/2015.147898.An-Introduction-To-The-Theory-Of-Numbers-Fourth-Edition.pdf) by Hardy and Wright (1938)
+195. [Introduction to number theory](https://web.math.ku.dk/~risager/introtal/main.pdf) by Morten Risager
+196. [Course of pure mathematics](https://archive.org/details/courseofpuremath00hardrich/page/n7/mode/2up) by Hardy (1921)
+197. [Mishchenko, Fomenko A Course Of Differential Geometry And Topology](https://archive.org/details/MishchenkoFomenkoACourseOfDifferentialGeometryAndTopology/mode/2up)
+198. [Number systems](https://archive.org/details/fomin-number-systems/) by S.V. Fomin
+199. [Problems In Mathematical Analysis](https://archive.org/details/DemidovichEtAlProblemsInMathematicalAnalysisMir1970) the iconic book elite Chinese students called Jimmy.
+200. [Trigonometry](https://dn790008.ca.archive.org/0/items/GelfandSaulTrigonometry/GelfandSaul-Trigonometry.pdf) by Gelfand and Saul 🔥🔥🔥🔥🔥
+201. [Algebra](https://www.cimat.mx/ciencia_para_jovenes/bachillerato/libros/algebra_gelfand.pdf) by Gelfand and Shen 🔥🔥🔥🔥🔥
 
-Econometrics
-Basic Econometrics by Riccardo (Jack) Lucchetti (2024)
-A gentle introduction to matrix calculus by Jan Magnus 🔥🔥🔥🔥🔥
-Optimization
-Algorithms for optimization, MIT book by Mykel Kochenderfer, Tim Wheeler
-Lectures on Modern Convex Optimizaion by Arkadii Nemirovski
-Information_theory
-A first course in information theory by Raymond Yeung, Chinese Univeristy of Hong Kong
-Signal_processing
-The Fourier Transform and its Applications
-History
-Sonia Kovalevsky : biography and autobiography
-Sonya Kovalevsky - her recollections of childhood
-games, gods and gambling
-History of Mathematics
+202. [Arithmetic](https://russianmathbooks.com/books/kiselev-arithmetic/) by A.P. Kiselev (first modern English translation — one of the bestselling math textbooks ever written, 125+ years in print) 🔥🔥🔥🔥🔥 · [Buy on Gumroad](https://valeman.gumroad.com/l/arithmetic) <a href="https://russianmathbooks.com/books/kiselev-arithmetic/" target="_blank"><img src="https://img.shields.io/badge/Get_the_Book-Arithmetic_by_Kiselev-orange?style=for-the-badge" alt="Get Arithmetic by Kiselev"></a>
+
+203. [Algebra, Part I](https://russianmathbooks.com/books/kiselev-algebra-part-i/) by A.P. Kiselev (first modern English translation — the official Soviet algebra textbook for decades, 126 sections, 6 chapters) 🔥🔥🔥🔥🔥 · [Buy on Gumroad](https://valeman.gumroad.com/l/kiselev_algebra_part_I) <a href="https://russianmathbooks.com/books/kiselev-algebra-part-i/" target="_blank"><img src="https://img.shields.io/badge/Get_the_Book-Algebra_by_Kiselev-orange?style=for-the-badge" alt="Get Algebra by Kiselev"></a>
+
+204. [Algebra, Part II](https://russianmathbooks.com/books/kiselev-algebra-part-ii/) by A.P. Kiselev (pre-order — 12 chapters plus Supplements, 187 sections: functions, quadratic systems, inequalities, logarithms, progressions, complex numbers, binomial theorem, continued fractions)
+
+205. [Planimetry](https://russianmathbooks.com/books/kiselev-planimetry/) by A.P. Kiselev (proof-based Euclidean geometry — 6 chapters, 269 sections: basic concepts, triangles, circles, similarity, regular polygons, areas)
+
+206. [Stereometry](https://russianmathbooks.com/books/kiselev-stereometry/) by A.P. Kiselev (pre-order — three-dimensional geometry: polyhedra, Platonic solids, cylinders, cones, the ball, Cavalieri's principle)
+
+207. [Calculus](https://russianmathbooks.com/books/kiselev-calculus/) by A.P. Kiselev (pre-order — first complete English translation; single-variable differential and integral calculus, proof-based, with classical applications)
+
+208. [1001 Problems in Mental Arithmetic](https://russianmathbooks.com/books/rachinsky-1001-problems/) by S.A. Rachinsky (the village schoolteacher whose pupils appear in Bogdanov-Belsky's 1895 painting "Mental Arithmetic")
+
+209. [Arithmetic](https://russianmathbooks.com/books/malinin-burenin-arithmetic/) by A. Malinin & K. Burenin (Imperial Russian arithmetic textbook — 11 chapters, 301 sections covering numeration, operations, divisibility, fractions, ratios, proportions, percentage, interest, Diophantine problems)
+
+210. [Entertaining Arithmetic](https://russianmathbooks.com/books/perelman-entertaining-arithmetic/) by Ya.I. Perelman (the classic of Russian popular mathematics — puzzles, riddles, and curiosities)
+
+## Machine_learning
+1. [Machine Learning](https://www.cs.cmu.edu/~tom/files/MachineLearningTomMitchell.pdf) by Tom Mitchell, Carnegie Mellon.
+2. [Pattern recognition and machine learning](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) by Christopher Bishop (Microsoft Research)
+3. [An introduction to statistical learning](https://drive.google.com/file/d/1ajFkHO6zjrdGNqhqW1jKBZdiNGh_8YQ1/view) by James, Witten, Hastie, Tibshirani, and Taylor
+4. [Probabilistic Machine Learning: An Introduction" by Kevin Patrick Murphy](https://github.com/probml/pml-book/releases/latest/download/book1.pdf)
+5. [Probabilistic Machine Learning: Advanced Topics" by Kevin Patrick Murphy](https://github.com/probml/pml2-book/releases/latest/download/book2.pdf)
+6. [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html) by Shai Shalev-Shwartz and Shai Ben-David
+7. [Foundations of Machine Learning](https://www.dropbox.com/s/38p0j6ds5q9c8oe/10290.pdf) by Mehryar Mohri, Afshin Rostamizadeh, and Ameet Talwalkar
+8. [Information Theory, Inference, and Learning Algorithms](https://www.inference.org.uk/itprnn/book.pdf) by David J. C. MacKay
+     
+## Physics
+1. [Problems in General Physics](https://archive.org/details/IrodovProblemsInGeneralPhysics) by Irodov
+2. [Fundamental Laws of Mechanics](https://archive.org/details/IrodovMechanics) by Irodov
+3. [Handbook Of Physics](https://archive.org/details/yavorsky-detlaf-handbook-of-physics-mir) by Yavorsky and Detlaf
+4. [Problems In General Physics](https://archive.org/details/WolkensteinProblemsInGeneralPhysicsMir) by V. S. Wolkenstein
+5. [A Collection Of Questions And Problems In Physics](https://archive.org/details/ACollectionOfQuestionsAndProblemsInPhysics) by Sens
+6. [Basic Laws Of Electromagnetism](https://archive.org/details/IrodovBasicLawsOfElectromagnetism) by I. E. Irodov
+7. [Fundamentals of physics](https://archive.org/details/b.-m.-yavorsky-a.-a.-pinsky-fundamentals-of-physics-volume-1-mir-1975) by Yavorski and Pinsky
+8. [Collected Problems In Physics](https://archive.org/details/s.-kozel-e.-rashda-s.-slavatinskii-collected-problems-in-physics-mir-1986/mode/2up) 
+by S. Kozel; E. Rashda; S. Slavatinskii 🔥🔥🔥🔥🔥
+9. [General Methods For Solving Physics Problems](https://archive.org/details/BelikovGeneralMethodsForSolvingPhysicsProblems) by B. S. Beliko
+10. [Basic Electricity And Electronics](https://archive.org/details/popov-nikolaev-basic-electricity-and-electronics-mir) by V. S. Popov; S. A. Nikolaev
+11. [Selected Problems On Physics](https://archive.org/details/MyasnikovOsanovaSelectedProblemsOnPhysics) by S. P. Myasnikov, T. N. Osanova
+12. [Collection Of Problems In Classical Mechanics](https://archive.org/details/kotkin-serbo-collection-of-problems-in-classical-mechanics) 
+by G. L. Kotkin; V. G. Serbo
+13. [Lectures in analytical mechanics](https://archive.org/details/f.-gantmacher-lectures-in-analytical-mehcanics-mir-1975/mode/2up) by Felix Gantmacher 🔥🔥🔥🔥🔥
+14. [Physics for Everyone - Book 1 - Physical Bodies](https://archive.org/details/PhysicsForEveryone-Book1-PhysicalBodies)
+by L. D. Landau, A. I. Kitaigorodsky
+15. [Elementary textbook on physics, Volumes I-III](https://archive.org/search?query=creator%3A%22G.+S.+Landsberg+%28Ed.%29%22) by Landsberg
+16. [Problems in undergraduate physics](https://archive.org/details/strelkov-yakovlev-problems-in-undergraduate-physics-vol-i-mechanics.) by Strelkov and Yakovlev
+17. [Physics - a general course, Volumes I-III](https://archive.org/search?query=creator%3A%22I.+V.+Savelyev%22) by Savelyev 🔥🔥🔥🔥🔥
+18. [Electricity And Magnetism](https://archive.org/details/MatveevElectricityAndMagnetism) by A. N. Matveev
+19. [Questions And Answers In School Physics](https://archive.org/details/QuestionsAndAnswersInSchoolPhysics) by L. V. Tarasov, A. Tarasova
+20. [Theoretical Mechanics](https://archive.org/details/n.-g.-chetaev-theoretical-mechanics-mir-1987)by N. G. Chetaev
+21. [Basic Concepts Of Quantum Mechanics](https://archive.org/details/tarasov-basic-concepts-of-quantum-mechanics-2021) by L. V. Tarasov
+22. [Berkeley physics course, Part I, Mechanics](https://archive.org/details/berkeleyphysicsc0000unse) by Charles Kittel
+23. [Berkeley physics course, Part II Electricity and Magnetism](https://archive.org/details/berkeleyphysicsc02kitt) by Charles Kittel
+24. [Lectures In Analytical Mechanics](https://archive.org/details/lectures-in-analytical-mechanics-f.-gantmacher) by F. Gantmacher
+25. [Higher Mathematics for Beginners and Its Application to Physics – Yakov Zeldovich (1973)](https://archive.org/details/zeldovich-higher-mathematics-for-beginners-and-its-application-to-physics-mir-1973)
+26. [Equations of Mathematical Physics – V. S. Vladimirov (1971)](https://archive.org/details/vladimirov-equations-of-mathematical-physics)
+27. [A Collection of Problems on the Equations of Mathematical Physics – A. V. Bitsadze & D. F. Kalinichenko (1981)](https://archive.org/details/BitsadzeKalinichenkoProblems)
+28. [Generalized Functions in Mathematical Physics – V. S. Vladimirov (1979)](https://archive.org/details/vladimirov-genaralized-equations-in-mathematical-physics)
+29. [Fun with Maths and Physics – Yakov Perelman](https://archive.org/details/funwithmathsandphysicsgnv64) → See [Entertaining Arithmetic translation](https://russianmathbooks.com/books/perelman-entertaining-arithmetic/).
+30. [Lectures In Analytical Mechanics by F. Gantmacher](https://archive.org/details/lectures-in-analytical-mechanics-f.-gantmacher) 🔥🔥🔥🔥🔥
+31. [Collected Problems in Physics](https://archive.org/details/s.-kozel-e.-rashda-s.-slavatinskii-collected-problems-in-physics-mir-1986/mode/2up)  S. Kozel; E. Rashda; S. Slavatinskii 🔥🔥🔥🔥🔥
+32. [Physics In Your Kitchen Lab](https://archive.org/details/PhysicsInYourKitchenLabKikoin) by Kikoin
+33. [Collected papers of Landau](https://ia802300.us.archive.org/35/items/d.-ter-haar-collected-papers-of-l.-d.-landau/D.%20ter%20Haar%20-%20Collected%20Papers%20of%20L.%20D.%20Landau.pdf) 🔥🔥🔥🔥🔥
+34. [Science for Everyone – Aptitude Test Problems in Physics](https://mirtitles.org/2011/12/05/science-for-everyone-aptitude-test-problems-in-physics/) edited by Krotov
+35. [Problems In Elementary Physics](https://archive.org/details/BukhovtsevEtAlProblemsInElementaryPhysics/page/n201/mode/2up) by B. Bukhovtsev, V. Krivchenkov, G. Myakishev, and V. Shalnov
+36. [The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu) 🔥🔥🔥🔥🔥
+
+## Probability 
+1. [Probability : a survey of the mathematical theory](https://archive.org/details/probabilitysurve0000lamp_d6r3) by John Lamperti 🔥🔥🔥🔥🔥
+2. [Probabilitic method](https://math.bme.hu/~gabor/oktatas/SztoM/AlonSpencer.ProbMethod3ed.pdf) by Alon and Spencer 🔥🔥🔥🔥🔥
+3. [An Introduction To Probability Theory and Its Applications volume 1](https://archive.org/details/dli.ernet.5666/page/215/mode/2up) by by Feller William
+4. [Lady Luck : the theory of probability](https://archive.org/details/ladylucktheoryof0000weav_n9d6)
+5. [Probability and Statistics](https://archive.org/details/probabilitystati00most_0/page/n13/mode/2up)
+
+6. [The Calculus of Probabilities (1900)](https://russianmathbooks.com/books/markov-calculus-of-probabilities/) by A.A. Markov (first-ever English translation of the foundational text by the father of Markov Chains) 🔥🔥🔥🔥🔥 · [Buy on Gumroad](https://valeman.gumroad.com/l/markov1900)
+
+<a href="https://russianmathbooks.com/books/markov-calculus-of-probabilities/" target="_blank"><img src="https://img.shields.io/badge/Get_the_Book-Markov's_Calculus_of_Probabilities-orange?style=for-the-badge" alt="Get Markov's Calculus of Probabilities"></a>
+
+## Econometrics
+1. [Basic Econometrics](http://www2.econ.univpm.it/servizi/hpp/lucchetti/didattica/basic.pdf) by Riccardo (Jack) Lucchetti (2024)
+2. [A gentle introduction to matrix calculus](https://www.janmagnus.nl/papers/gentle.pdf) by Jan Magnus  🔥🔥🔥🔥🔥
+
+## Optimization
+1. [Algorithms for optimization, MIT book](https://algorithmsbook.com/optimization/files/optimization.pdf) by Mykel Kochenderfer, Tim Wheeler
+2. [Lectures on Modern Convex Optimizaion](https://www2.isye.gatech.edu/~nemirovs/LMCOBookSIAM.pdf) by Arkadii Nemirovski
+
+## Information_theory
+1. [A first course in information theory](https://iest2.ie.cuhk.edu.hk/~whyeung/tempo/main.pdf) by Raymond Yeung, Chinese Univeristy of Hong Kong 
+
+## Signal_processing
+1. [The Fourier Transform and its Applications](https://see.stanford.edu/materials/lsoftaee261/book-fall-07.pdf)
+ 
+## History
+1. [Sonia Kovalevsky : biography and autobiography](https://archive.org/details/soniakovalevskyb00kova/page/n9/mode/2up)
+2. [Sonya Kovalevsky - her recollections of childhood](https://ia800206.us.archive.org/33/items/sonyakovalevsky00kovaiala/sonyakovalevsky00kovaiala.pdf)
+3. [games, gods and gambling](https://archive.org/details/gamesgodsgamblin0000fnda)
+4. [History of Mathematics](https://archive.org/details/a-history-of-mathematics-3rd-edition/)
