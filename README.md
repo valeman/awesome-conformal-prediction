@@ -218,7 +218,6 @@ These are active research and practitioner questions — contributions, discussi
 6. [Course on Conformal Prediction](https://mindfulmodeler.substack.com/p/e-mail-course-on-conformal-prediction) by Christoph Molnar (2022) 
 7. [Conformal Prediction - Advanced Topics in Statistical Learning, Spring 2023](https://www.stat.berkeley.edu/~ryantibs/statlearn-s23/lectures/conformal.pdf) by Ryan Tibshirani (2023) 🔥🔥🔥🔥🔥
 8. [Conformal Methods for Efficient and Reliable Deep Learning](https://dspace.mit.edu/handle/1721.1/152788) by Adam, Fisch (MIT, 2023) 🔥🔥🔥🔥🔥
-9. [Conformal Prediction 101 - in Portuguese 🇵🇹](https://github.com/gusbruschi13/Conformal-Prediction/tree/main/cp-101) by Gustavo Bruschi (2023) 🔥🔥🔥🔥🔥
 
 ## Books on Conformal Prediction
 1. [Applied Conformal Prediction — Pro Edition](https://valeman.gumroad.com/l/applied_conformal_prediction_pro) by Dr. Valeriy Manokhin ⭐ **Recommended** — the most comprehensive edition with extended chapters, advanced methods, and production-grade code. 🔥🔥🔥🔥🔥🚀🚀🚀🚀🚀
@@ -258,7 +257,6 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 27. [Conformal Prediction for Regression](https://medium.com/@artem_ryasik/conformal-prediction-for-regression-1ba24f1442df) (using KNIME) by Artem Ryasik (2023)
 28. [Dynamic Conformal Intervals for any Time Series Model](https://towardsdatascience.com/dynamic-conformal-intervals-for-any-time-series-model-d1638aa48527) by Michael Keith (2023) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 29. [Hitting Time Forecasting: The Other Way for Time Series Probabilistic Forecasting](https://towardsdatascience.com/hitting-time-forecasting-the-other-way-for-time-series-probabilistic-forecasting-6c3b6496c353) by Marco Cerliani (2023) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
-30. [Series of Medium articles about Conformal Prediciton (in Portuguese)](https://github.com/gusbruschi13/Conformal-Prediction) by Gustavo Bruschi (2023) 🔥🔥🔥🔥🔥
 31. [Stanford statisticians and Washington Post data scientists build more honest prediction models](https://news.stanford.edu/2021/03/19/honesty-statistical-models/) [Code](https://github.com/washingtonpost/elex-live-model) 🔥🔥🔥🔥🔥
 32. [Jackknife+ — a Swiss knife of Conformal Prediction for regression](https://medium.com/@valeman/jackknife-a-swiss-knife-of-conformal-prediction-for-regression-ce3b56432f4f) by Valeriy Manokhin (2023) 🔥🔥🔥🔥🔥
 33. [Clinical AI tools must convey predictive uncertainty for each individual patient](https://www.nature.com/articles/s41591-023-02562-7) (2023)🔥🔥🔥🔥🔥
