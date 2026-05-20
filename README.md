@@ -1,6 +1,6 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/valeman/awesome-conformal-prediction?style=social)
 
-# Conformal Prediction: The Definitive Resource [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![DOI](https://zenodo.org/badge/436989758.svg)](https://zenodo.org/badge/latestdoi/436989758) [![CI](https://github.com/valeman/awesome-conformal-prediction/actions/workflows/ci.yml/badge.svg)](https://github.com/valeman/awesome-conformal-prediction/actions/workflows/ci.yml) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+# Conformal Prediction: The Definitive Resource [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![DOI](https://zenodo.org/badge/436989758.svg)](https://zenodo.org/badge/latestdoi/436989758)
 
 ⭐ **The definitive resource for conformal prediction: methods, libraries, tutorials, benchmarks, and production guides.**
 
