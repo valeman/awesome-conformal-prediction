@@ -1144,6 +1144,7 @@ School (CEIBS), 2026)
 589. [Full Conformal Adaptation of Medical Vision-Language Models](https://link.springer.com/chapter/10.1007/978-3-031-96625-5_19) (2025) VLM MEDICAL 🔥🔥🔥🔥🔥
 590. [Conditional Conformal Risk Adaptation](https://arxiv.org/abs/2504.07611) (2025) RISK CONTROL SEGMENTATION 🔥🔥🔥🔥🔥
 591. [A conformalized learning of a prediction set with applications to medical imaging classification](https://arxiv.org/abs/2408.05037) (2024) MEDICAL IMAGING 🔥🔥🔥🔥🔥
+592. - [A Kernel Nonconformity Score for Multivariate Conformal Prediction](https://arxiv.org/abs/2604.21595) by Louis Meyer, Wenkai Xu (University of Warwick, 2026) [Code](https://github.com/meyerlouis/mvcp)
 
 ## Conformal Prediction for Time Series Forecasting
 1. [Conformal prediction interval for dynamic time-series](https://proceedings.mlr.press/v139/xu21h.html) by Chen Xu, Yao Xie (Georgia Tech, 2021) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥 [Python Code](https://github.com/hamrel-cxu/EnbPI) [Video](https://vimeo.com/583595474) [Video ICML2021](https://papertalk.org/papertalks/32044)
