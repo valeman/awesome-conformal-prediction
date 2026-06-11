@@ -464,6 +464,8 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 29. [HyperConformal: Conformal Prediction for Hyperdimensional Computing](https://github.com/danieleschmidt/HyperConformal)  🔥🔥🔥🔥🔥 (2025)
 30. [(F)FCP : Predictive Inference with (Fast) Feature Conformal Prediction](https://github.com/ElvisWang1111/F-F-CP) 🔥🔥🔥🔥🔥 (2026)
 
+31. [CERT-FLOW](https://github.com/Archerkattri/CERT-FLOW) - Certified route planning under drifting costs: age-weighted non-exchangeable conformal certificates (LB ≤ OPT ≤ UB) on the optimal route, certificate-directed sensing, and proof-gated preprocessing; 223 tests, 16 reproduction pipelines. *Krishi Attri / 2026.* 🔥🔥🔥🔥🔥
+
 ## Conformal Prediction Libraries in R
 1. [pintervals - Model agnostic prediction intervals](https://github.com/Doktorandahl/pintervals) [paper](https://arxiv.org/abs/2601.03994) by David Randahl, Anders Hjort, Jonathan P. Williams (2026) 🔥🔥🔥🔥🔥 
 2.  [Conformal Prediction ih tidymodels](https://github.com/tidymodels/tidymodels.org/pull/23) by Max Kuhn (Posit/RStudio, 2023) [video](https://www.youtube.com/watch?v=3omi4lm1da0) 🔥🔥🔥🔥🔥
