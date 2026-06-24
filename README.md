@@ -428,6 +428,7 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 5. [Puncc (Predictive uncertainty calibration and conformalization)](https://github.com/deel-ai/puncc) [paper](https://proceedings.mlr.press/v204/mendil23a/mendil23a.pdf) [slides](https://copa-conference.com/presentations/COPA_2023_mouhcine_mendil_puncc.pdf) 🔥🔥🔥🔥🔥
 6. [ConformaSight Global Explainer Package 📦](https://github.com/rabia174/ConformaSight) by Fatıma Rabia Yapıcıoğlu (2025)
 7. [unquad - Conformal Anomaly Detection](https://github.com/OliverHennhoefer/unquad) 🔥🔥🔥🔥🔥
+8. [bayes-hdc - Conformal prediction and anomaly detection on hyperdimensional computing, in JAX](https://github.com/rlogger/bayes-hdc) by Rajdeep Singh (2026)
 8. [Puncc (Predictive uncertainty calibration and conformalization)](https://github.com/deel-ai/puncc) [paper](https://proceedings.mlr.press/v204/mendil23a/mendil23a.pdf) [slides](https://copa-conference.com/presentations/COPA_2023_mouhcine_mendil_puncc.pdf) 🔥🔥🔥🔥🔥
 9. [Nixtla mlforecast](https://nixtlaverse.nixtla.io/mlforecast/) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 10.   [Nixtla statsforecast](https://nixtla.github.io/statsforecast/docs/tutorials/conformalprediction.html#introduction) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
