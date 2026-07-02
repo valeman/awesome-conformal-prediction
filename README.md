@@ -432,7 +432,7 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 9. [Nixtla mlforecast](https://nixtlaverse.nixtla.io/mlforecast/) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 10.   [Nixtla statsforecast](https://nixtla.github.io/statsforecast/docs/tutorials/conformalprediction.html#introduction) TIME SERIES 🚀🚀🚀🚀🚀 🔥🔥🔥🔥🔥
 11.    [Conformal Impact](https://github.com/tblume1992/ConformalImpact) by Tyler Blume (2024) 🔥🔥🔥🔥🔥
-12. [CERT-FLOW - Certified route planning under drifting costs](https://github.com/Archerkattri/CERT-FLOW) by Krishi Attri (2026): age-weighted non-exchangeable conformal certificates (LB <= OPT <= UB) on the optimal route cost, certificate-directed sensing, and proof-gated preprocessing; validated on replayed METR-LA and PEMS-BAY traffic
+12. [CERT-FLOW - Certified route planning under drifting costs](https://github.com/Archerkattri/CERT-FLOW) by Krishi Attri (2026): age-weighted non-exchangeable conformal certificates (LB <= OPT <= UB) on the optimal route cost, certificate-directed sensing, proof-gated preprocessing, and an observable-coverage layer (WATCH + Shiryaev-Roberts drift alarms); validated on replayed METR-LA and PEMS-BAY traffic
 10.[Nonconformist](https://github.com/donlnz/nonconformist) by Henrik Linusson (2015) 🚨 The library does not seem to be actively maintained 
 1.  [Venn-ABERS Predictor](https://github.com/ptocca/VennABERS) by Paolo Toccaceli (2019) [Paper](https://proceedings.neurips.cc/paper/2015/hash/a9a1d5317a33ae8cef33961c34144f84-Abstract.html) 🔥🔥🔥🔥🔥
 2. [Conformalized Quantile Regression](https://github.com/yromano/cqr) by Yaniv Romano (2019) 🔥🔥🔥🔥🔥
