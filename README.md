@@ -462,6 +462,7 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 28. [pearsonify - Lightweight Python package for generating classification intervals in binary classification tasks using Pearson residuals and conformal prediction](https://github.com/xRiskLab/pearsonify) (2025)
 29. [HyperConformal: Conformal Prediction for Hyperdimensional Computing](https://github.com/danieleschmidt/HyperConformal)  🔥🔥🔥🔥🔥 (2025)
 30. [(F)FCP : Predictive Inference with (Fast) Feature Conformal Prediction](https://github.com/ElvisWang1111/F-F-CP) 🔥🔥🔥🔥🔥 (2026)
+31. [shad0w - Certified LLM decision caching: a small table distilled from an LLM's answers that serves a decision only above a Learn-then-Test (Clopper-Pearson) threshold bounding its disagreement with the LLM](https://github.com/2796gaurav/shad0w) by Gaurav Chauhan (2026)
 
 ## Conformal Prediction Libraries in R
 1. [pintervals - Model agnostic prediction intervals](https://github.com/Doktorandahl/pintervals) [paper](https://arxiv.org/abs/2601.03994) by David Randahl, Anders Hjort, Jonathan P. Williams (2026) 🔥🔥🔥🔥🔥 
