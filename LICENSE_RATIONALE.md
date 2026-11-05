@@ -8,13 +8,13 @@ The goal is maximum control over how this curated list is reused, while still al
 
 ### What each clause does
 
-- **BY (Attribution)** — anyone reusing must credit Valeriy Manokhin and link to the source. This is the baseline requirement that also feeds the repo's citation-tracking system.
+- **BY (Attribution)** — anyone reusing must credit Valery Manokhin and link to the source. This is the baseline requirement that also feeds the repo's citation-tracking system.
 - **NC (NonCommercial)** — no commercial reuse without permission. Blocks paid courses, commercial blog posts, consulting deliverables, and books from quoting or republishing the curation without explicit licensing.
 - **ND (NoDerivatives)** — no modified versions may be republished outside GitHub. Blocks translations, annotated remixes, reorderings, and "based on" adaptations from being distributed elsewhere.
 
 ### Why NC-ND and not something more permissive
 
-1. **The list is a marketing and authority asset, not open infrastructure.** Its strategic purpose is to establish Valeriy Manokhin as the definitive curator of conformal prediction resources and drive traffic to the author's book and course. Allowing unrestricted commercial or derivative reuse would dilute that positioning.
+1. **The list is a marketing and authority asset, not open infrastructure.** Its strategic purpose is to establish Valery Manokhin as the definitive curator of conformal prediction resources and drive traffic to the author's book and course. Allowing unrestricted commercial or derivative reuse would dilute that positioning.
 2. **The commercial products (book, course) are the monetization layer.** The list itself should not be freely repackaged into competing commercial offerings.
 3. **Translations and remixes are not wanted.** The canonical version of this list should remain the one maintained here. Off-GitHub forks with added commentary, condensed "cheat sheets," or reordered reading lists are explicitly not desired.
 4. **NC-ND does not break GitHub forks or PRs.** GitHub's Terms of Service (Section D.5) grant every GitHub user an irrevocable right to view, fork, and clone public repositories regardless of the attached license. ND only blocks republishing modified versions *outside* GitHub. Standard fork-and-PR collaboration continues to work normally.
