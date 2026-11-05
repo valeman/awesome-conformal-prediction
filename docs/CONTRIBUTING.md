@@ -17,9 +17,9 @@ Thank you for helping grow the largest curated index of **conformal prediction**
 
 ## Quality bar
 
+- Submissions must be freely accessible and noncommercial. Paid books, courses, products, services, and promotional content are ineligible.
 - Resource must be directly about **conformal prediction** or a closely related distribution-free method.
 - Prefer canonical sources (arXiv, journal page, official repo) over mirrors.
-- No paywalled-only content unless it is a foundational reference.
 - Keep each issue to one topic.
 
 ## Code of conduct
