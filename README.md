@@ -1349,6 +1349,10 @@ This directory lists researchers with at least three distinct published papers o
 
 ### Citation
 
+Whenever you reuse or share the catalogue or its curation, include this credit.
+
+> [Awesome Conformal Prediction](https://github.com/valeman/awesome-conformal-prediction), curated by Valery Manokhin.
+
 Use [CITATION.cff](docs/CITATION.cff) or the [Zenodo record](https://doi.org/10.5281/zenodo.6467204) to cite the collection. See the [copyright and reuse terms](docs/LICENSE).
 
 ```bibtex
