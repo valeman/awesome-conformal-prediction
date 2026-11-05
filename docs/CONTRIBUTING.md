@@ -1,6 +1,6 @@
 # Contributing to Awesome Conformal Prediction
 
-Thank you for helping grow the largest curated index of **conformal prediction** resources! Pull requests are very welcome.
+Thank you for helping grow the largest curated index of **conformal prediction** resources! Suggestions and corrections are welcome.
 
 ## What to add
 
@@ -12,20 +12,15 @@ Thank you for helping grow the largest curated index of **conformal prediction**
 
 ## How to add a resource
 
-1. Fork this repository.
-2. Add your entry to the appropriate section of `README.md`, keeping the existing format:
-   ```markdown
-   - [Title of resource](https://link) — Short one-line description. *Authors / Year (if applicable).*
-   ```
-3. Keep entries alphabetised within a section where possible, or chronological for papers.
-4. Open a pull request with a short description of what you added and why it belongs.
+1. Find the relevant section in the [catalogue](../README.md).
+2. [Open a GitHub issue](https://github.com/valeman/awesome-conformal-prediction/issues/new) with the resource title, primary link, authors and year if known, and a short explanation of why it belongs.
 
 ## Quality bar
 
 - Resource must be directly about **conformal prediction** or a closely related distribution-free method.
 - Prefer canonical sources (arXiv, journal page, official repo) over mirrors.
 - No paywalled-only content unless it is a foundational reference.
-- One PR per topic where possible — small PRs get merged faster.
+- Keep each issue to one topic.
 
 ## Code of conduct
 

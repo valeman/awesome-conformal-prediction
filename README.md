@@ -18,8 +18,8 @@ Valery's resources lead each relevant section. The other entries prioritise edit
 
 | | Book and editions |
 | :---: | --- |
-| <a href="https://www.amazon.com/dp/1809100607"><img src="assets/applied-conformal-prediction-cover.jpg" alt="Applied Conformal Prediction book cover by Valery Manokhin" width="115"></a> | **Applied Conformal Prediction**<br>Build and evaluate prediction intervals and sets for real machine learning problems.<br>**[Amazon paperback][applied-paperback]** · **[Amazon hardcover][applied-hardcover]**<br>[Gumroad Core][applied-core] · [Gumroad Pro][applied-pro] |
-| <a href="https://valeman.gumroad.com/l/intro_conformal_prediction"><img src="assets/introduction-to-conformal-prediction-cover.png" alt="Introduction to Conformal Prediction book artwork by Valery Manokhin" width="155"></a> | **Introduction to Conformal Prediction**<br>Learn the finite-sample guarantees and implement the methods in Python.<br>Early access on Gumroad.<br>**[Gumroad Core][intro-core]** · **[Gumroad Pro][intro-pro]**<br>Amazon print listings forthcoming. |
+| <a href="https://www.amazon.com/dp/1809100607"><img src="docs/assets/applied-conformal-prediction-cover.jpg" alt="Applied Conformal Prediction book cover by Valery Manokhin" width="115"></a> | **Applied Conformal Prediction**<br>Build and evaluate prediction intervals and sets for real machine learning problems.<br>**[Amazon paperback][applied-paperback]** · **[Amazon hardcover][applied-hardcover]**<br>[Gumroad Core][applied-core] · [Gumroad Pro][applied-pro] |
+| <a href="https://valeman.gumroad.com/l/intro_conformal_prediction"><img src="docs/assets/introduction-to-conformal-prediction-cover.png" alt="Introduction to Conformal Prediction book artwork by Valery Manokhin" width="155"></a> | **Introduction to Conformal Prediction**<br>Learn the finite-sample guarantees and implement the methods in Python.<br>Early access on Gumroad.<br>**[Gumroad Core][intro-core]** · **[Gumroad Pro][intro-pro]**<br>Amazon print listings forthcoming. |
 
 <!-- Introduction to Conformal Prediction Amazon paperback: add verified direct product URL here. -->
 <!-- Introduction to Conformal Prediction Amazon hardcover: add verified direct product URL here. -->
@@ -35,7 +35,7 @@ Valery's resources lead each relevant section. The other entries prioritise edit
 | If you want to… | Start with |
 | --- | --- |
 | Understand the guarantee | [What is conformal prediction?](#what-is-conformal-prediction) · [Browse tutorials](#conformal-prediction-tutorials) |
-| Build your first prediction interval or set | [Python quickstart](#quickstart) and the [regression and classification notebook](examples/quickstart.ipynb) |
+| Build your first prediction interval or set | [Python quickstart](#quickstart) and the [regression and classification notebook](docs/examples/quickstart.ipynb) |
 | Choose a method or package | [Python](#conformal-prediction-libraries-in-python), [R](#conformal-prediction-libraries-in-r), and [Julia](#conformal-prediction-libraries-in-julia) |
 | Work with a specific application | [Time series](#conformal-prediction-for-time-series-forecasting), [anomaly detection](#conformal-prediction-for-anomaly-detection), and [recent research](#recent-conformal-prediction-research) |
 
@@ -104,7 +104,7 @@ If the calibration and test examples are exchangeable, the standard split confor
 
 ## Quickstart
 
-Use the [runnable notebook](examples/quickstart.ipynb) for regression and classification with NumPy and scikit-learn. Install the [example requirements](examples/requirements.txt) with `python -m pip install -r examples/requirements.txt`.
+Use the [runnable notebook](docs/examples/quickstart.ipynb) for regression and classification with NumPy and scikit-learn. Install the [example requirements](docs/examples/requirements.txt) with `python -m pip install -r docs/examples/requirements.txt`.
 
 The regression example fits a model, calibrates on held-out absolute residuals, and measures coverage and width on a third split. It uses synthetic data and runs without a dataset download.
 
@@ -533,7 +533,7 @@ Leo Dreyfus-Schmidt (Dataiku, 2020).
 ## Conformal Prediction Presentation Slides
 1. [Machine Learning for Probabilistic Prediction, Seattle Artificial Intelligence Workshops Meetup](https://www.researchgate.net/publication/371566526_Machine_Learning_for_Probabilistic_Prediction) by Valery Manokhin, 2023
 2. [Machine Learning for Probabilistic Prediction](https://www.researchgate.net/publication/370012303_Machine_Learning_for_Probabilistic_Prediction) by Valery Manokhin (2023)
-3. [Machine Learning for Probabilistic Prediction](https://github.com/valeman/awesome-conformal-prediction/blob/main/assets/Machine%20Learning%20for%20Probabilistic%20Prediction.pdf) by Valery Manokhin, 2022
+3. [Machine Learning for Probabilistic Prediction](docs/assets/Machine%20Learning%20for%20Probabilistic%20Prediction.pdf) by Valery Manokhin (Stony Brook University webinar slides, 2022)
 4. [Nonparametric predictive distributions based on conformal prediction](https://cml.rhul.ac.uk/copa2017/presentations/vovk.pdf) by Vladimir Vovk, Jieli Shen, Valery Manokhin, Min-ge Xie, Ilia Nouretdinov and Alex Gammerman (Royal Holloway, University of London Rutgers University, 2017)
 5. [Conformalized Quantile Regression](https://arxiv.org/abs/1905.03222) by Yaniv Romano, Evan Patterson, Emmanuel J. Candès (Stanford, 2019) 🔥
 6. [Sequential Predictive Conformal Inference for Time Series](https://arxiv.org/pdf/2212.03463.pdf) by Chen Xu, Yao Xie (Georgia Tech, 2022) 🕒
@@ -541,7 +541,7 @@ Leo Dreyfus-Schmidt (Dataiku, 2020).
 8. [Leveraging Conformal Prediction for Calibrated Probabilistic Time Series Forecasts to Accelerate the Renewable Energy Transition](https://speakerdeck.com/ingevandenende/leveraging-conformal-prediction-for-calibrated-probabilistic-time-series-forecasts-to-accelerate-the-renewable-energy-transition) by Inge van den Ende (Dexter Energy, 2023).  🕒
 9. [crepes: a Python Package for Conformal Regressors and Predictive Systems](https://cml.rhul.ac.uk/copa2022/presentations/COPA_2022_Presentation__crepes.pdf) by Henrik Bostroem (KTH, Sweden, 2022)
 10. [Conformal Prediction: an Introduction](https://github.com/online-ml/river/files/10098389/Conformal_Prediction_Presentation.pdf) by Leo Andeol (2022)
-11. [EnbPI poster](https://github.com/valeman/awesome-conformal-prediction/blob/main/assets/EnbPI_poster.pdf) by Chen Xu, Yao Xie (2021)
+11. [EnbPI poster](https://sites.gatech.edu/chenxu97/files/2023/01/EnbPI_poster.pdf) by Chen Xu, Yao Xie (2021)
 12. [Conformal Regressors and Predictive Systems – a Gentle Introduction](https://cml.rhul.ac.uk/copa2022/presentations/COPA_2022_Presentation__Conformal_Regressors_and_Predictive_Systems___a_Gentle_Introduction.pdf) by Henrik Bostroem (KTH, Sweden, 2022)
 13. [Applications of Conformal Predictors](https://cml.rhul.ac.uk/copa2022/presentations/lars_ernst.pdf) by Ernst Ahlberg and Lars Carlsson (Stena Line, 2022)
 14. [Assessing Explanation Quality by Venn Prediction](https://cml.rhul.ac.uk/copa2022/presentations/amr.pdf) by Amr Alkhatib, Henrik Boström and Ulf Johansson (2022)
@@ -1219,7 +1219,7 @@ Harris Papadopoulos, Kostas Proedrou, Volodya Vovk, and Alex Gammerman (2002) �
 20. [On uncertainty in natural language processing](https://arxiv.org/abs/2410.03446) by Dennis Ulmer, Uiversity of Copenhagen (2024)
 21. [Automatic Adaptive Conformal Inference for Time Series](https://lms.hse.ru/ap_service.php?getwork=1&guid=F7F1BECC-9EAD-4FD4-A4EC-23324FE3F2D2) by Artem Makhin (Skoltech, 2024).
 22. [Conformal Prediction: A Review and an Application in Deep Learning-based Image Classification](https://escholarship.mcgill.ca/downloads/ww72bj62q?locale=en) by Tianyu Wang (McGill University, 2024)
-23. [Benchmarking conformal prediction methods for time series regression](https://github.com/valeman/awesome-conformal-prediction/blob/main/assets/BScThesis_DerckPrinzhorn.pdf) by Derck W.E. Prinzhorn (2023) [code](https://github.com/dweprinz/Benchmarking-conformal-prediction-methods-for-time-series-regression)
+23. [Benchmarking conformal prediction methods for time series regression](https://github.com/dweprinz/Benchmarking-conformal-prediction-methods-for-time-series-regression/blob/master/BScThesis_DerckPrinzhorn.pdf) by Derck W.E. Prinzhorn (2023) [code](https://github.com/dweprinz/Benchmarking-conformal-prediction-methods-for-time-series-regression)
 24. [An Active Learning Approach for Reject Inference in Credit Scoring using Conformal Prediction Intervals on Real and Semi-Artificial Data](https://github.com/MaximilianSuliga/Conformal-Active-Learning-for-Reject-Inference) by Maximilian Suliga (Humboldt University of Berlin, 2023)
 25. [Machine Learning with Conformal Prediction for Predictive Maintenance tasks in Industry 4.0](https://www.diva-portal.org/smash/get/diva2:1765779/FULLTEXT01.pdf) by Shuzhou Liu, Mulahuko Mpova (Jönköping University, 2023).
 26. [Confidence Predictions in Pharmaceutical Sciences](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1787351&dswid=-7234) by Staffan Arvidsson McShane (Uppsala University, Sweden, 2023)
@@ -1349,7 +1349,7 @@ This directory lists researchers with at least three distinct published papers o
 
 ### Citation
 
-Use [CITATION.cff](CITATION.cff) or the [Zenodo record](https://doi.org/10.5281/zenodo.6467204) to cite the collection. See the [license](LICENSE) for reuse terms.
+Use [CITATION.cff](docs/CITATION.cff) or the [Zenodo record](https://doi.org/10.5281/zenodo.6467204) to cite the collection. See the [copyright and reuse terms](docs/LICENSE).
 
 ```bibtex
 @software{manokhin_valery_2022_6467204,
@@ -1368,7 +1368,7 @@ Use [CITATION.cff](CITATION.cff) or the [Zenodo record](https://doi.org/10.5281/
 - How should practitioners monitor coverage when prompts, decoding, or data distributions change?
 - Where do conformal intervals and Bayesian alternatives compare well on shared benchmarks?
 
-[Suggest a resource or correction](CONTRIBUTING.md) · [Open a GitHub issue](https://github.com/valeman/awesome-conformal-prediction/issues) · [Star the repository](https://github.com/valeman/awesome-conformal-prediction)
+[Suggest a resource or correction](docs/CONTRIBUTING.md) · [Open a GitHub issue](https://github.com/valeman/awesome-conformal-prediction/issues) · [Star the repository](https://github.com/valeman/awesome-conformal-prediction)
 
 ## Keep learning with Valery Manokhin
 

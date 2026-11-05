@@ -12,7 +12,6 @@ version: 1.0.0
 doi: 10.5281/zenodo.6467204
 url: https://zenodo.org/records/6467204
 repository-code: https://github.com/valeman/awesome-conformal-prediction
-license: CC-BY-NC-ND-4.0
 keywords:
   - conformal-prediction
   - uncertainty-quantification
